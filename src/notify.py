@@ -36,9 +36,11 @@ def notify_room_todo(posts: list[dict[str, Any]], theme_title: str) -> bool:
         lines = [l for l in pst["text"].splitlines() if l.strip() and not l.startswith("#") and "ROOMはプロフ" not in l]
         comment = " ".join(lines)[:120]
         title = "ROOMに追加: " + p.name[:40]
-        body = (f"{p.price:,}円 ★{p.review_average}（{p.review_count:,}件）\n"
-                f"コメント案: {comment}\n\n"
-                f"タップ → 楽天アプリで開く → 共有/ROOMに投稿")
+        # 1行目はROOM用コメントだけにする（スマホで長押しコピーしてそのまま貼れる）
+        body = (f"{comment}\n\n"
+                f"― ↑この1行をROOMのコメントに貼る ―\n"
+                f"{p.price:,}円 ★{p.review_average}（{p.review_count:,}件）\n"
+                f"タップ → 楽天アプリ → 共有 → ROOMに投稿")
         try:
             ok = send(topic, title, body, p.item_url, server) and ok
         except Exception as e:
