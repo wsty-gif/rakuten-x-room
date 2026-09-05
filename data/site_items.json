@@ -12,8 +12,8 @@
    {
     "date": "2026-09-06",
     "slot": "night",
-    "theme": "楽天スーパーSALE（9月）（開催中） × 子育て世帯のママ・パパ",
-    "persona": "mama",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 20代女性（自分磨き・プチプラ・映え）",
+    "persona": "20s_woman",
     "event_type": "sale"
    }
   ],
@@ -30,8 +30,10 @@
   "point_rate": 10,
   "catchcopy": "\\楽天総合ランキング1位/累計750万個突破 純度100％ 生ビタミンC VC 美容液 低刺激 毛穴開き くすみ シミ が気になる方に オススメ 医薬部外品 個包装 なので 衛生的 旅行 にも",
   "genre_id": "216348",
-  "score": 20.15,
-  "last_seen": "2026-09-06T03:50:26"
+  "score": 22.95,
+  "last_seen": "2026-09-06T04:08:37",
+  "posted_text": "#PR セール価格は期間中だけ。迷うなら今\nYunth 生ビタミンC 美白美容液\n★4.69・レビュー44,909件・楽天ランキング1位\n20%OFF｜3,960円（P10倍で実質3,564円）\n#楽天購入品 #プチプラ\n▶ROOMはプロフから",
+  "posted_at": "2026-09-06T04:08:37"
  },
  "shuuemura:10000018": {
   "first_seen": "2026-09-06T02:44:54",
@@ -39,6 +41,13 @@
    {
     "date": "2026-09-06",
     "slot": "morning",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 20代女性（自分磨き・プチプラ・映え）",
+    "persona": "20s_woman",
+    "event_type": "sale"
+   },
+   {
+    "date": "2026-09-06",
+    "slot": "night",
     "theme": "楽天スーパーSALE（9月）（開催中） × 20代女性（自分磨き・プチプラ・映え）",
     "persona": "20s_woman",
     "event_type": "sale"
@@ -57,8 +66,8 @@
   "point_rate": 1,
   "catchcopy": "楽天総合ランキング1位の「楽天市場店限定」クレンジング オイル キット",
   "genre_id": "405061",
-  "score": 22.08,
-  "last_seen": "2026-09-06T02:45:17"
+  "score": 21.28,
+  "last_seen": "2026-09-06T04:08:37"
  },
  "vtcosmetic-official:10000829": {
   "first_seen": "2026-09-06T02:44:54",
@@ -73,8 +82,8 @@
    {
     "date": "2026-09-06",
     "slot": "night",
-    "theme": "楽天スーパーSALE（9月）（開催中） × 30代男性（健康・効率化・家電）",
-    "persona": "30s_man",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 20代女性（自分磨き・プチプラ・映え）",
+    "persona": "20s_woman",
     "event_type": "sale"
    }
   ],
@@ -91,8 +100,8 @@
   "point_rate": 2,
   "catchcopy": "《楽天1位》1日1枚！大容量フェイスパックセット",
   "genre_id": "503020",
-  "score": 17.48,
-  "last_seen": "2026-09-06T04:02:03"
+  "score": 21.88,
+  "last_seen": "2026-09-06T04:08:37"
  },
  "yayoi-cosme:10014729": {
   "first_seen": "2026-09-06T02:44:54",
@@ -100,6 +109,13 @@
    {
     "date": "2026-09-06",
     "slot": "morning",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 20代女性（自分磨き・プチプラ・映え）",
+    "persona": "20s_woman",
+    "event_type": "sale"
+   },
+   {
+    "date": "2026-09-06",
+    "slot": "night",
     "theme": "楽天スーパーSALE（9月）（開催中） × 20代女性（自分磨き・プチプラ・映え）",
     "persona": "20s_woman",
     "event_type": "sale"
@@ -118,8 +134,8 @@
   "point_rate": 10,
   "catchcopy": "薬用有効成分レチノール配合、シワ改善クリーム",
   "genre_id": "216424",
-  "score": 21.67,
-  "last_seen": "2026-09-06T02:45:17"
+  "score": 20.87,
+  "last_seen": "2026-09-06T04:08:37"
  },
  "vtcosmetic-official:10001951": {
   "first_seen": "2026-09-06T02:44:54",
@@ -130,10 +146,17 @@
     "theme": "楽天スーパーSALE（9月）（開催中） × 20代女性（自分磨き・プチプラ・映え）",
     "persona": "20s_woman",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-09-06",
+    "slot": "night",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 20代女性（自分磨き・プチプラ・映え）",
+    "persona": "20s_woman",
+    "event_type": "sale"
    }
   ],
   "item_code": "vtcosmetic-official:10001951",
-  "name": "【6日限定クーポン】＼最大67％OFF＋ギフト＋送料無料／【VT公式】【 彩り豊かな フルケア セット 5種】リードルショット マスクパック シートマスク 美容液 PDRN ビタミンCアスタキサンチン レチノール レチナール アゼライン酸 保湿 ハリ 弾力 毛穴 キメ 透明感",
+  "name": "【9/5限定クーポン】＼最大67％OFF＋ギフト＋送料無料／【VT公式】【 彩り豊かな フルケア セット 5種】リードルショット マスクパック シートマスク 美容液 PDRN ビタミンCアスタキサンチン レチノール レチナール アゼライン酸 保湿 ハリ 弾力 毛穴 キメ 透明感",
   "price": 4800,
   "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tdwho.72d3y76b.g00tdwho.72d3z7bf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvtcosmetic-official%2F2024akiset%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fvtcosmetic-official%2Fi%2F10001951%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00tdwho.72d3y76b.g00tdwho.72d3z7bf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvtcosmetic-official%2F2024akiset%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
@@ -146,7 +169,7 @@
   "catchcopy": "＼楽天限定／ 肌悩み別選べる美容成分リードルショット入りスキンケアセット♪ 大人気 マスクパック までついてお得! ★エイジングケア・保湿 ハリ ツヤ・毛穴ケア・皮脂ケア★",
   "genre_id": "567442",
   "score": 21.41,
-  "last_seen": "2026-09-06T02:45:17"
+  "last_seen": "2026-09-06T04:08:37"
  },
  "beautypark2017:10002719": {
   "first_seen": "2026-09-06T02:44:54",
@@ -247,6 +270,13 @@
     "theme": "楽天スーパーSALE（9月）（開催中） × 20代女性（自分磨き・プチプラ・映え）",
     "persona": "20s_woman",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-09-06",
+    "slot": "night",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 20代女性（自分磨き・プチプラ・映え）",
+    "persona": "20s_woman",
+    "event_type": "sale"
    }
   ],
   "item_code": "fancl-shop:10009046",
@@ -262,8 +292,8 @@
   "point_rate": 10,
   "catchcopy": "うるおいを奪わず、汚れを落とす。洗うたび、美しいうるすべ素肌へ。",
   "genre_id": "405061",
-  "score": 20.66,
-  "last_seen": "2026-09-06T02:44:54"
+  "score": 21.06,
+  "last_seen": "2026-09-06T04:08:37"
  },
  "bjc-onlinestore:10000020": {
   "first_seen": "2026-09-06T02:44:54",
@@ -274,23 +304,30 @@
     "theme": "楽天スーパーSALE（9月）（開催中） × 20代女性（自分磨き・プチプラ・映え）",
     "persona": "20s_woman",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-09-06",
+    "slot": "night",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 20代女性（自分磨き・プチプラ・映え）",
+    "persona": "20s_woman",
+    "event_type": "sale"
    }
   ],
   "item_code": "bjc-onlinestore:10000020",
-  "name": "【6日先着666名限定 17%オフ 公式】ラッシュアディクト アイラッシュ コンディショニング セラム アドバンス 5ml アンバサダー仕様リーフレット添付 まつ毛美容液 まつ毛ケア まつげ美容液 まつ毛パーマ Lashaddict 正規品 送料無料",
+  "name": "＼先着2,000枚／4日20時開始！4時間限定1,800円OFFクーポン【公式】ラッシュアディクト アイラッシュ コンディショニング セラム アドバンス 5ml アンバサダー仕様リーフレット添付 まつ毛美容液 まつ毛ケア まつげ美容液 まつ毛パーマ Lashaddict 正規品 送料無料",
   "price": 11000,
   "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00ug4zo.72d3y411.g00ug4zo.72d3zbc2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbjc-onlinestore%2Flashaddict01a%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbjc-onlinestore%2Fi%2F10000020%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00ug4zo.72d3y411.g00ug4zo.72d3zbc2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbjc-onlinestore%2Flashaddict01a%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
-  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/bjc-onlinestore/cabinet/item/lashaddict01a/lashaddict0810.jpg?_ex=600x600",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/bjc-onlinestore/cabinet/item/lashaddict01a/lash-ss-start.jpg?_ex=600x600",
   "shop_name": "【公式】Lashaddict 楽天市場店",
-  "review_count": 694,
+  "review_count": 693,
   "review_average": 4.34,
   "affiliate_rate": 4.0,
   "point_rate": 5,
   "catchcopy": "プロが使い続けるまつ毛美容液",
   "genre_id": "510003",
-  "score": 20.43,
-  "last_seen": "2026-09-06T02:45:17"
+  "score": 19.03,
+  "last_seen": "2026-09-06T04:08:37"
  },
  "auc-risecreation:10005082": {
   "first_seen": "2026-09-06T02:44:54",
@@ -298,6 +335,13 @@
    {
     "date": "2026-09-06",
     "slot": "morning",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 20代女性（自分磨き・プチプラ・映え）",
+    "persona": "20s_woman",
+    "event_type": "sale"
+   },
+   {
+    "date": "2026-09-06",
+    "slot": "night",
     "theme": "楽天スーパーSALE（9月）（開催中） × 20代女性（自分磨き・プチプラ・映え）",
     "persona": "20s_woman",
     "event_type": "sale"
@@ -317,7 +361,7 @@
   "catchcopy": "\\\\ 底板が付いてリニューアル // 可愛いも使いやすいも全部叶える、ヌビバッグ♪",
   "genre_id": "303274",
   "score": 19.97,
-  "last_seen": "2026-09-06T02:45:17"
+  "last_seen": "2026-09-06T04:08:37"
  },
  "anuajapan:10000435": {
   "first_seen": "2026-09-06T02:44:54",
@@ -328,10 +372,17 @@
     "theme": "楽天スーパーSALE（9月）（開催中） × 20代女性（自分磨き・プチプラ・映え）",
     "persona": "20s_woman",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-09-06",
+    "slot": "night",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 20代女性（自分磨き・プチプラ・映え）",
+    "persona": "20s_woman",
+    "event_type": "sale"
    }
   ],
   "item_code": "anuajapan:10000435",
-  "name": "【56%OFF】ドキ子XAnua公式｜本気の大人肌ケアセット2 《集中ケア編》｜3種の人気美容液で大人の肌悩みをサポート｜レチノールかっさ PDRNアイクリーム｜ROOMコラボ｜エイジングケア 乾燥 ツヤ 毛穴 角質 キメ ハリ PDRN ビタミン レチノール カッサ",
+  "name": "【56%OFF】ドキ子XAnua公式｜本気の大人肌ケアセット2 《集中ケア編》｜3種の人気美容液で大人の肌悩みをサポート｜レチノールかっさ、PDRNアイクリームでスペシャルケア｜【ROOMコラボ】｜エイジングケア うるおい 乾燥 ツヤ 毛穴 角質 キメ ハリ PDRN ビタミン レチノール",
   "price": 5963,
   "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00u6mzo.72d3yb21.g00u6mzo.72d3z922/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanuajapan%2Fanua00170%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanuajapan%2Fi%2F10000435%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00u6mzo.72d3yb21.g00u6mzo.72d3z922/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanuajapan%2Fanua00170%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
@@ -343,8 +394,8 @@
   "point_rate": 1,
   "catchcopy": "6月の楽天スーパーSALEでランキング2位獲得！大人気の限定セットが秋バージョンになって再登場！ベスコスも受賞した美容液など3種が入った大人のための贅沢セット",
   "genre_id": "567442",
-  "score": 19.8,
-  "last_seen": "2026-09-06T02:45:17"
+  "score": 19.0,
+  "last_seen": "2026-09-06T04:08:37"
  },
  "kiehls:10000083": {
   "first_seen": "2026-09-06T02:45:17",
@@ -1078,5 +1129,86 @@
   "genre_id": "101766",
   "score": 16.68,
   "last_seen": "2026-09-06T04:02:03"
+ },
+ "cetaphil-official-gkk:10000124": {
+  "first_seen": "2026-09-06T04:08:37",
+  "themes": [
+   {
+    "date": "2026-09-06",
+    "slot": "night",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 20代女性（自分磨き・プチプラ・映え）",
+    "persona": "20s_woman",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "cetaphil-official-gkk:10000124",
+  "name": "【P10倍★9/11 01:59まで】【公式】楽天ベストコスメ殿堂入り セタフィル モイスチャライジングローション 591mL 2本組 | 保湿乳液 乳液 ボディーローション ナイアシンアミド ベビー 赤ちゃん 乾燥肌 敏感肌 大容量 ベビーローション ボディークリーム 低刺激 無香料 ポンプ",
+  "price": 3398,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tzjco.72d3yac4.g00tzjco.72d3zff6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcetaphil-official-gkk%2F10000005%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcetaphil-official-gkk%2Fi%2F10000124%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00tzjco.72d3yac4.g00tzjco.72d3zff6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcetaphil-official-gkk%2F10000005%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/cetaphil-official-gkk/cabinet/thumb/2026/point10/10000005_260831.jpg?_ex=600x600",
+  "shop_name": "セタフィル公式楽天市場店",
+  "review_count": 7767,
+  "review_average": 4.78,
+  "affiliate_rate": 4.0,
+  "point_rate": 10,
+  "catchcopy": "肌なじみのよいさらっとした使い心地フェイス＆ボディー用 保湿乳液 皮膚科学領域に特化の製薬会社が開発 ボディークリーム スキンケア 高保湿 保湿クリーム 全身 メンズ ボディクリーム",
+  "genre_id": "216670",
+  "score": 19.98,
+  "last_seen": "2026-09-06T04:08:37"
+ },
+ "chakasho-dina:10000637": {
+  "first_seen": "2026-09-06T04:08:37",
+  "themes": [
+   {
+    "date": "2026-09-06",
+    "slot": "night",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 20代女性（自分磨き・プチプラ・映え）",
+    "persona": "20s_woman",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "chakasho-dina:10000637",
+  "name": "【20:00〜2h半額クーポン】【楽天デイリー総合1位】 日傘 日傘 超軽量 日傘形状記憶 日傘折りたたみ 完全遮光 晴雨兼用 レディース UVカット100% 軽量 ワンタッチ 自動開閉 遮熱 オフホワイト形状記憶なし〜安全設計記憶フレーム",
+  "price": 3080,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00u575o.72d3yace.g00u575o.72d3zfe8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fchakasho-dina%2F383yimiaorisan%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fchakasho-dina%2Fi%2F10000637%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00u575o.72d3yace.g00u575o.72d3zfe8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fchakasho-dina%2F383yimiaorisan%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/chakasho-dina/cabinet/imgrc0140362533.jpg?_ex=600x600",
+  "shop_name": "chakashodina",
+  "review_count": 17244,
+  "review_average": 4.5,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "日傘 《永遠形状記憶》3秒たためる 元祖 日傘 折傘 折りたたみ傘 遮熱 日傘 日傘メンズ 晴雨兼用 UVカット 軽量 涼しい パラソル ケア 日焼け防止 遮蔽 遮熱 完全遮光100% UVカット 軽量",
+  "genre_id": "506687",
+  "score": 19.0,
+  "last_seen": "2026-09-06T04:08:37"
+ },
+ "tvert:10000064": {
+  "first_seen": "2026-09-06T04:08:37",
+  "themes": [
+   {
+    "date": "2026-09-06",
+    "slot": "night",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 20代女性（自分磨き・プチプラ・映え）",
+    "persona": "20s_woman",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "tvert:10000064",
+  "name": "【クーポン最大1000円OFF＆5万pt還元★9/11(金)迄】【送料無料】乳液 セラミド 楽天ベストコスメ2023 殿堂入り 高保湿 さらさら 学術誌掲載 60m 選べる3タイプ トゥベール トゥヴェール ナノエマルジョン／ナノエマルジョンプラス／ナノエマルジョンディープ",
+  "price": 3610,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00q4g8o.72d3yae0.g00q4g8o.72d3z56d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftvert%2F972273%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftvert%2Fi%2F10000064%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00q4g8o.72d3yae0.g00q4g8o.72d3z56d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftvert%2F972273%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/tvert/cabinet/goods/cart/nano_topr2026.jpg?_ex=600x600",
+  "shop_name": "ビタミンC誘導体のトゥヴェール",
+  "review_count": 3653,
+  "review_average": 4.59,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "Tout Vert トゥベール セラミド類似成分12％以上配合",
+  "genre_id": "216387",
+  "score": 18.56,
+  "last_seen": "2026-09-06T04:08:37"
  }
 }

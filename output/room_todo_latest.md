@@ -38,3 +38,10 @@
    - 商品URL（ROOM検索用）: https://hb.afl.rakuten.co.jp/hgc/g00rk92o.72d3y621.g00rk92o.72d3z017/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdesigners-and-labo%2F47922%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdesigners-and-labo%2Fi%2F10003495%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
    - ROOM用コメント案: 日本野鳥の会 長靴 レインブーツ レディース｜送料無料！
 
+## 04:08 楽天スーパーSALE（9月）（開催中） × 20代女性（自分磨き・プチプラ・映え）
+
+1. **★20％OFF+P10倍★【送料無料】Yunth 生ビタミンC 美白美容液 1ml×28包 | 美容液 ビタミンC 導入**
+   - 価格: 3,960円 / ★4.69（44,909件） / 料率 4.0%
+   - 商品URL（ROOM検索用）: https://hb.afl.rakuten.co.jp/hgc/g00u7rbo.72d3y836.g00u7rbo.72d3z3d2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyunth%2F10000000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyunth%2Fi%2F10000000%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - ROOM用コメント案: Yunth 生ビタミンC 美白美容液
+
