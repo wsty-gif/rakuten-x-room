@@ -131,6 +131,28 @@ Xに投稿した文と画像を、そのまま Threads にも投稿する。Meta
 トークンはツールが毎日自動で更新するので、毎日動いていれば期限切れにならない。
 （更新後のトークンは `data/threads_token.json` に保存され、GitHub Actions ではリポジトリにコミットされる。リポジトリは必ず Private にしておくこと）
 
+## ブログ（GitHub Pages、無料・全自動）
+
+投稿のたびに商品データが `data/site_items.json` に蓄積され、`build_site.py` が `docs/` に静的サイトを生成する。
+GitHub Actions がそれをコミットし、GitHub Pages が公開する。費用0円、更新は全自動。
+
+生成されるページ:
+- `index.html` トップ（今日のおすすめ・日別記事一覧・誰向けリンク）
+- `posts/YYYY-MM-DD.html` 日別記事「【9月6日】スーパーSALEで買われている物 TOP12」
+- `for/<persona>.html` 誰向け別のまとめ（30代女性 / 子育て世帯 など6ページ）
+- `ranking.html` レビュー評価ランキング TOP50
+- `feed.xml` / `sitemap.xml` / `robots.txt`
+
+ブログには楽天アフィリエイトリンクを直接置いているので、**Xのプロフィールのリンク先をROOMからブログに変えれば、手動の「コレ！」は不要になる**（ROOMも併用するなら今まで通り）。
+
+### 公開手順（初回のみ、5分）
+1. GitHub のリポジトリ → Settings → Pages → 「Build and deployment」の Source を **Deploy from a branch**、Branch を **main** / **/docs** にして Save。
+2. 数分後に `https://<ユーザー名>.github.io/<リポジトリ名>/` で公開される。
+3. **楽天アフィリエイトの「サイト情報」にこのURLを追加する**（未登録サイトへのリンク掲載は規約違反）。
+4. 必要なら Xのプロフィールのリンク先をこのURLにし、投稿文のCTAを「▶まとめはプロフのリンクから」に変える（`src/writer.py` の `CTA`）。
+
+ローカルで確認: `python main.py run --dry-run` のあと `python build_site.py` → `docs/index.html` をブラウザで開く。
+
 ## 週1回やること
 
 - `python main.py report` で何を投稿したか確認
