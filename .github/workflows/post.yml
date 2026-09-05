@@ -67,6 +67,9 @@ jobs:
       - name: Check X credentials (no post)
         run: python diag_x.py
 
+      - name: Check Threads credentials (no post)
+        run: python diag_threads.py
+
       - name: Run
         run: |
           if [ "${{ steps.slot.outputs.dry }}" = "true" ]; then
