@@ -17,3 +17,10 @@
    - 商品URL（ROOM検索用）: https://hb.afl.rakuten.co.jp/hgc/g00u1i9o.72d3y514.g00u1i9o.72d3z249/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fofficetrust%2F014000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fofficetrust%2Fi%2F10000181%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
    - ROOM用コメント案: コピー用紙 A4 5000枚 ペーパーワン
 
+## 03:27 楽天スーパーSALE（9月）（開催中） × 40代男性（家族・晩酌・車）
+
+1. **【11日正午まで半額！最大4,990円OFF】〈無塩〉 骨取りさば 北欧産 訳あり （選べる1kg・2kg）｜骨なし 骨**
+   - 価格: 3,490円 / ★4.78（36,776件） / 料率 4.0%
+   - 商品URL（ROOM検索用）: https://hb.afl.rakuten.co.jp/hgc/g00tqd5o.72d3y629.g00tqd5o.72d3z50c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamagoiida%2F10000077%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyamagoiida%2Fi%2F10000077%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - ROOM用コメント案: 骨取りさば 北欧産 訳あり 骨なし 骨抜き
+

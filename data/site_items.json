@@ -62,6 +62,13 @@
     "theme": "楽天スーパーSALE（9月）（開催中） × 20代女性（自分磨き・プチプラ・映え）",
     "persona": "20s_woman",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-09-06",
+    "slot": "night",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "vtcosmetic-official:10000829",
@@ -77,8 +84,8 @@
   "point_rate": 2,
   "catchcopy": "《楽天1位》1日1枚！大容量フェイスパックセット",
   "genre_id": "503020",
-  "score": 21.88,
-  "last_seen": "2026-09-06T02:45:17"
+  "score": 17.78,
+  "last_seen": "2026-09-06T03:27:02"
  },
  "yayoi-cosme:10014729": {
   "first_seen": "2026-09-06T02:44:54",
@@ -197,6 +204,13 @@
     "theme": "楽天スーパーSALE（9月）（開催中） × 20代女性（自分磨き・プチプラ・映え）",
     "persona": "20s_woman",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-09-06",
+    "slot": "night",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "yamagoiida:10000077",
@@ -212,8 +226,10 @@
   "point_rate": 1,
   "catchcopy": "【2年連続！楽天市場3億点のなかで最も売れた商品】＜無塩製法で原材料は天然さばのみ＞骨も塩分も気にせず家族みんな安心！傷品や規格外サイズ訳あり品",
   "genre_id": "304578",
-  "score": 20.74,
-  "last_seen": "2026-09-06T02:45:17"
+  "score": 20.64,
+  "last_seen": "2026-09-06T03:27:02",
+  "posted_text": "#PR 週末の楽しみが1段上がる\n骨取りさば 北欧産 訳あり 骨なし 骨抜き\n★4.78・レビュー36,776件\n半額 11日正午まで｜3,490円・送料無料\n#楽天購入品 #おうち時間\n▶ROOMはプロフから",
+  "posted_at": "2026-09-06T03:27:02"
  },
  "fancl-shop:10009046": {
   "first_seen": "2026-09-06T02:44:54",
@@ -349,5 +365,275 @@
   "genre_id": "216348",
   "score": 20.22,
   "last_seen": "2026-09-06T02:45:17"
+ },
+ "liquor-boss:10003265": {
+  "first_seen": "2026-09-06T03:27:02",
+  "themes": [
+   {
+    "date": "2026-09-06",
+    "slot": "night",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "liquor-boss:10003265",
+  "name": "9/4 20:00〜9/10までP8倍 【最強配送】【送料無料】 アサヒ スーパードライ 350ml×2ケース/48本 YTR ビール 辛口 アサヒビール",
+  "price": 9495,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rryxo.72d3y4c5.g00rryxo.72d3zf38/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fliquor-boss%2F828c2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fliquor-boss%2Fi%2F10003265%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00rryxo.72d3y4c5.g00rryxo.72d3zf38/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fliquor-boss%2F828c2%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/liquor-boss/cabinet/260904/828c2.jpg?_ex=600x600",
+  "shop_name": "リカーBOSS 楽天市場店",
+  "review_count": 3560,
+  "review_average": 4.83,
+  "affiliate_rate": 4.0,
+  "point_rate": 8,
+  "catchcopy": "楽天市場最安値に挑戦！",
+  "genre_id": "110626",
+  "score": 20.22,
+  "last_seen": "2026-09-06T03:27:02"
+ },
+ "hotch-potch:10017531": {
+  "first_seen": "2026-09-06T03:27:02",
+  "themes": [
+   {
+    "date": "2026-09-06",
+    "slot": "night",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "hotch-potch:10017531",
+  "name": "◆楽天1位◆スープメーカー【豪華選べる特典】自動調理ポット【30レシピ付】レコルト recolte 自動調理ポット ブレンダー ミキサー 氷も砕ける フードプロセッサー スープ 豆乳 600ml 豆乳メーカー スムージーメーカー ポタージュ 離乳食 RSY-2【ポイント10倍】",
+  "price": 13200,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pw1co.72d3ya1f.g00pw1co.72d3z2c0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhotch-potch%2F00014257_cooking_pot%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhotch-potch%2Fi%2F10017531%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00pw1co.72d3ya1f.g00pw1co.72d3z2c0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhotch-potch%2F00014257_cooking_pot%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/hotch-potch/cabinet/kago_img11/00014257.jpg?_ex=600x600",
+  "shop_name": "ホッチポッチ自由が丘 WEB shop",
+  "review_count": 16351,
+  "review_average": 4.68,
+  "affiliate_rate": 2.0,
+  "point_rate": 10,
+  "catchcopy": "調理ポット 豆乳機 コンパクト 自動調理器 ソイミルク 氷対応 ペースト ソース おかゆ おから お粥 ヘルシー レシピ本 耐熱 シンプル オート 簡単 洗いやすい 手作り auto cooking pot",
+  "genre_id": "565076",
+  "score": 19.26,
+  "last_seen": "2026-09-06T03:27:02"
+ },
+ "tescom-japan:10000227": {
+  "first_seen": "2026-09-06T03:27:02",
+  "themes": [
+   {
+    "date": "2026-09-06",
+    "slot": "night",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "tescom-japan:10000227",
+  "name": "【P10倍 楽天スーパーSALE限定】 ドライヤー 速乾 テスコム 公式 マイナスイオン TD760A-W/E TD760A-C/E 大風量 ディフューザー 軽い 軽量 デザイン 時短 早い 静か 低騒音 ブラシレス DC モーター BLDC 強力 温冷自動切替 I字型 コンパクト 小さい 1年保証 パワフル スリ",
+  "price": 8690,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tc8co.72d3yda0.g00tc8co.72d3za84/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftescom-japan%2Ftd760%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftescom-japan%2Fi%2F10000227%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00tc8co.72d3yda0.g00tc8co.72d3za84/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftescom-japan%2Ftd760%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/tescom-japan/cabinet/thum/remove/td760a-e_sp_0_p10.jpg?_ex=600x600",
+  "shop_name": "テスコム公式楽天市場店",
+  "review_count": 594,
+  "review_average": 4.63,
+  "affiliate_rate": 2.0,
+  "point_rate": 10,
+  "catchcopy": "マイナスイオン ヘアドライヤー TD760A 軽量 軽い ドライヤー 軽い 軽量 速乾 時短 早い 静か 低騒音 I字型ドライヤー ブラシレスDCモーター BLDC 風圧 母の日 ギフト プレゼント",
+  "genre_id": "502792",
+  "score": 18.95,
+  "last_seen": "2026-09-06T03:27:02"
+ },
+ "brita:10000161": {
+  "first_seen": "2026-09-06T03:27:02",
+  "themes": [
+   {
+    "date": "2026-09-06",
+    "slot": "night",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "brita:10000161",
+  "name": "【公式・正規品】 ポット型浄水器用カートリッジ マクストラプロ ピュアパフォーマンス 8個セット | 日本仕様 浄水カートリッジ 浄水ポット マ 日本仕様 ブリタカートリッジ brita maxtra アウトレット PFAS (PFOS/PFOA) 除去",
+  "price": 7990,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tbsuo.72d3y673.g00tbsuo.72d3zedf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbrita%2Fmaxtraplus-8%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbrita%2Fi%2F10000161%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00tbsuo.72d3y673.g00tbsuo.72d3zedf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbrita%2Fmaxtraplus-8%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/brita/cabinet/thum/thumb_01/maxtraplus-8.jpg?_ex=600x600",
+  "shop_name": "浄水器のブリタ公式 楽天市場店",
+  "review_count": 25766,
+  "review_average": 4.78,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "【正規品】ポット型浄水器用カートリッジ 「訳アリ」品でお得に、8個セット　PFAS (PFOS/PFOA) 除去",
+  "genre_id": "212491",
+  "score": 18.11,
+  "last_seen": "2026-09-06T03:27:02"
+ },
+ "matsuya:10000085": {
+  "first_seen": "2026-09-06T03:27:02",
+  "themes": [
+   {
+    "date": "2026-09-06",
+    "slot": "night",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "matsuya:10000085",
+  "name": "S【条件達成でP最大10倍！1食205円~！最大59％OFF】 牛めしの具（プレミアム仕様）135g 牛めし 選択制 大容量リピ確定BOX 松屋 公式 牛丼の具 まつや 牛丼 食品 非常食 セール 半額 ＜松屋60周年＞ スーパーセール スーパーsale",
+  "price": 2980,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pwdgo.72d3ya6b.g00pwdgo.72d3ze2a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmatsuya%2Fus30%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmatsuya%2Fi%2F10000085%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00pwdgo.72d3ya6b.g00pwdgo.72d3ze2a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmatsuya%2Fus30%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/matsuya/cabinet/wakama/13783546/13783556/2609mt_sale_thm.jpg?_ex=600x600",
+  "shop_name": "松屋フーズ",
+  "review_count": 14020,
+  "review_average": 4.63,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "松屋 牛めしの具(プレミアム仕様) まつや 牛丼 食品 グルメ 冷凍 レンチン 送料無料 お試し 食事 おつまみ お取り寄せ レンジ お惣菜 保存食 防災食 仕送り 単身赴任 業務用 冷凍食品",
+  "genre_id": "566683",
+  "score": 18.06,
+  "last_seen": "2026-09-06T03:27:02"
+ },
+ "yamagoiida:10000148": {
+  "first_seen": "2026-09-06T03:27:02",
+  "themes": [
+   {
+    "date": "2026-09-06",
+    "slot": "night",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "yamagoiida:10000148",
+  "name": "【11日正午まで半額！1kgが3,990円OFF】〈無塩〉骨取り銀さけ 訳あり 鮭（選べる1kg・2kg）｜骨取り鮭 骨なし チリ産 養殖 鮭 さけ サケ 銀鮭 厚切り 切身 冷凍 ストック 業務用 食品 離乳食 お弁当 アスタキサンチン 一部地域除き 送料無料",
+  "price": 3990,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tqd5o.72d3y629.g00tqd5o.72d3z50c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamagoiida%2F10000120%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyamagoiida%2Fi%2F10000148%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00tqd5o.72d3y629.g00tqd5o.72d3z50c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamagoiida%2F10000120%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/yamagoiida/cabinet/12604244/13204764/13204768/ginsake_thum002.jpg?_ex=600x600",
+  "shop_name": "骨取り魚の飯田商店",
+  "review_count": 3812,
+  "review_average": 4.79,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "【販売初日で総合1位獲得】脂のりいい濃厚なうま味を食卓へ！骨取り済みだから家族みんなが安心してお召し上がりいただけます",
+  "genre_id": "207774",
+  "score": 17.49,
+  "last_seen": "2026-09-06T03:27:02"
+ },
+ "mywineclub:10013711": {
+  "first_seen": "2026-09-06T03:27:02",
+  "themes": [
+   {
+    "date": "2026-09-06",
+    "slot": "night",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "mywineclub:10013711",
+  "name": "【 送料無料 】 1本あたり732円(税込) 格上メドック＆5冠金賞入り!フランス金賞赤ワイン12本セット 第114弾【9000429】 | 金賞受賞 飲み比べ ワイン ワインセット wine wainn フルボディ ボルドー お買い得 パーティー ギフト",
+  "price": 8778,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qikdo.72d3yf0a.g00qikdo.72d3z747/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmywineclub%2Ffrancemedal10%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmywineclub%2Fi%2F10013711%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00qikdo.72d3yf0a.g00qikdo.72d3z747/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmywineclub%2Ffrancemedal10%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/mywineclub/cabinet/shohin42/9000429.jpg?_ex=600x600",
+  "shop_name": "MyWineClub（マイワインクラブ）",
+  "review_count": 2656,
+  "review_average": 4.51,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "格上メドック＆ボルドー＆5冠金賞入り!フランス赤ワインを金賞で飲み尽くす!",
+  "genre_id": "567661",
+  "score": 17.32,
+  "last_seen": "2026-09-06T03:27:02"
+ },
+ "kireijapan:10000065": {
+  "first_seen": "2026-09-06T03:27:02",
+  "themes": [
+   {
+    "date": "2026-09-06",
+    "slot": "night",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "kireijapan:10000065",
+  "name": "イーテック ウルオ ウルオクール 浄水ポット 交換用カートリッジ 1個 Etec FCU-0400 純正品 PFAS 除去 有機フッ素化合物 24項目除去 日本製 活性炭 フィルター 塩素除去 フッ素除去 農薬除去 銀不使用 BPAフリー ポット型浄水器用 予備 ストック 交換用",
+  "price": 5280,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tywto.72d3y9ca.g00tywto.72d3z878/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkireijapan%2Fet04000200%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkireijapan%2Fi%2F10000065%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00tywto.72d3y9ca.g00tywto.72d3z878/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkireijapan%2Fet04000200%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/kireijapan/cabinet/08096446/fcu0400/official_japan.jpg?_ex=600x600",
+  "shop_name": "Etec正規店きれいナチュラル生活",
+  "review_count": 7876,
+  "review_average": 4.84,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "【正規・純正品】イーテック純正。ウルオ・ウルオクールどちらにも使えます",
+  "genre_id": "212491",
+  "score": 17.31,
+  "last_seen": "2026-09-06T03:27:02"
+ },
+ "brita:10000012": {
+  "first_seen": "2026-09-06T03:27:02",
+  "themes": [
+   {
+    "date": "2026-09-06",
+    "slot": "night",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "brita:10000012",
+  "name": "【レビュー特典あり】公式 浄水器のブリタ 交換用カートリッジ マクストラプロ ピュアパフォーマンス 3個セット| ブリタ brita カートリッジ 浄水ポット マクストラ 日本仕様 ブリタカートリッジ マクストラプロカートリッジ プロ ピッチャー ポット PFAS (PFOS/PFOA) 除去",
+  "price": 4378,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tbsuo.72d3y673.g00tbsuo.72d3zedf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbrita%2Fmaxtraplus-3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbrita%2Fi%2F10000012%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00tbsuo.72d3y673.g00tbsuo.72d3zedf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbrita%2Fmaxtraplus-3%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/brita/cabinet/thum/thumb_01/maxtraplus-3.jpg?_ex=600x600",
+  "shop_name": "浄水器のブリタ公式 楽天市場店",
+  "review_count": 1810,
+  "review_average": 4.64,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "PFAS (PFOS/PFOA) 除去　お得な定期便もあります！",
+  "genre_id": "212495",
+  "score": 16.96,
+  "last_seen": "2026-09-06T03:27:02"
+ },
+ "mywineclub:10013980": {
+  "first_seen": "2026-09-06T03:27:02",
+  "themes": [
+   {
+    "date": "2026-09-06",
+    "slot": "night",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "mywineclub:10013980",
+  "name": "【 特別 送料無料 】 1本たったの598円(税込) 3大銘醸地入り 世界選りすぐり赤ワイン11本セット 第286弾 ワイン ワインセット wine wainn 金賞 飲み比べ ボルドー フランス イタリア スペイン お買い得 ギフト 【7786563】",
+  "price": 6578,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qikdo.72d3yf0a.g00qikdo.72d3z747/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmywineclub%2Fworldredwine10%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmywineclub%2Fi%2F10013980%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00qikdo.72d3yf0a.g00qikdo.72d3z747/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmywineclub%2Fworldredwine10%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/mywineclub/cabinet/shohin42/7798985.jpg?_ex=600x600",
+  "shop_name": "MyWineClub（マイワインクラブ）",
+  "review_count": 6413,
+  "review_average": 4.51,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "1本あたり598円(税込)!世界選りすぐり赤ワイン11本セット!直輸入のMyWineClubだからできる、デイリーに楽しめるお手頃価格！",
+  "genre_id": "567661",
+  "score": 16.89,
+  "last_seen": "2026-09-06T03:27:02"
  }
 }
