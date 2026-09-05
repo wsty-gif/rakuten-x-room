@@ -142,6 +142,9 @@ class Settings:
     x_access_token_secret: str = field(default_factory=lambda: _env("X_ACCESS_TOKEN_SECRET"))
     x_attach_image: bool = field(default_factory=lambda: _env("X_ATTACH_IMAGE", "1") == "1")
 
+    threads_access_token: str = field(default_factory=lambda: _env("THREADS_ACCESS_TOKEN"))
+    threads_user_id: str = field(default_factory=lambda: _env("THREADS_USER_ID"))
+
     anthropic_api_key: str = field(default_factory=lambda: _env("ANTHROPIC_API_KEY"))
 
     posts_per_run: int = field(default_factory=lambda: _env_int("POSTS_PER_RUN", 1))
@@ -153,6 +156,9 @@ class Settings:
 
     def x_ready(self) -> bool:
         return all([self.x_api_key, self.x_api_secret, self.x_access_token, self.x_access_token_secret])
+
+    def threads_ready(self) -> bool:
+        return bool(self.threads_access_token) or (DATA_DIR / "threads_token.json").exists()
 
     def rakuten_ready(self) -> bool:
         return bool(self.rakuten_app_id)

@@ -83,12 +83,19 @@ def cmd_run(args, s: Settings):
         return
     posts = build_posts(cands, theme, s, s.posts_per_run)
     poster = None
+    threads = None
     if not args.dry_run:
         if not s.x_ready():
             print("\nX APIのキーが未設定なので --dry-run と同じ動作にします。")
         else:
             from src.x_poster import XPoster
             poster = XPoster(s)
+        if s.threads_ready():
+            try:
+                from src.threads_poster import ThreadsPoster
+                threads = ThreadsPoster(s)
+            except Exception as e:
+                print(f"  [warn] Threads 初期化失敗（Xのみ投稿します）: {e}")
 
     for pst in posts:
         p = pst["product"]
@@ -99,16 +106,23 @@ def cmd_run(args, s: Settings):
         print(text)
         print(f"[画像] {p.image_url}")
         tweet_id = ""
+        threads_id = ""
         if poster:
             tweet_id = poster.post(text, p.image_url)
-            print(f"[投稿完了] https://x.com/i/web/status/{tweet_id}")
+            print(f"[X 投稿完了] https://x.com/i/web/status/{tweet_id}")
+        if threads:
+            try:
+                threads_id = threads.post(text, p.image_url)
+                print(f"[Threads 投稿完了] id={threads_id}")
+            except Exception as e:
+                print(f"  [warn] Threads 投稿失敗: {e}")
         if poster:
             history.append({
                 "date": datetime.now().isoformat(timespec="seconds"),
                 "slot": theme.slot, "theme": theme.title, "persona": theme.persona.key,
                 "item_code": p.item_code, "item_name": p.name[:80], "price": p.price,
                 "item_url": p.item_url, "affiliate_rate": p.affiliate_rate,
-                "text": text, "tweet_id": tweet_id, "room_done": False,
+                "text": text, "tweet_id": tweet_id, "threads_id": threads_id, "room_done": False,
             })
     if poster:
         save_history(history)

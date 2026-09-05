@@ -35,6 +35,8 @@ jobs:
       X_API_SECRET: ${{ secrets.X_API_SECRET }}
       X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
       X_ACCESS_TOKEN_SECRET: ${{ secrets.X_ACCESS_TOKEN_SECRET }}
+      THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+      THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
       ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
       NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
     steps:
@@ -78,6 +80,6 @@ jobs:
         run: |
           git config user.name "rakuten-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add -f data/history.json output/*.md || true
+          git add -f data/history.json data/threads_token.json output/*.md 2>/dev/null || true
           git diff --cached --quiet || git commit -m "post: ${{ steps.slot.outputs.slot }} $(date +'%Y-%m-%d %H:%M')"
           git push

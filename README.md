@@ -115,6 +115,22 @@ PCの代わりに GitHub の無料クラウド（GitHub Actions）で毎日3回�
 
 手動で今すぐ投稿したいときは、スマホの GitHub アプリ（または ブラウザ）で Actions → Run workflow を押す。
 
+## Threads にも同時投稿する（任意）
+
+Xに投稿した文と画像を、そのまま Threads にも投稿する。Meta の公式 Threads API を使うので規約上も問題なく、API料金は無料。
+
+1. Threads アプリで、Xと同じ名前・アイコンのアカウントを作る（Instagramアカウントが必要）。プロフィールのリンクにROOMのURLを入れる。
+2. https://developers.facebook.com/ で開発者登録（Facebook/Instagramアカウントでログイン）。
+3. 「アプリを作成」→ ユースケースで **「Threads API にアクセス」** を選ぶ → アプリ名は何でもよい。
+4. 左メニュー「ユースケース」→ Threads の「カスタマイズ」→ 権限 `threads_basic` と `threads_content_publish` を追加。
+5. 「アプリの役割」→「役割」→「ユーザーを追加」→ **Threads テスター** として自分のThreadsアカウントを追加。
+   Threads アプリ側で 設定 → アカウント → **ウェブサイトの権限 → 招待** を承認する。
+6. ユースケース → Threads → 設定 の **「User Token Generator」** で自分のトークンを生成（60日有効）。
+7. `python setup_env.py` で `THREADS_ACCESS_TOKEN` に貼る。GitHub Actions で動かす場合は Secrets にも `THREADS_ACCESS_TOKEN` を追加。
+
+トークンはツールが毎日自動で更新するので、毎日動いていれば期限切れにならない。
+（更新後のトークンは `data/threads_token.json` に保存され、GitHub Actions ではリポジトリにコミットされる。リポジトリは必ず Private にしておくこと）
+
 ## 週1回やること
 
 - `python main.py report` で何を投稿したか確認
