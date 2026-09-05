@@ -82,7 +82,8 @@ jobs:
         if: steps.slot.outputs.dry != 'true'
         env:
           SITE_URL: https://${{ github.repository_owner }}.github.io/
-          GSC_VERIFICATION: ${{ vars.GSC_VERIFICATION }}
+          # Variables でも Secrets でも受け付ける
+          GSC_VERIFICATION: ${{ vars.GSC_VERIFICATION || secrets.GSC_VERIFICATION }}
         run: python build_site.py
 
       # ブログは公開リポジトリ <ユーザー名>.github.io に書き出す（このリポジトリは Private のまま）
