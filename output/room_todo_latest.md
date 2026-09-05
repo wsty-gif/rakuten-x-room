@@ -10,3 +10,10 @@
    - 商品URL（ROOM検索用）: https://hb.afl.rakuten.co.jp/hgc/g00tna6o.72d3y574.g00tna6o.72d3zaca/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fattenir%2F166013%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fattenir%2Fi%2F10000252%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
    - ROOM用コメント案: 
 
+## 02:36 楽天スーパーSALE（9月）（開催中） × 20代男性（ガジェット・一人暮らし）
+
+1. **コピー用紙 A4 5000枚(500枚×10冊)ペーパーワン（PAPER ONE） 高白色 カーボンニュートラル プロデ**
+   - 価格: 3,889円 / ★4.74（4,014件） / 料率 2.0%
+   - 商品URL（ROOM検索用）: https://hb.afl.rakuten.co.jp/hgc/g00u1i9o.72d3y514.g00u1i9o.72d3z249/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fofficetrust%2F014000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fofficetrust%2Fi%2F10000181%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - ROOM用コメント案: コピー用紙 A4 5000枚 ペーパーワン
+
