@@ -3,3 +3,4 @@ data/history.json
 output/
 __pycache__/
 secrets_for_github.txt
+docs/

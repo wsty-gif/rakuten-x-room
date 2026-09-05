@@ -145,11 +145,21 @@ GitHub Actions がそれをコミットし、GitHub Pages が公開する。費�
 
 ブログには楽天アフィリエイトリンクを直接置いているので、**Xのプロフィールのリンク先をROOMからブログに変えれば、手動の「コレ！」は不要になる**（ROOMも併用するなら今まで通り）。
 
-### 公開手順（初回のみ、5分）
-1. GitHub のリポジトリ → Settings → Pages → 「Build and deployment」の Source を **Deploy from a branch**、Branch を **main** / **/docs** にして Save。
-2. 数分後に `https://<ユーザー名>.github.io/<リポジトリ名>/` で公開される。
-3. **楽天アフィリエイトの「サイト情報」にこのURLを追加する**（未登録サイトへのリンク掲載は規約違反）。
-4. 必要なら Xのプロフィールのリンク先をこのURLにし、投稿文のCTAを「▶まとめはプロフのリンクから」に変える（`src/writer.py` の `CTA`）。
+### 公開手順（初回のみ、10分）
+無料プランの GitHub Pages は Public リポジトリでしか使えないため、ブログ専用の公開リポジトリを別に作り、
+ワークフローがそこへ `docs/` を書き出す（キー類が入っている本体リポジトリは Private のまま）。
+
+1. GitHub で新しいリポジトリを作る。名前は **必ず `<ユーザー名>.github.io`**（例 `wsty-gif.github.io`）、**Public**、「Add a README file」にチェック。
+2. 書き込み用トークンを作る: GitHub 右上のアイコン → Settings → 左下 **Developer settings** → Personal access tokens → **Fine-grained tokens** → Generate new token。
+   - Token name: `blog-push`、Expiration: 1年（期限が来たら作り直す）
+   - Repository access: **Only select repositories** → `<ユーザー名>.github.io` を選ぶ
+   - Permissions → Repository permissions → **Contents: Read and write**
+   - Generate して表示された `github_pat_...` をコピー（1回しか表示されない）
+3. 本体リポジトリ（rakuten-x-room）→ Settings → Secrets and variables → Actions → New repository secret で
+   Name `BLOG_PUSH_TOKEN`、Secret にそのトークンを登録。
+4. 次の本番実行で `https://<ユーザー名>.github.io/` にブログが公開される（初回は数分かかる）。
+5. **楽天アフィリエイトの「サイト情報」にこのURLを追加する**（未登録サイトへのリンク掲載は規約違反）。
+6. 必要なら Xのプロフィールのリンク先をこのURLにし、投稿文のCTAを「▶まとめはプロフのリンクから」に変える（`src/writer.py` の `CTA`）。
 
 ローカルで確認: `python main.py run --dry-run` のあと `python build_site.py` → `docs/index.html` をブラウザで開く。
 

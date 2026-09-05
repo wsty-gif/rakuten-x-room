@@ -80,14 +80,30 @@ jobs:
 
       - name: Build blog (GitHub Pages)
         if: steps.slot.outputs.dry != 'true'
+        env:
+          SITE_URL: https://${{ github.repository_owner }}.github.io/
         run: python build_site.py
 
-      - name: Save history and blog back to repo
+      # ブログは公開リポジトリ <ユーザー名>.github.io に書き出す（このリポジトリは Private のまま）
+      - name: Publish blog to <owner>.github.io
+        if: steps.slot.outputs.dry != 'true' && env.BLOG_PUSH_TOKEN != ''
+        env:
+          BLOG_PUSH_TOKEN: ${{ secrets.BLOG_PUSH_TOKEN }}
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          personal_token: ${{ secrets.BLOG_PUSH_TOKEN }}
+          external_repository: ${{ github.repository_owner }}/${{ github.repository_owner }}.github.io
+          publish_branch: main
+          publish_dir: ./docs
+          user_name: rakuten-bot
+          user_email: bot@users.noreply.github.com
+          commit_message: "blog update"
+
+      - name: Save history back to repo
         if: steps.slot.outputs.dry != 'true'
         run: |
           git config user.name "rakuten-bot"
           git config user.email "bot@users.noreply.github.com"
           git add -f data/history.json data/site_items.json data/threads_token.json output/*.md 2>/dev/null || true
-          git add docs
           git diff --cached --quiet || git commit -m "post: ${{ steps.slot.outputs.slot }} $(date +'%Y-%m-%d %H:%M')"
           git push
