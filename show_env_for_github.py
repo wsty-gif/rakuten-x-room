@@ -22,10 +22,16 @@ for line in (ROOT / ".env").read_text(encoding="utf-8").splitlines():
         k, v = s.split("=", 1)
         env[k.strip()] = v.strip()
 
-print("GitHub → リポジトリ → Settings → Secrets and variables → Actions → New repository secret")
-print("次の Name / Secret を1つずつ登録する（空のものは登録しなくてよい）\n")
+lines = ["GitHub → リポジトリ → Settings → Secrets and variables → Actions → New repository secret",
+         "次の Name / Secret を1つずつ登録する（空のものは登録しなくてよい）", ""]
 for n in NAMES:
     v = env.get(n, "")
-    print(f"Name  : {n}")
-    print(f"Secret: {v if v else '(空・登録不要)'}")
-    print()
+    lines += [f"Name  : {n}", f"Secret: {v if v else '(空・登録不要)'}", ""]
+
+if "--file" in sys.argv:
+    out = ROOT / "secrets_for_github.txt"
+    out.write_text("\n".join(lines), encoding="utf-8")
+    print(f"書き出しました: {out}")
+    print("メモ帳で開いて値をコピーしてください。登録が終わったらこのファイルは必ず削除すること。")
+else:
+    print("\n".join(lines))

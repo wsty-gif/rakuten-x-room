@@ -62,6 +62,9 @@ jobs:
             echo "dry=false" >> "$GITHUB_OUTPUT"
           fi
 
+      - name: Check X credentials (no post)
+        run: python diag_x.py
+
       - name: Run
         run: |
           if [ "${{ steps.slot.outputs.dry }}" = "true" ]; then
