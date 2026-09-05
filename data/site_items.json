@@ -8,6 +8,13 @@
     "theme": "楽天スーパーSALE（9月）（開催中） × 20代女性（自分磨き・プチプラ・映え）",
     "persona": "20s_woman",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-09-06",
+    "slot": "night",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 子育て世帯のママ・パパ",
+    "persona": "mama",
+    "event_type": "sale"
    }
   ],
   "item_code": "yunth:10000000",
@@ -23,8 +30,8 @@
   "point_rate": 10,
   "catchcopy": "\\楽天総合ランキング1位/累計750万個突破 純度100％ 生ビタミンC VC 美容液 低刺激 毛穴開き くすみ シミ が気になる方に オススメ 医薬部外品 個包装 なので 衛生的 旅行 にも",
   "genre_id": "216348",
-  "score": 23.75,
-  "last_seen": "2026-09-06T02:45:17"
+  "score": 20.15,
+  "last_seen": "2026-09-06T03:50:26"
  },
  "shuuemura:10000018": {
   "first_seen": "2026-09-06T02:44:54",
@@ -507,8 +514,8 @@
    {
     "date": "2026-09-06",
     "slot": "night",
-    "theme": "楽天スーパーSALE（9月）（開催中） × 40代男性（家族・晩酌・車）",
-    "persona": "40s_man",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 子育て世帯のママ・パパ",
+    "persona": "mama",
     "event_type": "sale"
    }
   ],
@@ -519,14 +526,16 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00tqd5o.72d3y629.g00tqd5o.72d3z50c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamagoiida%2F10000120%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/yamagoiida/cabinet/12604244/13204764/13204768/ginsake_thum002.jpg?_ex=600x600",
   "shop_name": "骨取り魚の飯田商店",
-  "review_count": 3812,
+  "review_count": 3786,
   "review_average": 4.79,
   "affiliate_rate": 4.0,
   "point_rate": 1,
   "catchcopy": "【販売初日で総合1位獲得】脂のりいい濃厚なうま味を食卓へ！骨取り済みだから家族みんなが安心してお召し上がりいただけます",
   "genre_id": "207774",
-  "score": 17.49,
-  "last_seen": "2026-09-06T03:27:02"
+  "score": 22.49,
+  "last_seen": "2026-09-06T03:50:26",
+  "posted_text": "#PR 11日正午まで。終わってから気づくと悔しいやつ\n骨取り銀さけ 訳あり 骨取り鮭 骨なし\n★4.79・レビュー3,786件・楽天ランキング1位\n半額 11日正午まで｜3,990円・送料無料\n#楽天購入品 #子育てグッズ\n▶ROOMはプロフから",
+  "posted_at": "2026-09-06T03:50:26"
  },
  "mywineclub:10013711": {
   "first_seen": "2026-09-06T03:27:02",
@@ -635,5 +644,275 @@
   "genre_id": "567661",
   "score": 16.89,
   "last_seen": "2026-09-06T03:27:02"
+ },
+ "netbaby:10028506": {
+  "first_seen": "2026-09-06T03:50:26",
+  "themes": [
+   {
+    "date": "2026-09-06",
+    "slot": "night",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 子育て世帯のママ・パパ",
+    "persona": "mama",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "netbaby:10028506",
+  "name": "【1種類を選べる】マミーポコパンツ 大きめで長〜く使える オムツ M L BIG(3個)【マミーポコパンツ】",
+  "price": 5721,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pzd4o.72d3yfe6.g00pzd4o.72d3zc1c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetbaby%2F404272%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnetbaby%2Fi%2F10028506%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00pzd4o.72d3yfe6.g00pzd4o.72d3zc1c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetbaby%2F404272%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/netbaby/cabinet/272/404272.jpg?_ex=600x600",
+  "shop_name": "楽天24 ベビー館",
+  "review_count": 8601,
+  "review_average": 4.79,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "マミーポコパンツ / マミーポコパンツ 大きめで長〜く使える オムツ M L BIG",
+  "genre_id": "205198",
+  "score": 21.82,
+  "last_seen": "2026-09-06T03:50:26"
+ },
+ "kouragumi:10001520": {
+  "first_seen": "2026-09-06T03:50:26",
+  "themes": [
+   {
+    "date": "2026-09-06",
+    "slot": "night",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 子育て世帯のママ・パパ",
+    "persona": "mama",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "kouragumi:10001520",
+  "name": "今夜23:59まで楽天カードでP5倍！お試し送料無料2,490円～ 骨取りサバ切身 1kg 無塩or有塩が選べる♪骨とり 骨なし 鯖 さば 冷凍食品 お中元 ギフト 【P】",
+  "price": 2490,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00r77to.72d3y343.g00r77to.72d3zf2a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkouragumi%2F201175%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkouragumi%2Fi%2F10001520%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00r77to.72d3y343.g00r77to.72d3zf2a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkouragumi%2F201175%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/kouragumi/cabinet/10531638/imgrc0114997850.jpg?_ex=600x600",
+  "shop_name": "越前かに職人甲羅組（DENSHOKU）",
+  "review_count": 18983,
+  "review_average": 4.51,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "フライパンで簡単調理！骨取り済み魚はママも子供も大満足♪",
+  "genre_id": "304578",
+  "score": 21.1,
+  "last_seen": "2026-09-06T03:50:26"
+ },
+ "ringerhut:10000331": {
+  "first_seen": "2026-09-06T03:50:26",
+  "themes": [
+   {
+    "date": "2026-09-06",
+    "slot": "night",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 子育て世帯のママ・パパ",
+    "persona": "mama",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "ringerhut:10000331",
+  "name": "S ＼550円相当！ぎょうざ1パックおまけつき！／【衝撃の26％OFF！！5,200→3,800円！】 リンガーハット 長崎ちゃんぽん 8食 チャンポン 冷凍 簡単 調理 仕送り 麺 スープ セット 国産野菜100％ ぎょうざ 餃子 おまけ 楽天スーパーSALE",
+  "price": 3800,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qc3co.72d3y43d.g00qc3co.72d3z7b0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fringerhut%2Fc128%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fringerhut%2Fi%2F10000331%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00qc3co.72d3y43d.g00qc3co.72d3z7b0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fringerhut%2Fc128%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/ringerhut/cabinet/imgrc0192114339.jpg?_ex=600x600",
+  "shop_name": "リンガーハット楽天市場店",
+  "review_count": 3752,
+  "review_average": 4.72,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "リンガーハット 長崎ちゃんぽん お取り寄せ 送料無料 国産 具付き お取り寄せ 国産野菜 食べ物 食品 冷凍食品 冷凍麺 チャンポン麺 具材 惣菜 具 取り寄せ 非常食 ギフト 夏グルメ",
+  "genre_id": "204864",
+  "score": 21.07,
+  "last_seen": "2026-09-06T03:50:26"
+ },
+ "konnybaby:10000037": {
+  "first_seen": "2026-09-06T03:50:26",
+  "themes": [
+   {
+    "date": "2026-09-06",
+    "slot": "night",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 子育て世帯のママ・パパ",
+    "persona": "mama",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "konnybaby:10000037",
+  "name": "【10%offクーポン使用で3240円~】【SALE4,550円→3,600円】【楽天総合ランキング1位獲得】コニースタイ 送料無料 スタイ 可愛い 360 ローリング コニー Konny ベビーコーデ よだれかけ セット ベビースタイ 抱っこ紐 よだれカバー",
+  "price": 3600,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tlamo.72d3y0fb.g00tlamo.72d3zc14/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkonnybaby%2Fkonny-baby-bib%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkonnybaby%2Fi%2F10000037%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00tlamo.72d3y0fb.g00tlamo.72d3zc14/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkonnybaby%2Fkonny-baby-bib%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/konnybaby/cabinet/ss26/supersale/imgrc0122707834.jpg?_ex=600x600",
+  "shop_name": "コニー楽天市場店",
+  "review_count": 2111,
+  "review_average": 4.78,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "【2026秋の新色登場】【販売累計500万枚突破】360度スタイ 前掛け 丸タイプ スタイセット 可愛い 360° まるいお食事 離乳食 人気 出産祝い ギフト 保育園 新生児 入園準備 男の子 女の子",
+  "genre_id": "407004",
+  "score": 20.88,
+  "last_seen": "2026-09-06T03:50:26"
+ },
+ "kurashikenkou:10225492": {
+  "first_seen": "2026-09-06T03:50:26",
+  "themes": [
+   {
+    "date": "2026-09-06",
+    "slot": "night",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 子育て世帯のママ・パパ",
+    "persona": "mama",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "kurashikenkou:10225492",
+  "name": "＼1枚あたり16.6円〜／【3個】 オムツ M 150枚 L 126枚 ビッグ 108枚 ビッグより大きい 72枚 パンツ ふわもちタッチ 肌に優しい 横モレ 最長12h あんしんGenki！ アイリスオーヤマ さらさら おむつ 紙おむつ Genki *",
+  "price": 2480,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qhoao.72d3y8c9.g00qhoao.72d3zd3f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F1925663%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10225492%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00qhoao.72d3y8c9.g00qhoao.72d3zd3f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F1925663%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/jisyakura2/1925663_.jpg?_ex=600x600",
+  "shop_name": "暮らし健康ネット館",
+  "review_count": 1766,
+  "review_average": 4.65,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "オムツ M 150枚 L 126枚 ビッグ 108枚 ビッグより大きい 72枚 パンツ ふわもちタッチ 肌に優しい 横モレ 最長12h さらさら おむつ 紙おむつ Genki 3個セット アイリスオーヤマ",
+  "genre_id": "205198",
+  "score": 20.27,
+  "last_seen": "2026-09-06T03:50:26"
+ },
+ "netbaby:10028658": {
+  "first_seen": "2026-09-06T03:50:26",
+  "themes": [
+   {
+    "date": "2026-09-06",
+    "slot": "night",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 子育て世帯のママ・パパ",
+    "persona": "mama",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "netbaby:10028658",
+  "name": "【1種類を選べる】パンパース オムツ さらさらケア パンツ(1セット)【パンパース】[さらさらケア]",
+  "price": 8980,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pzd4o.72d3yfe6.g00pzd4o.72d3zc1c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetbaby%2F404313%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnetbaby%2Fi%2F10028658%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00pzd4o.72d3yfe6.g00pzd4o.72d3zc1c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetbaby%2F404313%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/netbaby/cabinet/313/404313.jpg?_ex=600x600",
+  "shop_name": "楽天24 ベビー館",
+  "review_count": 8880,
+  "review_average": 4.82,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "さらさらケア / パンパース / パンパース オムツ さらさらケア パンツ",
+  "genre_id": "205198",
+  "score": 20.23,
+  "last_seen": "2026-09-06T03:50:26"
+ },
+ "fancl-shop:10009163": {
+  "first_seen": "2026-09-06T03:50:26",
+  "themes": [
+   {
+    "date": "2026-09-06",
+    "slot": "night",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 子育て世帯のママ・パパ",
+    "persona": "mama",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "fancl-shop:10009163",
+  "name": "【ポイント5倍 9/4(金) 20:00〜9/11(金) 1:59まで】Mama Lula (ママルラ) 葉酸&鉄プラス 栄養機能食品 ファンケル 公式 葉酸 葉酸サプリ 鉄 鉄分 栄養機能食品 カルシウム ビタミンD ビタミンB1 ビタミンB2 ビタミンB6 ビタミンC マグネシウム 亜鉛 カロテン 乳酸菌",
+  "price": 1500,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00sms5o.72d3yf08.g00sms5o.72d3zdae/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffancl-shop%2F5100%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffancl-shop%2Fi%2F10009163%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00sms5o.72d3yf08.g00sms5o.72d3zdae/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffancl-shop%2F5100%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/fancl-shop/cabinet/sonota/supersale/ss_20260904/5100_p5.jpg?_ex=600x600",
+  "shop_name": "FANCL公式ショップ 楽天市場店",
+  "review_count": 6068,
+  "review_average": 4.66,
+  "affiliate_rate": 4.0,
+  "point_rate": 10,
+  "catchcopy": "妊娠前〜授乳期の女性におススメの葉酸サプリメント",
+  "genre_id": "401196",
+  "score": 20.05,
+  "last_seen": "2026-09-06T03:50:26"
+ },
+ "soyott-camp:10000016": {
+  "first_seen": "2026-09-06T03:50:26",
+  "themes": [
+   {
+    "date": "2026-09-06",
+    "slot": "night",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 子育て世帯のママ・パパ",
+    "persona": "mama",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "soyott-camp:10000016",
+  "name": "【最大2380円OFFクーポン！スーパーセール限定】【楽天999冠】 抗菌99.9％ プレイマット ベビーマット ベビー 赤ちゃん 防水 防音 お昼寝マット クッションマット プレイ マット pvcマット もちもちプレイマット ベビーリビング 床暖房対応 厚手 大判 リバーシブル popomi",
+  "price": 9800,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00ugvgo.72d3yd94.g00ugvgo.72d3zc31/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsoyott-camp%2Fppm-pvc140200%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsoyott-camp%2Fi%2F10000016%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00ugvgo.72d3yd94.g00ugvgo.72d3zc31/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsoyott-camp%2Fppm-pvc140200%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/soyott-camp/cabinet/ss/ppm-pvc140200_off.jpg?_ex=600x600",
+  "shop_name": "popomi（ポポミ）公式 楽天市場店",
+  "review_count": 3022,
+  "review_average": 4.49,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "抗菌 梅雨 プレイマット ベビーマット ベビー 赤ちゃん ラグマット フロアマット 大判 赤ちゃんマット キッズマット ベビープレイマット 新生児 おしゃれ リビング もちもち 折りたたみ",
+  "genre_id": "568495",
+  "score": 19.94,
+  "last_seen": "2026-09-06T03:50:26"
+ },
+ "babycresco:10000583": {
+  "first_seen": "2026-09-06T03:50:26",
+  "themes": [
+   {
+    "date": "2026-09-06",
+    "slot": "night",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 子育て世帯のママ・パパ",
+    "persona": "mama",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "babycresco:10000583",
+  "name": "【SALE期間30%OFF】【公式】アロベビー オーガニックミルクローション（ビッグボトル）3本セット（ALOBABY)【送料無料】【ベビーローション／ベビーオイル／ボディミルク／スキンケア／赤ちゃん／新生児／ベビー／保湿剤／無添加／国産／クリーム／乾燥 肌】【142b】",
+  "price": 10980,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rxp3o.72d3y4f2.g00rxp3o.72d3zb83/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbabycresco%2Falobaby_09b%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbabycresco%2Fi%2F10000583%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00rxp3o.72d3y4f2.g00rxp3o.72d3zb83/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbabycresco%2Falobaby_09b%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/babycresco/cabinet/event/event_thu/imgrc0134060871.jpg?_ex=600x600",
+  "shop_name": "SOLIA SHOP",
+  "review_count": 1068,
+  "review_average": 4.82,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "アロベビー|ALOBABY 待望の大容量サイズが登場！ミルクローション 新生児から使える国産無添加ベビーローション 高保湿乳液で乾燥肌にもおすすめ",
+  "genre_id": "205205",
+  "score": 19.85,
+  "last_seen": "2026-09-06T03:50:26"
+ },
+ "yamagoiida:10000084": {
+  "first_seen": "2026-09-06T03:50:26",
+  "themes": [
+   {
+    "date": "2026-09-06",
+    "slot": "night",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 子育て世帯のママ・パパ",
+    "persona": "mama",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "yamagoiida:10000084",
+  "name": "【11日正午まで半額！最大4,990円OFF】〈有塩〉 骨取りさば 北欧産 訳あり（選べる1kg・2kg）｜骨なし 骨抜き 鯖 天然 ノルウェー産 イギリス産 冷凍 ストック 業務用 食品 離乳食 お弁当 プロテイン DHA EPA 一部地域除き 送料無料",
+  "price": 3490,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tqd5o.72d3y629.g00tqd5o.72d3z50c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamagoiida%2F10000084%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyamagoiida%2Fi%2F10000084%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00tqd5o.72d3y629.g00tqd5o.72d3z50c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamagoiida%2F10000084%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/yamagoiida/cabinet/08906716/img_2026_08_002_50.jpg?_ex=600x600",
+  "shop_name": "骨取り魚の飯田商店",
+  "review_count": 16675,
+  "review_average": 4.77,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "＜有塩製法で原材料は天然さばと食塩のみ＞オリジナルブレンドのさば専用塩で塩漬けしているので、そのまま焼くだけで美味しくお召し上がりいただけます！傷品や規格外サイズの訳あり商品",
+  "genre_id": "304578",
+  "score": 19.69,
+  "last_seen": "2026-09-06T03:50:26"
  }
 }

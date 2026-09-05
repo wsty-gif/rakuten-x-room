@@ -24,3 +24,10 @@
    - 商品URL（ROOM検索用）: https://hb.afl.rakuten.co.jp/hgc/g00tqd5o.72d3y629.g00tqd5o.72d3z50c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamagoiida%2F10000077%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyamagoiida%2Fi%2F10000077%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
    - ROOM用コメント案: 骨取りさば 北欧産 訳あり 骨なし 骨抜き
 
+## 03:50 楽天スーパーSALE（9月）（開催中） × 子育て世帯のママ・パパ
+
+1. **【11日正午まで半額！1kgが3,990円OFF】〈無塩〉骨取り銀さけ 訳あり 鮭（選べる1kg・2kg）｜骨取り鮭 骨**
+   - 価格: 3,990円 / ★4.79（3,786件） / 料率 4.0%
+   - 商品URL（ROOM検索用）: https://hb.afl.rakuten.co.jp/hgc/g00tqd5o.72d3y629.g00tqd5o.72d3z50c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamagoiida%2F10000120%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyamagoiida%2Fi%2F10000148%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - ROOM用コメント案: 骨取り銀さけ 訳あり 骨取り鮭 骨なし
+
