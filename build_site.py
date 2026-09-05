@@ -140,7 +140,7 @@ def layout(title: str, body: str, rel: str, desc: str, canonical: str | None, js
           + '<meta name="twitter:card" content="summary_large_image">')
     ld = "".join(f'<script type="application/ld+json">{json.dumps(j, ensure_ascii=False)}</script>' for j in (jsonld or []))
     # Google Search Console の HTMLタグ認証コード（公開ページに埋め込む値なので秘密ではない）
-    gsc = _env("GSC_VERIFICATION") or "iVy8LKuOONJ_5bkE3cqQXanhX1mp5nj"
+    gsc = _env("GSC_VERIFICATION") or "iVy8LKuOONJ_5bkE3cqQXanhX1mp5nj-hfd78z7YnZ4"
     gsc_tag = f'<meta name="google-site-verification" content="{esc(gsc)}">' if gsc else ""
     navs = [("index.html", "新着", "home"), ("posts/index.html", "記事一覧", "posts"), ("ranking.html", "評価ランキング", "ranking"),
             ("for/index.html", "誰向けで探す", "for"), ("about.html", "選び方と運営者", "about")]
