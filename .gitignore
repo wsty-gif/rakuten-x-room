@@ -1,0 +1,4 @@
+.env
+data/history.json
+output/
+__pycache__/

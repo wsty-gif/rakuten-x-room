@@ -1,0 +1,80 @@
+name: post-to-x
+
+on:
+  schedule:
+    # UTC で指定。日本時間 7:30 / 12:15 / 20:30 に相当（GitHub側で数分〜十数分遅れることがある）
+    - cron: "30 22 * * *"   # JST 07:30 (morning)
+    - cron: "15 3 * * *"    # JST 12:15 (noon)
+    - cron: "30 11 * * *"   # JST 20:30 (night)
+  workflow_dispatch:        # 手動実行ボタン（スマホのGitHubアプリからも押せる）
+    inputs:
+      slot:
+        description: "morning / noon / night"
+        default: "night"
+      dry_run:
+        description: "true なら投稿せず確認だけ"
+        default: "false"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: post
+  cancel-in-progress: false
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    env:
+      TZ: Asia/Tokyo
+      RAKUTEN_APP_ID: ${{ secrets.RAKUTEN_APP_ID }}
+      RAKUTEN_ACCESS_KEY: ${{ secrets.RAKUTEN_ACCESS_KEY }}
+      RAKUTEN_AFFILIATE_ID: ${{ secrets.RAKUTEN_AFFILIATE_ID }}
+      ROOM_URL: ${{ secrets.ROOM_URL }}
+      X_API_KEY: ${{ secrets.X_API_KEY }}
+      X_API_SECRET: ${{ secrets.X_API_SECRET }}
+      X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+      X_ACCESS_TOKEN_SECRET: ${{ secrets.X_ACCESS_TOKEN_SECRET }}
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r requirements.txt
+
+      - name: Decide slot from schedule
+        id: slot
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "slot=${{ github.event.inputs.slot }}" >> "$GITHUB_OUTPUT"
+            echo "dry=${{ github.event.inputs.dry_run }}" >> "$GITHUB_OUTPUT"
+          else
+            case "${{ github.event.schedule }}" in
+              "30 22 * * *") s=morning ;;
+              "15 3 * * *")  s=noon ;;
+              *)             s=night ;;
+            esac
+            echo "slot=$s" >> "$GITHUB_OUTPUT"
+            echo "dry=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Run
+        run: |
+          if [ "${{ steps.slot.outputs.dry }}" = "true" ]; then
+            python main.py run --slot ${{ steps.slot.outputs.slot }} --dry-run
+          else
+            python main.py run --slot ${{ steps.slot.outputs.slot }}
+          fi
+
+      - name: Save history back to repo
+        if: steps.slot.outputs.dry != 'true'
+        run: |
+          git config user.name "rakuten-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add -f data/history.json output/*.md || true
+          git diff --cached --quiet || git commit -m "post: ${{ steps.slot.outputs.slot }} $(date +'%Y-%m-%d %H:%M')"
+          git push

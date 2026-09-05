@@ -1,0 +1,4 @@
+requests>=2.32
+tweepy>=4.15
+anthropic>=1.4
+python-dotenv>=1.0
