@@ -112,7 +112,11 @@ def cmd_run(args, s: Settings):
             print(f"[X 投稿完了] https://x.com/i/web/status/{tweet_id}")
         if threads:
             try:
-                threads_id = threads.post(text, p.image_url)
+                # Threads はリンク付き投稿に追加料金も表示の抑制もないので、CTA行をリンクに置き換える
+                from src.writer import CTA
+                link = s.threads_link_url or s.room_url
+                threads_text = text.replace(CTA, f"▶ {link}") if link else text
+                threads_id = threads.post(threads_text, p.image_url)
                 print(f"[Threads 投稿完了] id={threads_id}")
             except Exception as e:
                 print(f"  [warn] Threads 投稿失敗: {e}")

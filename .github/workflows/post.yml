@@ -2,10 +2,12 @@ name: post-to-x
 
 on:
   schedule:
-    # UTC で指定。日本時間 7:30 / 12:15 / 20:30 に相当（GitHub側で数分〜十数分遅れることがある）
-    - cron: "30 22 * * *"   # JST 07:30 (morning)
-    - cron: "15 3 * * *"    # JST 12:15 (noon)
-    - cron: "30 11 * * *"   # JST 20:30 (night)
+    # UTC で指定。GitHub の定期実行は混雑時に30分〜1時間以上遅れるため、
+    # 混みやすい「毎時0分・30分」を避け、目標時刻より少し早めに設定している。
+    # 目標: 日本時間 7:30 / 12:15 / 20:30 前後
+    - cron: "52 21 * * *"   # JST 06:52 → 7時台に届く想定 (morning)
+    - cron: "48 2 * * *"    # JST 11:48 → 12時台 (noon)
+    - cron: "13 11 * * *"   # JST 20:13 → 20時台 (night)
   workflow_dispatch:        # 手動実行ボタン（スマホのGitHubアプリからも押せる）
     inputs:
       slot:
@@ -37,6 +39,7 @@ jobs:
       X_ACCESS_TOKEN_SECRET: ${{ secrets.X_ACCESS_TOKEN_SECRET }}
       THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
       THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
+      THREADS_LINK_URL: ${{ vars.THREADS_LINK_URL }}
       ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
       NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
     steps:
@@ -56,8 +59,8 @@ jobs:
             echo "dry=${{ github.event.inputs.dry_run }}" >> "$GITHUB_OUTPUT"
           else
             case "${{ github.event.schedule }}" in
-              "30 22 * * *") s=morning ;;
-              "15 3 * * *")  s=noon ;;
+              "52 21 * * *") s=morning ;;
+              "48 2 * * *")  s=noon ;;
               *)             s=night ;;
             esac
             echo "slot=$s" >> "$GITHUB_OUTPUT"

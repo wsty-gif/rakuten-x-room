@@ -144,6 +144,8 @@ class Settings:
 
     threads_access_token: str = field(default_factory=lambda: _env("THREADS_ACCESS_TOKEN"))
     threads_user_id: str = field(default_factory=lambda: _env("THREADS_USER_ID"))
+    # Threads投稿の末尾に貼るリンク。空なら ROOM_URL を使う（ブログにしたいならブログURLを入れる）
+    threads_link_url: str = field(default_factory=lambda: _env("THREADS_LINK_URL"))
 
     anthropic_api_key: str = field(default_factory=lambda: _env("ANTHROPIC_API_KEY"))
 
