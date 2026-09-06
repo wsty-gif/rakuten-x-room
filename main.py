@@ -128,9 +128,10 @@ def cmd_run(args, s: Settings):
                 "item_url": p.item_url, "affiliate_rate": p.affiliate_rate,
                 "text": text, "tweet_id": tweet_id, "threads_id": threads_id, "room_done": False,
             })
-    if not args.mock:
+    # ブログ用データは本番投稿時のみ蓄積する（dry-run で書くと GitHub 側の記録と競合するため）
+    if poster:
         from src.site_store import save_site_items
-        save_site_items(cands, theme, posts if poster else [])
+        save_site_items(cands, theme, posts)
     if poster:
         save_history(history)
         path = write_room_todo(posts, theme.title)
