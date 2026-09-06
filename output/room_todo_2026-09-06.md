@@ -66,3 +66,10 @@
    - 商品URL（ROOM検索用）: https://hb.afl.rakuten.co.jp/hgc/g00qvfko.72d3y442.g00qvfko.72d3z09f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshirtshouse%2Fat101%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshirtshouse%2Fi%2F10000321%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
    - ROOM用コメント案: ワイシャツ 長袖 メンズ 5枚 セット
 
+## 23:08 楽天スーパーSALE（9月）（開催中） × 30代女性（暮らし・時短・コスパ）
+
+1. **【1種類を選べる】アタック 抗菌EX 洗濯洗剤 詰替 超特大サイズ 梱販売用(6袋入)【アタック】**
+   - 価格: 6,171円 / ★4.68（4,184件） / 料率 3.0%
+   - 商品URL（ROOM検索用）: https://hb.afl.rakuten.co.jp/hgc/g00r136o.72d3y0bd.g00r136o.72d3za29/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F404889%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11128644%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - ROOM用コメント案: アタック 抗菌EX 洗濯洗剤 詰替
+
