@@ -45,3 +45,10 @@
    - 商品URL（ROOM検索用）: https://hb.afl.rakuten.co.jp/hgc/g00u7rbo.72d3y836.g00u7rbo.72d3z3d2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyunth%2F10000000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyunth%2Fi%2F10000000%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
    - ROOM用コメント案: Yunth 生ビタミンC 美白美容液
 
+## 09:10 楽天スーパーSALE（9月）（開催中） × 40代男性（家族・晩酌・車）
+
+1. **9/4 20:00〜9/10までP8倍 【最強配送】【送料無料】 アサヒ スーパードライ 350ml×2ケース/48本 **
+   - 価格: 9,495円 / ★4.83（3,560件） / 料率 4.0%
+   - 商品URL（ROOM検索用）: https://hb.afl.rakuten.co.jp/hgc/g00rryxo.72d3y4c5.g00rryxo.72d3zf38/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fliquor-boss%2F828c2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fliquor-boss%2Fi%2F10003265%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - ROOM用コメント案: 20:00〜9 アサヒ スーパードライ｜楽天市場値に挑戦！
+
