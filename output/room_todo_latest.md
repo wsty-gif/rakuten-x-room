@@ -59,3 +59,10 @@
    - 商品URL（ROOM検索用）: https://hb.afl.rakuten.co.jp/hgc/g00qx1go.72d3yce0.g00qx1go.72d3zf77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashi-zakka%2Fjin-603%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashi-zakka%2Fi%2F10002471%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
    - ROOM用コメント案: 1～9 13 ストロー整列！sakuraku
 
+## 16:19 楽天スーパーSALE（9月）（開催中） × 20代男性（ガジェット・一人暮らし）
+
+1. **⇒ポイント5倍!! 【1枚あたり1,528円】 ワイシャツ 長袖 メンズ 5枚 セット ノーアイロン ストレッチ カッタ**
+   - 価格: 7,640円 / ★4.32（12,587件） / 料率 4.0%
+   - 商品URL（ROOM検索用）: https://hb.afl.rakuten.co.jp/hgc/g00qvfko.72d3y442.g00qvfko.72d3z09f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshirtshouse%2Fat101%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshirtshouse%2Fi%2F10000321%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - ROOM用コメント案: ワイシャツ 長袖 メンズ 5枚 セット
+

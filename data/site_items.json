@@ -85,6 +85,13 @@
     "theme": "楽天スーパーSALE（9月）（開催中） × 30代女性（暮らし・時短・コスパ）",
     "persona": "30s_woman",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-09-06",
+    "slot": "noon",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "vtcosmetic-official:10000829",
@@ -100,8 +107,8 @@
   "point_rate": 2,
   "catchcopy": "《楽天1位》1日1枚！大容量フェイスパックセット",
   "genre_id": "503020",
-  "score": 17.88,
-  "last_seen": "2026-09-06T12:46:19"
+  "score": 17.58,
+  "last_seen": "2026-09-06T16:19:14"
  },
  "yayoi-cosme:10014729": {
   "first_seen": "2026-09-06T02:44:54",
@@ -742,6 +749,13 @@
     "theme": "楽天スーパーSALE（9月）（開催中） × 30代女性（暮らし・時短・コスパ）",
     "persona": "30s_woman",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-09-06",
+    "slot": "noon",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "netbaby:10028506",
@@ -751,14 +765,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00pzd4o.72d3yfe6.g00pzd4o.72d3zc1c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetbaby%2F404272%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/netbaby/cabinet/272/404272.jpg?_ex=600x600",
   "shop_name": "楽天24 ベビー館",
-  "review_count": 8607,
+  "review_count": 8611,
   "review_average": 4.79,
   "affiliate_rate": 4.0,
   "point_rate": 1,
   "catchcopy": "マミーポコパンツ / マミーポコパンツ 大きめで長〜く使える オムツ M L BIG",
   "genre_id": "205198",
-  "score": 17.52,
-  "last_seen": "2026-09-06T12:46:19"
+  "score": 17.92,
+  "last_seen": "2026-09-06T16:19:14"
  },
  "kouragumi:10001520": {
   "first_seen": "2026-09-06T03:50:26",
@@ -769,23 +783,30 @@
     "theme": "楽天スーパーSALE（9月）（開催中） × 子育て世帯のママ・パパ",
     "persona": "mama",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-09-06",
+    "slot": "noon",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "kouragumi:10001520",
-  "name": "今夜23:59まで楽天カードでP5倍！お試し送料無料2,490円～ 骨取りサバ切身 1kg 無塩or有塩が選べる♪骨とり 骨なし 鯖 さば 冷凍食品 お中元 ギフト 【P】",
+  "name": "お試し送料無料2,490円～ 骨取りサバ切身 1kg 無塩or有塩が選べる♪骨とり 骨なし 鯖 さば 冷凍食品 お中元 ギフト 【P】",
   "price": 2490,
   "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00r77to.72d3y343.g00r77to.72d3zf2a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkouragumi%2F201175%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkouragumi%2Fi%2F10001520%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00r77to.72d3y343.g00r77to.72d3zf2a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkouragumi%2F201175%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/kouragumi/cabinet/10531638/imgrc0114997850.jpg?_ex=600x600",
   "shop_name": "越前かに職人甲羅組（DENSHOKU）",
-  "review_count": 18983,
+  "review_count": 19015,
   "review_average": 4.51,
   "affiliate_rate": 4.0,
   "point_rate": 1,
   "catchcopy": "フライパンで簡単調理！骨取り済み魚はママも子供も大満足♪",
   "genre_id": "304578",
-  "score": 21.1,
-  "last_seen": "2026-09-06T03:50:26"
+  "score": 16.7,
+  "last_seen": "2026-09-06T16:19:14"
  },
  "ringerhut:10000331": {
   "first_seen": "2026-09-06T03:50:26",
@@ -1338,6 +1359,13 @@
     "theme": "楽天スーパーSALE（9月）（開催中） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-09-06",
+    "slot": "noon",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "pricon:10003151",
@@ -1347,14 +1375,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00qvpko.72d3yd83.g00qvpko.72d3z3a5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpricon%2Fk_jj_oa90z0_02_h%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/pricon/cabinet/item-thumb/jj/cp/k_jj_oa90_02_p3.jpg?_ex=600x600",
   "shop_name": "アットレンズ",
-  "review_count": 757,
+  "review_count": 759,
   "review_average": 4.75,
   "affiliate_rate": 4.0,
   "point_rate": 3,
   "catchcopy": "「楽天ショップ・オブ・ザ・イヤー2025」医薬品・コンタクト・介護ジャンル大賞店舗！",
   "genre_id": "563999",
-  "score": 17.32,
-  "last_seen": "2026-09-06T09:10:43"
+  "score": 17.72,
+  "last_seen": "2026-09-06T16:19:14"
  },
  "larutan:10000154": {
   "first_seen": "2026-09-06T09:10:43",
@@ -1681,5 +1709,223 @@
   "genre_id": "205582",
   "score": 17.41,
   "last_seen": "2026-09-06T12:46:19"
+ },
+ "shirtshouse:10000321": {
+  "first_seen": "2026-09-06T16:19:14",
+  "themes": [
+   {
+    "date": "2026-09-06",
+    "slot": "noon",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "shirtshouse:10000321",
+  "name": "⇒ポイント5倍!! 【1枚あたり1,528円】 ワイシャツ 長袖 メンズ 5枚 セット ノーアイロン ストレッチ カッターシャツ Yシャツ 安い ノンアイロン ビジネス シャツ ドレスシャツ 大きいサイズ ニット ワイシャツ まとめ買い at101 宅配便のみ 楽物自動出荷",
+  "price": 7640,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qvfko.72d3y442.g00qvfko.72d3z09f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshirtshouse%2Fat101%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshirtshouse%2Fi%2F10000321%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00qvfko.72d3y442.g00qvfko.72d3z09f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshirtshouse%2Fat101%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/shirtshouse/cabinet/syouhin8/at101-2-test11.jpg?_ex=600x600",
+  "shop_name": "アトリエ365 -ワイシャツ＆通勤服-",
+  "review_count": 12587,
+  "review_average": 4.32,
+  "affiliate_rate": 4.0,
+  "point_rate": 5,
+  "catchcopy": "年間ランキング受賞 5枚 SET ワイシャツ yシャツ カッターシャツ ノンアイロン ストレッチ ニットシャツ 長袖 メンズ 大きいサイズ 就活 ノーアイロン 3L 4L 5L ct01 ct03 ct04 父の日",
+  "genre_id": "206363",
+  "score": 18.46,
+  "last_seen": "2026-09-06T16:19:14",
+  "posted_text": "#PR コスパで選ぶなら結論これ\nワイシャツ 長袖 メンズ 5枚 セット\n★4.32・レビュー12,587件\n7,640円（P5倍で実質7,258円）\n#楽天購入品 #ガジェット\n▶ROOMはプロフから",
+  "posted_at": "2026-09-06T16:19:14"
+ },
+ "r-aoki:10000523": {
+  "first_seen": "2026-09-06T16:19:14",
+  "themes": [
+   {
+    "date": "2026-09-06",
+    "slot": "noon",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "r-aoki:10000523",
+  "name": "【今ならクーポンで5,593円～】30%OFF リカバリーウェア 疲労回復 AOKI公式 リカバリーケアプラス 五分袖 七分丈パンツ 疲労回復ウェア 血行促進 家庭用遠赤外線血行促進用衣 ルームウェア パジャマ 上下 セット 男女兼用 敬老の日 ギフト",
+  "price": 7990,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00t1cyo.72d3yce0.g00t1cyo.72d3z999/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fr-aoki%2F2312001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fr-aoki%2Fi%2F10000523%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00t1cyo.72d3yce0.g00t1cyo.72d3z999/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fr-aoki%2F2312001%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_gold/r-aoki/01_img/lp/2312001/lp_01n2zz.jpg?_ex=600x600",
+  "shop_name": "AOKIオンライン 楽天市場店",
+  "review_count": 1676,
+  "review_average": 4.45,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "着て寝るだけで疲労回復！男女兼用だからご夫婦でお揃いも◎大切な方へのいたわりギフトに大人気の快眠ルームウェア。「着て休む」新習慣を始めませんか？",
+  "genre_id": "303855",
+  "score": 17.64,
+  "last_seen": "2026-09-06T16:19:14"
+ },
+ "toyomarket:10000219": {
+  "first_seen": "2026-09-06T16:19:14",
+  "themes": [
+   {
+    "date": "2026-09-06",
+    "slot": "noon",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "toyomarket:10000219",
+  "name": "【ポイントアップ】 VITAS バイタス ホエイ プロテイン 100 WPCプロテイン 1000g 700g リンゴヨーグルト カフェラテ ピーチヨーグルト ブルーベリーヨーグルト キウイ マンゴー",
+  "price": 5480,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00taino.72d3ya2e.g00taino.72d3zcac/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftoyomarket%2Fvitas006%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftoyomarket%2Fi%2F10000219%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00taino.72d3ya2e.g00taino.72d3zcac/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftoyomarket%2Fvitas006%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/toyomarket/cabinet/protein/imgrc0152839430.jpg?_ex=600x600",
+  "shop_name": "VITAS 楽天市場店",
+  "review_count": 5148,
+  "review_average": 4.77,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "「美味しさ」と「含有成分」の両方にこだわった理想のカラダをつくるWhey Protein",
+  "genre_id": "567617",
+  "score": 17.53,
+  "last_seen": "2026-09-06T16:19:14"
+ },
+ "haruyama:10111436": {
+  "first_seen": "2026-09-06T16:19:14",
+  "themes": [
+   {
+    "date": "2026-09-06",
+    "slot": "noon",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "haruyama:10111436",
+  "name": "【15%OFFクーポン：スーパーSALE限定】ワイシャツ 長袖 シャツ ノーアイロン ノンアイロン アイシャツ i-shirt メンズ はるやま 通年 形態安定 吸汗速乾 ストレッチ 日本製生地 ボタンダウン ワイドカラー カッターシャツ 防臭 リクルート 就活 標準体 ビジネス Yシャツ 白",
+  "price": 3790,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pix8o.72d3yea1.g00pix8o.72d3z83b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fharuyama%2Fhm-ish-002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fharuyama%2Fi%2F10111436%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00pix8o.72d3yea1.g00pix8o.72d3z83b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fharuyama%2Fhm-ish-002%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/haruyama/cabinet/bc/event_thumbnail_2/hm-ish-002_ev.jpg?_ex=600x600",
+  "shop_name": "はるやま 楽天市場店",
+  "review_count": 1883,
+  "review_average": 4.56,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "ワイシャツ 長袖 形態安定 完全ノーアイロン ワイシャツ Yシャツ カッターシャツ アイシャツ ストレッチ ビジネス 標準体 選べる15種類 ボタンダウン ワイドカラー 送料無料 はるやま",
+  "genre_id": "206363",
+  "score": 17.44,
+  "last_seen": "2026-09-06T16:19:14"
+ },
+ "starfocus:10002278": {
+  "first_seen": "2026-09-06T16:19:14",
+  "themes": [
+   {
+    "date": "2026-09-06",
+    "slot": "noon",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "starfocus:10002278",
+  "name": "【9/5~9/6 20%OFF】SDカードリーダー iPhone17 対応 1TB 写真 動画 バックアップ データ 移行 保存 外付け USBメモリ 専用アプリ不要 スマホ Type-C Lightning ライトニング タイプC Android iPad 日本語取説付 1年保証 スターフォーカス正規品[2025楽天年間1位]",
+  "price": 2864,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00ruz0o.72d3ycf9.g00ruz0o.72d3z98e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstarfocus%2Fi-flash-device-hd%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fstarfocus%2Fi%2F10002278%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00ruz0o.72d3ycf9.g00ruz0o.72d3z98e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstarfocus%2Fi-flash-device-hd%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/starfocus/cabinet/sm/rakuten_sale/ifd/ifd_20.jpg?_ex=600x600",
+  "shop_name": "スマホメモリ専門スターフォーカス",
+  "review_count": 56082,
+  "review_average": 4.47,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "【レビューで次回のSDカード500円OFF】子どもの写真で容量不足のママへ。専用アプリ不要でiPhone 6s〜17対応。大切な思い出を丸ごとバックアップ、スマホ写真の整理に最適！",
+  "genre_id": "408453",
+  "score": 17.18,
+  "last_seen": "2026-09-06T16:19:14"
+ },
+ "irisplaza-r:10170526": {
+  "first_seen": "2026-09-06T16:19:14",
+  "themes": [
+   {
+    "date": "2026-09-06",
+    "slot": "noon",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "irisplaza-r:10170526",
+  "name": "＼1袋あたり2,093円〜！／【令和7年産100％使用】白米 無洗米 和の輝き ブレンド米 10kg (5kg×2袋) 15kg (5kg×3袋) 密封新鮮パック 脱酸素剤入り 米 お米 国産 10キロ 15キロ 低温製法米 送料無料 アイリスオーヤマ",
+  "price": 4280,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00t3zto.72d3y505.g00t3zto.72d3z9db/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Firisplaza-r%2F113800%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Firisplaza-r%2Fi%2F10170526%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00t3zto.72d3y505.g00t3zto.72d3z9db/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Firisplaza-r%2F113800%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/irisplaza-r/cabinet/12351902/imgrc0120697447.jpg?_ex=600x600",
+  "shop_name": "アイリスオーヤマ公式 楽天市場店",
+  "review_count": 7087,
+  "review_average": 4.69,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "米 お米 コメ ライス ごはん ご飯 白飯 白米 ブランド米 ブレンド米 10kg 15kg 低温製法 コールド アイリスオーヤマ 低温製法米 アイリスオーヤマ",
+  "genre_id": "201184",
+  "score": 16.8,
+  "last_seen": "2026-09-06T16:19:14"
+ },
+ "r-aoki:10000565": {
+  "first_seen": "2026-09-06T16:19:14",
+  "themes": [
+   {
+    "date": "2026-09-06",
+    "slot": "noon",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "r-aoki:10000565",
+  "name": "【上半期ランキング1位獲得】リカバリーウェア 疲労回復 AOKI公式 リカバリーケアプラス 上下セット 2点で10%OFF ルームウェア パジャマ リラックス 血行促進 遠赤外線 家庭用 医療機器認定 ゆったり メンズ レディース 男女兼用 敬老の日 ギフト 春 夏 秋 冬",
+  "price": 8091,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00t1cyo.72d3yce0.g00t1cyo.72d3z999/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fr-aoki%2F2212006a%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fr-aoki%2Fi%2F10000565%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00t1cyo.72d3yce0.g00t1cyo.72d3z999/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fr-aoki%2F2212006a%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/r-aoki/cabinet/fujita/2212006a_2026_r/2212006a_thz.jpg?_ex=600x600",
+  "shop_name": "AOKIオンライン 楽天市場店",
+  "review_count": 3207,
+  "review_average": 4.43,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "25年年間ランキング＆26年上半期ランキング1位W受賞の確かな実力！一般医療機器に認定されたスーツ職人仕立てのウェアが、頑張る体を優しく包み込み、毎日の疲労回復をサポート。",
+  "genre_id": "303855",
+  "score": 16.5,
+  "last_seen": "2026-09-06T16:19:14"
+ },
+ "aruge:10065522": {
+  "first_seen": "2026-09-06T16:19:14",
+  "themes": [
+   {
+    "date": "2026-09-06",
+    "slot": "noon",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "aruge:10065522",
+  "name": "＼ポイント5倍★楽天スーパーSALE／ チノパン メンズ 超伸縮 チノパンツ 伸縮自在ストレッチ ゴルフ ゴルフウェア ゴルフパンツ ハイテンションストレッチ イージー パンツ スキニー【D2G】【送料無料】【ネコポス】",
+  "price": 2198,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qc3eo.72d3yb80.g00qc3eo.72d3z414/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faruge%2Fd2g%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faruge%2Fi%2F10065522%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00qc3eo.72d3yb80.g00qc3eo.72d3z414/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faruge%2Fd2g%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/aruge/cabinet/3/d2gx1bc.jpg?_ex=600x600",
+  "shop_name": "Aruge",
+  "review_count": 4045,
+  "review_average": 4.25,
+  "affiliate_rate": 4.0,
+  "point_rate": 5,
+  "catchcopy": "スーパーハイテンションストレッチ素材を使用した伸縮性バツグンのメンズチノパンツ！スマホポケット付き！",
+  "genre_id": "558846",
+  "score": 16.41,
+  "last_seen": "2026-09-06T16:19:14"
  }
 }
