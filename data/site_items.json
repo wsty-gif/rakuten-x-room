@@ -92,23 +92,30 @@
     "theme": "楽天スーパーSALE（9月）（開催中） × 20代男性（ガジェット・一人暮らし）",
     "persona": "20s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-09-07",
+    "slot": "morning",
+    "theme": "敬老の日（14日後） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
    }
   ],
   "item_code": "vtcosmetic-official:10000829",
-  "name": "【6日限定クーポン】＼最大51%OFF+ギフト+送料無料／★総合ランキング1位【VT 大容量 パック 2種セット】スージング シート マスク ( PDRN / CICA / ビタミンC アスタキサンチン /アイス/ レチノール / コラーゲン / エクソソーム / TXトーニング ) シカ アゼライン酸",
+  "name": "＼最大51%OFF+ギフト+送料無料／★総合ランキング1位【VT 大容量 パック 2種セット】スージング シート マスク ( PDRN / CICA / ビタミンC アスタキサンチン /アイス/ レチノール / コラーゲン / エクソソーム / TXトーニング ) シカ アゼライン酸",
   "price": 2683,
   "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tdwho.72d3y76b.g00tdwho.72d3z7bf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvtcosmetic-official%2Fsoothingmask_set_adsa%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fvtcosmetic-official%2Fi%2F10000829%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00tdwho.72d3y76b.g00tdwho.72d3z7bf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvtcosmetic-official%2Fsoothingmask_set_adsa%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/vtcosmetic-official/cabinet/soothingmask_set/263q_700_51.jpg?_ex=600x600",
   "shop_name": "VTcosmetic楽天市場店",
-  "review_count": 8652,
+  "review_count": 8653,
   "review_average": 4.69,
   "affiliate_rate": 4.0,
   "point_rate": 2,
   "catchcopy": "《楽天1位》1日1枚！大容量フェイスパックセット",
   "genre_id": "503020",
-  "score": 17.58,
-  "last_seen": "2026-09-06T16:19:14"
+  "score": 18.78,
+  "last_seen": "2026-09-07T08:15:12"
  },
  "yayoi-cosme:10014729": {
   "first_seen": "2026-09-06T02:44:54",
@@ -756,6 +763,13 @@
     "theme": "楽天スーパーSALE（9月）（開催中） × 30代女性（暮らし・時短・コスパ）",
     "persona": "30s_woman",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-09-07",
+    "slot": "morning",
+    "theme": "敬老の日（14日後） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
    }
   ],
   "item_code": "netbaby:10028506",
@@ -765,14 +779,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00pzd4o.72d3yfe6.g00pzd4o.72d3zc1c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetbaby%2F404272%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/netbaby/cabinet/272/404272.jpg?_ex=600x600",
   "shop_name": "楽天24 ベビー館",
-  "review_count": 8611,
+  "review_count": 8614,
   "review_average": 4.79,
   "affiliate_rate": 4.0,
   "point_rate": 1,
   "catchcopy": "マミーポコパンツ / マミーポコパンツ 大きめで長〜く使える オムツ M L BIG",
   "genre_id": "205198",
   "score": 19.02,
-  "last_seen": "2026-09-06T23:08:23"
+  "last_seen": "2026-09-07T08:15:12"
  },
  "kouragumi:10001520": {
   "first_seen": "2026-09-06T03:50:26",
@@ -790,6 +804,13 @@
     "theme": "楽天スーパーSALE（9月）（開催中） × 20代男性（ガジェット・一人暮らし）",
     "persona": "20s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-09-07",
+    "slot": "morning",
+    "theme": "敬老の日（14日後） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
    }
   ],
   "item_code": "kouragumi:10001520",
@@ -799,14 +820,16 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00r77to.72d3y343.g00r77to.72d3zf2a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkouragumi%2F201175%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/kouragumi/cabinet/10531638/imgrc0114997850.jpg?_ex=600x600",
   "shop_name": "越前かに職人甲羅組（DENSHOKU）",
-  "review_count": 19015,
+  "review_count": 19029,
   "review_average": 4.51,
   "affiliate_rate": 4.0,
   "point_rate": 1,
   "catchcopy": "フライパンで簡単調理！骨取り済み魚はママも子供も大満足♪",
   "genre_id": "304578",
-  "score": 16.7,
-  "last_seen": "2026-09-06T16:19:14"
+  "score": 22.9,
+  "last_seen": "2026-09-07T08:15:12",
+  "posted_text": "#PR 外さないプレゼントはこれ\n骨取りサバ切身 1kg 無塩or有塩が選べる\n★4.51・レビュー19,029件\n2,490円・送料無料\n#楽天購入品 #暮らしを整える\n▶ROOMはプロフから",
+  "posted_at": "2026-09-07T08:15:12"
  },
  "ringerhut:10000331": {
   "first_seen": "2026-09-06T03:50:26",
@@ -817,6 +840,13 @@
     "theme": "楽天スーパーSALE（9月）（開催中） × 子育て世帯のママ・パパ",
     "persona": "mama",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-09-07",
+    "slot": "morning",
+    "theme": "敬老の日（14日後） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
    }
   ],
   "item_code": "ringerhut:10000331",
@@ -826,14 +856,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00qc3co.72d3y43d.g00qc3co.72d3z7b0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fringerhut%2Fc128%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/ringerhut/cabinet/imgrc0192114339.jpg?_ex=600x600",
   "shop_name": "リンガーハット楽天市場店",
-  "review_count": 3752,
+  "review_count": 3753,
   "review_average": 4.72,
   "affiliate_rate": 4.0,
   "point_rate": 1,
   "catchcopy": "リンガーハット 長崎ちゃんぽん お取り寄せ 送料無料 国産 具付き お取り寄せ 国産野菜 食べ物 食品 冷凍食品 冷凍麺 チャンポン麺 具材 惣菜 具 取り寄せ 非常食 ギフト 夏グルメ",
   "genre_id": "204864",
-  "score": 21.07,
-  "last_seen": "2026-09-06T03:50:26"
+  "score": 21.67,
+  "last_seen": "2026-09-07T08:15:12"
  },
  "konnybaby:10000037": {
   "first_seen": "2026-09-06T03:50:26",
@@ -1006,6 +1036,13 @@
     "theme": "楽天スーパーSALE（9月）（開催中） × 子育て世帯のママ・パパ",
     "persona": "mama",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-09-07",
+    "slot": "morning",
+    "theme": "敬老の日（14日後） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
    }
   ],
   "item_code": "yamagoiida:10000084",
@@ -1015,14 +1052,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00tqd5o.72d3y629.g00tqd5o.72d3z50c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamagoiida%2F10000084%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/yamagoiida/cabinet/08906716/img_2026_08_002_50.jpg?_ex=600x600",
   "shop_name": "骨取り魚の飯田商店",
-  "review_count": 16675,
+  "review_count": 16676,
   "review_average": 4.77,
   "affiliate_rate": 4.0,
   "point_rate": 1,
   "catchcopy": "＜有塩製法で原材料は天然さばと食塩のみ＞オリジナルブレンドのさば専用塩で塩漬けしているので、そのまま焼くだけで美味しくお召し上がりいただけます！傷品や規格外サイズの訳あり商品",
   "genre_id": "304578",
-  "score": 19.69,
-  "last_seen": "2026-09-06T03:50:26"
+  "score": 19.19,
+  "last_seen": "2026-09-07T08:15:12"
  },
  "designers-and-labo:10003495": {
   "first_seen": "2026-09-06T04:02:03",
@@ -1858,6 +1895,13 @@
     "theme": "楽天スーパーSALE（9月）（開催中） × 20代男性（ガジェット・一人暮らし）",
     "persona": "20s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-09-07",
+    "slot": "morning",
+    "theme": "敬老の日（14日後） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
    }
   ],
   "item_code": "irisplaza-r:10170526",
@@ -1867,14 +1911,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00t3zto.72d3y505.g00t3zto.72d3z9db/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Firisplaza-r%2F113800%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/irisplaza-r/cabinet/12351902/imgrc0120697447.jpg?_ex=600x600",
   "shop_name": "アイリスオーヤマ公式 楽天市場店",
-  "review_count": 7087,
+  "review_count": 7119,
   "review_average": 4.69,
   "affiliate_rate": 4.0,
   "point_rate": 1,
   "catchcopy": "米 お米 コメ ライス ごはん ご飯 白飯 白米 ブランド米 ブレンド米 10kg 15kg 低温製法 コールド アイリスオーヤマ 低温製法米 アイリスオーヤマ",
   "genre_id": "201184",
-  "score": 16.8,
-  "last_seen": "2026-09-06T16:19:14"
+  "score": 18.9,
+  "last_seen": "2026-09-07T08:15:12"
  },
  "r-aoki:10000565": {
   "first_seen": "2026-09-06T16:19:14",
@@ -2118,5 +2162,167 @@
   "genre_id": "215927",
   "score": 18.01,
   "last_seen": "2026-09-06T23:08:23"
+ },
+ "tarunoaji:10000405": {
+  "first_seen": "2026-09-07T08:15:12",
+  "themes": [
+   {
+    "date": "2026-09-07",
+    "slot": "morning",
+    "theme": "敬老の日（14日後） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
+   }
+  ],
+  "item_code": "tarunoaji:10000405",
+  "name": "塩昆布 無添加 化学調味料不使用『3袋セット塩昆布』【メール便1通2セットまで】メール便専用 塩こんぶ しおこんぶ 贈り物 食べ物 ギフト お取り寄せ 食品 グルメ 樽の味 人気 おすすめ　時短",
+  "price": 2280,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rk7co.72d3y615.g00rk7co.72d3zcf3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftarunoaji%2Fshio-konbu_03%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftarunoaji%2Fi%2F10000405%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00rk7co.72d3y615.g00rk7co.72d3zcf3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftarunoaji%2Fshio-konbu_03%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/tarunoaji/cabinet/konbu-a.jpg?_ex=600x600",
+  "shop_name": "自然の食材と発酵で健幸に 樽の味",
+  "review_count": 1448,
+  "review_average": 4.57,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "塩処・播州赤穂の塩を使い丁寧に仕上げました。 上品な塩の辛さと昆布の旨味を引き出した無添加の逸品です。",
+  "genre_id": "566630",
+  "score": 20.1,
+  "last_seen": "2026-09-07T08:15:12"
+ },
+ "jcrops:10001511": {
+  "first_seen": "2026-09-07T08:15:12",
+  "themes": [
+   {
+    "date": "2026-09-07",
+    "slot": "morning",
+    "theme": "敬老の日（14日後） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
+   }
+  ],
+  "item_code": "jcrops:10001511",
+  "name": "ポイント5倍 9/11(金)1：59まで 令和7年産 福島県産ひとめぼれ 白米 送料無料 5kg 10kg 15kg 20kg 30kg 米 お米 白米 コメ こめ 白米 5kg 白米 10kg 白米 15kg 白米 20kg 白米 30kg",
+  "price": 2499,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00plxio.72d3yae3.g00plxio.72d3z359/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjcrops%2F10001511%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjcrops%2Fi%2F10001511%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00plxio.72d3yae3.g00plxio.72d3z359/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjcrops%2F10001511%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/jcrops/cabinet/157.jpg?_ex=600x600",
+  "shop_name": "会津CROPS米直販・楽天市場店",
+  "review_count": 20870,
+  "review_average": 4.74,
+  "affiliate_rate": 4.0,
+  "point_rate": 5,
+  "catchcopy": "楽天SOY2025米雑穀部門大賞受賞！ レビュー総数18,900件越え(2026.03.24時点) 総合評価4.73(2026.03.24時点)",
+  "genre_id": "201184",
+  "score": 19.85,
+  "last_seen": "2026-09-07T08:15:12"
+ },
+ "imokuniya:10000012": {
+  "first_seen": "2026-09-07T08:15:12",
+  "themes": [
+   {
+    "date": "2026-09-07",
+    "slot": "morning",
+    "theme": "敬老の日（14日後） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
+   }
+  ],
+  "item_code": "imokuniya:10000012",
+  "name": "【20%OFF＆150円OFF配布中！ 9/5 23:59迄】 ギフト 干し芋 茨城県産 紅はるか 訳あり 1kg 食べ物 和菓子 おやつ 送料無料 国産 無添加 切り落とし さつまいも スイーツ ダイエット お菓子 和スイーツ お祝い N1",
+  "price": 2392,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tzq1o.72d3yc82.g00tzq1o.72d3z414/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fimokuniya%2F10000012%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fimokuniya%2Fi%2F10000012%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00tzq1o.72d3yc82.g00tzq1o.72d3z414/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fimokuniya%2F10000012%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/imokuniya/cabinet/08486723/tb3/0904_cptb_n1.jpg?_ex=600x600",
+  "shop_name": "芋國屋",
+  "review_count": 36552,
+  "review_average": 4.56,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "訳あり干し芋 自然食品 ほし芋 ほしいも サツマイモ さつま芋 薩摩芋 内祝い 誕生日 食物繊維 美腸 お芋スイーツ お取り寄せスイーツ 干しいも 食品 プレゼント ワケあり 60代 70代 80代",
+  "genre_id": "304719",
+  "score": 19.37,
+  "last_seen": "2026-09-07T08:15:12"
+ },
+ "komatirain:10000001": {
+  "first_seen": "2026-09-07T08:15:12",
+  "themes": [
+   {
+    "date": "2026-09-07",
+    "slot": "morning",
+    "theme": "敬老の日（14日後） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
+   }
+  ],
+  "item_code": "komatirain:10000001",
+  "name": "【売り尽くし！15％～20％OFF！】【お助け米】令和7年産 あきたこまち 家計お助け米 農家直送便 5kg 10kg (5kg×2袋) 20kg (5kg×4袋) 27kg 米びつ当番【天鷹唐辛子】プレゼント付き",
+  "price": 2995,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00thooo.72d3yc21.g00thooo.72d3z7e9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkomatirain%2F10000001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkomatirain%2Fi%2F10000001%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00thooo.72d3yc21.g00thooo.72d3z7e9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkomatirain%2F10000001%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/komatirain/cabinet/12121955/otasuke_sku.jpg?_ex=600x600",
+  "shop_name": "こまちライン",
+  "review_count": 6210,
+  "review_average": 4.63,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "【お助け米】令和7年産あきたこまち5kg〜27kg｜家計にやさしい農家直送米｜冷めても美味しくお弁当に最適｜受注精米・米びつ当番付き・送料無料",
+  "genre_id": "201184",
+  "score": 19.13,
+  "last_seen": "2026-09-07T08:15:12"
+ },
+ "kouragumi:10001552": {
+  "first_seen": "2026-09-07T08:15:12",
+  "themes": [
+   {
+    "date": "2026-09-07",
+    "slot": "morning",
+    "theme": "敬老の日（14日後） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
+   }
+  ],
+  "item_code": "kouragumi:10001552",
+  "name": "お試し送料無料2,990円～「有塩or無塩」「骨ありor骨なし」が選べる！⇒脂のり抜群の銀鮭 切り身 業務用 1kg お試し お中元 ギフト プレゼント 【P】",
+  "price": 2990,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00r77to.72d3y343.g00r77to.72d3zf2a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkouragumi%2F210069%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkouragumi%2Fi%2F10001552%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00r77to.72d3y343.g00r77to.72d3zf2a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkouragumi%2F210069%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/kouragumi/cabinet/10531638/imgrc0114997933.jpg?_ex=600x600",
+  "shop_name": "越前かに職人甲羅組（DENSHOKU）",
+  "review_count": 4888,
+  "review_average": 4.64,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "加工の際に出たお得な訳あり品(打ち身・不揃い・色飛び)メガ盛り食べ放題♪",
+  "genre_id": "207774",
+  "score": 19.0,
+  "last_seen": "2026-09-07T08:15:12"
+ },
+ "jcrops:10008581": {
+  "first_seen": "2026-09-07T08:15:12",
+  "themes": [
+   {
+    "date": "2026-09-07",
+    "slot": "morning",
+    "theme": "敬老の日（14日後） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
+   }
+  ],
+  "item_code": "jcrops:10008581",
+  "name": "ポイント5倍 9/11(金)1：59まで 白米は8年産ブレンド きらっとごはん 白米 脱酸素剤入り白米 無洗米 玄米 送料無料 5kg 10kg 15kg 20kg 30kg 60kg 120kg 米 お米 白米 無洗米 玄米 コメ こめ 白米 5kg 白米 10kg 白米 15kg 白米 20kg 白米 30kg 白米 60kg 白米 120kg",
+  "price": 2599,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00plxio.72d3yae3.g00plxio.72d3z359/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjcrops%2F4562129938344-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjcrops%2Fi%2F10008581%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00plxio.72d3yae3.g00plxio.72d3z359/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjcrops%2F4562129938344-2%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/jcrops/cabinet/2-ra.jpg?_ex=600x600",
+  "shop_name": "会津CROPS米直販・楽天市場店",
+  "review_count": 7803,
+  "review_average": 4.78,
+  "affiliate_rate": 4.0,
+  "point_rate": 5,
+  "catchcopy": "楽天SOY2025米雑穀部門大賞受賞！品質に自信あり！！会津CROPS米直販から新商品販売開始！お米のプロが厳選、精米。",
+  "genre_id": "201184",
+  "score": 18.83,
+  "last_seen": "2026-09-07T08:15:12"
  }
 }
