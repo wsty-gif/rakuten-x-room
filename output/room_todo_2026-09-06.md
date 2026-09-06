@@ -52,3 +52,10 @@
    - 商品URL（ROOM検索用）: https://hb.afl.rakuten.co.jp/hgc/g00rryxo.72d3y4c5.g00rryxo.72d3zf38/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fliquor-boss%2F828c2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fliquor-boss%2Fi%2F10003265%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
    - ROOM用コメント案: 20:00〜9 アサヒ スーパードライ｜楽天市場値に挑戦！
 
+## 12:46 楽天スーパーSALE（9月）（開催中） × 30代女性（暮らし・時短・コスパ）
+
+1. **＼55％OFFクーポン！9/1～9/13／ストロー整列！sakuraku 水切りラック L型 ＼食洗器対応／ シンク上 **
+   - 価格: 6,500円 / ★4.72（4,432件） / 料率 3.0%
+   - 商品URL（ROOM検索用）: https://hb.afl.rakuten.co.jp/hgc/g00qx1go.72d3yce0.g00qx1go.72d3zf77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashi-zakka%2Fjin-603%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashi-zakka%2Fi%2F10002471%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - ROOM用コメント案: 1～9 13 ストロー整列！sakuraku
+
