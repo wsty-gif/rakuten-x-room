@@ -99,23 +99,30 @@
     "theme": "敬老の日（14日後） × 30代女性（暮らし・時短・コスパ）",
     "persona": "30s_woman",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-08",
+    "slot": "morning",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "vtcosmetic-official:10000829",
-  "name": "＼最大51%OFF+ギフト+送料無料／★総合ランキング1位【VT 大容量 パック 2種セット】スージング シート マスク ( PDRN / CICA / ビタミンC アスタキサンチン /アイス/ レチノール / コラーゲン / エクソソーム / TXトーニング ) シカ アゼライン酸",
+  "name": "【9/8限定特価★】＼最大51%OFF+ギフト+送料無料／★総合ランキング1位【VT 大容量 パック 2種セット】スージング シート マスク ( PDRN / CICA / ビタミンC アスタキサンチン /アイス/ レチノール / コラーゲン / エクソソーム / TXトーニング ) シカ アゼライン酸",
   "price": 2683,
   "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tdwho.72d3y76b.g00tdwho.72d3z7bf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvtcosmetic-official%2Fsoothingmask_set_adsa%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fvtcosmetic-official%2Fi%2F10000829%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00tdwho.72d3y76b.g00tdwho.72d3z7bf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvtcosmetic-official%2Fsoothingmask_set_adsa%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
-  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/vtcosmetic-official/cabinet/soothingmask_set/263q_700_51.jpg?_ex=600x600",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/vtcosmetic-official/cabinet/soothingmask_set/263q_700_51_2.jpg?_ex=600x600",
   "shop_name": "VTcosmetic楽天市場店",
-  "review_count": 8653,
+  "review_count": 8657,
   "review_average": 4.69,
   "affiliate_rate": 4.0,
   "point_rate": 2,
   "catchcopy": "《楽天1位》1日1枚！大容量フェイスパックセット",
   "genre_id": "503020",
-  "score": 18.78,
-  "last_seen": "2026-09-07T08:15:12"
+  "score": 17.58,
+  "last_seen": "2026-09-08T08:48:43"
  },
  "yayoi-cosme:10014729": {
   "first_seen": "2026-09-06T02:44:54",
@@ -558,6 +565,13 @@
     "theme": "楽天スーパーSALE（9月）（開催中） × 30代男性（健康・効率化・家電）",
     "persona": "30s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-09-08",
+    "slot": "morning",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "brita:10000161",
@@ -573,8 +587,8 @@
   "point_rate": 1,
   "catchcopy": "【正規品】ポット型浄水器用カートリッジ 「訳アリ」品でお得に、8個セット　PFAS (PFOS/PFOA) 除去",
   "genre_id": "212491",
-  "score": 19.11,
-  "last_seen": "2026-09-07T16:33:40"
+  "score": 19.21,
+  "last_seen": "2026-09-08T08:48:43"
  },
  "matsuya:10000085": {
   "first_seen": "2026-09-06T03:27:02",
@@ -1491,6 +1505,13 @@
     "theme": "楽天スーパーSALE（9月）（開催中） × 30代男性（健康・効率化・家電）",
     "persona": "30s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-09-08",
+    "slot": "morning",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "pricon:10003151",
@@ -1506,8 +1527,8 @@
   "point_rate": 3,
   "catchcopy": "「楽天ショップ・オブ・ザ・イヤー2025」医薬品・コンタクト・介護ジャンル大賞店舗！",
   "genre_id": "563999",
-  "score": 17.72,
-  "last_seen": "2026-09-07T16:33:40"
+  "score": 18.12,
+  "last_seen": "2026-09-08T08:48:43"
  },
  "larutan:10000154": {
   "first_seen": "2026-09-06T09:10:43",
@@ -2011,6 +2032,13 @@
     "theme": "楽天スーパーSALE（9月）（開催中） × 子育て世帯のママ・パパ",
     "persona": "mama",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-09-08",
+    "slot": "morning",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "irisplaza-r:10170526",
@@ -2020,14 +2048,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00t3zto.72d3y505.g00t3zto.72d3z9db/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Firisplaza-r%2F113800%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/irisplaza-r/cabinet/12351902/imgrc0120697447.jpg?_ex=600x600",
   "shop_name": "アイリスオーヤマ公式 楽天市場店",
-  "review_count": 7151,
+  "review_count": 7155,
   "review_average": 4.69,
   "affiliate_rate": 4.0,
   "point_rate": 1,
   "catchcopy": "米 お米 コメ ライス ごはん ご飯 白飯 白米 ブランド米 ブレンド米 10kg 15kg 低温製法 コールド アイリスオーヤマ 低温製法米 アイリスオーヤマ",
   "genre_id": "201184",
-  "score": 21.8,
-  "last_seen": "2026-09-08T01:26:02"
+  "score": 17.5,
+  "last_seen": "2026-09-08T08:48:43"
  },
  "r-aoki:10000565": {
   "first_seen": "2026-09-06T16:19:14",
@@ -2450,6 +2478,13 @@
     "theme": "楽天スーパーSALE（9月）（開催中） × 30代男性（健康・効率化・家電）",
     "persona": "30s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-09-08",
+    "slot": "morning",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "kobe-beauty-labo:10000074",
@@ -2465,8 +2500,8 @@
   "point_rate": 1,
   "catchcopy": "立ち上がり30秒！3種類のプレート幅が選べるストレートアイロン メーカー1年保証！送料無料 ヘアアイロン",
   "genre_id": "509412",
-  "score": 17.91,
-  "last_seen": "2026-09-07T16:33:40"
+  "score": 18.11,
+  "last_seen": "2026-09-08T08:48:43"
  },
  "tplinkdirect:10001261": {
   "first_seen": "2026-09-07T16:33:40",
@@ -2504,6 +2539,13 @@
     "theme": "楽天スーパーSALE（9月）（開催中） × 30代男性（健康・効率化・家電）",
     "persona": "30s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-09-08",
+    "slot": "morning",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "kukuya:10000154",
@@ -2519,8 +2561,8 @@
   "point_rate": 1,
   "catchcopy": "【AI温冷循環モード搭載】大風量＆速乾、熱ダメ一ジを与えずに乾かす 8億超高濃度マイナスイオン マグネット式ノズル付き",
   "genre_id": "502792",
-  "score": 17.19,
-  "last_seen": "2026-09-07T16:33:40"
+  "score": 17.99,
+  "last_seen": "2026-09-08T08:48:43"
  },
  "konbu-genzouya:10000772": {
   "first_seen": "2026-09-08T01:26:02",
@@ -2656,5 +2698,169 @@
   "genre_id": "207749",
   "score": 18.16,
   "last_seen": "2026-09-08T01:26:02"
+ },
+ "kbwine:10027838": {
+  "first_seen": "2026-09-08T08:48:43",
+  "themes": [
+   {
+    "date": "2026-09-08",
+    "slot": "morning",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "kbwine:10027838",
+  "name": "【30%OFF！11,550円 → 8,085円！】限定企画 1,298円(税込)相当を1本増量 スパークリングワイン セット 辛口 ワインセット 泡 白 ロゼ ギフト 箱 京橋ワイン 京橋わいん 9本 750ml 飲み比べ フランス イタリア 送料無料 第151弾 辛口スパークリングワイン9本セット",
+  "price": 8085,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00plfso.72d3yea7.g00plfso.72d3zea9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkbwine%2F1rs-set1620%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkbwine%2Fi%2F10027838%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00plfso.72d3yea7.g00plfso.72d3zea9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkbwine%2F1rs-set1620%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/kbwine/cabinet/sale_ad/set1620-p-151-30p.jpg?_ex=600x600",
+  "shop_name": "京橋ワイン",
+  "review_count": 2633,
+  "review_average": 4.82,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "普段飲みに！パーティに！シーンを選ばずたっぷりお使い頂けます！ | スパークリングワイン セット 9本 辛口 スパークリングワインセット ワイン ワインセット スパークリング",
+  "genre_id": "567664",
+  "score": 21.24,
+  "last_seen": "2026-09-08T08:48:43",
+  "posted_text": "#PR セール中にまとめ買いしてる人が多いやつ\n相当を1本増量 スパークリングワイン セット\n★4.82・レビュー2,633件\n30%OFF｜8,085円・送料無料\n#楽天購入品 #おうち時間\n▶ROOMはプロフから",
+  "posted_at": "2026-09-08T08:48:43"
+ },
+ "likaman:10020874": {
+  "first_seen": "2026-09-08T08:48:43",
+  "themes": [
+   {
+    "date": "2026-09-08",
+    "slot": "morning",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "likaman:10020874",
+  "name": "【総額100万ポイントが当たる！】ビール アサヒ スーパードライ 350ml×48本2ケース販売(24本×2) 送料無料 ビール 国産 アサヒ ドライ 缶ビール AIB",
+  "price": 9495,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qo2ro.72d3yc8a.g00qo2ro.72d3z424/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flikaman%2F301335-48-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flikaman%2Fi%2F10020874%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00qo2ro.72d3yc8a.g00qo2ro.72d3z424/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flikaman%2F301335-48-1%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/likaman/cabinet/lika-c260911/301335-48_rank26.jpg?_ex=600x600",
+  "shop_name": "お酒の専門店　リカマン楽天市場店",
+  "review_count": 1681,
+  "review_average": 4.82,
+  "affiliate_rate": 4.0,
+  "point_rate": 8,
+  "catchcopy": "アサヒビール/ビール/スーパードライ/アサヒ スーパードライ/アサヒ スーパードライ 缶",
+  "genre_id": "110626",
+  "score": 20.0,
+  "last_seen": "2026-09-08T08:48:43"
+ },
+ "soukaidrink:10008152": {
+  "first_seen": "2026-09-08T08:48:43",
+  "themes": [
+   {
+    "date": "2026-09-08",
+    "slot": "morning",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "soukaidrink:10008152",
+  "name": "アサヒ ドライゼロ(350ml*48本セット)【ドライゼロ】[ノンアル/ドライゼロ/ノンアルコールビール]",
+  "price": 5538,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rzxdo.72d3yc84.g00rzxdo.72d3z91d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsoukaidrink%2F89262%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsoukaidrink%2Fi%2F10008152%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00rzxdo.72d3yc84.g00rzxdo.72d3z91d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsoukaidrink%2F89262%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/soukaidrink/cabinet/262/89262.jpg?_ex=600x600",
+  "shop_name": "楽天24 ドリンク館",
+  "review_count": 615,
+  "review_average": 4.63,
+  "affiliate_rate": 4.0,
+  "point_rate": 5,
+  "catchcopy": "ノンアル/ドライゼロ/ノンアルコールビール / ドライゼロ / アサヒ ドライゼロ",
+  "genre_id": "562584",
+  "score": 17.92,
+  "last_seen": "2026-09-08T08:48:43"
+ },
+ "lifeideakan:10000015": {
+  "first_seen": "2026-09-08T08:48:43",
+  "themes": [
+   {
+    "date": "2026-09-08",
+    "slot": "morning",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "lifeideakan:10000015",
+  "name": "【楽天1位】バイクカバー 300D厚手 防水 紫外線防止 盗難防止 収納バッグ付き XL 2XL 3XL 4XL Homwarm",
+  "price": 3041,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00u2m6o.72d3y256.g00u2m6o.72d3z9ea/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flifeideakan%2Fm1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flifeideakan%2Fi%2F10000015%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00u2m6o.72d3y256.g00u2m6o.72d3z9ea/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flifeideakan%2Fm1%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/lifeideakan/cabinet/08448680/imgrc0103989147.jpg?_ex=600x600",
+  "shop_name": "生活アイディア館　楽天市場店",
+  "review_count": 4218,
+  "review_average": 4.57,
+  "affiliate_rate": 2.0,
+  "point_rate": 10,
+  "catchcopy": "【送料無料 一年保証】バイク車体カバー ホムウォーム バイクカバー 厚手 バイクカバー 大型 バイクカバー 厚手 耐熱 防水",
+  "genre_id": "203222",
+  "score": 17.75,
+  "last_seen": "2026-09-08T08:48:43"
+ },
+ "lifedrinkcompany:10000022": {
+  "first_seen": "2026-09-08T08:48:43",
+  "themes": [
+   {
+    "date": "2026-09-08",
+    "slot": "morning",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "lifedrinkcompany:10000022",
+  "name": "【最安値に挑戦中！2,399円〜】炭酸水 500ml 48本 (24本×2ケース) 送料無料※一部地域除く 強炭酸 炭酸 無糖 OZA SODA プレーン レモン ピンクグレープフルーツ ライム 割り材 箱買い まとめ買い ライフドリンクカンパニー LIFEDRINK ZAO SODA",
+  "price": 2399,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tkn4o.72d3y8c1.g00tkn4o.72d3z0c4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flifedrinkcompany%2Fzaosoda-500-48%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flifedrinkcompany%2Fi%2F10000022%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00tkn4o.72d3y8c1.g00tkn4o.72d3z0c4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flifedrinkcompany%2Fzaosoda-500-48%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/lifedrinkcompany/cabinet/08451052/13789188/peach48_0907.jpg?_ex=600x600",
+  "shop_name": "LIFEDRINKオンラインストア",
+  "review_count": 17425,
+  "review_average": 4.68,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "炭酸水 強炭酸水 ペットボトル スパークリング ソーダ 無糖 レモン ピンクグレープフルーツ ラベルレス",
+  "genre_id": "506536",
+  "score": 17.65,
+  "last_seen": "2026-09-08T08:48:43"
+ },
+ "soukaidrink:10009211": {
+  "first_seen": "2026-09-08T08:48:43",
+  "themes": [
+   {
+    "date": "2026-09-08",
+    "slot": "morning",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "soukaidrink:10009211",
+  "name": "アサヒ スーパードライ 缶( 350ml×24本入)【2shdrk】【アサヒ スーパードライ】[アサヒビール/ビール/スーパードライ]",
+  "price": 4797,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rzxdo.72d3yc84.g00rzxdo.72d3z91d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsoukaidrink%2F4901004006707%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsoukaidrink%2Fi%2F10009211%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00rzxdo.72d3yc84.g00rzxdo.72d3z91d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsoukaidrink%2F4901004006707%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/soukaidrink/cabinet/707/4901004006707.jpg?_ex=600x600",
+  "shop_name": "楽天24 ドリンク館",
+  "review_count": 1281,
+  "review_average": 4.59,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "アサヒビール/ビール/スーパードライ / アサヒ スーパードライ / アサヒ スーパードライ 缶",
+  "genre_id": "110626",
+  "score": 17.48,
+  "last_seen": "2026-09-08T08:48:43"
  }
 }
