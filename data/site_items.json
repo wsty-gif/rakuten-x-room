@@ -483,6 +483,13 @@
     "theme": "楽天スーパーSALE（9月）（開催中） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-09-07",
+    "slot": "noon",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "hotch-potch:10017531",
@@ -492,14 +499,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00pw1co.72d3ya1f.g00pw1co.72d3z2c0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhotch-potch%2F00014257_cooking_pot%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/hotch-potch/cabinet/kago_img11/00014257.jpg?_ex=600x600",
   "shop_name": "ホッチポッチ自由が丘 WEB shop",
-  "review_count": 16351,
+  "review_count": 16376,
   "review_average": 4.68,
   "affiliate_rate": 2.0,
   "point_rate": 10,
   "catchcopy": "調理ポット 豆乳機 コンパクト 自動調理器 ソイミルク 氷対応 ペースト ソース おかゆ おから お粥 ヘルシー レシピ本 耐熱 シンプル オート 簡単 洗いやすい 手作り auto cooking pot",
   "genre_id": "565076",
-  "score": 19.26,
-  "last_seen": "2026-09-06T03:27:02"
+  "score": 19.56,
+  "last_seen": "2026-09-07T16:33:40"
  },
  "tescom-japan:10000227": {
   "first_seen": "2026-09-06T03:27:02",
@@ -544,6 +551,13 @@
     "theme": "楽天スーパーSALE（9月）（開催中） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-09-07",
+    "slot": "noon",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "brita:10000161",
@@ -553,14 +567,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00tbsuo.72d3y673.g00tbsuo.72d3zedf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbrita%2Fmaxtraplus-8%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/brita/cabinet/thum/thumb_01/maxtraplus-8.jpg?_ex=600x600",
   "shop_name": "浄水器のブリタ公式 楽天市場店",
-  "review_count": 25766,
+  "review_count": 25794,
   "review_average": 4.78,
   "affiliate_rate": 2.0,
   "point_rate": 1,
   "catchcopy": "【正規品】ポット型浄水器用カートリッジ 「訳アリ」品でお得に、8個セット　PFAS (PFOS/PFOA) 除去",
   "genre_id": "212491",
   "score": 19.11,
-  "last_seen": "2026-09-06T09:10:43"
+  "last_seen": "2026-09-07T16:33:40"
  },
  "matsuya:10000085": {
   "first_seen": "2026-09-06T03:27:02",
@@ -770,6 +784,13 @@
     "theme": "敬老の日（14日後） × 30代女性（暮らし・時短・コスパ）",
     "persona": "30s_woman",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-07",
+    "slot": "noon",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "netbaby:10028506",
@@ -779,14 +800,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00pzd4o.72d3yfe6.g00pzd4o.72d3zc1c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetbaby%2F404272%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/netbaby/cabinet/272/404272.jpg?_ex=600x600",
   "shop_name": "楽天24 ベビー館",
-  "review_count": 8614,
+  "review_count": 8618,
   "review_average": 4.79,
   "affiliate_rate": 4.0,
   "point_rate": 1,
   "catchcopy": "マミーポコパンツ / マミーポコパンツ 大きめで長〜く使える オムツ M L BIG",
   "genre_id": "205198",
   "score": 19.02,
-  "last_seen": "2026-09-07T08:15:12"
+  "last_seen": "2026-09-07T16:33:40"
  },
  "kouragumi:10001520": {
   "first_seen": "2026-09-06T03:50:26",
@@ -928,6 +949,13 @@
     "theme": "楽天スーパーSALE（9月）（開催中） × 30代女性（暮らし・時短・コスパ）",
     "persona": "30s_woman",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-09-07",
+    "slot": "noon",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "netbaby:10028658",
@@ -943,8 +971,8 @@
   "point_rate": 1,
   "catchcopy": "さらさらケア / パンパース / パンパース オムツ さらさらケア パンツ",
   "genre_id": "205198",
-  "score": 18.63,
-  "last_seen": "2026-09-06T23:08:23"
+  "score": 18.23,
+  "last_seen": "2026-09-07T16:33:40"
  },
  "fancl-shop:10009163": {
   "first_seen": "2026-09-06T03:50:26",
@@ -1099,6 +1127,13 @@
     "theme": "楽天スーパーSALE（9月）（開催中） × 30代男性（健康・効率化・家電）",
     "persona": "30s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-09-07",
+    "slot": "noon",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "canpanera:10000145",
@@ -1108,14 +1143,16 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00r4jvo.72d3ydbb.g00r4jvo.72d3z68b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcanpanera%2Fn05001%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/canpanera/cabinet/item154/item_n05001_0.jpg?_ex=600x600",
   "shop_name": "OutdoorStyle サンデーマウンテン",
-  "review_count": 10212,
+  "review_count": 10213,
   "review_average": 4.58,
   "affiliate_rate": 4.0,
   "point_rate": 11,
   "catchcopy": "＜2025 春夏＞レビューで500円クーポン！送料無料 ポイントアップ 最短当日発送【正規品】ブラウン グリーン グレー ダークブラウン【EE】",
   "genre_id": "302384",
-  "score": 20.95,
-  "last_seen": "2026-09-06T04:02:03"
+  "score": 20.35,
+  "last_seen": "2026-09-07T16:33:40",
+  "posted_text": "#PR セール価格は期間中だけ。迷うなら今\n日本野鳥の会 バードウォッチング長靴 メンズ\n★4.58・レビュー10,213件\n6,880円（P11倍で実質6,123円）\n#楽天購入品 #QOL向上\n▶ROOMはプロフから",
+  "posted_at": "2026-09-07T16:33:40"
  },
  "mstore:10022287": {
   "first_seen": "2026-09-06T04:02:03",
@@ -1153,6 +1190,13 @@
     "theme": "楽天スーパーSALE（9月）（開催中） × 30代男性（健康・効率化・家電）",
     "persona": "30s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-09-07",
+    "slot": "noon",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "auroraselect:10000113",
@@ -1162,14 +1206,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00uso1o.72d3y8dc.g00uso1o.72d3z6d2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauroraselect%2Fbsq003%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/auroraselect/cabinet/bsq003/main/bsq003-3hou.jpg?_ex=600x600",
   "shop_name": "AURORA SELECT",
-  "review_count": 578,
-  "review_average": 4.54,
+  "review_count": 596,
+  "review_average": 4.55,
   "affiliate_rate": 4.0,
   "point_rate": 5,
   "catchcopy": "特許取得 1年保証 46cm、58cmの選べるサイズで、子供から大人まで家族みんなで使えるのも魅力です。腹筋 健康器具",
   "genre_id": "204697",
-  "score": 17.31,
-  "last_seen": "2026-09-06T04:02:03"
+  "score": 18.86,
+  "last_seen": "2026-09-07T16:33:40"
  },
  "cuisinart-official:10000006": {
   "first_seen": "2026-09-06T04:02:03",
@@ -1403,6 +1447,13 @@
     "theme": "楽天スーパーSALE（9月）（開催中） × 20代男性（ガジェット・一人暮らし）",
     "persona": "20s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-09-07",
+    "slot": "noon",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "pricon:10003151",
@@ -1419,7 +1470,7 @@
   "catchcopy": "「楽天ショップ・オブ・ザ・イヤー2025」医薬品・コンタクト・介護ジャンル大賞店舗！",
   "genre_id": "563999",
   "score": 17.72,
-  "last_seen": "2026-09-06T16:19:14"
+  "last_seen": "2026-09-07T16:33:40"
  },
  "larutan:10000154": {
   "first_seen": "2026-09-06T09:10:43",
@@ -1868,23 +1919,30 @@
     "theme": "楽天スーパーSALE（9月）（開催中） × 20代男性（ガジェット・一人暮らし）",
     "persona": "20s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-09-07",
+    "slot": "noon",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "starfocus:10002278",
-  "name": "【9/5~9/6 20%OFF】SDカードリーダー iPhone17 対応 1TB 写真 動画 バックアップ データ 移行 保存 外付け USBメモリ 専用アプリ不要 スマホ Type-C Lightning ライトニング タイプC Android iPad 日本語取説付 1年保証 スターフォーカス正規品[2025楽天年間1位]",
-  "price": 2864,
+  "name": "【9/6 15%OFF】SDカードリーダー iPhone17 対応 1TB 写真 動画 バックアップ データ 移行 保存 外付け USBメモリ 専用アプリ不要 スマホ Type-C Lightning ライトニング タイプC Android iPad 日本語取説付 1年保証 スターフォーカス正規品[2025楽天年間1位]",
+  "price": 3580,
   "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00ruz0o.72d3ycf9.g00ruz0o.72d3z98e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstarfocus%2Fi-flash-device-hd%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fstarfocus%2Fi%2F10002278%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00ruz0o.72d3ycf9.g00ruz0o.72d3z98e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstarfocus%2Fi-flash-device-hd%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
-  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/starfocus/cabinet/sm/rakuten_sale/ifd/ifd_20.jpg?_ex=600x600",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/starfocus/cabinet/sm/rakuten_sale/ifd/ifd_15.jpg?_ex=600x600",
   "shop_name": "スマホメモリ専門スターフォーカス",
-  "review_count": 56082,
+  "review_count": 56084,
   "review_average": 4.47,
   "affiliate_rate": 2.0,
   "point_rate": 1,
   "catchcopy": "【レビューで次回のSDカード500円OFF】子どもの写真で容量不足のママへ。専用アプリ不要でiPhone 6s〜17対応。大切な思い出を丸ごとバックアップ、スマホ写真の整理に最適！",
   "genre_id": "408453",
-  "score": 17.18,
-  "last_seen": "2026-09-06T16:19:14"
+  "score": 17.88,
+  "last_seen": "2026-09-07T16:33:40"
  },
  "irisplaza-r:10170526": {
   "first_seen": "2026-09-06T16:19:14",
@@ -1902,6 +1960,13 @@
     "theme": "敬老の日（14日後） × 30代女性（暮らし・時短・コスパ）",
     "persona": "30s_woman",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-07",
+    "slot": "noon",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "irisplaza-r:10170526",
@@ -1911,14 +1976,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00t3zto.72d3y505.g00t3zto.72d3z9db/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Firisplaza-r%2F113800%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/irisplaza-r/cabinet/12351902/imgrc0120697447.jpg?_ex=600x600",
   "shop_name": "アイリスオーヤマ公式 楽天市場店",
-  "review_count": 7119,
+  "review_count": 7135,
   "review_average": 4.69,
   "affiliate_rate": 4.0,
   "point_rate": 1,
   "catchcopy": "米 お米 コメ ライス ごはん ご飯 白飯 白米 ブランド米 ブレンド米 10kg 15kg 低温製法 コールド アイリスオーヤマ 低温製法米 アイリスオーヤマ",
   "genre_id": "201184",
-  "score": 18.9,
-  "last_seen": "2026-09-07T08:15:12"
+  "score": 18.2,
+  "last_seen": "2026-09-07T16:33:40"
  },
  "r-aoki:10000565": {
   "first_seen": "2026-09-06T16:19:14",
@@ -2324,5 +2389,86 @@
   "genre_id": "201184",
   "score": 18.83,
   "last_seen": "2026-09-07T08:15:12"
+ },
+ "kobe-beauty-labo:10000074": {
+  "first_seen": "2026-09-07T16:33:40",
+  "themes": [
+   {
+    "date": "2026-09-07",
+    "slot": "noon",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "kobe-beauty-labo:10000074",
+  "name": "≪9/4〜28%OFFクーポン≫ 《公式店》【SALONIA ストレート ヘアアイロン 15mm 24mm 35mm】楽天1位送料無料 1年保証 耐熱ポーチ付き サロニア 人気 おすすめ プレゼント コテ アイロン hk クリスマスプレゼント 女性 slall",
+  "price": 3828,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00r23no.72d3y9ef.g00r23no.72d3z700/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkobe-beauty-labo%2Fmain-salo6%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkobe-beauty-labo%2Fi%2F10000074%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00r23no.72d3y9ef.g00r23no.72d3z700/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkobe-beauty-labo%2Fmain-salo6%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/kobe-beauty-labo/cabinet/1st_thum/main-salo6.jpg?_ex=600x600",
+  "shop_name": "アンド ハビット",
+  "review_count": 38898,
+  "review_average": 4.56,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "立ち上がり30秒！3種類のプレート幅が選べるストレートアイロン メーカー1年保証！送料無料 ヘアアイロン",
+  "genre_id": "509412",
+  "score": 17.91,
+  "last_seen": "2026-09-07T16:33:40"
+ },
+ "tplinkdirect:10001261": {
+  "first_seen": "2026-09-07T16:33:40",
+  "themes": [
+   {
+    "date": "2026-09-07",
+    "slot": "noon",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "tplinkdirect:10001261",
+  "name": "【迷ったらこれ！】TP-Link WiFi6 無線LAN ルーター AX3000規格 2402 + 574 Mbps ワイファイルーター IPv6対応 デュアルバンド おすすめ EasyMesh/OneMesh 対応 縦型 高速 安定 二階建 家庭用 簡単操作 テレワーク メーカー保証3年 Archer AX3000/A",
+  "price": 9900,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00sbb0o.72d3y9ac.g00sbb0o.72d3z11b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftplinkdirect%2F4895252502688%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftplinkdirect%2Fi%2F10001261%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00sbb0o.72d3y9ac.g00sbb0o.72d3z11b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftplinkdirect%2F4895252502688%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/tplinkdirect/cabinet/06321509/archer-ax3000.jpg?_ex=600x600",
+  "shop_name": "TP-Linkダイレクト　楽天市場店",
+  "review_count": 1802,
+  "review_average": 4.59,
+  "affiliate_rate": 2.0,
+  "point_rate": 20,
+  "catchcopy": "【迷ったらコレ】wifiルーター 収納 壁掛け WiFi6 無線LANルーター EasyMesh OneMesh 縦型 接続台数 42台 価格.comプロダクトアワード2023 無線LANルーター銀賞受賞製品",
+  "genre_id": "506591",
+  "score": 17.25,
+  "last_seen": "2026-09-07T16:33:40"
+ },
+ "kukuya:10000154": {
+  "first_seen": "2026-09-07T16:33:40",
+  "themes": [
+   {
+    "date": "2026-09-07",
+    "slot": "noon",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "kukuya:10000154",
+  "name": "クーポンで5,980円・スーパーセール限定価格！ドライヤー ヘアドライヤー 1200W 大風量 速乾 時短 低温ドライヤー 8億マイナスイオン 高速ドライヤー 軽量 静音 40m/s 57℃恒温 静電気除去 コンパクト 人気 髪質改善 美容家電 ヘアケア 美髪",
+  "price": 12980,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00ugkto.72d3y0b3.g00ugkto.72d3zb65/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkukuya%2Fprismion%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkukuya%2Fi%2F10000154%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00ugkto.72d3y0b3.g00ugkto.72d3zb65/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkukuya%2Fprismion%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/kukuya/cabinet/10021708/hdt/prismion-5980.jpg?_ex=600x600",
+  "shop_name": "Varya",
+  "review_count": 64,
+  "review_average": 4.94,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "【AI温冷循環モード搭載】大風量＆速乾、熱ダメ一ジを与えずに乾かす 8億超高濃度マイナスイオン マグネット式ノズル付き",
+  "genre_id": "502792",
+  "score": 17.19,
+  "last_seen": "2026-09-07T16:33:40"
  }
 }
