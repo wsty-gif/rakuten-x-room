@@ -222,5 +222,21 @@
   "tweet_id": "2097225026860966317",
   "threads_id": "17892450912673170",
   "room_done": false
+ },
+ {
+  "date": "2026-09-09T00:04:04",
+  "slot": "night",
+  "theme": "楽天スーパーSALE（9月）（開催中） × 20代女性（自分磨き・プチプラ・映え）",
+  "persona": "20s_woman",
+  "item_code": "shuuemura:10000018",
+  "item_name": "【ポイント10倍 9/4 20:00～9/11 1:59まで】アルティム8∞ ベストセラーキット / ブライト クレンジングオイル キット | シュウウエムラク",
+  "price": 13200,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tl4no.72d3yc14.g00tl4no.72d3ze52/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshuuemura%2Fshu30001jp%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshuuemura%2Fi%2F10000018%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "#PR セール価格は期間中だけ。迷うなら今\nアルティム8∞ ベストセラーキット ブライト\n★4.84・レビュー34,773件・楽天ランキング1位\n9/11 1:59まで｜13,200円・送料無料\n#楽天スーパーSALE\n▶ROOMはプロフから",
+  "tweet_id": "2097340093384048832",
+  "threads_id": "18124629911506893",
+  "room_done": false,
+  "image": true
  }
 ]

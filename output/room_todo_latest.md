@@ -1,26 +1,12 @@
-# 楽天ROOMに追加する商品（2026-09-08）
+# 楽天ROOMに追加する商品（2026-09-09）
 
 手順: ROOMアプリ → 「コレ！」 → 商品URLを貼って検索 → 一言コメントを付けて投稿。
 投稿前にROOMへ追加しておくと、Xから来た人がすぐ見つけられます。
 
-## 01:26 楽天スーパーSALE（9月）（開催中） × 子育て世帯のママ・パパ
+## 00:04 楽天スーパーSALE（9月）（開催中） × 20代女性（自分磨き・プチプラ・映え）
 
-1. **【1種類を選べる】パンパース オムツ さらさらケア パンツ(1セット)【パンパース】[さらさらケア]**
-   - 価格: 8,980円 / ★4.82（8,882件） / 料率 4.0%
-   - 商品URL（ROOM検索用）: https://hb.afl.rakuten.co.jp/hgc/g00pzd4o.72d3yfe6.g00pzd4o.72d3zc1c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetbaby%2F404313%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnetbaby%2Fi%2F10028658%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - ROOM用コメント案: パンパース オムツ さらさらケア パンツ
-
-## 08:48 楽天スーパーSALE（9月）（開催中） × 40代男性（家族・晩酌・車）
-
-1. **【30%OFF！11,550円 → 8,085円！】限定企画 1,298円(税込)相当を1本増量 スパークリングワイン **
-   - 価格: 8,085円 / ★4.82（2,633件） / 料率 4.0%
-   - 商品URL（ROOM検索用）: https://hb.afl.rakuten.co.jp/hgc/g00plfso.72d3yea7.g00plfso.72d3zea9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkbwine%2F1rs-set1620%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkbwine%2Fi%2F10027838%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - ROOM用コメント案: 相当を1本増量 スパークリングワイン セット
-
-## 16:26 敬老の日（13日後） × 30代女性（暮らし・時短・コスパ）
-
-1. **【最大20%OFF！岡山クーポン】 【9月16日から順次発送】ギフト ショコリッシュ 自分チョコ 生チョコ 義理チョコ **
-   - 価格: 3,680円 / ★4.73（2,922件） / 料率 4.0%
-   - 商品URL（ROOM検索用）: https://hb.afl.rakuten.co.jp/hgc/g00rayyo.72d3y5c4.g00rayyo.72d3z558/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffukucha%2Fchocorich-wake%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffukucha%2Fi%2F10000600%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - ROOM用コメント案: ギフト ショコリッシュ 自分チョコ 生チョコ
+1. **【ポイント10倍 9/4 20:00～9/11 1:59まで】アルティム8∞ ベストセラーキット / ブライト クレンジ**
+   - 価格: 13,200円 / ★4.84（34,773件） / 料率 4.0%
+   - 商品URL（ROOM検索用）: https://hb.afl.rakuten.co.jp/hgc/g00tl4no.72d3yc14.g00tl4no.72d3ze52/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshuuemura%2Fshu30001jp%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshuuemura%2Fi%2F10000018%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - ROOM用コメント案: アルティム8∞ ベストセラーキット ブライト
 
