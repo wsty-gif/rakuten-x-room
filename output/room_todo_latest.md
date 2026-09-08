@@ -17,3 +17,10 @@
    - 商品URL（ROOM検索用）: https://hb.afl.rakuten.co.jp/hgc/g00plfso.72d3yea7.g00plfso.72d3zea9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkbwine%2F1rs-set1620%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkbwine%2Fi%2F10027838%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
    - ROOM用コメント案: 相当を1本増量 スパークリングワイン セット
 
+## 16:26 敬老の日（13日後） × 30代女性（暮らし・時短・コスパ）
+
+1. **【最大20%OFF！岡山クーポン】 【9月16日から順次発送】ギフト ショコリッシュ 自分チョコ 生チョコ 義理チョコ **
+   - 価格: 3,680円 / ★4.73（2,922件） / 料率 4.0%
+   - 商品URL（ROOM検索用）: https://hb.afl.rakuten.co.jp/hgc/g00rayyo.72d3y5c4.g00rayyo.72d3z558/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffukucha%2Fchocorich-wake%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffukucha%2Fi%2F10000600%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - ROOM用コメント案: ギフト ショコリッシュ 自分チョコ 生チョコ
+
