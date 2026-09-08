@@ -127,6 +127,7 @@ def cmd_run(args, s: Settings):
                 "item_code": p.item_code, "item_name": p.name[:80], "price": p.price,
                 "item_url": p.item_url, "affiliate_rate": p.affiliate_rate,
                 "text": text, "tweet_id": tweet_id, "threads_id": threads_id, "room_done": False,
+                "image": getattr(poster, "last_had_image", False),
             })
     # ブログ用データは本番投稿時のみ蓄積する（dry-run で書くと GitHub 側の記録と競合するため）
     if poster:
@@ -140,6 +141,38 @@ def cmd_run(args, s: Settings):
         notify_room_todo(posts, theme.title)
     else:
         print("\n[dry-run] 履歴とROOMリストは書き出しません（本番投稿時のみ）。")
+
+
+def cmd_engage(args, s: Settings):
+    """反応を取るための投稿（投票 / 質問 / 豆知識）を1本投稿する。"""
+    from src.engage import build_engagement_post
+    history = load_history()
+    post = build_engagement_post(date.today(), history)
+    print(f"[種類] {post['kind']}")
+    print(post["text"])
+    if post.get("poll_options"):
+        print("[投票] " + " / ".join(post["poll_options"]))
+    if args.dry_run or not s.x_ready():
+        print("\n[dry-run] 投稿しません。")
+        return
+    from src.x_poster import XPoster
+    tweet_id = XPoster(s).post(post["text"], None, post.get("poll_options"))
+    print(f"[X 投稿完了] https://x.com/i/web/status/{tweet_id}")
+    threads_id = ""
+    if s.threads_ready():
+        try:
+            from src.threads_poster import ThreadsPoster
+            t_text = post["text"]
+            if post.get("poll_options"):
+                t_text += "\n\n" + "\n".join(f"・{o}" for o in post["poll_options"]) + "\n\n返信で教えてください。"
+            threads_id = ThreadsPoster(s).post(t_text, None)
+            print(f"[Threads 投稿完了] id={threads_id}")
+        except Exception as e:
+            print(f"  [warn] Threads 投稿失敗: {e}")
+    history.append({"date": datetime.now().isoformat(timespec="seconds"), "slot": "evening", "kind": "engage",
+                    "engage_key": post.get("engage_key"), "theme": f"反応投稿（{post['kind']}）", "persona": "all",
+                    "text": post["text"], "tweet_id": tweet_id, "threads_id": threads_id})
+    save_history(history)
 
 
 def cmd_genres(args, s: Settings):
@@ -162,16 +195,16 @@ def cmd_report(args, s: Settings):
 
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("cmd", choices=["plan", "run", "genres", "report"])
+    ap.add_argument("cmd", choices=["plan", "run", "engage", "genres", "report"])
     ap.add_argument("--slot", choices=["morning", "noon", "night"])
     ap.add_argument("--dry-run", action="store_true", help="Xに投稿せず内容だけ表示")
     ap.add_argument("--mock", action="store_true", help="楽天APIを使わずサンプルデータで動作確認")
     args = ap.parse_args()
     s = Settings()
-    if args.cmd != "report" and not args.mock and not s.rakuten_ready():
+    if args.cmd not in ("report", "engage") and not args.mock and not s.rakuten_ready():
         print("RAKUTEN_APP_ID が未設定です。.env を作成してください（.env.example を参照）。--mock で動作確認は可能です。")
         sys.exit(1)
-    {"plan": cmd_plan, "run": cmd_run, "genres": cmd_genres, "report": cmd_report}[args.cmd](args, s)
+    {"plan": cmd_plan, "run": cmd_run, "engage": cmd_engage, "genres": cmd_genres, "report": cmd_report}[args.cmd](args, s)
 
 
 if __name__ == "__main__":

@@ -35,11 +35,16 @@ class XPoster:
             print(f"  [warn] 画像アップロード失敗（画像なしで投稿します）: {e}")
             return None
 
-    def post(self, text: str, image_url: str | None = None) -> str:
+    def post(self, text: str, image_url: str | None = None, poll_options: list[str] | None = None) -> str:
         media_ids = None
-        if image_url and self.s.x_attach_image:
+        self.last_had_image = False
+        if image_url and self.s.x_attach_image and not poll_options:  # 投票と画像は同時に付けられない
             mid = self._upload_image(image_url)
             if mid:
                 media_ids = [mid]
-        resp = self.client.create_tweet(text=text, media_ids=media_ids)
+                self.last_had_image = True
+        if poll_options:
+            resp = self.client.create_tweet(text=text, poll_options=poll_options[:4], poll_duration_minutes=1440)
+        else:
+            resp = self.client.create_tweet(text=text, media_ids=media_ids)
         return str(resp.data["id"])

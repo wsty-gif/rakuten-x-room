@@ -181,8 +181,18 @@ def template_post(p: Product, theme: Theme, s: Settings) -> str:
     parts.append(price)
     deal_line = "｜".join(parts)
 
-    tags = " ".join(theme.persona.hashtags[:2])
-    text = f"#PR {hook}\n{name}\n{proof}\n{deal_line}\n{tags}\n{CTA}"
+    # ハッシュタグは1つに絞る（多いほど表示が抑えられる）。セール中は検索されるイベントタグを優先
+    ev = theme.title.split(" × ")[0]
+    if theme.event_type == "sale" and "スーパーSALE" in ev:
+        tags = "#楽天スーパーSALE"
+    elif theme.event_type == "sale" and "マラソン" in ev:
+        tags = "#お買い物マラソン"
+    else:
+        tags = theme.persona.hashtags[0]
+    # 3回に1回、返信を促す一言を足す（反応が付くと表示が伸びる）
+    asks = ["使ってる人いたら感想ください", "これ買った人、正直どうでした？", "気になる人は保存しておくと便利です"]
+    ask = asks[seed % 3] if seed % 3 == 0 else ""
+    text = f"#PR {hook}\n{name}\n{proof}\n{deal_line}\n{ask}\n{tags}\n{CTA}".replace("\n\n", "\n")
     return sanitize(text)
 
 

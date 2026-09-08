@@ -8,10 +8,11 @@ on:
     - cron: "52 21 * * *"   # JST 06:52 → 7時台に届く想定 (morning)
     - cron: "48 2 * * *"    # JST 11:48 → 12時台 (noon)
     - cron: "13 11 * * *"   # JST 20:13 → 20時台 (night)
+    - cron: "23 9 * * *"    # JST 18:23 → 反応を取る投稿（投票・質問・小ネタ） (evening)
   workflow_dispatch:        # 手動実行ボタン（スマホのGitHubアプリからも押せる）
     inputs:
       slot:
-        description: "morning / noon / night"
+        description: "morning / noon / night / evening（evening は投票・質問などの反応投稿）"
         default: "night"
       dry_run:
         description: "true なら投稿せず確認だけ"
@@ -61,6 +62,7 @@ jobs:
             case "${{ github.event.schedule }}" in
               "52 21 * * *") s=morning ;;
               "48 2 * * *")  s=noon ;;
+              "23 9 * * *")  s=evening ;;
               *)             s=night ;;
             esac
             echo "slot=$s" >> "$GITHUB_OUTPUT"
@@ -75,10 +77,13 @@ jobs:
 
       - name: Run
         run: |
-          if [ "${{ steps.slot.outputs.dry }}" = "true" ]; then
-            python main.py run --slot ${{ steps.slot.outputs.slot }} --dry-run
+          SLOT="${{ steps.slot.outputs.slot }}"
+          DRY=""
+          [ "${{ steps.slot.outputs.dry }}" = "true" ] && DRY="--dry-run"
+          if [ "$SLOT" = "evening" ]; then
+            python main.py engage $DRY
           else
-            python main.py run --slot ${{ steps.slot.outputs.slot }}
+            python main.py run --slot $SLOT $DRY
           fi
 
       - name: Build blog (GitHub Pages)
