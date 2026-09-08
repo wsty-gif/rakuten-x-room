@@ -10,3 +10,10 @@
    - 商品URL（ROOM検索用）: https://hb.afl.rakuten.co.jp/hgc/g00tl4no.72d3yc14.g00tl4no.72d3ze52/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshuuemura%2Fshu30001jp%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshuuemura%2Fi%2F10000018%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
    - ROOM用コメント案: アルティム8∞ ベストセラーキット ブライト
 
+## 08:42 楽天スーパーSALE（9月）（開催中） × 20代男性（ガジェット・一人暮らし）
+
+1. **コンタクトレンズ ワンデー コンタクト ｜ ワンデーアキュビュー オアシス 90枚パック 2箱セット 1日使い捨て コン**
+   - 価格: 14,790円 / ★4.75（763件） / 料率 4.0%
+   - 商品URL（ROOM検索用）: https://hb.afl.rakuten.co.jp/hgc/g00qvpko.72d3yd83.g00qvpko.72d3z3a5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpricon%2Fk_jj_oa90z0_02_h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpricon%2Fi%2F10003151%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - ROOM用コメント案: コンタクトレンズ ワンデー コンタクト
+

@@ -1577,6 +1577,13 @@
     "theme": "楽天スーパーSALE（9月）（開催中） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-09-09",
+    "slot": "morning",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "pricon:10003151",
@@ -1586,14 +1593,16 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00qvpko.72d3yd83.g00qvpko.72d3z3a5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpricon%2Fk_jj_oa90z0_02_h%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/pricon/cabinet/item-thumb/jj/cp/k_jj_oa90_02_p3.jpg?_ex=600x600",
   "shop_name": "アットレンズ",
-  "review_count": 759,
+  "review_count": 763,
   "review_average": 4.75,
   "affiliate_rate": 4.0,
   "point_rate": 3,
   "catchcopy": "「楽天ショップ・オブ・ザ・イヤー2025」医薬品・コンタクト・介護ジャンル大賞店舗！",
   "genre_id": "563999",
-  "score": 18.12,
-  "last_seen": "2026-09-08T08:48:43"
+  "score": 17.92,
+  "last_seen": "2026-09-09T08:42:38",
+  "posted_text": "#PR コスパで選ぶなら結論これ\nコンタクトレンズ ワンデー コンタクト\n★4.75・レビュー763件\n14,790円（P3倍で実質14,346円）\n#楽天スーパーSALE\n▶ROOMはプロフから",
+  "posted_at": "2026-09-09T08:42:38"
  },
  "larutan:10000154": {
   "first_seen": "2026-09-06T09:10:43",
@@ -1905,6 +1914,13 @@
     "theme": "楽天スーパーSALE（9月）（開催中） × 30代女性（暮らし・時短・コスパ）",
     "persona": "30s_woman",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-09-09",
+    "slot": "morning",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "33taiyo:10000020",
@@ -1914,14 +1930,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00tnhlo.72d3y716.g00tnhlo.72d3zdcf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F33taiyo%2Fhitsuji%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/33taiyo/cabinet/campaign/sale_daiichi/260906/hitsuji.jpg?_ex=600x600",
   "shop_name": "ヒツジのいらない枕公式睡眠研究所",
-  "review_count": 7315,
+  "review_count": 7377,
   "review_average": 4.52,
   "affiliate_rate": 3.0,
   "point_rate": 1,
   "catchcopy": "水の上のような寝心地！母の日 父の日 プレゼント 柔らかめ マクラ ピロー 安眠枕 送料無料 羊のいらない枕 快眠枕 蒸れない枕 熱のこもらない枕 ゲル 低反発枕 高さ調節 至極 調律 極柔",
   "genre_id": "205582",
-  "score": 17.41,
-  "last_seen": "2026-09-06T12:46:19"
+  "score": 16.41,
+  "last_seen": "2026-09-09T08:42:38"
  },
  "shirtshouse:10000321": {
   "first_seen": "2026-09-06T16:19:14",
@@ -1988,6 +2004,13 @@
     "theme": "楽天スーパーSALE（9月）（開催中） × 20代男性（ガジェット・一人暮らし）",
     "persona": "20s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-09-09",
+    "slot": "morning",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "toyomarket:10000219",
@@ -1997,14 +2020,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00taino.72d3ya2e.g00taino.72d3zcac/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftoyomarket%2Fvitas006%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/toyomarket/cabinet/protein/imgrc0152839430.jpg?_ex=600x600",
   "shop_name": "VITAS 楽天市場店",
-  "review_count": 5148,
+  "review_count": 5162,
   "review_average": 4.77,
   "affiliate_rate": 4.0,
   "point_rate": 1,
   "catchcopy": "「美味しさ」と「含有成分」の両方にこだわった理想のカラダをつくるWhey Protein",
   "genre_id": "567617",
-  "score": 17.53,
-  "last_seen": "2026-09-06T16:19:14"
+  "score": 17.03,
+  "last_seen": "2026-09-09T08:42:38"
  },
  "haruyama:10111436": {
   "first_seen": "2026-09-06T16:19:14",
@@ -2049,23 +2072,30 @@
     "theme": "楽天スーパーSALE（9月）（開催中） × 30代男性（健康・効率化・家電）",
     "persona": "30s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-09-09",
+    "slot": "morning",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "starfocus:10002278",
-  "name": "【9/6 15%OFF】SDカードリーダー iPhone17 対応 1TB 写真 動画 バックアップ データ 移行 保存 外付け USBメモリ 専用アプリ不要 スマホ Type-C Lightning ライトニング タイプC Android iPad 日本語取説付 1年保証 スターフォーカス正規品[2025楽天年間1位]",
+  "name": "【9/4~9/11 15%OFF】SDカードリーダー iPhone17 対応 1TB 写真 動画 バックアップ データ 移行 保存 外付け USBメモリ 専用アプリ不要 スマホ Type-C Lightning ライトニング タイプC Android iPad 日本語取説付 1年保証 スターフォーカス正規品[2025楽天年間1位]",
   "price": 3580,
   "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00ruz0o.72d3ycf9.g00ruz0o.72d3z98e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstarfocus%2Fi-flash-device-hd%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fstarfocus%2Fi%2F10002278%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00ruz0o.72d3ycf9.g00ruz0o.72d3z98e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstarfocus%2Fi-flash-device-hd%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/starfocus/cabinet/sm/rakuten_sale/ifd/ifd_15.jpg?_ex=600x600",
   "shop_name": "スマホメモリ専門スターフォーカス",
-  "review_count": 56084,
+  "review_count": 56088,
   "review_average": 4.47,
   "affiliate_rate": 2.0,
   "point_rate": 1,
   "catchcopy": "【レビューで次回のSDカード500円OFF】子どもの写真で容量不足のママへ。専用アプリ不要でiPhone 6s〜17対応。大切な思い出を丸ごとバックアップ、スマホ写真の整理に最適！",
   "genre_id": "408453",
-  "score": 17.88,
-  "last_seen": "2026-09-07T16:33:40"
+  "score": 17.78,
+  "last_seen": "2026-09-09T08:42:38"
  },
  "irisplaza-r:10170526": {
   "first_seen": "2026-09-06T16:19:14",
@@ -2158,6 +2188,13 @@
     "theme": "楽天スーパーSALE（9月）（開催中） × 20代男性（ガジェット・一人暮らし）",
     "persona": "20s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-09-09",
+    "slot": "morning",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "aruge:10065522",
@@ -2173,8 +2210,8 @@
   "point_rate": 5,
   "catchcopy": "スーパーハイテンションストレッチ素材を使用した伸縮性バツグンのメンズチノパンツ！スマホポケット付き！",
   "genre_id": "558846",
-  "score": 16.41,
-  "last_seen": "2026-09-06T16:19:14"
+  "score": 17.21,
+  "last_seen": "2026-09-09T08:42:38"
  },
  "rakuten24:11128650": {
   "first_seen": "2026-09-06T23:08:23",
@@ -2584,6 +2621,13 @@
     "theme": "楽天スーパーSALE（9月）（開催中） × 30代男性（健康・効率化・家電）",
     "persona": "30s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-09-09",
+    "slot": "morning",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "tplinkdirect:10001261",
@@ -2593,14 +2637,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00sbb0o.72d3y9ac.g00sbb0o.72d3z11b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftplinkdirect%2F4895252502688%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/tplinkdirect/cabinet/06321509/archer-ax3000.jpg?_ex=600x600",
   "shop_name": "TP-Linkダイレクト　楽天市場店",
-  "review_count": 1802,
+  "review_count": 1803,
   "review_average": 4.59,
   "affiliate_rate": 2.0,
   "point_rate": 20,
   "catchcopy": "【迷ったらコレ】wifiルーター 収納 壁掛け WiFi6 無線LANルーター EasyMesh OneMesh 縦型 接続台数 42台 価格.comプロダクトアワード2023 無線LANルーター銀賞受賞製品",
   "genre_id": "506591",
-  "score": 17.25,
-  "last_seen": "2026-09-07T16:33:40"
+  "score": 17.65,
+  "last_seen": "2026-09-09T08:42:38"
  },
  "kukuya:10000154": {
   "first_seen": "2026-09-07T16:33:40",
@@ -3294,5 +3338,167 @@
   "genre_id": "210695",
   "score": 18.18,
   "last_seen": "2026-09-09T00:04:04"
+ },
+ "atcontact:10002164": {
+  "first_seen": "2026-09-09T08:42:38",
+  "themes": [
+   {
+    "date": "2026-09-09",
+    "slot": "morning",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "atcontact:10002164",
+  "name": "コンタクトレンズ ワンデー｜クレオ ワンデー UVモイスト 30枚入 2〜8箱セット コンタクト 1日使い捨て 自然体コンタクト【送料無料】",
+  "price": 3240,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rvxeo.72d3y743.g00rvxeo.72d3z8e4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fatcontact%2Fk_kz_cm30z0_02_m%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fatcontact%2Fi%2F10002164%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00rvxeo.72d3y743.g00rvxeo.72d3z8e4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fatcontact%2Fk_kz_cm30z0_02_m%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/atcontact/cabinet/thumb2021/creo/1day/k_kz_cm30z0_p10s.jpg?_ex=600x600",
+  "shop_name": "アットコンタクト",
+  "review_count": 12668,
+  "review_average": 4.75,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "コンタクトレンズ ワンデー コンタクト 1日使い捨て クレオ CREO ソフトコンタクトレンズ ソフトコンタクト",
+  "genre_id": "563999",
+  "score": 17.55,
+  "last_seen": "2026-09-09T08:42:38"
+ },
+ "cott-o:10011873": {
+  "first_seen": "2026-09-09T08:42:38",
+  "themes": [
+   {
+    "date": "2026-09-09",
+    "slot": "morning",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "cott-o:10011873",
+  "name": "WHITESVILLE / Lot No. WV73544 / 2-PACK T-SHIRT / WHITE・BLACK・NAVY・H.GRAYホワイツビル / 2パックTシャツ 東洋エンタープライズ / ホワイト・ブラック・ネイビー・ヘザーグレー",
+  "price": 7590,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qebgo.72d3y754.g00qebgo.72d3z6fe/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcott-o%2Fwv73544%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcott-o%2Fi%2F10011873%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00qebgo.72d3y754.g00qebgo.72d3z6fe/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcott-o%2Fwv73544%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/cott-o/cabinet/toyo/wh250718s01_1.jpg?_ex=600x600",
+  "shop_name": "Cott",
+  "review_count": 73,
+  "review_average": 4.93,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "MADE IN JAPAN メンズ　",
+  "genre_id": "551180",
+  "score": 16.94,
+  "last_seen": "2026-09-09T08:42:38"
+ },
+ "officetrust:10000232": {
+  "first_seen": "2026-09-09T08:42:38",
+  "themes": [
+   {
+    "date": "2026-09-09",
+    "slot": "morning",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "officetrust:10000232",
+  "name": "『最安挑戦』コピー用紙 A4 5000枚(2500枚×2箱)ペーパーワン（PAPER ONE） 高白色 カーボンニュートラル プロデジ高品質 保存箱仕様 PEFC認証 用紙 OA用紙 印刷用紙 無地《商品到着後、レビュー書いて次回使えるクーポンプレゼント》『送料無料（一部地域除く）』",
+  "price": 3899,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00u1i9o.72d3y514.g00u1i9o.72d3z249/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fofficetrust%2F014002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fofficetrust%2Fi%2F10000232%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00u1i9o.72d3y514.g00u1i9o.72d3z249/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fofficetrust%2F014002%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/officetrust/cabinet/paper/paper01/014002_1n4.jpg?_ex=600x600",
+  "shop_name": "オフィストラスト",
+  "review_count": 1049,
+  "review_average": 4.77,
+  "affiliate_rate": 2.0,
+  "point_rate": 3,
+  "catchcopy": "『お届け先の氏名に必ず法人名を記載ください』高速及び大量コピー用に設計された高品質コピー用紙。",
+  "genre_id": "303145",
+  "score": 16.89,
+  "last_seen": "2026-09-09T08:42:38"
+ },
+ "teamo:10001200": {
+  "first_seen": "2026-09-09T08:42:38",
+  "themes": [
+   {
+    "date": "2026-09-09",
+    "slot": "morning",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "teamo:10001200",
+  "name": "コンタクトレンズ ワンデー 近視 遠視 選べる【2箱4箱】 TeAmo CLEAR 1DAY UV 低含水 高含水 ティアモ クリア ワンデー まとめ買い 1箱30枚 TeAmo コンタクト クリア 近視用 遠視用 1日使い捨て クリアワンデー 度あり UVカット ソフトコンタクト 送料無料 【最安値に挑戦】",
+  "price": 1986,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00ram0o.72d3ycc4.g00ram0o.72d3z469/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fteamo%2Fpure_clear_1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fteamo%2Fi%2F10001200%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00ram0o.72d3ycc4.g00ram0o.72d3z469/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fteamo%2Fpure_clear_1%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/teamo/cabinet/2026/clear/1day_clear2box_tm.jpg?_ex=600x600",
+  "shop_name": "コンタクトレンズのTeAmo",
+  "review_count": 14873,
+  "review_average": 4.56,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "【最安値に挑戦】 コンタクト ワンデー 1日使い捨て クリアコンタクト ワンデイ UVカット 紫外線 紫外線カット 花粉症 tiamo ティアモ てぃあも コンタクト 遠視 近視 2箱60枚 4箱120枚",
+  "genre_id": "563999",
+  "score": 16.79,
+  "last_seen": "2026-09-09T08:42:38"
+ },
+ "pegasus-store:10000093": {
+  "first_seen": "2026-09-09T08:42:38",
+  "themes": [
+   {
+    "date": "2026-09-09",
+    "slot": "morning",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "pegasus-store:10000093",
+  "name": "【10％OFFクーポン：8,982円！】リカバリーウェア《上下セット》 《ラッピング可》 長袖 Wellmo なめらかな肌触り ルームウェア パジャマ メンズ レディース 男女兼用 部屋着 血行促進 ギフト プレゼント 睡眠 サポート 快眠 グッズ 【30日間全額返金保証】敬老の日",
+  "price": 9980,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00uo7vo.72d3y062.g00uo7vo.72d3zd24/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpegasus-store%2Frecovery%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpegasus-store%2Fi%2F10000093%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00uo7vo.72d3y062.g00uo7vo.72d3zd24/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpegasus-store%2Frecovery%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/pegasus-store/cabinet/11449105/12968196/imgrc0116342172.jpg?_ex=600x600",
+  "shop_name": "PEGASUS STORE",
+  "review_count": 316,
+  "review_average": 4.88,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "Wellmoのリカバリーウェア、忙しい現代人のために開発。独自開発の機能性繊維が、体を優しく包み込み、リラックス状態へと導きます。",
+  "genre_id": "303855",
+  "score": 16.74,
+  "last_seen": "2026-09-09T08:42:38"
+ },
+ "lens-1:10002142": {
+  "first_seen": "2026-09-09T08:42:38",
+  "themes": [
+   {
+    "date": "2026-09-09",
+    "slot": "morning",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "lens-1:10002142",
+  "name": "シード ワンデーピュア うるおいプラス 96枚入×2箱 ( コンタクト 1日使い捨て ワンデー 1day シード seed ピュア Pure うるおいプラス ワンデーピュアうるおいプラス 96枚入り 2箱セット )",
+  "price": 9170,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00szm9o.72d3y753.g00szm9o.72d3zed6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flens-1%2F1pureup96p_02%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flens-1%2Fi%2F10002142%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00szm9o.72d3y753.g00szm9o.72d3zed6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flens-1%2F1pureup96p_02%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/lens-1/cabinet/product_detail_2/11658554/1pureup96p_02_pt10.jpg?_ex=600x600",
+  "shop_name": "レンズワン楽天市場店",
+  "review_count": 6675,
+  "review_average": 4.78,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "★迅速丁寧な対応のレンズワン！",
+  "genre_id": "563999",
+  "score": 16.53,
+  "last_seen": "2026-09-09T08:42:38"
  }
 }
