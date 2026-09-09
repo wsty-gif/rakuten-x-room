@@ -17,3 +17,10 @@
    - 商品URL（ROOM検索用）: https://hb.afl.rakuten.co.jp/hgc/g00qvpko.72d3yd83.g00qvpko.72d3z3a5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpricon%2Fk_jj_oa90z0_02_h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpricon%2Fi%2F10003151%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
    - ROOM用コメント案: コンタクトレンズ ワンデー コンタクト
 
+## 16:35 楽天スーパーSALE（9月）（開催中） × 20代男性（ガジェット・一人暮らし）
+
+1. **【9/4~9/11 15%OFF】SDカードリーダー iPhone17 対応 1TB 写真 動画 バックアップ データ **
+   - 価格: 3,580円 / ★4.47（56,097件） / 料率 2.0%
+   - 商品URL（ROOM検索用）: https://hb.afl.rakuten.co.jp/hgc/g00ruz0o.72d3ycf9.g00ruz0o.72d3z98e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstarfocus%2Fi-flash-device-hd%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fstarfocus%2Fi%2F10002278%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - ROOM用コメント案: SDカードリーダー 対応 1TB 写真 動画
+
