@@ -129,23 +129,30 @@
     "theme": "敬老の日（11日後） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-10",
+    "slot": "morning",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "vtcosmetic-official:10000829",
-  "name": "【9日限定クーポン有】＼最大51%OFF+ギフト+送料無料／★総合ランキング1位【VT 大容量 パック 2種セット】スージング シート マスク ( PDRN / CICA / ビタミンC アスタキサンチン /アイス/ レチノール / コラーゲン / エクソソーム / TXトーニング ) シカ アゼライン酸",
+  "name": "【10日限定特価+追加クーポン有】＼最大51%OFF+ギフト／総合ランキング1位【VT 大容量 パック 2種セット】スージング シート マスク ( PDRN / CICA / ビタミンC アスタキサンチン /アイス/ レチノール / コラーゲン / エクソソーム / TXトーニング ) シカ アゼライン酸",
   "price": 2683,
   "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tdwho.72d3y76b.g00tdwho.72d3z7bf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvtcosmetic-official%2Fsoothingmask_set_adsa%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fvtcosmetic-official%2Fi%2F10000829%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00tdwho.72d3y76b.g00tdwho.72d3z7bf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvtcosmetic-official%2Fsoothingmask_set_adsa%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/vtcosmetic-official/cabinet/soothingmask_set/263q_700_51_2.jpg?_ex=600x600",
   "shop_name": "VTcosmetic楽天市場店",
-  "review_count": 8657,
+  "review_count": 8658,
   "review_average": 4.69,
   "affiliate_rate": 4.0,
   "point_rate": 2,
   "catchcopy": "《楽天1位》1日1枚！大容量フェイスパックセット",
   "genre_id": "503020",
-  "score": 18.38,
-  "last_seen": "2026-09-10T00:05:56"
+  "score": 17.78,
+  "last_seen": "2026-09-10T08:32:47"
  },
  "yayoi-cosme:10014729": {
   "first_seen": "2026-09-06T02:44:54",
@@ -548,6 +555,13 @@
     "theme": "楽天スーパーSALE（9月）（開催中） × 30代男性（健康・効率化・家電）",
     "persona": "30s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-09-10",
+    "slot": "morning",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "hotch-potch:10017531",
@@ -557,14 +571,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00pw1co.72d3ya1f.g00pw1co.72d3z2c0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhotch-potch%2F00014257_cooking_pot%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/hotch-potch/cabinet/kago_img11/00014257.jpg?_ex=600x600",
   "shop_name": "ホッチポッチ自由が丘 WEB shop",
-  "review_count": 16376,
+  "review_count": 16416,
   "review_average": 4.68,
   "affiliate_rate": 2.0,
   "point_rate": 10,
   "catchcopy": "調理ポット 豆乳機 コンパクト 自動調理器 ソイミルク 氷対応 ペースト ソース おかゆ おから お粥 ヘルシー レシピ本 耐熱 シンプル オート 簡単 洗いやすい 手作り auto cooking pot",
   "genre_id": "565076",
-  "score": 19.56,
-  "last_seen": "2026-09-07T16:33:40"
+  "score": 19.06,
+  "last_seen": "2026-09-10T08:32:47"
  },
  "tescom-japan:10000227": {
   "first_seen": "2026-09-06T03:27:02",
@@ -623,6 +637,13 @@
     "theme": "楽天スーパーSALE（9月）（開催中） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-09-10",
+    "slot": "morning",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "brita:10000161",
@@ -632,14 +653,16 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00tbsuo.72d3y673.g00tbsuo.72d3zedf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbrita%2Fmaxtraplus-8%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/brita/cabinet/thum/thumb_01/maxtraplus-8.jpg?_ex=600x600",
   "shop_name": "浄水器のブリタ公式 楽天市場店",
-  "review_count": 25794,
+  "review_count": 25883,
   "review_average": 4.78,
   "affiliate_rate": 2.0,
   "point_rate": 1,
   "catchcopy": "【正規品】ポット型浄水器用カートリッジ 「訳アリ」品でお得に、8個セット　PFAS (PFOS/PFOA) 除去",
   "genre_id": "212491",
   "score": 19.21,
-  "last_seen": "2026-09-08T08:48:43"
+  "last_seen": "2026-09-10T08:32:47",
+  "posted_text": "#PR セール価格は期間中だけ。迷うなら今\nポット型浄水器用カートリッジ マクストラプロ\n★4.78・レビュー25,883件\n7,990円\n使ってる人いたら感想ください\n#楽天スーパーSALE\n▶ROOMはプロフから",
+  "posted_at": "2026-09-10T08:32:47"
  },
  "matsuya:10000085": {
   "first_seen": "2026-09-06T03:27:02",
@@ -891,6 +914,13 @@
     "theme": "敬老の日（13日後） × 30代女性（暮らし・時短・コスパ）",
     "persona": "30s_woman",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-10",
+    "slot": "morning",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "netbaby:10028506",
@@ -900,14 +930,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00pzd4o.72d3yfe6.g00pzd4o.72d3zc1c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetbaby%2F404272%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/netbaby/cabinet/272/404272.jpg?_ex=600x600",
   "shop_name": "楽天24 ベビー館",
-  "review_count": 8625,
+  "review_count": 8639,
   "review_average": 4.79,
   "affiliate_rate": 4.0,
   "point_rate": 1,
   "catchcopy": "マミーポコパンツ / マミーポコパンツ 大きめで長〜く使える オムツ M L BIG",
   "genre_id": "205198",
-  "score": 18.32,
-  "last_seen": "2026-09-08T16:26:48"
+  "score": 18.82,
+  "last_seen": "2026-09-10T08:32:47"
  },
  "kouragumi:10001520": {
   "first_seen": "2026-09-06T03:50:26",
@@ -1327,6 +1357,13 @@
     "theme": "楽天スーパーSALE（9月）（開催中） × 30代男性（健康・効率化・家電）",
     "persona": "30s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-09-10",
+    "slot": "morning",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "auroraselect:10000113",
@@ -1336,14 +1373,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00uso1o.72d3y8dc.g00uso1o.72d3z6d2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauroraselect%2Fbsq003%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/auroraselect/cabinet/bsq003/main/bsq003-3hou.jpg?_ex=600x600",
   "shop_name": "AURORA SELECT",
-  "review_count": 596,
-  "review_average": 4.55,
+  "review_count": 617,
+  "review_average": 4.54,
   "affiliate_rate": 4.0,
   "point_rate": 5,
   "catchcopy": "特許取得 1年保証 46cm、58cmの選べるサイズで、子供から大人まで家族みんなで使えるのも魅力です。腹筋 健康器具",
   "genre_id": "204697",
-  "score": 18.86,
-  "last_seen": "2026-09-07T16:33:40"
+  "score": 18.56,
+  "last_seen": "2026-09-10T08:32:47"
  },
  "cuisinart-official:10000006": {
   "first_seen": "2026-09-06T04:02:03",
@@ -2192,6 +2229,13 @@
     "theme": "敬老の日（11日後） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-10",
+    "slot": "morning",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "irisplaza-r:10170526",
@@ -2201,14 +2245,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00t3zto.72d3y505.g00t3zto.72d3z9db/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Firisplaza-r%2F113800%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/irisplaza-r/cabinet/12351902/imgrc0120697447.jpg?_ex=600x600",
   "shop_name": "アイリスオーヤマ公式 楽天市場店",
-  "review_count": 7254,
+  "review_count": 7264,
   "review_average": 4.69,
   "affiliate_rate": 4.0,
   "point_rate": 1,
   "catchcopy": "米 お米 コメ ライス ごはん ご飯 白飯 白米 ブランド米 ブレンド米 10kg 15kg 低温製法 コールド アイリスオーヤマ 低温製法米 アイリスオーヤマ",
   "genre_id": "201184",
-  "score": 21.71,
-  "last_seen": "2026-09-10T00:05:56"
+  "score": 17.41,
+  "last_seen": "2026-09-10T08:32:47"
  },
  "r-aoki:10000565": {
   "first_seen": "2026-09-06T16:19:14",
@@ -2682,6 +2726,13 @@
     "theme": "楽天スーパーSALE（9月）（開催中） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-09-10",
+    "slot": "morning",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "kobe-beauty-labo:10000074",
@@ -2691,14 +2742,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00r23no.72d3y9ef.g00r23no.72d3z700/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkobe-beauty-labo%2Fmain-salo6%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/kobe-beauty-labo/cabinet/1st_thum/main-salo6.jpg?_ex=600x600",
   "shop_name": "アンド ハビット",
-  "review_count": 38898,
+  "review_count": 38912,
   "review_average": 4.56,
   "affiliate_rate": 2.0,
   "point_rate": 1,
   "catchcopy": "立ち上がり30秒！3種類のプレート幅が選べるストレートアイロン メーカー1年保証！送料無料 ヘアアイロン",
   "genre_id": "509412",
-  "score": 18.11,
-  "last_seen": "2026-09-08T08:48:43"
+  "score": 17.92,
+  "last_seen": "2026-09-10T08:32:47"
  },
  "tplinkdirect:10001261": {
   "first_seen": "2026-09-07T16:33:40",
@@ -3029,23 +3080,30 @@
     "theme": "楽天スーパーSALE（9月）（開催中） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-09-10",
+    "slot": "morning",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "lifedrinkcompany:10000022",
-  "name": "【最安値に挑戦中！2,399円〜】炭酸水 500ml 48本 (24本×2ケース) 送料無料※一部地域除く 強炭酸 炭酸 無糖 OZA SODA プレーン レモン ピンクグレープフルーツ ライム 割り材 箱買い まとめ買い ライフドリンクカンパニー LIFEDRINK ZAO SODA",
-  "price": 2399,
+  "name": "【9/10限定！店内全品10％OFFクーポン】炭酸水 500ml 48本 (24本×2ケース) 送料無料※一部地域除く 強炭酸 炭酸 無糖 OZA SODA プレーン レモン ピンクグレープフルーツ ライム 割り材 箱買い まとめ買い ライフドリンクカンパニー LIFEDRINK ZAO SODA",
+  "price": 2450,
   "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tkn4o.72d3y8c1.g00tkn4o.72d3z0c4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flifedrinkcompany%2Fzaosoda-500-48%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flifedrinkcompany%2Fi%2F10000022%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00tkn4o.72d3y8c1.g00tkn4o.72d3z0c4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flifedrinkcompany%2Fzaosoda-500-48%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
-  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/lifedrinkcompany/cabinet/08451052/13789188/peach48_0907.jpg?_ex=600x600",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/lifedrinkcompany/cabinet/08451052/13789188/peach48_0910.jpg?_ex=600x600",
   "shop_name": "LIFEDRINKオンラインストア",
-  "review_count": 17425,
+  "review_count": 17471,
   "review_average": 4.68,
   "affiliate_rate": 4.0,
   "point_rate": 1,
   "catchcopy": "炭酸水 強炭酸水 ペットボトル スパークリング ソーダ 無糖 レモン ピンクグレープフルーツ ラベルレス",
   "genre_id": "506536",
-  "score": 17.65,
-  "last_seen": "2026-09-08T08:48:43"
+  "score": 17.35,
+  "last_seen": "2026-09-10T08:32:47"
  },
  "soukaidrink:10009211": {
   "first_seen": "2026-09-08T08:48:43",
@@ -3687,6 +3745,13 @@
     "theme": "敬老の日（11日後） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-10",
+    "slot": "morning",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "yamagoiida:10000149",
@@ -3696,14 +3761,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00tqd5o.72d3y629.g00tqd5o.72d3z50c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamagoiida%2F10000121%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/yamagoiida/cabinet/12604244/13204764/13204769/ginsake_thum005.jpg?_ex=600x600",
   "shop_name": "骨取り魚の飯田商店",
-  "review_count": 1259,
+  "review_count": 1269,
   "review_average": 4.82,
   "affiliate_rate": 4.0,
   "point_rate": 1,
   "catchcopy": "脂のりいい濃厚なうま味を食卓へ！骨取り済みだから家族みんなが安心してお召し上がりいただけます",
   "genre_id": "207774",
-  "score": 21.86,
-  "last_seen": "2026-09-10T00:05:56"
+  "score": 16.97,
+  "last_seen": "2026-09-10T08:32:47"
  },
  "sanwa-junkei:10000571": {
   "first_seen": "2026-09-10T00:05:56",
@@ -3812,5 +3877,86 @@
   "genre_id": "201184",
   "score": 18.76,
   "last_seen": "2026-09-10T00:05:56"
+ },
+ "brita:10000052": {
+  "first_seen": "2026-09-10T08:32:47",
+  "themes": [
+   {
+    "date": "2026-09-10",
+    "slot": "morning",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "brita:10000052",
+  "name": "【レビュー特典あり】【訳アリ】公式 浄水器のブリタ 交換用カートリッジ マクストラプロ ピュアパフォーマンス3個セット | カートリッジ 浄水ポット マクストラ 日本仕様 ブリタカートリッジ brita maxtra アウトレット PFAS (PFOS/PFOA) 除去 pfas浄水器",
+  "price": 3780,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tbsuo.72d3y673.g00tbsuo.72d3zedf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbrita%2Fmaxtraplus-3-w%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbrita%2Fi%2F10000052%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00tbsuo.72d3y673.g00tbsuo.72d3zedf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbrita%2Fmaxtraplus-3-w%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/brita/cabinet/thum/thumb_01/maxtraplus-3-w.jpg?_ex=600x600",
+  "shop_name": "浄水器のブリタ公式 楽天市場店",
+  "review_count": 13333,
+  "review_average": 4.75,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "【正規品】「訳アリ」品でお得に、3個セット PFAS (PFOS/PFOA) 除去",
+  "genre_id": "212491",
+  "score": 18.09,
+  "last_seen": "2026-09-10T08:32:47"
+ },
+ "netbaby:10035957": {
+  "first_seen": "2026-09-10T08:32:47",
+  "themes": [
+   {
+    "date": "2026-09-10",
+    "slot": "morning",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "netbaby:10035957",
+  "name": "【1種類を選べる】メリーズ エアスルー パンツ 梱販販売用(3袋入×1箱)【メリーズ】[おむつ オムツ 紙おむつ 紙オムツ さらさらエアスルー]",
+  "price": 5980,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pzd4o.72d3yfe6.g00pzd4o.72d3zc1c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetbaby%2F404758%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnetbaby%2Fi%2F10035957%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00pzd4o.72d3yfe6.g00pzd4o.72d3zc1c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetbaby%2F404758%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/netbaby/cabinet/758/404758.jpg?_ex=600x600",
+  "shop_name": "楽天24 ベビー館",
+  "review_count": 4011,
+  "review_average": 4.83,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "おむつ オムツ 紙おむつ 紙オムツ さらさらエアスルー / メリーズ / メリーズ エアスルー パンツ 梱販販売用",
+  "genre_id": "205198",
+  "score": 17.45,
+  "last_seen": "2026-09-10T08:32:47"
+ },
+ "mikirona:10000085": {
+  "first_seen": "2026-09-10T08:32:47",
+  "themes": [
+   {
+    "date": "2026-09-10",
+    "slot": "morning",
+    "theme": "楽天スーパーSALE（9月）（開催中） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "mikirona:10000085",
+  "name": "【楽天1位★SSクーポンで3,470円～】ドライヤー 速乾 大風量 2億マイナスイオン 軽量 静音 1年保証 高速ドライヤー ヘアドライヤー 静電気除去 コンパクト 人気 髪質改善 美容家電 ヘアケア 美髪 時短 レディース メンズ ヘアサロン 冷熱風 ホワイトデ ギフト 家庭",
+  "price": 3970,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00u8azo.72d3y174.g00u8azo.72d3z65e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmikirona%2Fs-sd-l88%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmikirona%2Fi%2F10000085%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00u8azo.72d3y174.g00u8azo.72d3z65e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmikirona%2Fs-sd-l88%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/mikirona/cabinet/imgrc0132897613.jpg?_ex=600x600",
+  "shop_name": "Mikirona",
+  "review_count": 8358,
+  "review_average": 4.49,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "★美容・健康家電1位★RUNCTY 正規品 うるおい美髪 素早く乾かし 低騒音 3段風量 2段温度調節 速乾 低温 サラサラ 時短 恒温 好評 髪に優しい PSE認証 一年保証 母の日",
+  "genre_id": "502792",
+  "score": 17.0,
+  "last_seen": "2026-09-10T08:32:47"
  }
 }
