@@ -270,5 +270,16 @@
   "threads_id": "18112386590111585",
   "room_done": false,
   "image": true
+ },
+ {
+  "date": "2026-09-09T22:47:25",
+  "slot": "evening",
+  "kind": "engage",
+  "engage_key": "poll8",
+  "theme": "反応投稿（poll）",
+  "persona": "all",
+  "text": "【楽天スーパーSALE 開催中】\nふるさと納税、もう済ませた？",
+  "tweet_id": "2097683261598183893",
+  "threads_id": "18111152300029173"
  }
 ]
