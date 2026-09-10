@@ -24,3 +24,10 @@
    - 商品URL（ROOM検索用）: https://hb.afl.rakuten.co.jp/hgc/g00pui9o.72d3y639.g00pui9o.72d3zc91/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-kurashi%2Fs1u57%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-kurashi%2Fi%2F10048736%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
    - ROOM用コメント案: コロ脚 中が透けない 壁付き チェスト
 
+## 23:58 敬老の日（11日後） × 40代男性（家族・晩酌・車）
+
+1. **SP＼9/10限定P5倍！／【1食205円~！最大59％OFF☆条件達成でP最大10倍！】 牛めしの具（プレミアム仕様）**
+   - 価格: 2,980円 / ★4.63（14,028件） / 料率 4.0%
+   - 商品URL（ROOM検索用）: https://hb.afl.rakuten.co.jp/hgc/g00pwdgo.72d3ya6b.g00pwdgo.72d3ze2a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmatsuya%2Fus30%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmatsuya%2Fi%2F10000085%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - ROOM用コメント案: 牛めしの具 135g 牛めし 選択制
+
