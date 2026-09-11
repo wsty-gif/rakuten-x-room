@@ -399,5 +399,21 @@
   "text": "冬に向けて買い替えを考えているもの、ありますか？\n電気毛布か加湿器か、迷っている人が多そうです。",
   "tweet_id": "2098406143395614991",
   "threads_id": "18126602920692315"
+ },
+ {
+  "date": "2026-09-11T23:58:54",
+  "slot": "night",
+  "theme": "敬老の日（10日後） × 30代女性（暮らし・時短・コスパ）",
+  "persona": "30s_woman",
+  "item_code": "irisplaza-r:10170526",
+  "item_name": "＼1袋あたり1,890円〜！【食いしんぼう祭】／【令和7年産100％使用】白米 無洗米 和の輝き ブレンド米 10kg (5kg×2袋) 15kg (5kg×3",
+  "price": 4280,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00t3zto.72d3y505.g00t3zto.72d3z9db/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Firisplaza-r%2F113800%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Firisplaza-r%2Fi%2F10170526%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "#PR 毎年これで喜ばれてます\n白米 無洗米 和の輝き ブレンド米 10kg\n★4.69・レビュー7,377件\n4,280円・送料無料\n#楽天購入品\n▶ROOMはプロフから",
+  "tweet_id": "2098425962430075110",
+  "threads_id": "18351516118170273",
+  "room_done": false,
+  "image": true
  }
 ]

@@ -17,3 +17,10 @@
    - 商品URL（ROOM検索用）: https://hb.afl.rakuten.co.jp/hgc/g00taino.72d3ya2e.g00taino.72d3zcac/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftoyomarket%2Fvitas006%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftoyomarket%2Fi%2F10000219%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
    - ROOM用コメント案: VITAS バイタス ホエイ プロテイン
 
+## 23:58 敬老の日（10日後） × 30代女性（暮らし・時短・コスパ）
+
+1. **＼1袋あたり1,890円〜！【食いしんぼう祭】／【令和7年産100％使用】白米 無洗米 和の輝き ブレンド米 10kg **
+   - 価格: 4,280円 / ★4.69（7,377件） / 料率 4.0%
+   - 商品URL（ROOM検索用）: https://hb.afl.rakuten.co.jp/hgc/g00t3zto.72d3y505.g00t3zto.72d3z9db/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Firisplaza-r%2F113800%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Firisplaza-r%2Fi%2F10170526%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - ROOM用コメント案: 白米 無洗米 和の輝き ブレンド米 10kg
+
