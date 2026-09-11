@@ -388,5 +388,16 @@
   "threads_id": "18435131920194844",
   "room_done": false,
   "image": true
+ },
+ {
+  "date": "2026-09-11T22:39:52",
+  "slot": "evening",
+  "kind": "engage",
+  "engage_key": "q6",
+  "theme": "反応投稿（question）",
+  "persona": "all",
+  "text": "冬に向けて買い替えを考えているもの、ありますか？\n電気毛布か加湿器か、迷っている人が多そうです。",
+  "tweet_id": "2098406143395614991",
+  "threads_id": "18126602920692315"
  }
 ]
