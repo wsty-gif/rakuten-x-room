@@ -1284,6 +1284,13 @@
     "theme": "敬老の日（10日後） × 30代女性（暮らし・時短・コスパ）",
     "persona": "30s_woman",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-12",
+    "slot": "morning",
+    "theme": "敬老の日（9日後） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "gift"
    }
   ],
   "item_code": "yamagoiida:10000084",
@@ -1300,7 +1307,7 @@
   "catchcopy": "＜有塩製法で原材料は天然さばと食塩のみ＞オリジナルブレンドのさば専用塩で塩漬けしているので、そのまま焼くだけで美味しくお召し上がりいただけます！傷品や規格外サイズの訳あり商品",
   "genre_id": "304578",
   "score": 18.39,
-  "last_seen": "2026-09-11T23:58:54"
+  "last_seen": "2026-09-12T08:34:11"
  },
  "designers-and-labo:10003495": {
   "first_seen": "2026-09-06T04:02:03",
@@ -2681,23 +2688,30 @@
     "theme": "敬老の日（10日後） × 30代女性（暮らし・時短・コスパ）",
     "persona": "30s_woman",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-12",
+    "slot": "morning",
+    "theme": "敬老の日（9日後） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "gift"
    }
   ],
   "item_code": "jcrops:10001511",
-  "name": "【新米予約】10月上旬頃発送予定 令和8年産 福島県産ひとめぼれ 白米 送料無料 5kg 10kg 15kg 20kg 30kg 米 お米 白米 コメ こめ 白米 5kg 白米 10kg 白米 15kg 白米 20kg 白米 30kg",
+  "name": "クーポンで500円OFF 先着5000枚限定 【新米予約】10月上旬頃発送予定 令和8年産 福島県産ひとめぼれ 白米 送料無料 5kg 10kg 15kg 20kg 30kg 米 お米 白米 コメ こめ 白米 5kg 白米 10kg 白米 15kg 白米 20kg 白米 30kg",
   "price": 2799,
   "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00plxio.72d3yae3.g00plxio.72d3z359/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjcrops%2F10001511%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjcrops%2Fi%2F10001511%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00plxio.72d3yae3.g00plxio.72d3z359/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjcrops%2F10001511%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/jcrops/cabinet/hi-8.jpg?_ex=600x600",
   "shop_name": "会津CROPS米直販・楽天市場店",
-  "review_count": 20937,
+  "review_count": 20949,
   "review_average": 4.74,
   "affiliate_rate": 4.0,
   "point_rate": 1,
   "catchcopy": "楽天SOY2025米雑穀部門大賞受賞！ レビュー総数20,800件越え(2026.09.08時点) 総合評価4.74(2026.09.08時点)",
   "genre_id": "201184",
-  "score": 18.35,
-  "last_seen": "2026-09-11T23:58:54"
+  "score": 18.95,
+  "last_seen": "2026-09-12T08:34:11"
  },
  "imokuniya:10000012": {
   "first_seen": "2026-09-07T08:15:12",
@@ -2729,6 +2743,13 @@
     "theme": "敬老の日（10日後） × 30代女性（暮らし・時短・コスパ）",
     "persona": "30s_woman",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-12",
+    "slot": "morning",
+    "theme": "敬老の日（9日後） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "gift"
    }
   ],
   "item_code": "imokuniya:10000012",
@@ -2745,7 +2766,7 @@
   "catchcopy": "訳あり干し芋 自然食品 ほし芋 ほしいも サツマイモ さつま芋 薩摩芋 内祝い 誕生日 食物繊維 美腸 お芋スイーツ お取り寄せスイーツ 干しいも 食品 プレゼント ワケあり 60代 70代 80代",
   "genre_id": "304719",
   "score": 19.38,
-  "last_seen": "2026-09-11T23:58:54"
+  "last_seen": "2026-09-12T08:34:11"
  },
  "komatirain:10000001": {
   "first_seen": "2026-09-07T08:15:12",
@@ -2806,6 +2827,13 @@
     "theme": "敬老の日（10日後） × 30代女性（暮らし・時短・コスパ）",
     "persona": "30s_woman",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-12",
+    "slot": "morning",
+    "theme": "敬老の日（9日後） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "gift"
    }
   ],
   "item_code": "kouragumi:10001552",
@@ -2815,14 +2843,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00r77to.72d3y343.g00r77to.72d3zf2a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkouragumi%2F210069%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/kouragumi/cabinet/10531638/imgrc0114997933.jpg?_ex=600x600",
   "shop_name": "越前かに職人甲羅組（DENSHOKU）",
-  "review_count": 4955,
+  "review_count": 4979,
   "review_average": 4.64,
   "affiliate_rate": 4.0,
   "point_rate": 1,
   "catchcopy": "加工の際に出たお得な訳あり品(打ち身・不揃い・色飛び)メガ盛り食べ放題♪",
   "genre_id": "207774",
-  "score": 19.01,
-  "last_seen": "2026-09-11T23:58:54"
+  "score": 19.12,
+  "last_seen": "2026-09-12T08:34:11"
  },
  "jcrops:10008581": {
   "first_seen": "2026-09-07T08:15:12",
@@ -3508,6 +3536,13 @@
     "theme": "敬老の日（10日後） × 30代女性（暮らし・時短・コスパ）",
     "persona": "30s_woman",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-12",
+    "slot": "morning",
+    "theme": "敬老の日（9日後） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "gift"
    }
   ],
   "item_code": "calinuts:10000020",
@@ -3524,7 +3559,7 @@
   "catchcopy": "軽くローストすることで食感を保ち、素材本来の香ばしさをそのまま活かしたカリフォルニア産アーモンドです。",
   "genre_id": "214194",
   "score": 18.56,
-  "last_seen": "2026-09-11T23:58:54"
+  "last_seen": "2026-09-12T08:34:11"
  },
  "shizennoyakata:10007292": {
   "first_seen": "2026-09-08T16:26:48",
@@ -3535,6 +3570,13 @@
     "theme": "敬老の日（13日後） × 30代女性（暮らし・時短・コスパ）",
     "persona": "30s_woman",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-12",
+    "slot": "morning",
+    "theme": "敬老の日（9日後） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "gift"
    }
   ],
   "item_code": "shizennoyakata:10007292",
@@ -3544,14 +3586,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00pvlao.72d3y857.g00pvlao.72d3zfef/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshizennoyakata%2Fmixnutsofaphantom-spsale%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/shizennoyakata/cabinet/item_img/saleitem/imgrc0123707823.jpg?_ex=600x600",
   "shop_name": "美味しさは元気の源 【自然の館】",
-  "review_count": 33774,
+  "review_count": 33790,
   "review_average": 4.59,
   "affiliate_rate": 4.0,
   "point_rate": 1,
   "catchcopy": "【楽天年間ランキング2024 スイーツ部門 1位受賞】 送料無料はそのままで配送が早くなりました 厳選4種ナッツを配合 保存に便利なチャック付き袋 ファスティング 業務用 ポスト投函",
   "genre_id": "304705",
-  "score": 17.81,
-  "last_seen": "2026-09-08T16:26:48"
+  "score": 18.11,
+  "last_seen": "2026-09-12T08:34:11"
  },
  "busyman:10000122": {
   "first_seen": "2026-09-09T00:04:04",
@@ -3956,6 +3998,13 @@
     "theme": "敬老の日（10日後） × 30代女性（暮らし・時短・コスパ）",
     "persona": "30s_woman",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-12",
+    "slot": "morning",
+    "theme": "敬老の日（9日後） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "gift"
    }
   ],
   "item_code": "yamagoiida:10000149",
@@ -3972,7 +4021,9 @@
   "catchcopy": "脂のりいい濃厚なうま味を食卓へ！骨取り済みだから家族みんなが安心してお召し上がりいただけます",
   "genre_id": "207774",
   "score": 20.88,
-  "last_seen": "2026-09-11T23:58:54"
+  "last_seen": "2026-09-12T08:34:11",
+  "posted_text": "#PR 毎年これで喜ばれてます\n骨取り銀さけ 訳あり 骨なし チリ産 養殖\n★4.82・レビュー1,288件\n半額 11日正午まで｜3,990円・送料無料\n#楽天購入品\n▶ROOMはプロフから",
+  "posted_at": "2026-09-12T08:34:11"
  },
  "sanwa-junkei:10000571": {
   "first_seen": "2026-09-10T00:05:56",
@@ -4017,6 +4068,13 @@
     "theme": "敬老の日（10日後） × 30代女性（暮らし・時短・コスパ）",
     "persona": "30s_woman",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-12",
+    "slot": "morning",
+    "theme": "敬老の日（9日後） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "gift"
    }
   ],
   "item_code": "wakasugi:10000295",
@@ -4033,7 +4091,7 @@
   "catchcopy": "楽天ショップオブザイヤー2年連続受賞！鍋ランキング430週1位 5日間で120,166人前完売 新鮮ホルモンと専門店の選べるスープが魅力！ ちゃんぽん麺付きでシメまで美味しい！",
   "genre_id": "404930",
   "score": 18.44,
-  "last_seen": "2026-09-11T23:58:54"
+  "last_seen": "2026-09-12T08:34:11"
  },
  "henri-charpentier:10002080": {
   "first_seen": "2026-09-10T00:05:56",
@@ -4051,6 +4109,13 @@
     "theme": "敬老の日（10日後） × 30代女性（暮らし・時短・コスパ）",
     "persona": "30s_woman",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-12",
+    "slot": "morning",
+    "theme": "敬老の日（9日後） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "gift"
    }
   ],
   "item_code": "henri-charpentier:10002080",
@@ -4067,7 +4132,7 @@
   "catchcopy": "楽天店限定のオリジナルアソート！ここでしか買えない詰め合わせ&パッケージでお届けします。",
   "genre_id": "502911",
   "score": 18.7,
-  "last_seen": "2026-09-11T23:58:54"
+  "last_seen": "2026-09-12T08:34:11"
  },
  "yama-oatmeal-institute:10000024": {
   "first_seen": "2026-09-10T00:05:56",
@@ -4665,5 +4730,86 @@
   "genre_id": "567617",
   "score": 15.67,
   "last_seen": "2026-09-11T16:29:37"
+ },
+ "yoshinoya-shop:10000242": {
+  "first_seen": "2026-09-12T08:34:11",
+  "themes": [
+   {
+    "date": "2026-09-12",
+    "slot": "morning",
+    "theme": "敬老の日（9日後） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "gift"
+   }
+  ],
+  "item_code": "yoshinoya-shop:10000242",
+  "name": "＼衝撃の1食286円！／【期間限定5,973円OFF！】吉野家 公式【冷凍】牛丼の具120g×28袋 送料込み 仕送り 買い置き 時短 冷凍 冷凍食品 食品 吉牛 牛丼 惣菜 仕送り 常備品 簡単 便利 お弁当 おかず 冷食 よしのや セール 父の日",
+  "price": 7999,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00sc9po.72d3yaba.g00sc9po.72d3zbf9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyoshinoya-shop%2F650128_2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyoshinoya-shop%2Fi%2F10000242%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00sc9po.72d3yaba.g00sc9po.72d3zbf9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyoshinoya-shop%2F650128_2%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/yoshinoya-shop/cabinet/season/12071817/imgrc0113972415.jpg?_ex=600x600",
+  "shop_name": "吉野家公式ショップ楽天市場店",
+  "review_count": 5637,
+  "review_average": 4.59,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "大容量セットだから冷凍庫のストックや夏休みなどの昼ごはん、お弁当にも最適！食べたいときにすぐレンジで3分で食べられる簡単調理はスグレモノ",
+  "genre_id": "566683",
+  "score": 19.85,
+  "last_seen": "2026-09-12T08:34:11"
+ },
+ "jcrops:10000347": {
+  "first_seen": "2026-09-12T08:34:11",
+  "themes": [
+   {
+    "date": "2026-09-12",
+    "slot": "morning",
+    "theme": "敬老の日（9日後） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "gift"
+   }
+  ],
+  "item_code": "jcrops:10000347",
+  "name": "クーポンで500円OFF 先着5000枚限定 令和7年産 福島県産コシヒカリ 白米 送料無料 5kg 10kg 20kg 30kg 米 お米 白米 コメ こめ 白米 5kg 白米 10kg 白米 20kg 白米 30kg",
+  "price": 3199,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00plxio.72d3yae3.g00plxio.72d3z359/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjcrops%2F677723%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjcrops%2Fi%2F10000347%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00plxio.72d3yae3.g00plxio.72d3z359/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjcrops%2F677723%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/jcrops/cabinet/imgrc0117201185.jpg?_ex=600x600",
+  "shop_name": "会津CROPS米直販・楽天市場店",
+  "review_count": 39149,
+  "review_average": 4.71,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "グルメ大賞2025受賞！ 楽天SOY2025米雑穀部門大賞受賞！レビュー総数37,500件超え(2026.03.24時点) 総合評価4.70(2026.03.24時点)",
+  "genre_id": "201184",
+  "score": 19.67,
+  "last_seen": "2026-09-12T08:34:11"
+ },
+ "marukichi-kayano:10000017": {
+  "first_seen": "2026-09-12T08:34:11",
+  "themes": [
+   {
+    "date": "2026-09-12",
+    "slot": "morning",
+    "theme": "敬老の日（9日後） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "gift"
+   }
+  ],
+  "item_code": "marukichi-kayano:10000017",
+  "name": "【新米】令和8年産 北海道産 ゆめぴりか 10kg (5kg×2袋) 白米 米 お米 送料無料 鮮度保持パック変更可",
+  "price": 6780,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00radio.72d3ya46.g00radio.72d3zfdb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmarukichi-kayano%2F10000017%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmarukichi-kayano%2Fi%2F10000017%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00radio.72d3ya46.g00radio.72d3zfdb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmarukichi-kayano%2F10000017%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/marukichi-kayano/cabinet/yumepirika/img_pirika10kn.jpg?_ex=600x600",
+  "shop_name": "丸吉 茅野商店 北海道",
+  "review_count": 12516,
+  "review_average": 4.72,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "レビュー1.2万件★4.73｜15年連続特A｜甘くてもっちり食感　",
+  "genre_id": "201184",
+  "score": 19.36,
+  "last_seen": "2026-09-12T08:34:11"
  }
 }
