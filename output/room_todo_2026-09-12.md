@@ -10,3 +10,10 @@
    - 商品URL（ROOM検索用）: https://hb.afl.rakuten.co.jp/hgc/g00tqd5o.72d3y629.g00tqd5o.72d3z50c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamagoiida%2F10000121%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyamagoiida%2Fi%2F10000149%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
    - ROOM用コメント案: 骨取り銀さけ 訳あり 骨なし チリ産 養殖
 
+## 16:21 敬老の日（9日後） × 30代女性（暮らし・時短・コスパ）
+
+1. **【定期購入で1000ポイントGET！】ギフト 干し芋 茨城県産 紅はるか 訳あり 1kg 食べ物 和菓子 おやつ 送料無**
+   - 価格: 2,990円 / ★4.56（36,706件） / 料率 4.0%
+   - 商品URL（ROOM検索用）: https://hb.afl.rakuten.co.jp/hgc/g00tzq1o.72d3yc82.g00tzq1o.72d3z414/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fimokuniya%2F10000012%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fimokuniya%2Fi%2F10000012%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - ROOM用コメント案: ギフト 干し芋 茨城県産 紅はるか 訳あり
+
