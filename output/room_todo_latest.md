@@ -17,3 +17,10 @@
    - 商品URL（ROOM検索用）: https://hb.afl.rakuten.co.jp/hgc/g00tzq1o.72d3yc82.g00tzq1o.72d3z414/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fimokuniya%2F10000012%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fimokuniya%2Fi%2F10000012%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
    - ROOM用コメント案: ギフト 干し芋 茨城県産 紅はるか 訳あり
 
+## 23:03 敬老の日（9日後） × 40代男性（家族・晩酌・車）
+
+1. **敬老の日お届けまだ間に合う！お試し送料無料2,499円〜更に2個で600円OFF！3個で1,200円OFF！4個で2,0**
+   - 価格: 2,499円 / ★4.55（12,479件） / 料率 4.0%
+   - 商品URL（ROOM検索用）: https://hb.afl.rakuten.co.jp/hgc/g00r77to.72d3y343.g00r77to.72d3zf2a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkouragumi%2F201101%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkouragumi%2Fi%2F10000216%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - ROOM用コメント案: 楽天グルメ大賞受賞！楽天1位 国産
+

@@ -458,5 +458,21 @@
   "text": "楽天のレビュー、どこまで読む？",
   "tweet_id": "2098757608958259373",
   "threads_id": "17878600845627693"
+ },
+ {
+  "date": "2026-09-12T23:03:48",
+  "slot": "night",
+  "theme": "敬老の日（9日後） × 40代男性（家族・晩酌・車）",
+  "persona": "40s_man",
+  "item_code": "kouragumi:10000216",
+  "item_name": "敬老の日お届けまだ間に合う！お試し送料無料2,499円〜更に2個で600円OFF！3個で1,200円OFF！4個で2,000円OFF！ 楽天グルメ大賞受賞！楽天",
+  "price": 2499,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00r77to.72d3y343.g00r77to.72d3zf2a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkouragumi%2F201101%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkouragumi%2Fi%2F10000216%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "#PR 毎年これで喜ばれてます\n楽天グルメ大賞受賞！楽天1位 国産\n★4.55・レビュー12,479件・楽天ランキング1位\n2,499円・送料無料\n#楽天購入品\n▶ROOMはプロフから",
+  "tweet_id": "2098774482672394356",
+  "threads_id": "18429329380179610",
+  "room_done": false,
+  "image": true
  }
 ]
