@@ -1305,6 +1305,13 @@
     "theme": "敬老の日（9日後） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-13",
+    "slot": "morning",
+    "theme": "敬老の日（8日後） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
    }
   ],
   "item_code": "yamagoiida:10000084",
@@ -1321,7 +1328,7 @@
   "catchcopy": "＜有塩製法で原材料は天然さばと食塩のみ＞オリジナルブレンドのさば専用塩で塩漬けしているので、そのまま焼くだけで美味しくお召し上がりいただけます！傷品や規格外サイズの訳あり商品",
   "genre_id": "304578",
   "score": 19.3,
-  "last_seen": "2026-09-12T23:03:48"
+  "last_seen": "2026-09-13T08:27:29"
  },
  "designers-and-labo:10003495": {
   "first_seen": "2026-09-06T04:02:03",
@@ -2723,6 +2730,13 @@
     "theme": "敬老の日（9日後） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-13",
+    "slot": "morning",
+    "theme": "敬老の日（8日後） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
    }
   ],
   "item_code": "jcrops:10001511",
@@ -2738,8 +2752,8 @@
   "point_rate": 1,
   "catchcopy": "楽天SOY2025米雑穀部門大賞受賞！ レビュー総数20,800件越え(2026.09.08時点) 総合評価4.74(2026.09.08時点)",
   "genre_id": "201184",
-  "score": 18.85,
-  "last_seen": "2026-09-12T23:03:48"
+  "score": 19.05,
+  "last_seen": "2026-09-13T08:27:29"
  },
  "imokuniya:10000012": {
   "first_seen": "2026-09-07T08:15:12",
@@ -2878,6 +2892,13 @@
     "theme": "敬老の日（9日後） × 30代女性（暮らし・時短・コスパ）",
     "persona": "30s_woman",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-13",
+    "slot": "morning",
+    "theme": "敬老の日（8日後） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
    }
   ],
   "item_code": "kouragumi:10001552",
@@ -2893,8 +2914,8 @@
   "point_rate": 1,
   "catchcopy": "加工の際に出たお得な訳あり品(打ち身・不揃い・色飛び)メガ盛り食べ放題♪",
   "genre_id": "207774",
-  "score": 19.02,
-  "last_seen": "2026-09-12T16:21:55"
+  "score": 19.62,
+  "last_seen": "2026-09-13T08:27:29"
  },
  "jcrops:10008581": {
   "first_seen": "2026-09-07T08:15:12",
@@ -2926,23 +2947,30 @@
     "theme": "敬老の日（10日後） × 30代女性（暮らし・時短・コスパ）",
     "persona": "30s_woman",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-13",
+    "slot": "morning",
+    "theme": "敬老の日（8日後） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
    }
   ],
   "item_code": "jcrops:10008581",
-  "name": "ポイント5倍 9/11(金)1：59まで 8年産米ブレンド きらっとごはん 白米 脱酸素剤入り白米 無洗米 玄米 送料無料 5kg 10kg 15kg 20kg 30kg 60kg 120kg 米 お米 白米 無洗米 玄米 コメ こめ 白米 5kg 白米 10kg 白米 15kg 白米 20kg 白米 30kg 白米 60kg 白米 120kg",
+  "name": "クーポンで500円OFF 先着5000枚限定 8年産米ブレンド きらっとごはん 白米 脱酸素剤入り白米 無洗米 玄米 送料無料 5kg 10kg 15kg 20kg 30kg 60kg 120kg 米 お米 白米 無洗米 玄米 コメ こめ 白米 5kg 白米 10kg 白米 15kg 白米 20kg 白米 30kg 白米 60kg 白米 120kg",
   "price": 2599,
   "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00plxio.72d3yae3.g00plxio.72d3z359/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjcrops%2F4562129938344-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjcrops%2Fi%2F10008581%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00plxio.72d3yae3.g00plxio.72d3z359/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjcrops%2F4562129938344-2%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/jcrops/cabinet/2-ra.jpg?_ex=600x600",
   "shop_name": "会津CROPS米直販・楽天市場店",
-  "review_count": 7883,
+  "review_count": 7910,
   "review_average": 4.79,
   "affiliate_rate": 4.0,
   "point_rate": 1,
   "catchcopy": "楽天SOY2025米雑穀部門大賞受賞！品質に自信あり！！会津CROPS米直販から新商品販売開始！お米のプロが厳選、精米。",
   "genre_id": "201184",
   "score": 18.27,
-  "last_seen": "2026-09-11T23:58:54"
+  "last_seen": "2026-09-13T08:27:29"
  },
  "kobe-beauty-labo:10000074": {
   "first_seen": "2026-09-07T16:33:40",
@@ -3601,6 +3629,13 @@
     "theme": "敬老の日（9日後） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-13",
+    "slot": "morning",
+    "theme": "敬老の日（8日後） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
    }
   ],
   "item_code": "calinuts:10000020",
@@ -3617,7 +3652,7 @@
   "catchcopy": "軽くローストすることで食感を保ち、素材本来の香ばしさをそのまま活かしたカリフォルニア産アーモンドです。",
   "genre_id": "214194",
   "score": 18.56,
-  "last_seen": "2026-09-12T23:03:48"
+  "last_seen": "2026-09-13T08:27:29"
  },
  "shizennoyakata:10007292": {
   "first_seen": "2026-09-08T16:26:48",
@@ -4188,6 +4223,13 @@
     "theme": "敬老の日（9日後） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-13",
+    "slot": "morning",
+    "theme": "敬老の日（8日後） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
    }
   ],
   "item_code": "henri-charpentier:10002080",
@@ -4204,7 +4246,7 @@
   "catchcopy": "楽天店限定のオリジナルアソート！ここでしか買えない詰め合わせ&パッケージでお届けします。",
   "genre_id": "502911",
   "score": 18.35,
-  "last_seen": "2026-09-12T23:03:48"
+  "last_seen": "2026-09-13T08:27:29"
  },
  "yama-oatmeal-institute:10000024": {
   "first_seen": "2026-09-10T00:05:56",
@@ -4297,6 +4339,13 @@
     "theme": "敬老の日（9日後） × 30代女性（暮らし・時短・コスパ）",
     "persona": "30s_woman",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-13",
+    "slot": "morning",
+    "theme": "敬老の日（8日後） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
    }
   ],
   "item_code": "netbaby:10035957",
@@ -4313,7 +4362,7 @@
   "catchcopy": "おむつ オムツ 紙おむつ 紙オムツ さらさらエアスルー / メリーズ / メリーズ エアスルー パンツ 梱販販売用",
   "genre_id": "205198",
   "score": 18.67,
-  "last_seen": "2026-09-12T16:21:55"
+  "last_seen": "2026-09-13T08:27:29"
  },
  "mikirona:10000085": {
   "first_seen": "2026-09-10T08:32:47",
@@ -4529,6 +4578,13 @@
     "theme": "敬老の日（9日後） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-13",
+    "slot": "morning",
+    "theme": "敬老の日（8日後） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
    }
   ],
   "item_code": "okashi:10000317",
@@ -4545,7 +4601,7 @@
   "catchcopy": "即日発送 敬老の日に最旬秋の味覚 岐阜中津川栗100％栗きんとん 市田柿 に栗きんとんを入れた栗柿 孫 おばあちゃん 介護施設 内祝 出産内祝 御供 お取り寄せ 60代 70代 80代 90代",
   "genre_id": "112683",
   "score": 18.91,
-  "last_seen": "2026-09-12T23:03:48"
+  "last_seen": "2026-09-13T08:27:29"
  },
  "kouragumi:10000855": {
   "first_seen": "2026-09-10T23:58:03",
@@ -4685,6 +4741,13 @@
     "theme": "楽天スーパーSALE（9月）（開催中） × 子育て世帯のママ・パパ",
     "persona": "mama",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-09-13",
+    "slot": "morning",
+    "theme": "敬老の日（8日後） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
    }
   ],
   "item_code": "candymagic:10000575",
@@ -4694,14 +4757,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00qssmo.72d3y41a.g00qssmo.72d3z9ac/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcandymagic%2Frv-100%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/candymagic/cabinet/revia/t_rv1d_26_3s_co_01r.jpg?_ex=600x600",
   "shop_name": "キャンディーマジック　楽天市場店",
-  "review_count": 30073,
+  "review_count": 30098,
   "review_average": 4.72,
   "affiliate_rate": 4.0,
   "point_rate": 1,
   "catchcopy": "新色『ピュアグロー』『スティルレイ』は艶めく立体感を繊細に仕込んだナチュラルで印象的な瞳に。ReVIA レヴィア ワンデー カラコン KIM CHAEWON of LE SSERAFIM",
   "genre_id": "408099",
-  "score": 18.03,
-  "last_seen": "2026-09-11T08:26:37"
+  "score": 19.03,
+  "last_seen": "2026-09-13T08:27:29"
  },
  "lucida:10030018": {
   "first_seen": "2026-09-11T16:29:37",
@@ -5123,5 +5186,88 @@
   "genre_id": "566647",
   "score": 18.44,
   "last_seen": "2026-09-12T23:03:48"
+ },
+ "kouragumi:10000367": {
+  "first_seen": "2026-09-13T08:27:29",
+  "themes": [
+   {
+    "date": "2026-09-13",
+    "slot": "morning",
+    "theme": "敬老の日（8日後） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
+   }
+  ],
+  "item_code": "kouragumi:10000367",
+  "name": "3箱で1箱タダ★5,970円OFFクーポンで総重量2.4kg送料無料11,940円！楽天年間ランキング5年連続1位！カット生ずわい蟹600g/総重量800g かに 蟹 カニ ズワイガニ ギフト 敬老の日 残暑見舞 【P】",
+  "price": 5970,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00r77to.72d3y343.g00r77to.72d3zf2a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkouragumi%2F100005%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkouragumi%2Fi%2F10000367%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00r77to.72d3y343.g00r77to.72d3zf2a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkouragumi%2F100005%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/kouragumi/cabinet/10531638/imgrc0127249456.jpg?_ex=600x600",
+  "shop_name": "越前かに職人甲羅組（DENSHOKU）",
+  "review_count": 21976,
+  "review_average": 4.36,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "迷ったらコレ！楽天グルメ大賞カニ部門2023受賞 刺身 生食 生食用 かにしゃぶ カニしゃぶ 蟹しゃぶ かに鍋 蟹鍋 カニ鍋 ギフト 贈り物 年末 熨斗 お歳暮 むき身 カット済み",
+  "genre_id": "110411",
+  "score": 20.84,
+  "last_seen": "2026-09-13T08:27:29",
+  "posted_text": "#PR 敬老の日、まだ決めてない人へ\n3箱で1箱タダ 総重量800g かに カニ\n★4.36・レビュー21,976件\n5,970円・送料無料\n使ってる人いたら感想ください\n#楽天購入品\n▶ROOMはプロフから",
+  "posted_at": "2026-09-13T08:27:29"
+ },
+ "kosinosakuzo:10000011": {
+  "first_seen": "2026-09-13T08:27:29",
+  "themes": [
+   {
+    "date": "2026-09-13",
+    "slot": "morning",
+    "theme": "敬老の日（8日後） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
+   }
+  ],
+  "item_code": "kosinosakuzo:10000011",
+  "name": "令和8年新米予約 魚沼産コシヒカリ5kg 白米、無洗米、玄米選べます 魚沼産こしひかり/棚田米/減農薬 　特A 食味最上級SSランク置き配可　ギフト_内祝い_各種ご進物",
+  "price": 6280,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00r27wo.72d3y919.g00r27wo.72d3za4d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkosinosakuzo%2F10000015%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkosinosakuzo%2Fi%2F10000011%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00r27wo.72d3y919.g00r27wo.72d3za4d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkosinosakuzo%2F10000015%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/kosinosakuzo/cabinet/01744096/imgrc0077547355.jpg?_ex=600x600",
+  "shop_name": "コシの作蔵",
+  "review_count": 251,
+  "review_average": 4.76,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "魚沼産コシヒカリ5kg 令和8年新米 /特A 棚田米/ 減農薬 お祝い/内祝い／のし",
+  "genre_id": "201184",
+  "score": 18.43,
+  "last_seen": "2026-09-13T08:27:29"
+ },
+ "fuchigami:10000061": {
+  "first_seen": "2026-09-13T08:27:29",
+  "themes": [
+   {
+    "date": "2026-09-13",
+    "slot": "morning",
+    "theme": "敬老の日（8日後） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
+   }
+  ],
+  "item_code": "fuchigami:10000061",
+  "name": "【今が狙い目★売り切り大決算！！！9/16(木)09:59まで！】 米 10kg 令和7年産米入り 訳あり ほほえみ米 お米マイスター厳選米 米 10kg 送料無料 白米 10kg 送料無料 お米 10kg 無洗米 送料無料 10キロ 西日本産 こめたつ 備蓄用 あす楽",
+  "price": 3980,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rxaro.72d3yafc.g00rxaro.72d3zdeb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffuchigami%2F10000061%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffuchigami%2Fi%2F10000061%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00rxaro.72d3yafc.g00rxaro.72d3zdeb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffuchigami%2F10000061%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/fuchigami/cabinet/rakurip/kome/hoho_seimai_0912_10.jpg?_ex=600x600",
+  "shop_name": "こめたつ",
+  "review_count": 9104,
+  "review_average": 4.41,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "こめたつ 暮らし応援宣言！！米 10kg 白米 無洗米 送料無料【訳あり米】",
+  "genre_id": "201184",
+  "score": 18.42,
+  "last_seen": "2026-09-13T08:27:29"
  }
 }
