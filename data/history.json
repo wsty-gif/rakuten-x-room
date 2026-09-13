@@ -506,5 +506,16 @@
   "threads_id": "18113635667276034",
   "room_done": false,
   "image": true
+ },
+ {
+  "date": "2026-09-13T22:50:35",
+  "slot": "evening",
+  "kind": "engage",
+  "engage_key": "poll0",
+  "theme": "反応投稿（poll）",
+  "persona": "all",
+  "text": "楽天のセール、何から見ますか？",
+  "tweet_id": "2099133556404494372",
+  "threads_id": "17899879479374685"
  }
 ]
