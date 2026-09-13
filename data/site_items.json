@@ -1312,6 +1312,13 @@
     "theme": "敬老の日（8日後） × 30代女性（暮らし・時短・コスパ）",
     "persona": "30s_woman",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-14",
+    "slot": "morning",
+    "theme": "敬老の日（7日後） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "gift"
    }
   ],
   "item_code": "yamagoiida:10000084",
@@ -1321,14 +1328,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00tqd5o.72d3y629.g00tqd5o.72d3z50c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamagoiida%2F10000084%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/yamagoiida/cabinet/08906716/img_2026_08_002.jpg?_ex=600x600",
   "shop_name": "骨取り魚の飯田商店",
-  "review_count": 16727,
+  "review_count": 16758,
   "review_average": 4.77,
   "affiliate_rate": 4.0,
   "point_rate": 1,
   "catchcopy": "＜有塩製法で原材料は天然さばと食塩のみ＞オリジナルブレンドのさば専用塩で塩漬けしているので、そのまま焼くだけで美味しくお召し上がりいただけます！傷品や規格外サイズの訳あり商品",
   "genre_id": "304578",
-  "score": 19.3,
-  "last_seen": "2026-09-13T08:27:29"
+  "score": 19.4,
+  "last_seen": "2026-09-14T08:38:22"
  },
  "designers-and-labo:10003495": {
   "first_seen": "2026-09-06T04:02:03",
@@ -2751,6 +2758,13 @@
     "theme": "敬老の日（8日後） × 30代女性（暮らし・時短・コスパ）",
     "persona": "30s_woman",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-14",
+    "slot": "morning",
+    "theme": "敬老の日（7日後） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "gift"
    }
   ],
   "item_code": "jcrops:10001511",
@@ -2766,8 +2780,8 @@
   "point_rate": 1,
   "catchcopy": "楽天SOY2025米雑穀部門大賞受賞！ レビュー総数20,800件越え(2026.09.08時点) 総合評価4.74(2026.09.08時点)",
   "genre_id": "201184",
-  "score": 18.55,
-  "last_seen": "2026-09-13T23:54:41"
+  "score": 19.35,
+  "last_seen": "2026-09-14T08:38:22"
  },
  "imokuniya:10000012": {
   "first_seen": "2026-09-07T08:15:12",
@@ -2927,6 +2941,13 @@
     "theme": "敬老の日（8日後） × 30代女性（暮らし・時短・コスパ）",
     "persona": "30s_woman",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-14",
+    "slot": "morning",
+    "theme": "敬老の日（7日後） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "gift"
    }
   ],
   "item_code": "kouragumi:10001552",
@@ -2943,7 +2964,7 @@
   "catchcopy": "加工の際に出たお得な訳あり品(打ち身・不揃い・色飛び)メガ盛り食べ放題♪",
   "genre_id": "207774",
   "score": 19.42,
-  "last_seen": "2026-09-13T23:54:41"
+  "last_seen": "2026-09-14T08:38:22"
  },
  "jcrops:10008581": {
   "first_seen": "2026-09-07T08:15:12",
@@ -2996,6 +3017,13 @@
     "theme": "敬老の日（8日後） × 30代女性（暮らし・時短・コスパ）",
     "persona": "30s_woman",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-14",
+    "slot": "morning",
+    "theme": "敬老の日（7日後） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "gift"
    }
   ],
   "item_code": "jcrops:10008581",
@@ -3012,7 +3040,7 @@
   "catchcopy": "楽天SOY2025米雑穀部門大賞受賞！品質に自信あり！！会津CROPS米直販から新商品販売開始！お米のプロが厳選、精米。",
   "genre_id": "201184",
   "score": 18.54,
-  "last_seen": "2026-09-13T23:54:41"
+  "last_seen": "2026-09-14T08:38:22"
  },
  "kobe-beauty-labo:10000074": {
   "first_seen": "2026-09-07T16:33:40",
@@ -3501,23 +3529,32 @@
     "theme": "敬老の日（13日後） × 30代女性（暮らし・時短・コスパ）",
     "persona": "30s_woman",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-14",
+    "slot": "morning",
+    "theme": "敬老の日（7日後） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "gift"
    }
   ],
   "item_code": "kawasaki-beikoku:10000016",
-  "name": "【SALE PRICE DOWN】ポイント2倍 令和7年産 北海道産 ゆめぴりか 10kg (5kg×2袋セット)＜白米＞ 【送料無料】【北海道米 送料込み 米 お米 真空パック選択可】",
-  "price": 6980,
+  "name": "新米 令和8年産 北海道産 ゆめぴりか 10kg (5kg×2袋セット)＜白米＞ 【送料無料】【北海道米 送料込み 米 お米 真空パック選択可】",
+  "price": 6580,
   "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00ql7to.72d3y4cf.g00ql7to.72d3zc46/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkawasaki-beikoku%2F10000016%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkawasaki-beikoku%2Fi%2F10000016%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00ql7to.72d3y4cf.g00ql7to.72d3zc46/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkawasaki-beikoku%2F10000016%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
-  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/kawasaki-beikoku/cabinet/top/04725866/301pirica10s.jpg?_ex=600x600",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/kawasaki-beikoku/cabinet/top/04725866/301pirica10w.jpg?_ex=600x600",
   "shop_name": "ぎんしゃり屋",
-  "review_count": 11191,
+  "review_count": 11202,
   "review_average": 4.75,
   "affiliate_rate": 4.0,
   "point_rate": 1,
   "catchcopy": "「ゆめぴりか」高級ブランド米としてデビュー「高品質」を獲得した道産米",
   "genre_id": "201184",
-  "score": 19.27,
-  "last_seen": "2026-09-08T16:26:48"
+  "score": 20.27,
+  "last_seen": "2026-09-14T08:38:22",
+  "posted_text": "#PR 毎年これで喜ばれてます\n新米 令和8年産 北海道産 ゆめぴりか\n★4.75・レビュー11,202件\n6,580円・送料無料\n#楽天購入品\n▶ROOMはプロフから",
+  "posted_at": "2026-09-14T08:38:22"
  },
  "hitoma:10000271": {
   "first_seen": "2026-09-08T16:26:48",
@@ -3685,6 +3722,13 @@
     "theme": "敬老の日（8日後） × 30代女性（暮らし・時短・コスパ）",
     "persona": "30s_woman",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-14",
+    "slot": "morning",
+    "theme": "敬老の日（7日後） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "gift"
    }
   ],
   "item_code": "calinuts:10000020",
@@ -3701,7 +3745,7 @@
   "catchcopy": "軽くローストすることで食感を保ち、素材本来の香ばしさをそのまま活かしたカリフォルニア産アーモンドです。",
   "genre_id": "214194",
   "score": 18.26,
-  "last_seen": "2026-09-13T23:54:41"
+  "last_seen": "2026-09-14T08:38:22"
  },
  "shizennoyakata:10007292": {
   "first_seen": "2026-09-08T16:26:48",
@@ -4759,6 +4803,13 @@
     "theme": "敬老の日（8日後） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-14",
+    "slot": "morning",
+    "theme": "敬老の日（7日後） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "gift"
    }
   ],
   "item_code": "kouragumi:10000207",
@@ -4774,8 +4825,8 @@
   "point_rate": 1,
   "catchcopy": "お刺身用ほたて貝柱☆夢の食べ放題♪【帆立】【ホタテ】【ほたて】",
   "genre_id": "110409",
-  "score": 18.98,
-  "last_seen": "2026-09-13T16:40:15"
+  "score": 19.38,
+  "last_seen": "2026-09-14T08:38:22"
  },
  "pigeon-shop:10001747": {
   "first_seen": "2026-09-11T08:26:37",
@@ -5152,6 +5203,13 @@
     "theme": "敬老の日（8日後） × 30代女性（暮らし・時短・コスパ）",
     "persona": "30s_woman",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-14",
+    "slot": "morning",
+    "theme": "敬老の日（7日後） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "gift"
    }
   ],
   "item_code": "oyachu:10000539",
@@ -5168,7 +5226,7 @@
   "catchcopy": "敬老の日 和菓子 お菓子 スイーツ プレゼント ギフト 送料無料 詰め合わせ お誕生日 内祝い お祝い 出産内祝い 結婚内祝い お返し あす楽 常温 敬老会 60代 70代 80代 90代",
   "genre_id": "200104",
   "score": 19.63,
-  "last_seen": "2026-09-13T23:54:41"
+  "last_seen": "2026-09-14T08:38:22"
  },
  "kouragumi:10000216": {
   "first_seen": "2026-09-12T23:03:48",
@@ -5249,6 +5307,13 @@
     "theme": "敬老の日（8日後） × 30代女性（暮らし・時短・コスパ）",
     "persona": "30s_woman",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-14",
+    "slot": "morning",
+    "theme": "敬老の日（7日後） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "gift"
    }
   ],
   "item_code": "hseason:10000260",
@@ -5264,8 +5329,8 @@
   "point_rate": 1,
   "catchcopy": "楽天グルメ大賞 11回受賞★700週1位＆レビュー6万件＆販売総数150万個超！[家事時短で便利な無洗米]",
   "genre_id": "201184",
-  "score": 19.71,
-  "last_seen": "2026-09-13T23:54:41"
+  "score": 18.61,
+  "last_seen": "2026-09-14T08:38:22"
  },
  "kawasui:10000130": {
   "first_seen": "2026-09-12T23:03:48",
@@ -5274,6 +5339,13 @@
     "date": "2026-09-12",
     "slot": "night",
     "theme": "敬老の日（9日後） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "gift"
+   },
+   {
+    "date": "2026-09-14",
+    "slot": "morning",
+    "theme": "敬老の日（7日後） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "gift"
    }
@@ -5285,14 +5357,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00pvazo.72d3ye7a.g00pvazo.72d3z3d9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkawasui%2F10000130%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/kawasui/cabinet/keirou/ota-dai80_601km.jpg?_ex=600x600",
   "shop_name": "うなぎ屋かわすい",
-  "review_count": 19484,
+  "review_count": 19488,
   "review_average": 4.62,
   "affiliate_rate": 4.0,
   "point_rate": 1,
   "catchcopy": "楽天グルメ大賞13年連続受賞＆楽天ショップオブザイヤー3年連続受賞！当店人気No.1のロングセラー商品です。 内祝 ギフト 蒲焼き ウナギ 送料無料 最強配送 定期便 食べ物 グルメ 贈答",
   "genre_id": "566647",
-  "score": 18.44,
-  "last_seen": "2026-09-12T23:03:48"
+  "score": 18.74,
+  "last_seen": "2026-09-14T08:38:22"
  },
  "kouragumi:10000367": {
   "first_seen": "2026-09-13T08:27:29",
@@ -5503,6 +5575,13 @@
     "theme": "敬老の日（8日後） × 30代女性（暮らし・時短・コスパ）",
     "persona": "30s_woman",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-14",
+    "slot": "morning",
+    "theme": "敬老の日（7日後） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "gift"
    }
   ],
   "item_code": "tenshi-okurimono:10001239",
@@ -5519,7 +5598,7 @@
   "catchcopy": "敬老の日 残暑見舞い スイーツ ギフト ヘルシー 健康 誕生日 プレゼント お菓子 チョコ アイス バースデー ケーキ デザート 食べ物 おしゃれ 可愛い 高級 出産 内祝 退職 お礼 個包装",
   "genre_id": "502908",
   "score": 18.83,
-  "last_seen": "2026-09-13T23:54:41"
+  "last_seen": "2026-09-14T08:38:22"
  },
  "wagasi:10000020": {
   "first_seen": "2026-09-13T23:54:41",
@@ -5584,6 +5663,13 @@
     "theme": "敬老の日（8日後） × 30代女性（暮らし・時短・コスパ）",
     "persona": "30s_woman",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-14",
+    "slot": "morning",
+    "theme": "敬老の日（7日後） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "gift"
    }
   ],
   "item_code": "bundara:10000018",
@@ -5600,6 +5686,6 @@
   "catchcopy": "楽天グルメ大賞 iTQi10年三ツ星！最高位のダイヤモンド味覚賞受賞 原材料柿のみ。一つづつ丁寧に皮をむいた和歌山県産のひらたねなし柿の水分を60％も残して仕上げたとろける味わいの干柿",
   "genre_id": "304598",
   "score": 18.48,
-  "last_seen": "2026-09-13T23:54:41"
+  "last_seen": "2026-09-14T08:38:22"
  }
 }
