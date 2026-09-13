@@ -2744,6 +2744,13 @@
     "theme": "敬老の日（8日後） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-13",
+    "slot": "night",
+    "theme": "敬老の日（8日後） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
    }
   ],
   "item_code": "jcrops:10001511",
@@ -2760,7 +2767,7 @@
   "catchcopy": "楽天SOY2025米雑穀部門大賞受賞！ レビュー総数20,800件越え(2026.09.08時点) 総合評価4.74(2026.09.08時点)",
   "genre_id": "201184",
   "score": 18.55,
-  "last_seen": "2026-09-13T16:40:15"
+  "last_seen": "2026-09-13T23:54:41"
  },
  "imokuniya:10000012": {
   "first_seen": "2026-09-07T08:15:12",
@@ -2913,6 +2920,13 @@
     "theme": "敬老の日（8日後） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-13",
+    "slot": "night",
+    "theme": "敬老の日（8日後） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
    }
   ],
   "item_code": "kouragumi:10001552",
@@ -2928,8 +2942,8 @@
   "point_rate": 1,
   "catchcopy": "加工の際に出たお得な訳あり品(打ち身・不揃い・色飛び)メガ盛り食べ放題♪",
   "genre_id": "207774",
-  "score": 19.12,
-  "last_seen": "2026-09-13T16:40:15"
+  "score": 19.42,
+  "last_seen": "2026-09-13T23:54:41"
  },
  "jcrops:10008581": {
   "first_seen": "2026-09-07T08:15:12",
@@ -2975,6 +2989,13 @@
     "theme": "敬老の日（8日後） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-13",
+    "slot": "night",
+    "theme": "敬老の日（8日後） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
    }
   ],
   "item_code": "jcrops:10008581",
@@ -2991,7 +3012,7 @@
   "catchcopy": "楽天SOY2025米雑穀部門大賞受賞！品質に自信あり！！会津CROPS米直販から新商品販売開始！お米のプロが厳選、精米。",
   "genre_id": "201184",
   "score": 18.54,
-  "last_seen": "2026-09-13T16:40:15"
+  "last_seen": "2026-09-13T23:54:41"
  },
  "kobe-beauty-labo:10000074": {
   "first_seen": "2026-09-07T16:33:40",
@@ -3657,6 +3678,13 @@
     "theme": "敬老の日（8日後） × 30代女性（暮らし・時短・コスパ）",
     "persona": "30s_woman",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-13",
+    "slot": "night",
+    "theme": "敬老の日（8日後） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
    }
   ],
   "item_code": "calinuts:10000020",
@@ -3666,14 +3694,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00s4zro.72d3y301.g00s4zro.72d3za2e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcalinuts%2Fn-1k-001%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/calinuts/cabinet/promotion/original-main/20260305-ad-1kg-r.jpg?_ex=600x600",
   "shop_name": "calinuts",
-  "review_count": 53901,
+  "review_count": 53904,
   "review_average": 4.57,
   "affiliate_rate": 4.0,
   "point_rate": 1,
   "catchcopy": "軽くローストすることで食感を保ち、素材本来の香ばしさをそのまま活かしたカリフォルニア産アーモンドです。",
   "genre_id": "214194",
-  "score": 18.56,
-  "last_seen": "2026-09-13T08:27:29"
+  "score": 18.26,
+  "last_seen": "2026-09-13T23:54:41"
  },
  "shizennoyakata:10007292": {
   "first_seen": "2026-09-08T16:26:48",
@@ -4613,6 +4641,13 @@
     "theme": "敬老の日（8日後） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-13",
+    "slot": "night",
+    "theme": "敬老の日（8日後） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
    }
   ],
   "item_code": "okashi:10000317",
@@ -4629,7 +4664,9 @@
   "catchcopy": "即日発送 敬老の日に最旬秋の味覚 岐阜中津川栗100％栗きんとん 市田柿 に栗きんとんを入れた栗柿 孫 おばあちゃん 介護施設 内祝 出産内祝 御供 お取り寄せ 60代 70代 80代 90代",
   "genre_id": "112683",
   "score": 20.11,
-  "last_seen": "2026-09-13T16:40:15"
+  "last_seen": "2026-09-13T23:54:41",
+  "posted_text": "#PR 外さないプレゼントはこれ\n敬老の日 プレゼント お菓子 和菓子\n★4.63・レビュー5,171件\n3,980円・送料無料\n#楽天購入品\n▶ROOMはプロフから",
+  "posted_at": "2026-09-13T23:54:41"
  },
  "kouragumi:10000855": {
   "first_seen": "2026-09-10T23:58:03",
@@ -4783,6 +4820,13 @@
     "theme": "敬老の日（8日後） × 30代女性（暮らし・時短・コスパ）",
     "persona": "30s_woman",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-13",
+    "slot": "night",
+    "theme": "敬老の日（8日後） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
    }
   ],
   "item_code": "candymagic:10000575",
@@ -4792,14 +4836,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00qssmo.72d3y41a.g00qssmo.72d3z9ac/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcandymagic%2Frv-100%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/candymagic/cabinet/revia/t_rv1d_26_3s_co_01r.jpg?_ex=600x600",
   "shop_name": "キャンディーマジック　楽天市場店",
-  "review_count": 30098,
+  "review_count": 30105,
   "review_average": 4.72,
   "affiliate_rate": 4.0,
   "point_rate": 1,
   "catchcopy": "新色『ピュアグロー』『スティルレイ』は艶めく立体感を繊細に仕込んだナチュラルで印象的な瞳に。ReVIA レヴィア ワンデー カラコン KIM CHAEWON of LE SSERAFIM",
   "genre_id": "408099",
-  "score": 19.03,
-  "last_seen": "2026-09-13T08:27:29"
+  "score": 19.13,
+  "last_seen": "2026-09-13T23:54:41"
  },
  "lucida:10030018": {
   "first_seen": "2026-09-11T16:29:37",
@@ -5101,6 +5145,13 @@
     "theme": "敬老の日（8日後） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-13",
+    "slot": "night",
+    "theme": "敬老の日（8日後） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
    }
   ],
   "item_code": "oyachu:10000539",
@@ -5117,7 +5168,7 @@
   "catchcopy": "敬老の日 和菓子 お菓子 スイーツ プレゼント ギフト 送料無料 詰め合わせ お誕生日 内祝い お祝い 出産内祝い 結婚内祝い お返し あす楽 常温 敬老会 60代 70代 80代 90代",
   "genre_id": "200104",
   "score": 19.63,
-  "last_seen": "2026-09-13T16:40:15"
+  "last_seen": "2026-09-13T23:54:41"
  },
  "kouragumi:10000216": {
   "first_seen": "2026-09-12T23:03:48",
@@ -5191,6 +5242,13 @@
     "theme": "敬老の日（9日後） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-13",
+    "slot": "night",
+    "theme": "敬老の日（8日後） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
    }
   ],
   "item_code": "hseason:10000260",
@@ -5206,8 +5264,8 @@
   "point_rate": 1,
   "catchcopy": "楽天グルメ大賞 11回受賞★700週1位＆レビュー6万件＆販売総数150万個超！[家事時短で便利な無洗米]",
   "genre_id": "201184",
-  "score": 18.61,
-  "last_seen": "2026-09-12T23:03:48"
+  "score": 19.71,
+  "last_seen": "2026-09-13T23:54:41"
  },
  "kawasui:10000130": {
   "first_seen": "2026-09-12T23:03:48",
@@ -5438,6 +5496,13 @@
     "theme": "敬老の日（8日後） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-13",
+    "slot": "night",
+    "theme": "敬老の日（8日後） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
    }
   ],
   "item_code": "tenshi-okurimono:10001239",
@@ -5454,6 +5519,87 @@
   "catchcopy": "敬老の日 残暑見舞い スイーツ ギフト ヘルシー 健康 誕生日 プレゼント お菓子 チョコ アイス バースデー ケーキ デザート 食べ物 おしゃれ 可愛い 高級 出産 内祝 退職 お礼 個包装",
   "genre_id": "502908",
   "score": 18.83,
-  "last_seen": "2026-09-13T16:40:15"
+  "last_seen": "2026-09-13T23:54:41"
+ },
+ "wagasi:10000020": {
+  "first_seen": "2026-09-13T23:54:41",
+  "themes": [
+   {
+    "date": "2026-09-13",
+    "slot": "night",
+    "theme": "敬老の日（8日後） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
+   }
+  ],
+  "item_code": "wagasi:10000020",
+  "name": "【特別価格】命名紙 一升餅 セット 名前入り個包装 小分け袋 リュック付き 名入れ小餅 風呂敷 選び取りカード きな粉 一生餅 背負い餅 一升米 紅白 写真用 踏み餅 生年月日 赤ちゃん ベビー 男の子 女の子 1歳 誕生日プレゼント 巾着 人気 初誕生お祝い 餅踏み 誕生餅",
+  "price": 3580,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pqjro.72d3ya6e.g00pqjro.72d3z3b1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwagasi%2F378618%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwagasi%2Fi%2F10000020%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00pqjro.72d3ya6e.g00pqjro.72d3z3b1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwagasi%2F378618%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/wagasi/cabinet/moti/202312/c01thumbnail.jpg?_ex=600x600",
+  "shop_name": "【手作りお餅・和菓子通販】伊富貴",
+  "review_count": 20253,
+  "review_average": 4.88,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "一升餅【名入れ小餅1個プレゼント中】楽天にて二代連続でご注文いただきました 一升米 一生餅 背負い餅 一生米 1歳誕生日プレゼント お餅 ハート 可愛い一升餅セット",
+  "genre_id": "110475",
+  "score": 19.55,
+  "last_seen": "2026-09-13T23:54:41"
+ },
+ "ajinomoto:10000152": {
+  "first_seen": "2026-09-13T23:54:41",
+  "themes": [
+   {
+    "date": "2026-09-13",
+    "slot": "night",
+    "theme": "敬老の日（8日後） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
+   }
+  ],
+  "item_code": "ajinomoto:10000152",
+  "name": "味の素 「クノール 贅沢野菜」北海道スイートコーン 完熟トマト 栗かぼちゃ 15袋入り箱 AJINOMOTO カップスープ コーンスープ トマトスープ かぼちゃスープ 朝食 昼食 夜食 スープ",
+  "price": 3400,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tnaso.72d3ycbf.g00tnaso.72d3zaf7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fajinomoto%2Fnb15%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fajinomoto%2Fi%2F10000152%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00tnaso.72d3ycbf.g00tnaso.72d3zaf7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fajinomoto%2Fnb15%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/ajinomoto/cabinet/prd/nb15/nb15_r.jpg?_ex=600x600",
+  "shop_name": "味の素グループ公式ショップ",
+  "review_count": 804,
+  "review_average": 4.61,
+  "affiliate_rate": 4.0,
+  "point_rate": 10,
+  "catchcopy": "味の素グループ公式ショップ 敬老の日 お歳暮 ギフト プレゼント 公式",
+  "genre_id": "100276",
+  "score": 18.99,
+  "last_seen": "2026-09-13T23:54:41"
+ },
+ "bundara:10000018": {
+  "first_seen": "2026-09-13T23:54:41",
+  "themes": [
+   {
+    "date": "2026-09-13",
+    "slot": "night",
+    "theme": "敬老の日（8日後） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
+   }
+  ],
+  "item_code": "bundara:10000018",
+  "name": "敬老の日 クーポン ギフト 2026 あんぽ柿 お菓子 送料無料 3個入(約210g) 6個入(約420g) 8個入(約560g) プレゼント 食べ物 実用的 70代 完全無添加 お返し 和菓子 健康 お菓子 高級 ドライフルーツ 干柿 干し柿 80代 90代 女性 男性",
+  "price": 2660,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pyazo.72d3y6ec.g00pyazo.72d3zc67/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbundara%2Fanpo_8%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbundara%2Fi%2F10000018%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00pyazo.72d3y6ec.g00pyazo.72d3zc67/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbundara%2Fanpo_8%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/bundara/cabinet/kyanpe/keirou/anpo_8_26kr_th.jpg?_ex=600x600",
+  "shop_name": "ふみこ農園グルメとスイーツギフト",
+  "review_count": 3772,
+  "review_average": 4.67,
+  "affiliate_rate": 4.0,
+  "point_rate": 10,
+  "catchcopy": "楽天グルメ大賞 iTQi10年三ツ星！最高位のダイヤモンド味覚賞受賞 原材料柿のみ。一つづつ丁寧に皮をむいた和歌山県産のひらたねなし柿の水分を60％も残して仕上げたとろける味わいの干柿",
+  "genre_id": "304598",
+  "score": 18.48,
+  "last_seen": "2026-09-13T23:54:41"
  }
 }

@@ -17,3 +17,10 @@
    - 商品URL（ROOM検索用）: https://hb.afl.rakuten.co.jp/hgc/g00qaxzo.72d3y0a5.g00qaxzo.72d3z920/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnagasaki-kasutera%2Fgift0602%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnagasaki-kasutera%2Fi%2F10000382%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
    - ROOM用コメント案: 敬老の日 和菓子 スイーツセット まごころ
 
+## 23:54 敬老の日（8日後） × 30代女性（暮らし・時短・コスパ）
+
+1. **敬老の日 プレゼント お菓子 和菓子 スイーツ ギフト 孫から 介護 施設 祖母 祖父 高級 誕生日 食べ物 詰め合わせ**
+   - 価格: 3,980円 / ★4.63（5,171件） / 料率 4.0%
+   - 商品URL（ROOM検索用）: https://hb.afl.rakuten.co.jp/hgc/g00pm5vo.72d3y0bc.g00pm5vo.72d3z828/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fokashi%2Fkuri-kaki-tsume-10sale%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fokashi%2Fi%2F10000317%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - ROOM用コメント案: 敬老の日 プレゼント お菓子 和菓子
+
