@@ -2948,6 +2948,13 @@
     "theme": "敬老の日（7日後） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-14",
+    "slot": "noon",
+    "theme": "敬老の日（7日後） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
    }
   ],
   "item_code": "kouragumi:10001552",
@@ -2957,14 +2964,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00r77to.72d3y343.g00r77to.72d3zf2a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkouragumi%2F210069%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/kouragumi/cabinet/10531638/imgrc0114997933.jpg?_ex=600x600",
   "shop_name": "越前かに職人甲羅組（DENSHOKU）",
-  "review_count": 4994,
+  "review_count": 5016,
   "review_average": 4.64,
   "affiliate_rate": 4.0,
-  "point_rate": 1,
+  "point_rate": 2,
   "catchcopy": "加工の際に出たお得な訳あり品(打ち身・不揃い・色飛び)メガ盛り食べ放題♪",
   "genre_id": "207774",
-  "score": 19.42,
-  "last_seen": "2026-09-14T08:38:22"
+  "score": 19.57,
+  "last_seen": "2026-09-14T17:07:41"
  },
  "jcrops:10008581": {
   "first_seen": "2026-09-07T08:15:12",
@@ -3024,6 +3031,13 @@
     "theme": "敬老の日（7日後） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-14",
+    "slot": "noon",
+    "theme": "敬老の日（7日後） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
    }
   ],
   "item_code": "jcrops:10008581",
@@ -3033,14 +3047,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00plxio.72d3yae3.g00plxio.72d3z359/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjcrops%2F4562129938344-2%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/jcrops/cabinet/2-ra.jpg?_ex=600x600",
   "shop_name": "会津CROPS米直販・楽天市場店",
-  "review_count": 7930,
+  "review_count": 7953,
   "review_average": 4.78,
   "affiliate_rate": 4.0,
-  "point_rate": 1,
+  "point_rate": 5,
   "catchcopy": "楽天SOY2025米雑穀部門大賞受賞！品質に自信あり！！会津CROPS米直販から新商品販売開始！お米のプロが厳選、精米。",
   "genre_id": "201184",
-  "score": 18.54,
-  "last_seen": "2026-09-14T08:38:22"
+  "score": 19.44,
+  "last_seen": "2026-09-14T17:07:41"
  },
  "kobe-beauty-labo:10000074": {
   "first_seen": "2026-09-07T16:33:40",
@@ -3729,6 +3743,13 @@
     "theme": "敬老の日（7日後） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-14",
+    "slot": "noon",
+    "theme": "敬老の日（7日後） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
    }
   ],
   "item_code": "calinuts:10000020",
@@ -3738,14 +3759,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00s4zro.72d3y301.g00s4zro.72d3za2e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcalinuts%2Fn-1k-001%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/calinuts/cabinet/promotion/original-main/20260305-ad-1kg-r.jpg?_ex=600x600",
   "shop_name": "calinuts",
-  "review_count": 53904,
+  "review_count": 53910,
   "review_average": 4.57,
   "affiliate_rate": 4.0,
   "point_rate": 1,
   "catchcopy": "軽くローストすることで食感を保ち、素材本来の香ばしさをそのまま活かしたカリフォルニア産アーモンドです。",
   "genre_id": "214194",
-  "score": 18.26,
-  "last_seen": "2026-09-14T08:38:22"
+  "score": 18.46,
+  "last_seen": "2026-09-14T17:07:41"
  },
  "shizennoyakata:10007292": {
   "first_seen": "2026-09-08T16:26:48",
@@ -4323,6 +4344,13 @@
     "theme": "敬老の日（8日後） × 30代女性（暮らし・時短・コスパ）",
     "persona": "30s_woman",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-14",
+    "slot": "noon",
+    "theme": "敬老の日（7日後） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
    }
   ],
   "item_code": "henri-charpentier:10002080",
@@ -4332,14 +4360,16 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00qsfxo.72d3ye58.g00qsfxo.72d3z21c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhenri-charpentier%2F773104%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/henri-charpentier/cabinet/thumnail/regularimg/gch-22.jpg?_ex=600x600",
   "shop_name": "アンリ・シャルパンティエ",
-  "review_count": 2409,
+  "review_count": 2418,
   "review_average": 4.71,
   "affiliate_rate": 4.0,
-  "point_rate": 1,
+  "point_rate": 5,
   "catchcopy": "楽天店限定のオリジナルアソート！ここでしか買えない詰め合わせ&パッケージでお届けします。",
   "genre_id": "502911",
-  "score": 18.35,
-  "last_seen": "2026-09-13T08:27:29"
+  "score": 19.76,
+  "last_seen": "2026-09-14T17:07:41",
+  "posted_text": "#PR 敬老の日、まだ決めてない人へ\nHGCH-24 ガトー・キュイ・ラビテュール\n★4.71・レビュー2,418件\n3,240円（P5倍で実質3,078円）\n使ってる人いたら感想ください\n#楽天購入品\n▶ROOMはプロフから",
+  "posted_at": "2026-09-14T17:07:41"
  },
  "yama-oatmeal-institute:10000024": {
   "first_seen": "2026-09-10T00:05:56",
@@ -4810,6 +4840,13 @@
     "theme": "敬老の日（7日後） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-14",
+    "slot": "noon",
+    "theme": "敬老の日（7日後） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
    }
   ],
   "item_code": "kouragumi:10000207",
@@ -4819,14 +4856,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00r77to.72d3y343.g00r77to.72d3zf2a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkouragumi%2F200240%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/kouragumi/cabinet/10531638/imgrc0114997855.jpg?_ex=600x600",
   "shop_name": "越前かに職人甲羅組（DENSHOKU）",
-  "review_count": 14745,
+  "review_count": 14757,
   "review_average": 4.56,
   "affiliate_rate": 4.0,
-  "point_rate": 1,
+  "point_rate": 2,
   "catchcopy": "お刺身用ほたて貝柱☆夢の食べ放題♪【帆立】【ホタテ】【ほたて】",
   "genre_id": "110409",
-  "score": 19.38,
-  "last_seen": "2026-09-14T08:38:22"
+  "score": 19.63,
+  "last_seen": "2026-09-14T17:07:41"
  },
  "pigeon-shop:10001747": {
   "first_seen": "2026-09-11T08:26:37",
@@ -4878,6 +4915,13 @@
     "theme": "敬老の日（8日後） × 30代女性（暮らし・時短・コスパ）",
     "persona": "30s_woman",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-14",
+    "slot": "noon",
+    "theme": "敬老の日（7日後） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
    }
   ],
   "item_code": "candymagic:10000575",
@@ -4887,14 +4931,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00qssmo.72d3y41a.g00qssmo.72d3z9ac/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcandymagic%2Frv-100%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/candymagic/cabinet/revia/t_rv1d_26_3s_co_01r.jpg?_ex=600x600",
   "shop_name": "キャンディーマジック　楽天市場店",
-  "review_count": 30105,
+  "review_count": 30111,
   "review_average": 4.72,
   "affiliate_rate": 4.0,
   "point_rate": 1,
   "catchcopy": "新色『ピュアグロー』『スティルレイ』は艶めく立体感を繊細に仕込んだナチュラルで印象的な瞳に。ReVIA レヴィア ワンデー カラコン KIM CHAEWON of LE SSERAFIM",
   "genre_id": "408099",
-  "score": 19.13,
-  "last_seen": "2026-09-13T23:54:41"
+  "score": 19.33,
+  "last_seen": "2026-09-14T17:07:41"
  },
  "lucida:10030018": {
   "first_seen": "2026-09-11T16:29:37",
@@ -5067,23 +5111,30 @@
     "theme": "敬老の日（9日後） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-14",
+    "slot": "noon",
+    "theme": "敬老の日（7日後） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
    }
   ],
   "item_code": "jcrops:10000347",
-  "name": "クーポンで500円OFF 先着5000枚限定 令和7年産 福島県産コシヒカリ 白米 送料無料 5kg 10kg 20kg 30kg 米 お米 白米 コメ こめ 白米 5kg 白米 10kg 白米 20kg 白米 30kg",
+  "name": "令和7年産 福島県産コシヒカリ 白米 送料無料 5kg 10kg 20kg 30kg 米 お米 白米 コメ こめ 白米 5kg 白米 10kg 白米 20kg 白米 30kg",
   "price": 3199,
   "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00plxio.72d3yae3.g00plxio.72d3z359/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjcrops%2F677723%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjcrops%2Fi%2F10000347%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00plxio.72d3yae3.g00plxio.72d3z359/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjcrops%2F677723%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/jcrops/cabinet/imgrc0117201185.jpg?_ex=600x600",
   "shop_name": "会津CROPS米直販・楽天市場店",
-  "review_count": 39149,
+  "review_count": 39170,
   "review_average": 4.71,
   "affiliate_rate": 4.0,
-  "point_rate": 1,
+  "point_rate": 5,
   "catchcopy": "グルメ大賞2025受賞！ 楽天SOY2025米雑穀部門大賞受賞！レビュー総数37,500件超え(2026.03.24時点) 総合評価4.70(2026.03.24時点)",
   "genre_id": "201184",
-  "score": 19.67,
-  "last_seen": "2026-09-12T08:34:11"
+  "score": 19.27,
+  "last_seen": "2026-09-14T17:07:41"
  },
  "marukichi-kayano:10000017": {
   "first_seen": "2026-09-12T08:34:11",
@@ -5128,6 +5179,13 @@
     "theme": "敬老の日（9日後） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-14",
+    "slot": "noon",
+    "theme": "敬老の日（7日後） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
    }
   ],
   "item_code": "e-cha:10002295",
@@ -5143,8 +5201,8 @@
   "point_rate": 2,
   "catchcopy": "【高級ギフト】高級具材が丸ごと入った超高級お茶漬け 常温保存可能 出産内祝い お返し 送料無料 誕生日プレゼント 女性 男性 母 父 彼氏 彼女 ギフト 贈り物 敬老の日 お祝い 魚",
   "genre_id": "214077",
-  "score": 18.81,
-  "last_seen": "2026-09-12T23:03:48"
+  "score": 19.31,
+  "last_seen": "2026-09-14T17:07:41"
  },
  "henri-charpentier:10002022": {
   "first_seen": "2026-09-12T16:21:55",
@@ -5210,6 +5268,13 @@
     "theme": "敬老の日（7日後） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-14",
+    "slot": "noon",
+    "theme": "敬老の日（7日後） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
    }
   ],
   "item_code": "oyachu:10000539",
@@ -5222,11 +5287,11 @@
   "review_count": 549,
   "review_average": 4.64,
   "affiliate_rate": 4.0,
-  "point_rate": 15,
+  "point_rate": 5,
   "catchcopy": "敬老の日 和菓子 お菓子 スイーツ プレゼント ギフト 送料無料 詰め合わせ お誕生日 内祝い お祝い 出産内祝い 結婚内祝い お返し あす楽 常温 敬老会 60代 70代 80代 90代",
   "genre_id": "200104",
-  "score": 19.63,
-  "last_seen": "2026-09-14T08:38:22"
+  "score": 18.58,
+  "last_seen": "2026-09-14T17:07:41"
  },
  "kouragumi:10000216": {
   "first_seen": "2026-09-12T23:03:48",
@@ -5273,6 +5338,13 @@
     "theme": "敬老の日（8日後） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-14",
+    "slot": "noon",
+    "theme": "敬老の日（7日後） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
    }
   ],
   "item_code": "kado-select:10000195",
@@ -5282,14 +5354,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00r5q1o.72d3y911.g00r5q1o.72d3z3e0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkado-select%2Fr121%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/kado-select/cabinet/img/r121/tn_r121_202602.jpg?_ex=600x600",
   "shop_name": "鳥取門永",
-  "review_count": 3512,
+  "review_count": 3513,
   "review_average": 4.77,
   "affiliate_rate": 4.0,
   "point_rate": 1,
   "catchcopy": "天然魚 漬魚 漬け魚 魚 贈答 贈り物 食べ物 食品 グルメ 個包装 豪華 冷凍 お弁当 おつまみ おかず 詰合せ 高級感 工場直送 送料無料",
   "genre_id": "566062",
-  "score": 18.98,
-  "last_seen": "2026-09-13T16:40:15"
+  "score": 18.48,
+  "last_seen": "2026-09-14T17:07:41"
  },
  "hseason:10000260": {
   "first_seen": "2026-09-12T23:03:48",
@@ -5670,6 +5742,13 @@
     "theme": "敬老の日（7日後） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-14",
+    "slot": "noon",
+    "theme": "敬老の日（7日後） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
    }
   ],
   "item_code": "bundara:10000018",
@@ -5685,7 +5764,34 @@
   "point_rate": 10,
   "catchcopy": "楽天グルメ大賞 iTQi10年三ツ星！最高位のダイヤモンド味覚賞受賞 原材料柿のみ。一つづつ丁寧に皮をむいた和歌山県産のひらたねなし柿の水分を60％も残して仕上げたとろける味わいの干柿",
   "genre_id": "304598",
-  "score": 18.48,
-  "last_seen": "2026-09-14T08:38:22"
+  "score": 19.58,
+  "last_seen": "2026-09-14T17:07:41"
+ },
+ "sanintoretatehonpo:10001122": {
+  "first_seen": "2026-09-14T17:07:41",
+  "themes": [
+   {
+    "date": "2026-09-14",
+    "slot": "noon",
+    "theme": "敬老の日（7日後） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
+   }
+  ],
+  "item_code": "sanintoretatehonpo:10001122",
+  "name": "敬老の日 ギフト 四季の十二撰 ひとくち上生菓子詰め合わせ（風呂敷包み） 秋季限定 和菓子 高級 お取り寄せ スイーツ 送料無料（北海道・沖縄を除く） 楽天グルメ大賞3年連続受賞 風味絶佳.山陰 まだ間に合う プレゼント 2026 60代 70代 80代 90代 お菓子",
+  "price": 3480,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qh9wo.72d3y3c1.g00qh9wo.72d3z5c0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsanintoretatehonpo%2Fmtys-mini-jonama-set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsanintoretatehonpo%2Fi%2F10001122%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00qh9wo.72d3y3c1.g00qh9wo.72d3z5c0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsanintoretatehonpo%2Fmtys-mini-jonama-set%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/sanintoretatehonpo/cabinet/sw/fd/js12s-kr26-sam.jpg?_ex=600x600",
+  "shop_name": "パーソナルギフト 風味絶佳.山陰",
+  "review_count": 2937,
+  "review_average": 4.67,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "敬老の日ギフト 彩り華やか！日本三大菓子処「松江」伝統の味",
+  "genre_id": "200104",
+  "score": 18.36,
+  "last_seen": "2026-09-14T17:07:41"
  }
 }
