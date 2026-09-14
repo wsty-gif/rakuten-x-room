@@ -565,5 +565,16 @@
   "threads_id": "17880691797523333",
   "room_done": false,
   "image": true
+ },
+ {
+  "date": "2026-09-15T00:56:31",
+  "slot": "evening",
+  "kind": "engage",
+  "engage_key": "tip3",
+  "theme": "反応投稿（tip）",
+  "persona": "all",
+  "text": "【楽天の小ネタ】\nレビューは「★1と★2」を先に読むのが早いです。\n不満の内容が自分に関係なければ、それは良い商品です。\n\n今日は5と0のつく日です。",
+  "tweet_id": "2099527685685002608",
+  "threads_id": "17934156663380248"
  }
 ]
