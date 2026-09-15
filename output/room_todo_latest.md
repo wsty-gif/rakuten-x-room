@@ -10,3 +10,10 @@
    - 商品URL（ROOM検索用）: https://hb.afl.rakuten.co.jp/hgc/g00qssmo.72d3y41a.g00qssmo.72d3z9ac/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcandymagic%2Frv-100%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcandymagic%2Fi%2F10000575%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
    - ROOM用コメント案: カラコン ワンデー ReVIA 1day
 
+## 09:01 敬老の日（6日後） × 30代女性（暮らし・時短・コスパ）
+
+1. **敬老の日 クーポン ギフト 2026 あんぽ柿 お菓子 送料無料 3個入(約210g) 6個入(約420g) 8個入(約**
+   - 価格: 2,660円 / ★4.67（3,772件） / 料率 4.0%
+   - 商品URL（ROOM検索用）: https://hb.afl.rakuten.co.jp/hgc/g00pyazo.72d3y6ec.g00pyazo.72d3zc67/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbundara%2Fanpo_8%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbundara%2Fi%2F10000018%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - ROOM用コメント案: 敬老の日 ギフト 2026 あんぽ柿 お菓子
+
