@@ -10,3 +10,10 @@
    - 商品URL（ROOM検索用）: https://hb.afl.rakuten.co.jp/hgc/g00pzd4o.72d3yfe6.g00pzd4o.72d3zc1c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetbaby%2F404758%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnetbaby%2Fi%2F10035957%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
    - ROOM用コメント案: メリーズ エアスルー パンツ 梱販販売用
 
+## 08:45 敬老の日（5日後） × 40代男性（家族・晩酌・車）
+
+1. **＼P10倍／ 敬老の日 プレゼント お菓子 和菓子 スイーツ ギフト 孫から 介護 施設 祖母 祖父 高級 誕生日 食べ**
+   - 価格: 3,560円 / ★4.59（5,304件） / 料率 4.0%
+   - 商品URL（ROOM検索用）: https://hb.afl.rakuten.co.jp/hgc/g00pm5vo.72d3y0bc.g00pm5vo.72d3z828/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fokashi%2Fkuri-kinton-10sele%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fokashi%2Fi%2F10000308%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - ROOM用コメント案: 敬老の日 プレゼント お菓子 和菓子
+
