@@ -17,3 +17,10 @@
    - 商品URL（ROOM検索用）: https://hb.afl.rakuten.co.jp/hgc/g00pyazo.72d3y6ec.g00pyazo.72d3zc67/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbundara%2Fanpo_8%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbundara%2Fi%2F10000018%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
    - ROOM用コメント案: 敬老の日 ギフト 2026 あんぽ柿 お菓子
 
+## 17:02 敬老の日（6日後） × 40代男性（家族・晩酌・車）
+
+1. **ポイント5倍 9/15(火)23：59まで 令和7年産 福島県産コシヒカリ 白米 送料無料 5kg 10kg 20kg **
+   - 価格: 3,199円 / ★4.71（39,185件） / 料率 4.0%
+   - 商品URL（ROOM検索用）: https://hb.afl.rakuten.co.jp/hgc/g00plxio.72d3yae3.g00plxio.72d3z359/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjcrops%2F677723%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjcrops%2Fi%2F10000347%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - ROOM用コメント案: 15 23：59まで 令和7年産
+
