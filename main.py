@@ -95,7 +95,8 @@ def room_flow(cands, theme, s: Settings, history: list, posted: list, live: bool
         if any(h.get("item_code") == p.item_code and h.get("kind") in (None, "room") and h.get("date", "")[:10] == datetime.now().strftime("%Y-%m-%d") for h in history):
             continue
         history.append({
-            "date": datetime.now().isoformat(timespec="seconds"), "kind": "room", "slot": theme.slot,
+            "date": datetime.now().isoformat(timespec="seconds"), "kind": "room",
+            "slot": "presale" if presale else theme.slot,
             "theme": theme.title, "persona": theme.persona.key, "item_code": p.item_code,
             "item_name": p.name[:80], "price": p.price, "item_url": p.item_url,
             "affiliate_rate": p.affiliate_rate, "text": c, "room_done": False,

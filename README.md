@@ -131,7 +131,13 @@ PCの代わりに GitHub の無料クラウド（GitHub Actions）で毎日3回�
 3. このフォルダを push する（下記コマンド）。`.env` は `.gitignore` で除外されるので上がらない。
 4. リポジトリの Settings → Secrets and variables → Actions で、`python show_env_for_github.py` に表示される Name / Secret を登録する。
 5. Actions タブ → 「post-to-x」→ 「Run workflow」で `dry_run=true` を一度実行し、ログで候補が出ることを確認。
-6. 以降は毎日 7:30 / 12:15 / 20:30（日本時間）に自動実行される。GitHub側の混雑で数分〜十数分遅れることがある。
+6. 以降は自動実行される。GitHub の定期実行は数時間遅れることがあるため、20分おきに起動して
+   `slot_due.py` が「今の時間帯に該当し、今日まだ投稿していない枠」を判定して動く（朝 6:50〜9:30 / 昼 11:45〜14:30 /
+   反応投稿 18:20〜19:25 / セール前ブースト 19:30〜20:05 / 夜 20:10〜23:40）。遅れても枠内なら必ず投稿され、枠を過ぎた分は飛ばす。
+   該当枠が無い回は数秒で終わるので、Actions の無料枠（月2,000分）は十分に収まる。
+   分単位の正確さが欲しい場合は、無料の外部cron（cron-job.org など）から
+   `POST https://api.github.com/repos/<user>/<repo>/actions/workflows/post.yml/dispatches`（body: `{"ref":"main","inputs":{"slot":"auto"}}`、
+   Actions: Read and write 権限の Fine-grained token）を各時刻に呼ぶと即時に起動する。
 7. PC側のタスクスケジューラは二重投稿を避けるため解除する: `.\setup_schedule.ps1 -Remove`
 
 スマホでやること: 通知をタップ → 楽天アプリで商品ページが開く → 共有ボタン →「ROOMに投稿」→ 通知に書かれたコメント案を貼って投稿。1件10秒。

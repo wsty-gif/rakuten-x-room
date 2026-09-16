@@ -2,19 +2,15 @@ name: post-to-x
 
 on:
   schedule:
-    # UTC で指定。GitHub の定期実行は混雑時に30分〜1時間以上遅れるため、
-    # 混みやすい「毎時0分・30分」を避け、目標時刻より少し早めに設定している。
-    # 目標: 日本時間 7:30 / 12:15 / 20:30 前後
-    - cron: "52 21 * * *"   # JST 06:52 → 7時台に届く想定 (morning)
-    - cron: "48 2 * * *"    # JST 11:48 → 12時台 (noon)
-    - cron: "13 11 * * *"   # JST 20:13 → 20時台 (night)
-    - cron: "23 9 * * *"    # JST 18:23 → 反応を取る投稿（投票・質問・小ネタ） (evening)
-    - cron: "37 10 * * *"   # JST 19:37 → セール開始日・5と0の日だけ、ROOM へ多めに商品を送る (presale)
+    # GitHub の定期実行は混雑時に数時間遅れるため、時刻指定ではなく 20 分おきに起動し、
+    # slot_due.py が「今の時間帯に該当し、今日まだ投稿していない枠」を判定して動く（自己修復型）。
+    # 該当枠が無いときは数秒で終了する（pip 前に判定するので Actions 分数はほぼ消費しない）。
+    - cron: "*/20 * * * *"
   workflow_dispatch:        # 手動実行ボタン（スマホのGitHubアプリからも押せる）
     inputs:
       slot:
-        description: "morning / noon / night / evening（反応投稿） / presale（ROOMセール前ブースト）"
-        default: "night"
+        description: "auto（時間帯から自動判定）/ morning / noon / night / evening（反応投稿）/ presale（ROOMブースト）"
+        default: "auto"
       dry_run:
         description: "true なら投稿せず確認だけ"
         default: "false"
@@ -47,37 +43,35 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-
-      - run: pip install -r requirements.txt
-
-      - name: Decide slot from schedule
+      # 標準ライブラリだけで判定（setup-python / pip の前に置いて、該当枠が無い回を数秒で終わらせる）
+      - name: Decide slot
         id: slot
         run: |
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-            echo "slot=${{ github.event.inputs.slot }}" >> "$GITHUB_OUTPUT"
-            echo "dry=${{ github.event.inputs.dry_run }}" >> "$GITHUB_OUTPUT"
-          else
-            case "${{ github.event.schedule }}" in
-              "52 21 * * *") s=morning ;;
-              "48 2 * * *")  s=noon ;;
-              "23 9 * * *")  s=evening ;;
-              "37 10 * * *") s=presale ;;
-              *)             s=night ;;
-            esac
-            echo "slot=$s" >> "$GITHUB_OUTPUT"
-            echo "dry=false" >> "$GITHUB_OUTPUT"
-          fi
+          REQ="${{ github.event.inputs.slot || 'auto' }}"
+          S=$(python3 slot_due.py "$REQ")
+          echo "slot=$S" >> "$GITHUB_OUTPUT"
+          echo "dry=${{ github.event.inputs.dry_run || 'false' }}" >> "$GITHUB_OUTPUT"
+          echo "now(JST)=$(date +'%Y-%m-%d %H:%M')  requested=$REQ  due=$S"
+
+      - uses: actions/setup-python@v5
+        if: steps.slot.outputs.slot != 'none'
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - if: steps.slot.outputs.slot != 'none'
+        run: pip install -r requirements.txt
 
       - name: Check X credentials (no post)
+        if: steps.slot.outputs.slot != 'none'
         run: python diag_x.py
 
       - name: Check Threads credentials (no post)
+        if: steps.slot.outputs.slot != 'none'
         run: python diag_threads.py
 
       - name: Run
+        if: steps.slot.outputs.slot != 'none'
         run: |
           SLOT="${{ steps.slot.outputs.slot }}"
           DRY=""
@@ -91,7 +85,7 @@ jobs:
           fi
 
       - name: Build blog (GitHub Pages)
-        if: steps.slot.outputs.dry != 'true'
+        if: steps.slot.outputs.slot != 'none' && steps.slot.outputs.dry != 'true'
         env:
           SITE_URL: https://${{ github.repository_owner }}.github.io/
           # Variables でも Secrets でも受け付ける
@@ -100,7 +94,7 @@ jobs:
 
       # ブログは公開リポジトリ <ユーザー名>.github.io に書き出す（このリポジトリは Private のまま）
       - name: Publish blog to <owner>.github.io
-        if: steps.slot.outputs.dry != 'true' && env.BLOG_PUSH_TOKEN != ''
+        if: steps.slot.outputs.slot != 'none' && steps.slot.outputs.dry != 'true' && env.BLOG_PUSH_TOKEN != ''
         env:
           BLOG_PUSH_TOKEN: ${{ secrets.BLOG_PUSH_TOKEN }}
         uses: peaceiris/actions-gh-pages@v4
@@ -114,10 +108,11 @@ jobs:
           commit_message: "blog update"
 
       - name: Save history back to repo
-        if: steps.slot.outputs.dry != 'true'
+        if: steps.slot.outputs.slot != 'none' && steps.slot.outputs.dry != 'true'
         run: |
           git config user.name "rakuten-bot"
           git config user.email "bot@users.noreply.github.com"
           git add -f data/history.json data/site_items.json data/threads_token.json output/*.md 2>/dev/null || true
           git diff --cached --quiet || git commit -m "post: ${{ steps.slot.outputs.slot }} $(date +'%Y-%m-%d %H:%M')"
+          git pull --rebase -X theirs origin main || true
           git push
