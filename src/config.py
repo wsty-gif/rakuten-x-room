@@ -156,6 +156,10 @@ class Settings:
     min_review_count: int = field(default_factory=lambda: _env_int("MIN_REVIEW_COUNT", 50))
     min_review_average: float = field(default_factory=lambda: _env_float("MIN_REVIEW_AVERAGE", 4.2))
 
+    # ROOM 用: 1回の実行でROOMに送る商品数（セール日は自動で増える）、同じ商品を再送しない日数
+    room_picks_per_run: int = field(default_factory=lambda: _env_int("ROOM_PICKS_PER_RUN", 4))
+    room_no_repeat_days: int = field(default_factory=lambda: _env_int("ROOM_NO_REPEAT_DAYS", 60))
+
     def x_ready(self) -> bool:
         return all([self.x_api_key, self.x_api_secret, self.x_access_token, self.x_access_token_secret])
 

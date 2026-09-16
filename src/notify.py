@@ -1,8 +1,10 @@
-"""スマホへのプッシュ通知（ntfy.sh）。投稿した商品をROOMに追加してもらうために送る。
+"""スマホへのプッシュ通知（ntfy.sh）。ROOMに追加する商品を、コメント付きで送る。
 
 ntfy は無料・アカウント不要の通知サービス。スマホに ntfy アプリを入れ、
 .env の NTFY_TOPIC と同じ名前のトピックを購読しておくだけで届く。
 トピック名は他人に推測されない長いランダム文字列にすること（例: rakumitsu-room-7f3k9q2x）。
+
+通知の使い方: タップ → 楽天アプリで商品が開く → 共有 → ROOMに投稿 → 通知本文（コメント）を長押しコピーして貼る。
 """
 from __future__ import annotations
 
@@ -11,10 +13,13 @@ from typing import Any
 import requests
 
 from .config import _env
+from .rakuten_client import Product
 
 
-def send(topic: str, title: str, message: str, click: str = "", server: str = "https://ntfy.sh") -> bool:
-    payload: dict[str, Any] = {"topic": topic, "title": title, "message": message, "tags": ["shopping_bags"]}
+def send(topic: str, title: str, message: str, click: str = "", server: str = "https://ntfy.sh",
+         priority: int = 3, tags: list[str] | None = None) -> bool:
+    payload: dict[str, Any] = {"topic": topic, "title": title, "message": message,
+                               "tags": tags or ["shopping_bags"], "priority": priority}
     if click:
         payload["click"] = click
         payload["actions"] = [{"action": "view", "label": "楽天で開く", "url": click}]
@@ -25,24 +30,27 @@ def send(topic: str, title: str, message: str, click: str = "", server: str = "h
     return True
 
 
-def notify_room_todo(posts: list[dict[str, Any]], theme_title: str) -> bool:
+def notify_room_picks(picks: list[tuple[Product, str]], theme_title: str, presale=False) -> bool:
+    """picks = [(商品, ROOMコメント), ...]。本文はコメントだけ（そのまま貼れる）。"""
     topic = _env("NTFY_TOPIC")
-    if not topic:
+    if not topic or not picks:
         return False
     server = _env("NTFY_SERVER", "https://ntfy.sh")
     ok = True
-    for pst in posts:
-        p = pst["product"]
-        lines = [l for l in pst["text"].splitlines() if l.strip() and not l.startswith("#") and "ROOMはプロフ" not in l]
-        comment = " ".join(lines)[:120]
-        # 本文はROOM用コメントだけ（長押しコピーしてそのまま貼れる）。商品情報はタイトル側に置く
-        title = f"ROOMに追加｜{p.name[:30]}｜{p.price:,}円"
-        body = comment
+    head = {"start": "【20時セール開始前】", "last": "【セール最終日】", "five": "【5と0のつく日】"}.get(presale, "【ブースト】" if presale else "")
+    try:
+        ok = send(topic, f"{head}ROOMに追加する {len(picks)} 件", theme_title.replace(" × ", "／"),
+                  "", server, priority=4 if presale else 3, tags=["bell"]) and ok
+    except Exception as e:
+        print(f"  [warn] ntfy 送信失敗: {e}")
+        ok = False
+    for i, (p, comment) in enumerate(picks, 1):
+        title = f"{i}/{len(picks)}｜{p.name[:28]}｜{p.price:,}円"
         try:
-            ok = send(topic, title, body, p.item_url, server) and ok
+            ok = send(topic, title, comment, p.item_url, server) and ok
         except Exception as e:
             print(f"  [warn] ntfy 送信失敗: {e}")
             ok = False
     if ok:
-        print(f"  [ntfy] スマホに {len(posts)} 件の通知を送りました（トピック: {topic}）")
+        print(f"  [ntfy] スマホに {len(picks)} 件のROOM追加通知を送りました（トピック: {topic}）")
     return ok

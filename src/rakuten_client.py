@@ -33,6 +33,7 @@ class Product:
     rank: int | None = None
     source: str = ""       # どの経路で拾ったか（ranking:xxx / search:yyy）
     score: float = 0.0
+    caption: str = ""      # 商品説明文（ROOMコメントの材料）
 
     def to_dict(self) -> dict[str, Any]:
         return asdict(self)
@@ -111,6 +112,7 @@ class RakutenClient:
             genre_id=str(item.get("genreId", "")),
             rank=rank,
             source=source,
+            caption=str(item.get("itemCaption", ""))[:800],
         )
 
     # ---- 公開 ----

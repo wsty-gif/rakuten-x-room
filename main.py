@@ -69,19 +69,51 @@ def cmd_plan(args, s: Settings):
     theme = decide_theme(date.today(), slot, history)
     print(theme.describe())
     client = MockClient() if args.mock else RakutenClient(s)
-    cands = gather_candidates(client, theme, s, history)
-    print(f"\n候補 {len(cands)} 件:")
-    for p in cands:
+    # ROOM 向けに網を広げて候補を集め（1,000円台・レビュー30件以上）、X 向けには従来の基準で絞る
+    from src.room_picks import room_settings
+    cands = gather_candidates(client, theme, room_settings(s), history, limit=40)
+    x_cands = [p for p in cands if p.price >= s.min_price and p.review_count >= s.min_review_count]
+    print(f"\n候補 {len(cands)} 件（X向け {len(x_cands)} 件）:")
+    for p in x_cands[:15]:
         print(f"  {p.score:5.1f} | {p.price:>6,}円 | ★{p.review_average} ({p.review_count:,}) | 料率{p.affiliate_rate}% | {p.name[:50]}")
-    return theme, cands, client, history
+    return theme, cands, x_cands, client, history
+
+
+def room_flow(cands, theme, s: Settings, history: list, posted: list, live: bool, presale=False) -> None:
+    """ROOM に追加する商品を選び、コメントを付けて、通知とリストを出す。live=False なら表示のみ。"""
+    from src.room_comment import collection_suggestions, room_comment
+    from src.room_picks import pick_for_room
+    picks_p = pick_for_room(cands, theme, s, history, posted, presale=presale)
+    picks = [(p, room_comment(p, theme, presale=presale)) for p in picks_p]
+    print("\n" + "-" * 50 + f"\n[ROOM] 追加候補 {len(picks)} 件" + ("（20時セール前ブースト）" if presale else ""))
+    for i, (p, c) in enumerate(picks, 1):
+        print(f" {i}. {p.price:>6,}円 ★{p.review_average} ({p.review_count:,}) 料率{p.affiliate_rate}% | {p.name[:40]}\n    → {c}")
+    if not live:
+        print("[dry-run] 通知・履歴・リストは書き出しません。")
+        return
+    for p, c in picks:
+        if any(h.get("item_code") == p.item_code and h.get("kind") in (None, "room") and h.get("date", "")[:10] == datetime.now().strftime("%Y-%m-%d") for h in history):
+            continue
+        history.append({
+            "date": datetime.now().isoformat(timespec="seconds"), "kind": "room", "slot": theme.slot,
+            "theme": theme.title, "persona": theme.persona.key, "item_code": p.item_code,
+            "item_name": p.name[:80], "price": p.price, "item_url": p.item_url,
+            "affiliate_rate": p.affiliate_rate, "text": c, "room_done": False,
+        })
+    save_history(history)
+    cols = collection_suggestions(picks, theme)
+    path = write_room_todo(picks, theme.title + ("（20時セール前）" if presale else ""), cols)
+    print(f"[ROOM] リストを書き出しました: {path}")
+    from src.notify import notify_room_picks
+    notify_room_picks(picks, theme.title, presale=presale)
 
 
 def cmd_run(args, s: Settings):
-    theme, cands, client, history = cmd_plan(args, s)
+    theme, cands, x_cands, client, history = cmd_plan(args, s)
     if not cands:
         print("候補がありません。フィルタ（MIN_REVIEW_COUNT 等）を緩めてください。")
         return
-    posts = build_posts(cands, theme, s, s.posts_per_run)
+    posts = build_posts(x_cands or cands, theme, s, s.posts_per_run)
     poster = None
     threads = None
     if not args.dry_run:
@@ -135,12 +167,37 @@ def cmd_run(args, s: Settings):
         save_site_items(cands, theme, posts)
     if poster:
         save_history(history)
-        path = write_room_todo(posts, theme.title)
-        print(f"\n[ROOM] 手動で「コレ！」する商品リストを書き出しました: {path}")
-        from src.notify import notify_room_todo
-        notify_room_todo(posts, theme.title)
-    else:
-        print("\n[dry-run] 履歴とROOMリストは書き出しません（本番投稿時のみ）。")
+    # ROOM: X に出した商品を先頭に、ROOM 基準で複数点を選んで通知する
+    room_flow(cands, theme, s, history, [pst["product"] for pst in posts], live=poster is not None)
+
+
+def cmd_presale(args, s: Settings):
+    """セール開始日・5と0のつく日・セール最終日の夕方に、ROOM へ多めに商品を送る（20時の購買ピークに備える）。"""
+    import json as _json
+    from src.config import CALENDAR_FILE
+    today = date.today()
+    cal = _json.loads(CALENDAR_FILE.read_text(encoding="utf-8"))
+    reason, kind = "", ""
+    for ev in cal.get("events", []):
+        if ev.get("type") != "sale":
+            continue
+        if ev["start"] == today.isoformat():
+            reason, kind = f"{ev['name']} 開始日（20時〜）", "start"
+        elif ev["end"] == today.isoformat():
+            reason, kind = f"{ev['name']} 最終日", "last"
+    if not reason and today.day in (5, 10, 15, 20, 25, 30):
+        reason, kind = "5と0のつく日", "five"
+    if not reason and not args.force:
+        print("今日はセール開始日・最終日・5と0のつく日ではないので、事前ブーストは行いません。")
+        return
+    print(f"[presale] {reason or '手動実行'}")
+    kind = kind or True
+    history = load_history()
+    theme = decide_theme(today, "night", history)
+    client = MockClient() if args.mock else RakutenClient(s)
+    from src.room_picks import room_settings
+    cands = gather_candidates(client, theme, room_settings(s), history, limit=40)
+    room_flow(cands, theme, s, history, [], live=not args.dry_run, presale=kind)
 
 
 def cmd_engage(args, s: Settings):
@@ -195,7 +252,8 @@ def cmd_report(args, s: Settings):
 
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("cmd", choices=["plan", "run", "engage", "genres", "report"])
+    ap.add_argument("cmd", choices=["plan", "run", "engage", "presale", "genres", "report"])
+    ap.add_argument("--force", action="store_true", help="presale: 対象日でなくても実行する")
     ap.add_argument("--slot", choices=["morning", "noon", "night"])
     ap.add_argument("--dry-run", action="store_true", help="Xに投稿せず内容だけ表示")
     ap.add_argument("--mock", action="store_true", help="楽天APIを使わずサンプルデータで動作確認")
@@ -204,7 +262,8 @@ def main():
     if args.cmd not in ("report", "engage") and not args.mock and not s.rakuten_ready():
         print("RAKUTEN_APP_ID が未設定です。.env を作成してください（.env.example を参照）。--mock で動作確認は可能です。")
         sys.exit(1)
-    {"plan": cmd_plan, "run": cmd_run, "engage": cmd_engage, "genres": cmd_genres, "report": cmd_report}[args.cmd](args, s)
+    {"plan": cmd_plan, "run": cmd_run, "engage": cmd_engage, "presale": cmd_presale,
+     "genres": cmd_genres, "report": cmd_report}[args.cmd](args, s)
 
 
 if __name__ == "__main__":

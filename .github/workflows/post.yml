@@ -9,10 +9,11 @@ on:
     - cron: "48 2 * * *"    # JST 11:48 → 12時台 (noon)
     - cron: "13 11 * * *"   # JST 20:13 → 20時台 (night)
     - cron: "23 9 * * *"    # JST 18:23 → 反応を取る投稿（投票・質問・小ネタ） (evening)
+    - cron: "37 10 * * *"   # JST 19:37 → セール開始日・5と0の日だけ、ROOM へ多めに商品を送る (presale)
   workflow_dispatch:        # 手動実行ボタン（スマホのGitHubアプリからも押せる）
     inputs:
       slot:
-        description: "morning / noon / night / evening（evening は投票・質問などの反応投稿）"
+        description: "morning / noon / night / evening（反応投稿） / presale（ROOMセール前ブースト）"
         default: "night"
       dry_run:
         description: "true なら投稿せず確認だけ"
@@ -63,6 +64,7 @@ jobs:
               "52 21 * * *") s=morning ;;
               "48 2 * * *")  s=noon ;;
               "23 9 * * *")  s=evening ;;
+              "37 10 * * *") s=presale ;;
               *)             s=night ;;
             esac
             echo "slot=$s" >> "$GITHUB_OUTPUT"
@@ -82,6 +84,8 @@ jobs:
           [ "${{ steps.slot.outputs.dry }}" = "true" ] && DRY="--dry-run"
           if [ "$SLOT" = "evening" ]; then
             python main.py engage $DRY
+          elif [ "$SLOT" = "presale" ]; then
+            python main.py presale $DRY
           else
             python main.py run --slot $SLOT $DRY
           fi
