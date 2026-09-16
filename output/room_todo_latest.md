@@ -1,46 +1,42 @@
-# 楽天ROOMに追加する商品（2026-09-16）
+# 楽天ROOMに追加する商品（2026-09-17）
 
-手順: ROOMアプリ → 「コレ！」 → 商品URLを貼って検索 → 一言コメントを付けて投稿。
-投稿前にROOMへ追加しておくと、Xから来た人がすぐ見つけられます。
+手順: 商品URLを開く → 共有 → 「ROOMに投稿」 → コメントを貼って投稿。
+夜の分は20時までに入れておくと、購買ピーク（21〜24時）に乗ります。
 
-## 00:32 秋の衣替え（開催中） × 30代女性（暮らし・時短・コスパ）
+## 07:13 お買い物マラソン（9月）（2日後） × 20代女性（自分磨き・プチプラ・映え）
 
-1. **【1種類を選べる】メリーズ エアスルー パンツ 梱販販売用(3袋入×1箱)【メリーズ】[おむつ オムツ 紙おむつ 紙オム**
-   - 価格: 6,460円 / ★4.82（4,029件） / 料率 4.0%
-   - 商品URL（ROOM検索用）: https://hb.afl.rakuten.co.jp/hgc/g00pzd4o.72d3yfe6.g00pzd4o.72d3zc1c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetbaby%2F404758%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnetbaby%2Fi%2F10035957%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - ROOM用コメント案: メリーズ エアスルー パンツ 梱販販売用
+1. **【正規販売店/楽天1位】ロアザオイル LOA THE OIL 30ml / 100ml ブランシュ シトラスベール ジャ**
+   - 価格: 3,520円 / ★4.64（4,181件） / 料率 4.0% / P11倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00sqjgo.72d3y194.g00sqjgo.72d3z7f5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbeautypark2017%2Floaoil%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbeautypark2017%2Fi%2F10002719%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: お買い物マラソン中に狙いたい1つ。プチプラで探してる人に。香りで魅力を呼び醒まし、あなたの自信を高めます。楽天ランキング1位、レビュー4,181件で★4.64。ポイント11倍で実質3,132円、送料無料。セール中に補充しておくと安心です。
 
-## 08:45 敬老の日（5日後） × 40代男性（家族・晩酌・車）
+2. **【正規販売店★楽天1位】 ロアザオイル 香りが選べる LOA THE OIL ロアオイル ロア ザ loaオイル 30m**
+   - 価格: 3,520円 / ★4.62（867件） / 料率 4.0% / P11倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00t050o.72d3y3c5.g00t050o.72d3z4c2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbeautifultoybox%2Floa-oil%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbeautifultoybox%2Fi%2F10002296%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: お買い物マラソン中に狙いたい1つ。自分へのご褒美にちょうどいい価格。楽天ランキング1位、レビュー867件で★4.62。ポイント11倍で実質3,132円。セール中に補充しておくと安心です。
 
-1. **＼P10倍／ 敬老の日 プレゼント お菓子 和菓子 スイーツ ギフト 孫から 介護 施設 祖母 祖父 高級 誕生日 食べ**
-   - 価格: 3,560円 / ★4.59（5,304件） / 料率 4.0%
-   - 商品URL（ROOM検索用）: https://hb.afl.rakuten.co.jp/hgc/g00pm5vo.72d3y0bc.g00pm5vo.72d3z828/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fokashi%2Fkuri-kinton-10sele%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fokashi%2Fi%2F10000308%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - ROOM用コメント案: 敬老の日 プレゼント お菓子 和菓子
+3. **コンタクトレンズ ワンデー 近視 遠視 選べる【2箱4箱】 TeAmo CLEAR 1DAY UV 低含水 高含水 ティ**
+   - 価格: 1,986円 / ★4.56（14,930件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00ram0o.72d3ycc4.g00ram0o.72d3z469/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fteamo%2Fpure_clear_1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fteamo%2Fi%2F10001200%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: お買い物マラソン中に狙いたい1つ。SNSで見かけて気になってたやつ。瞳に合わせて選べる2種類の含水率。まとめ買いでよりお得に商品をお求めいただけます。レビュー14,930件で★4.56。送料無料。セール中に補充しておくと安心です。
 
-## 16:55 敬老の日（5日後） × 30代女性（暮らし・時短・コスパ）
+4. **【全品半額coupon事前配布中】1年保証【送料無料】 ジェルネイル ネイル工房 zecca LED & UV ネイルラ**
+   - 価格: 2,980円 / ★4.37（603件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00q7poo.72d3y2c0.g00q7poo.72d3z094/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnail-koubouu%2Fzirconia-jewely2019-494%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnail-koubouu%2Fi%2F10007961%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: お買い物マラソン中に狙いたい1つ。SNSで見かけて気になってたやつ。自動照射センサー手や足を入れるだけで赤外線センサーが感知し自動的に照射が始まります。1年保証見た目は同じでも、内部構造(基盤)をワンランク上のものを採用しています。レビュー603件で★4.37。半額、送料無料。気になる人はお気に入り登録を。
 
-1. **敬老の日 ギフト プレゼント 海鮮お茶漬けセット 金目鯛、うなぎ、まぐろ、鮭、いわし、磯海苔 送料無料 誕生日プレゼント**
-   - 価格: 4,299円 / ★4.69（5,786件） / 料率 4.0% / P2倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00q2sso.72d3y52a.g00q2sso.72d3zd17/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-cha%2F0265%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-cha%2Fi%2F10002295%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 敬老の日のプレゼント候補。忙しい平日の味方。令和7年の販売実績10万食突破。レビュー5,786件で★4.69。ポイント2倍で実質4,213円、送料無料。
+5. **【50％割引以上】＼楽天1位／スーツケース 隠しフック キャリーバッグ キャリーケース 機内持ち込み 静音 ダブルキャス**
+   - 価格: 5,880円 / ★4.49（6,316件） / 料率 4.0% / P10倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00u2m6o.72d3y256.g00u2m6o.72d3z9ea/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flifeideakan%2Fb6-s%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flifeideakan%2Fi%2F10000008%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: お買い物マラソン中に狙いたい1つ。自分へのご褒美にちょうどいい価格。縦縞デザインにより、シンプルかつファッションです。便利な鍵式へバージョンUP。楽天ランキング1位、レビュー6,316件で★4.49。ポイント10倍で実質5,292円、送料無料。セール中に補充しておくと安心です。
 
-2. **＼楽天ポイント10倍開催中！／秋の味覚 高級フルーツセット【長野県】シャインマスカット　1房450g以上 4玉1.2キロ**
-   - 価格: 3,980円 / ★4.71（62件） / 料率 4.0% / P10倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00tibjo.72d3y026.g00tibjo.72d3zfa3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhamachu%2F2024autumn%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhamachu%2Fi%2F10001014%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 敬老の日のプレゼント候補。毎日の家事がちょっとラクになるやつ。プレゼントに最適です。また、種がなく、果皮が厚くなく渋みがないため皮ごと食べられます。レビュー62件で★4.71。ポイント10倍で実質3,582円、送料無料。
-
-3. **今夜23:59まで楽天カードでP5倍！お試し送料無料2,990円～「有塩or無塩」「骨ありor骨なし」が選べる！⇒脂のり**
-   - 価格: 2,990円 / ★4.64（5,059件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00r77to.72d3y343.g00r77to.72d3zf2a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkouragumi%2F210069%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkouragumi%2Fi%2F10001552%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 敬老の日のプレゼント候補。買い置きしておくと安心なもの。冷めてもふっくら上質の脂がたっぷりのったチリ産銀鮭を厳選。1切れずつバラ凍結になっているので使い勝手抜群。レビュー5,059件で★4.64。送料無料。
-
-4. **お試し送料無料2,999円！背ワタ無し♪希少な特大むきえび1kg（解凍後800g） お中元 ギフト プレゼント 【P】**
-   - 価格: 2,999円 / ★4.69（7,864件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00r77to.72d3y343.g00r77to.72d3zf2a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkouragumi%2F200109%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkouragumi%2Fi%2F10000855%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 敬老の日のプレゼント候補。忙しい平日の味方。和洋中なんでもOK！冷凍庫にストックしてあると便利です♪。レビュー7,864件で★4.69。送料無料。
+6. **タカミスキンピール◆送料無料│2本～購入で特典付き◆角質美容水 美容皮膚発想 スキンケア 毛穴 キメ くすみ タカミ ス**
+   - 価格: 5,720円 / ★4.7（6,456件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00q04mo.72d3y428.g00q04mo.72d3z065/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftakami-labo%2Fr-s009%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftakami-labo%2Fi%2F10000519%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: お買い物マラソン中に狙いたい1つ。自分へのご褒美にちょうどいい価格。角質の生まれ変わりのリズムに寄り添うタカミの原点“角質美容水”。。レビュー6,456件で★4.7。送料無料。セール中に補充しておくと安心です。
 
 ### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
 
-- **敬老の日で買うもの**: 敬老の日 ギフト プレゼント / 秋の味覚 高級フルーツセット / 脂のり抜群の銀鮭 切り身 業務用 1kg / 希少な特大むきえび1kg お中元 ギフト
-- **30代女性のリピート候補**: 敬老の日 ギフト プレゼント / 秋の味覚 高級フルーツセット / 脂のり抜群の銀鮭 切り身 業務用 1kg / 希少な特大むきえび1kg お中元 ギフト
+- **お買い物マラソンで買うもの**: ロアザオイル LOA THE OIL / ロアザオイル 香りが選べる LOA THE / コンタクトレンズ ワンデー 近視 遠視 / 1年保証 ジェルネイル ネイル工房 / 楽天1位 スーツケース 隠しフック / タカミスキンピール 角質美容水 美容皮膚発想
+- **20代女性のリピート候補**: ロアザオイル LOA THE OIL / ロアザオイル 香りが選べる LOA THE / コンタクトレンズ ワンデー 近視 遠視 / 1年保証 ジェルネイル ネイル工房 / 楽天1位 スーツケース 隠しフック / タカミスキンピール 角質美容水 美容皮膚発想
 
