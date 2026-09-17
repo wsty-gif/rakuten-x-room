@@ -116,3 +116,11 @@ jobs:
           git diff --cached --quiet || git commit -m "post: ${{ steps.slot.outputs.slot }} $(date +'%Y-%m-%d %H:%M')"
           git pull --rebase -X theirs origin main || true
           git push
+
+      # 途中で失敗したら、スマホに「失敗」を通知する（何も来ない＝失敗、を無くす）
+      - name: Notify failure
+        if: failure() && env.NTFY_TOPIC != ''
+        run: |
+          curl -s -H "Title: 投稿ジョブ失敗（${{ steps.slot.outputs.slot }}）" -H "Priority: high" -H "Tags: x" \
+            -d "GitHub Actions が失敗しました。Actions のログを確認してください: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}" \
+            "https://ntfy.sh/${NTFY_TOPIC}" >/dev/null || true
