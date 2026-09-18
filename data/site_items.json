@@ -5484,23 +5484,30 @@
     "theme": "敬老の日（9日後） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-19",
+    "slot": "morning",
+    "theme": "敬老の日（2日後） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
    }
   ],
   "item_code": "marukichi-kayano:10000017",
   "name": "【新米】令和8年産 北海道産 ゆめぴりか 10kg (5kg×2袋) 白米 米 お米 送料無料 鮮度保持パック変更可",
-  "price": 6780,
+  "price": 6580,
   "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00radio.72d3ya46.g00radio.72d3zfdb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmarukichi-kayano%2F10000017%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmarukichi-kayano%2Fi%2F10000017%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00radio.72d3ya46.g00radio.72d3zfdb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmarukichi-kayano%2F10000017%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/marukichi-kayano/cabinet/yumepirika/img_pirika10kn.jpg?_ex=600x600",
   "shop_name": "丸吉 茅野商店 北海道",
-  "review_count": 12516,
+  "review_count": 12523,
   "review_average": 4.72,
   "affiliate_rate": 4.0,
   "point_rate": 1,
   "catchcopy": "レビュー1.2万件★4.73｜15年連続特A｜甘くてもっちり食感　",
   "genre_id": "201184",
-  "score": 19.36,
-  "last_seen": "2026-09-12T08:34:11"
+  "score": 18.66,
+  "last_seen": "2026-09-19T07:48:45"
  },
  "e-cha:10002295": {
   "first_seen": "2026-09-12T16:21:55",
@@ -5839,6 +5846,13 @@
     "theme": "敬老の日（3日後） × 30代女性（暮らし・時短・コスパ）",
     "persona": "30s_woman",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-19",
+    "slot": "morning",
+    "theme": "敬老の日（2日後） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
    }
   ],
   "item_code": "hseason:10000260",
@@ -5854,8 +5868,8 @@
   "point_rate": 1,
   "catchcopy": "楽天グルメ大賞 11回受賞★700週1位＆レビュー6万件＆販売総数150万個超！[家事時短で便利な無洗米]",
   "genre_id": "201184",
-  "score": 18.11,
-  "last_seen": "2026-09-18T14:10:14"
+  "score": 18.91,
+  "last_seen": "2026-09-19T07:48:45"
  },
  "kawasui:10000130": {
   "first_seen": "2026-09-12T23:03:48",
@@ -6035,6 +6049,13 @@
     "theme": "敬老の日（8日後） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-19",
+    "slot": "morning",
+    "theme": "敬老の日（2日後） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
    }
   ],
   "item_code": "1129saisonb:10000102",
@@ -6044,14 +6065,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00r125o.72d3yd6e.g00r125o.72d3zeb7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F1129saisonb%2Fa5k0004%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/1129saisonb/cabinet/html/a5k0004/09542149/a5k0004-01.jpg?_ex=600x600",
   "shop_name": "高級和牛専門店　セゾンブシェ",
-  "review_count": 5254,
+  "review_count": 5255,
   "review_average": 4.64,
   "affiliate_rate": 4.0,
   "point_rate": 1,
   "catchcopy": "楽天グルメ大賞[牛肉部門]通算9年受賞のA5ランク厳選黒毛和牛！ギフト・のし(名入れ可)メッセージカードも無料！ご自宅用は勿論、お歳暮や内祝いの贈り物にも安心してお選びください",
   "genre_id": "304587",
-  "score": 19.75,
-  "last_seen": "2026-09-13T16:40:15"
+  "score": 17.65,
+  "last_seen": "2026-09-19T07:48:45"
  },
  "ojikaya:10000815": {
   "first_seen": "2026-09-13T16:40:15",
@@ -6282,6 +6303,13 @@
     "theme": "敬老の日（3日後） × 30代女性（暮らし・時短・コスパ）",
     "persona": "30s_woman",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-19",
+    "slot": "morning",
+    "theme": "敬老の日（2日後） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
    }
   ],
   "item_code": "sanintoretatehonpo:10001122",
@@ -6298,7 +6326,7 @@
   "catchcopy": "敬老の日ギフト 彩り華やか！日本三大菓子処「松江」伝統の味",
   "genre_id": "200104",
   "score": 18.16,
-  "last_seen": "2026-09-18T14:10:14"
+  "last_seen": "2026-09-19T07:48:45"
  },
  "hhh-style:10027488": {
   "first_seen": "2026-09-15T01:56:42",
@@ -6633,6 +6661,13 @@
     "theme": "敬老の日（3日後） × 30代女性（暮らし・時短・コスパ）",
     "persona": "30s_woman",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-19",
+    "slot": "morning",
+    "theme": "敬老の日（2日後） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
    }
   ],
   "item_code": "maochan:10000047",
@@ -6642,14 +6677,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00u37ho.72d3ycdb.g00u37ho.72d3z9ef/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaochan%2Fmcs-g1%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/maochan/cabinet/shohin/montblanc/mb_1000.jpg?_ex=600x600",
   "shop_name": "菓匠もりん（morin）",
-  "review_count": 1451,
+  "review_count": 1454,
   "review_average": 4.72,
   "affiliate_rate": 4.0,
   "point_rate": 1,
   "catchcopy": "敬老の日 ギフト 高級 モンブラン ケーキ 誕生日プレゼント 和菓子 内祝い お返し お菓子 吉野本葛を使用し余計な油分をカット!甘さ控えめな和のヘルシーギフト【配送日指定】",
   "genre_id": "201121",
-  "score": 18.05,
-  "last_seen": "2026-09-18T14:10:14"
+  "score": 18.25,
+  "last_seen": "2026-09-19T07:48:45"
  },
  "hamachu:10001014": {
   "first_seen": "2026-09-15T17:02:37",
@@ -7363,6 +7398,13 @@
     "theme": "敬老の日（3日後） × 30代女性（暮らし・時短・コスパ）",
     "persona": "30s_woman",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-19",
+    "slot": "morning",
+    "theme": "敬老の日（2日後） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
    }
   ],
   "item_code": "muskmelon:10000565",
@@ -7379,7 +7421,7 @@
   "catchcopy": "まだ間に合う 敬老の日 ギフト ナガノパープル シャインマスカット 送料無料",
   "genre_id": "304609",
   "score": 17.91,
-  "last_seen": "2026-09-18T14:10:14"
+  "last_seen": "2026-09-19T07:48:45"
  },
  "imagi:10000175": {
   "first_seen": "2026-09-18T14:10:14",
@@ -7388,6 +7430,13 @@
     "date": "2026-09-18",
     "slot": "noon",
     "theme": "敬老の日（3日後） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
+   },
+   {
+    "date": "2026-09-19",
+    "slot": "morning",
+    "theme": "敬老の日（2日後） × 30代女性（暮らし・時短・コスパ）",
     "persona": "30s_woman",
     "event_type": "gift"
    }
@@ -7405,8 +7454,8 @@
   "point_rate": 1,
   "catchcopy": "冷めても硬くならない、もちもち食感と強い甘み。お弁当やおにぎりに最適な低アミロース米冷めてもモチモチ！",
   "genre_id": "201184",
-  "score": 17.78,
-  "last_seen": "2026-09-18T14:10:14"
+  "score": 17.58,
+  "last_seen": "2026-09-19T07:48:45"
  },
  "exception5251:10000794": {
   "first_seen": "2026-09-18T14:10:14",
@@ -7415,6 +7464,13 @@
     "date": "2026-09-18",
     "slot": "noon",
     "theme": "敬老の日（3日後） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
+   },
+   {
+    "date": "2026-09-19",
+    "slot": "morning",
+    "theme": "敬老の日（2日後） × 30代女性（暮らし・時短・コスパ）",
     "persona": "30s_woman",
     "event_type": "gift"
    }
@@ -7426,14 +7482,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00uaejo.72d3y267.g00uaejo.72d3z378/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fexception5251%2Fex-x01028%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/exception5251/cabinet/11219683/11219687/main_image/ex-x01028_a_1.jpg?_ex=600x600",
   "shop_name": "EXCEPTION本店",
-  "review_count": 696,
-  "review_average": 4.64,
+  "review_count": 738,
+  "review_average": 4.65,
   "affiliate_rate": 4.0,
   "point_rate": 1,
   "catchcopy": "レビュー特典あり☆徳島県産コシヒカリ 9月上旬 8月下旬 精米 一等米 産地直送 米 おいしい 美味しい 安い 5kg 5キロ 7年産 7年 送料無料 Exception本店 エクセプション",
   "genre_id": "201184",
-  "score": 17.23,
-  "last_seen": "2026-09-18T14:10:14"
+  "score": 17.4,
+  "last_seen": "2026-09-19T07:48:45"
  },
  "komorebi-gr:10000305": {
   "first_seen": "2026-09-18T14:10:14",
@@ -7471,6 +7527,13 @@
     "theme": "敬老の日（3日後） × 30代女性（暮らし・時短・コスパ）",
     "persona": "30s_woman",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-19",
+    "slot": "morning",
+    "theme": "敬老の日（2日後） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
    }
   ],
   "item_code": "kasyou-morin:10000341",
@@ -7486,8 +7549,8 @@
   "point_rate": 1,
   "catchcopy": "敬老の日 スイーツ ギフト 高級 おしゃれ 誕生日 プレゼント お菓子 チーズケーキ プリン ゼリー ギフト 出産 内祝い お返し 退職 お礼 個包装 お取り寄せスイーツ 洋菓子【配送日指定】",
   "genre_id": "203226",
-  "score": 17.09,
-  "last_seen": "2026-09-18T14:10:14"
+  "score": 17.39,
+  "last_seen": "2026-09-19T07:48:45"
  },
  "liquor-boss:10003368": {
   "first_seen": "2026-09-18T23:08:23",
@@ -7679,5 +7742,88 @@
   "genre_id": "510528",
   "score": 16.87,
   "last_seen": "2026-09-18T23:08:23"
+ },
+ "e-zakkokumai:10002941": {
+  "first_seen": "2026-09-19T07:48:45",
+  "themes": [
+   {
+    "date": "2026-09-19",
+    "slot": "morning",
+    "theme": "敬老の日（2日後） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
+   }
+  ],
+  "item_code": "e-zakkokumai:10002941",
+  "name": "＼新米10kg 3,810円／ 8年産 新米 白米 ときわGreen 青森県産 100% 精米 5kg 10kg 20kg 30kg 選べる容量 ふっくら おいしい 国産 お米 もちもち 冷めても美味しい コスパ 弁当 おにぎり 家庭用 1184 2368 4580 6742",
+  "price": 2210,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00py8po.72d3y6df.g00py8po.72d3z3c2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-zakkokumai%2Fgyoumu-t9kga%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-zakkokumai%2Fi%2F10002941%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00py8po.72d3y6df.g00py8po.72d3z3c2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-zakkokumai%2Fgyoumu-t9kga%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/e-zakkokumai/cabinet/kome/tokiwagreen/tokiwa24530.jpg?_ex=600x600",
+  "shop_name": "イーザッコク米",
+  "review_count": 1679,
+  "review_average": 4.51,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "送料無料（沖縄・離島は配送不可）【出荷日・要確認！！】",
+  "genre_id": "201184",
+  "score": 20.02,
+  "last_seen": "2026-09-19T07:48:45",
+  "posted_text": "#PR 外さないプレゼントはこれ\n新米10kg 8年産 新米 白米｜送料無料（沖縄・離島は配送不可） 出荷日・要確認！！\n★4.51・レビュー1,679件\n2,210円・送料無料\n#楽天購入品\n▶ROOMはプロフから",
+  "posted_at": "2026-09-19T07:48:45"
+ },
+ "bloomeestore:10000204": {
+  "first_seen": "2026-09-19T07:48:45",
+  "themes": [
+   {
+    "date": "2026-09-19",
+    "slot": "morning",
+    "theme": "敬老の日（2日後） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
+   }
+  ],
+  "item_code": "bloomeestore:10000204",
+  "name": "【P5倍】まだ間に合う 敬老の日 花 ギフト プレゼント 誕生日 花束 スイーツ お祝い アレンジメント 生花 退職 記念日 ブーケ フラワーギフト 義母 女友達 彼女 妻 プレゼント 50代 60代 70代 お見舞い 退院祝い 退職祝い 送別会 結婚記念日 そのまま飾れる",
+  "price": 2980,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00uaobo.72d3y420.g00uaobo.72d3z4b0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbloomeestore%2Fbouq006%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbloomeestore%2Fi%2F10000204%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00uaobo.72d3y420.g00uaobo.72d3z4b0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbloomeestore%2Fbouq006%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/bloomeestore/cabinet/bouq006/imgrc0121942381.jpg?_ex=600x600",
+  "shop_name": "お花ギフト ブルーミー（bloomee）",
+  "review_count": 7747,
+  "review_average": 4.54,
+  "affiliate_rate": 4.0,
+  "point_rate": 5,
+  "catchcopy": "早割 敬老の日 花 誕生日 ギフト 花束 スイーツ お祝い アレンジ 生花 退職 記念日 ブーケ フラワーギフト 義母 女友達 彼女 妻 プレゼント 50代 60代 70代 お見舞い 退院祝い",
+  "genre_id": "110001",
+  "score": 19.5,
+  "last_seen": "2026-09-19T07:48:45"
+ },
+ "nagasaki-kasutera:10003443": {
+  "first_seen": "2026-09-19T07:48:45",
+  "themes": [
+   {
+    "date": "2026-09-19",
+    "slot": "morning",
+    "theme": "敬老の日（2日後） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
+   }
+  ],
+  "item_code": "nagasaki-kasutera:10003443",
+  "name": "敬老の日 お惣菜 魚 [ まだ間に合う 食べ物 ご飯のお供 グルメ プレゼント ギフト メッセージカード おかず 国産 レトルト ヘルシー さんま いわし さば ほたて さけ ギフトセット お取り寄せ ランキング 長崎心泉堂 2026 ] パウチ 詰め合わせ KR6K",
+  "price": 3979,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qaxzo.72d3y0a5.g00qaxzo.72d3z920/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnagasaki-kasutera%2Ffd-osakana6-r%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnagasaki-kasutera%2Fi%2F10003443%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00qaxzo.72d3y0a5.g00qaxzo.72d3z920/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnagasaki-kasutera%2Ffd-osakana6-r%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/nagasaki-kasutera/cabinet/26kr_cart/26kr_cart_kr6k_m12.jpg?_ex=600x600",
+  "shop_name": "カステラ専門店【長崎　心泉堂】",
+  "review_count": 108,
+  "review_average": 4.57,
+  "affiliate_rate": 4.0,
+  "point_rate": 2,
+  "catchcopy": "敬老の日ギフト 惣菜 孫 祖父 祖母 おじいちゃん おばあちゃん お祝い 50代 60代 70代 80代 骨まで食べられる 常温保存 食品 魚 煮付け 温めるだけ 食べ物 鯖 ほっけ たら 帆立 RSL",
+  "genre_id": "201015",
+  "score": 17.37,
+  "last_seen": "2026-09-19T07:48:45"
  }
 }
