@@ -495,23 +495,30 @@
     "theme": "楽天スーパーSALE（9月）（開催中） × 20代女性（自分磨き・プチプラ・映え）",
     "persona": "20s_woman",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-09-21",
+    "slot": "morning",
+    "theme": "お買い物マラソン（9月）（開催中） × 20代女性（自分磨き・プチプラ・映え）",
+    "persona": "20s_woman",
+    "event_type": "sale"
    }
   ],
   "item_code": "anuajapan:10000435",
-  "name": "【56%OFF】ドキ子XAnua公式｜本気の大人肌ケアセット2 《集中ケア編》｜3種の人気美容液で大人の肌悩みをサポート｜レチノールかっさ PDRNアイクリーム｜ROOMコラボ｜エイジングケア 乾燥 ツヤ 毛穴 角質 キメ ハリ PDRN ビタミン レチノール カッサ",
+  "name": "【56%OFF】期待に応えて再販！ドキ子XAnua公式｜本気の大人肌ケアセット2 《集中ケア編》｜3種の人気美容液で大人の肌悩みをサポート｜レチノールかっさ PDRNアイクリーム｜ROOMコラボ｜エイジングケア 乾燥 ツヤ 毛穴 角質 キメ ハリ PDRN ビタミン レチノール カッサ",
   "price": 5963,
   "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00u6mzo.72d3yb21.g00u6mzo.72d3z922/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanuajapan%2Fanua00170%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanuajapan%2Fi%2F10000435%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00u6mzo.72d3yb21.g00u6mzo.72d3z922/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanuajapan%2Fanua00170%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/anuajapan/cabinet/anua00170/2609ss/dokiko_thumb.jpg?_ex=600x600",
   "shop_name": "ANUA Official 楽天市場店",
-  "review_count": 169,
-  "review_average": 4.7,
+  "review_count": 307,
+  "review_average": 4.53,
   "affiliate_rate": 4.0,
   "point_rate": 1,
   "catchcopy": "6月の楽天スーパーSALEでランキング2位獲得！大人気の限定セットが秋バージョンになって再登場！ベスコスも受賞した美容液など3種が入った大人のための贅沢セット",
   "genre_id": "567442",
-  "score": 19.6,
-  "last_seen": "2026-09-09T00:04:04"
+  "score": 19.77,
+  "last_seen": "2026-09-21T08:32:58"
  },
  "kiehls:10000083": {
   "first_seen": "2026-09-06T02:45:17",
@@ -1639,6 +1646,13 @@
     "theme": "お買い物マラソン（9月）（開催中） × 20代女性（自分磨き・プチプラ・映え）",
     "persona": "20s_woman",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-09-21",
+    "slot": "morning",
+    "theme": "お買い物マラソン（9月）（開催中） × 20代女性（自分磨き・プチプラ・映え）",
+    "persona": "20s_woman",
+    "event_type": "sale"
    }
   ],
   "item_code": "chakasho-dina:10000637",
@@ -1648,14 +1662,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00u575o.72d3yace.g00u575o.72d3zfe8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fchakasho-dina%2F383yimiaorisan%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/chakasho-dina/cabinet/imgrc0140362533.jpg?_ex=600x600",
   "shop_name": "chakashodina",
-  "review_count": 18043,
+  "review_count": 18046,
   "review_average": 4.5,
   "affiliate_rate": 4.0,
   "point_rate": 1,
   "catchcopy": "日傘 《永遠形状記憶》3秒たためる 元祖 日傘 折傘 折りたたみ傘 遮熱 日傘 日傘メンズ 晴雨兼用 UVカット 軽量 涼しい パラソル ケア 日焼け防止 遮蔽 遮熱 完全遮光100% UVカット 軽量",
   "genre_id": "506687",
-  "score": 18.53,
-  "last_seen": "2026-09-19T22:59:27"
+  "score": 18.33,
+  "last_seen": "2026-09-21T08:32:58"
  },
  "tvert:10000064": {
   "first_seen": "2026-09-06T04:08:37",
@@ -4224,6 +4238,13 @@
     "theme": "秋の衣替え（開催中） × 20代女性（自分磨き・プチプラ・映え）",
     "persona": "20s_woman",
     "event_type": "season"
+   },
+   {
+    "date": "2026-09-21",
+    "slot": "morning",
+    "theme": "お買い物マラソン（9月）（開催中） × 20代女性（自分磨き・プチプラ・映え）",
+    "persona": "20s_woman",
+    "event_type": "sale"
    }
   ],
   "item_code": "atcontact:10002164",
@@ -4233,14 +4254,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00rvxeo.72d3y743.g00rvxeo.72d3z8e4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fatcontact%2Fk_kz_cm30z0_02_m%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/atcontact/cabinet/thumb2021/creo/1day/k_kz_cm30z0_p10s.jpg?_ex=600x600",
   "shop_name": "アットコンタクト",
-  "review_count": 12685,
+  "review_count": 12713,
   "review_average": 4.75,
   "affiliate_rate": 4.0,
   "point_rate": 1,
   "catchcopy": "コンタクトレンズ ワンデー コンタクト 1日使い捨て クレオ CREO ソフトコンタクトレンズ ソフトコンタクト",
   "genre_id": "563999",
-  "score": 16.75,
-  "last_seen": "2026-09-15T01:56:42"
+  "score": 17.46,
+  "last_seen": "2026-09-21T08:32:58"
  },
  "cott-o:10011873": {
   "first_seen": "2026-09-09T08:42:38",
@@ -7159,23 +7180,32 @@
     "theme": "お買い物マラソン（9月）（開催中） × 20代女性（自分磨き・プチプラ・映え）",
     "persona": "20s_woman",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-09-21",
+    "slot": "morning",
+    "theme": "お買い物マラソン（9月）（開催中） × 20代女性（自分磨き・プチプラ・映え）",
+    "persona": "20s_woman",
+    "event_type": "sale"
    }
   ],
   "item_code": "b4u-shop:10002773",
-  "name": "【800円OFF 19日配布 ZIPで紹介!】B4U 公式 新 キャリーケース 機内持ち込み スーツケース TSAロック フロントオープン ストッパー付き 前開き ベージュ ピンク 2泊3日 3泊4日 Sサイズ Mサイズ 20インチ 24インチ USB充電 カップホルダー 静音 軽量 大容量 RFID保護 1年保証",
+  "name": "【700円OFF 20日配布 ZIPで紹介!】B4U 公式 新 キャリーケース 機内持ち込み スーツケース TSAロック フロントオープン ストッパー付き 前開き ベージュ ピンク 2泊3日 3泊4日 Sサイズ Mサイズ 20インチ 24インチ USB充電 カップホルダー 静音 軽量 大容量 RFID保護 1年保証",
   "price": 9980,
   "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00u01mo.72d3yf55.g00u01mo.72d3ze99/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fb4u-shop%2F2zk1127e%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fb4u-shop%2Fi%2F10002773%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00u01mo.72d3yf55.g00u01mo.72d3ze99/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fb4u-shop%2F2zk1127e%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/b4u-shop/cabinet/11061659/12879328/2zk-main-260317.jpg?_ex=600x600",
   "shop_name": "B4U",
-  "review_count": 8931,
+  "review_count": 8946,
   "review_average": 4.47,
   "affiliate_rate": 4.0,
   "point_rate": 1,
   "catchcopy": "大ヒット作、B4U史上最大進化。あなたを世界と繋ぐ「目に見えない安心」。前開き、YKK品質、RFID情報保護、全てはB4U独占の革新。カスタムで個性を繋ぐ、あなたらしい旅の新しいカタチへ",
   "genre_id": "301577",
-  "score": 17.69,
-  "last_seen": "2026-09-19T22:59:27"
+  "score": 20.49,
+  "last_seen": "2026-09-21T08:32:58",
+  "posted_text": "#PR プチプラで一番後悔しなかったやつ\nB4U 公式 キャリーケース 機内持ち込み\n★4.47・レビュー8,946件\n9,980円\n使ってる人いたら感想ください\n#お買い物マラソン\n▶ROOMはプロフから",
+  "posted_at": "2026-09-21T08:32:58"
  },
  "beautifultoybox:10002296": {
   "first_seen": "2026-09-17T07:13:53",
@@ -7247,6 +7277,13 @@
     "theme": "お買い物マラソン（9月）（開催中） × 20代女性（自分磨き・プチプラ・映え）",
     "persona": "20s_woman",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-09-21",
+    "slot": "morning",
+    "theme": "お買い物マラソン（9月）（開催中） × 20代女性（自分磨き・プチプラ・映え）",
+    "persona": "20s_woman",
+    "event_type": "sale"
    }
   ],
   "item_code": "larocheposay:10000039",
@@ -7256,14 +7293,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00twl6o.72d3y42d.g00twl6o.72d3zde6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flarocheposay%2Fl00332ropenkit%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/larocheposay/cabinet/products/11910172/imgrc0140879589.jpg?_ex=600x600",
   "shop_name": "ラ ロッシュ ポゼ 公式ショップ",
-  "review_count": 11638,
+  "review_count": 11648,
   "review_average": 4.69,
   "affiliate_rate": 4.0,
   "point_rate": 1,
   "catchcopy": "",
   "genre_id": "503054",
-  "score": 18.12,
-  "last_seen": "2026-09-19T22:59:27"
+  "score": 18.82,
+  "last_seen": "2026-09-21T08:32:58"
  },
  "lifeideakan:10000008": {
   "first_seen": "2026-09-17T07:13:53",
@@ -7328,6 +7365,13 @@
     "theme": "お買い物マラソン（9月）（2日後） × 20代女性（自分磨き・プチプラ・映え）",
     "persona": "20s_woman",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-09-21",
+    "slot": "morning",
+    "theme": "お買い物マラソン（9月）（開催中） × 20代女性（自分磨き・プチプラ・映え）",
+    "persona": "20s_woman",
+    "event_type": "sale"
    }
   ],
   "item_code": "f-netclub:10000296",
@@ -7337,14 +7381,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00px2fo.72d3y5f2.g00px2fo.72d3zfeb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff-netclub%2F10000296%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/f-netclub/cabinet/rere-img/imgrc0142787619.jpg?_ex=600x600",
   "shop_name": "WELLBESTショッピング楽天市場店",
-  "review_count": 1076,
-  "review_average": 4.23,
+  "review_count": 1087,
+  "review_average": 4.22,
   "affiliate_rate": 4.0,
   "point_rate": 10,
   "catchcopy": "累計1,200万本突破！女性用 育毛剤 ランキング常連！抜け毛・薄毛・生え際に悩む女性へ。30代・40代・50代の髪悩みを根本ケア！医薬部外品の薬用リリィジュで髪にハリとコシを",
   "genre_id": "507843",
-  "score": 18.04,
-  "last_seen": "2026-09-17T07:13:53"
+  "score": 18.61,
+  "last_seen": "2026-09-21T08:32:58"
  },
  "rice-akita:10000109": {
   "first_seen": "2026-09-17T14:23:25",
@@ -9041,5 +9085,167 @@
   "genre_id": "201184",
   "score": 16.4,
   "last_seen": "2026-09-21T02:09:03"
+ },
+ "brandshiseido:10000016": {
+  "first_seen": "2026-09-21T08:32:58",
+  "themes": [
+   {
+    "date": "2026-09-21",
+    "slot": "morning",
+    "theme": "お買い物マラソン（9月）（開催中） × 20代女性（自分磨き・プチプラ・映え）",
+    "persona": "20s_woman",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "brandshiseido:10000016",
+  "name": "【SHISEIDO 公式】エッセンス スキングロウ ファンデーション | SHISEIDO 資生堂 シセイドウ | ファンデーション ファンデ 美容液ファンデ 美容液ファンデーション スキンケアエッセンス",
+  "price": 7040,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00umpto.72d3yfc6.g00umpto.72d3zddc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbrandshiseido%2Fsmu0021%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbrandshiseido%2Fi%2F10000016%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00umpto.72d3yfc6.g00umpto.72d3zddc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbrandshiseido%2Fsmu0021%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/brandshiseido/cabinet/prd/smu0021/2607_smu0021.jpg?_ex=600x600",
+  "shop_name": "SHISEIDO 公式ショップ",
+  "review_count": 1665,
+  "review_average": 4.71,
+  "affiliate_rate": 4.0,
+  "point_rate": 5,
+  "catchcopy": "美容液レベルの肌体験へ。美肌育むファンデ美容液、完成。",
+  "genre_id": "405291",
+  "score": 18.91,
+  "last_seen": "2026-09-21T08:32:58"
+ },
+ "biohealboh:10000154": {
+  "first_seen": "2026-09-21T08:32:58",
+  "themes": [
+   {
+    "date": "2026-09-21",
+    "slot": "morning",
+    "theme": "お買い物マラソン（9月）（開催中） × 20代女性（自分磨き・プチプラ・映え）",
+    "persona": "20s_woman",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "biohealboh:10000154",
+  "name": "【9/19 19:00 ~★最大50％OFF★クーポン!＆P10%♪】【BIOHEAL BOH公式】ベストセラーご褒美セット！ハリ・毛穴・乾燥・目元集中ケアセットコラーゲン 弾力 保湿 リフティング スキンケア バイオヒールボ アイクリーム 福袋 コスメセット 楽天限定販売【楽天海外通販】",
+  "price": 8500,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00ums4o.72d3yfc0.g00ums4o.72d3z2a0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbiohealboh%2Fybox_2508%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbiohealboh%2Fi%2F10000154%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00ums4o.72d3yfc0.g00ums4o.72d3z2a0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbiohealboh%2Fybox_2508%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/biohealboh/cabinet/event/13855537/imgrc0121008662.jpg?_ex=600x600",
+  "shop_name": "BIOHEAL BOH公式楽天市場店",
+  "review_count": 257,
+  "review_average": 4.49,
+  "affiliate_rate": 4.0,
+  "point_rate": 10,
+  "catchcopy": "スキンケアセット 乾燥肌 インナードライ 韓国 コスメ クリーム 美容 化粧品 セラム アンプル 美容液 化粧品セット",
+  "genre_id": "567442",
+  "score": 17.49,
+  "last_seen": "2026-09-21T08:32:58"
+ },
+ "sakurap:10005223": {
+  "first_seen": "2026-09-21T08:32:58",
+  "themes": [
+   {
+    "date": "2026-09-21",
+    "slot": "morning",
+    "theme": "お買い物マラソン（9月）（開催中） × 20代女性（自分磨き・プチプラ・映え）",
+    "persona": "20s_woman",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "sakurap:10005223",
+  "name": "【かつみ・さゆり出演CM】【LINEお友だち追加で500円クーポン】白髪染め シャンプー トリートメント KUROクリームシャンプー 400g 単品 バランローズ 公式 VALANROSE クロ カラーシャンプー カラートリートメント 白髪用 白髪染めトリートメント 黒 茶 新色",
+  "price": 5808,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pvono.72d3ybf5.g00pvono.72d3z6bb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsakurap%2F10008554%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsakurap%2Fi%2F10005223%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00pvono.72d3ybf5.g00pvono.72d3z6bb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsakurap%2F10008554%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/sakurap/cabinet/sum/imgrc0111152163.jpg?_ex=600x600",
+  "shop_name": "VALANROSE 公式ショップ",
+  "review_count": 8330,
+  "review_average": 4.38,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "白髪染め シャンプー トリートメント KUROクリームシャンプー 400g1本3役(洗髪・保湿・白髪染めヘアマニキュア)毎日使えるカラーシャンプー",
+  "genre_id": "210724",
+  "score": 17.47,
+  "last_seen": "2026-09-21T08:32:58"
+ },
+ "urs-me:10005195": {
+  "first_seen": "2026-09-21T08:32:58",
+  "themes": [
+   {
+    "date": "2026-09-21",
+    "slot": "morning",
+    "theme": "お買い物マラソン（9月）（開催中） × 20代女性（自分磨き・プチプラ・映え）",
+    "persona": "20s_woman",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "urs-me:10005195",
+  "name": "【店内全品30％OFFクーポン】9/20 23:59まで■胸ポケットニットカーディガン トップス レディース ニット カーディガン 羽織 クルーネック ラウンドネック 胸ポケット 長袖 ボタン 紫外線対策 UVケア 手洗い可 ハンドウォッシャブル",
+  "price": 5489,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tqrro.72d3y400.g00tqrro.72d3ze69/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Furs-me%2Fbhxp4502%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Furs-me%2Fi%2F10005195%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00tqrro.72d3y400.g00tqrro.72d3ze69/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Furs-me%2Fbhxp4502%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/urs-me/cabinet/202607/bhxp4502_m01.jpg?_ex=600x600",
+  "shop_name": "urs（ユアーズ）",
+  "review_count": 96,
+  "review_average": 4.36,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "【イチ推し】【新色】",
+  "genre_id": "403871",
+  "score": 17.21,
+  "last_seen": "2026-09-21T08:32:58"
+ },
+ "azusa:10000109": {
+  "first_seen": "2026-09-21T08:32:58",
+  "themes": [
+   {
+    "date": "2026-09-21",
+    "slot": "morning",
+    "theme": "お買い物マラソン（9月）（開催中） × 20代女性（自分磨き・プチプラ・映え）",
+    "persona": "20s_woman",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "azusa:10000109",
+  "name": "期間限定！1,380円～【楽天年間1位！形状記憶特許品】 日傘 折りたたみ傘 完全遮光 JIS認証済 遮熱率59％ 自動開閉 DeliToo 傘 超軽量 わずか240g 折り畳み傘 6本骨 uvカット UPF 50+ 紫外線対策 日焼け対策 メンズ レディース 軽量 晴雨 花粉対策 ギフト",
+  "price": 2980,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tyy9o.72d3y86f.g00tyy9o.72d3z89d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fazusa%2Fb16gcq%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fazusa%2Fi%2F10000109%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00tyy9o.72d3y86f.g00tyy9o.72d3z89d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fazusa%2Fb16gcq%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/azusa/cabinet/6san/imgrc0171182741.jpg?_ex=600x600",
+  "shop_name": "春夏秋冬",
+  "review_count": 46283,
+  "review_average": 4.31,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "DeliToo 日傘 ＼楽天年間ランキング1位！3年受賞／形状記憶 2秒で折り畳める 日傘 折りたたみ 完全遮光 折りたたみ傘 折り畳み 晴雨兼用 日傘 雨傘 UVカット 新作日傘 自動開閉傘",
+  "genre_id": "506687",
+  "score": 16.98,
+  "last_seen": "2026-09-21T08:32:58"
+ },
+ "rakuten24:11285303": {
+  "first_seen": "2026-09-21T08:32:58",
+  "themes": [
+   {
+    "date": "2026-09-21",
+    "slot": "morning",
+    "theme": "お買い物マラソン（9月）（開催中） × 20代女性（自分磨き・プチプラ・映え）",
+    "persona": "20s_woman",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "rakuten24:11285303",
+  "name": "マキアージュ ドラマティックパウダリー EX レフィル(9.3g)【マキアージュ(MAQUillAGE)】[ファンデーション パウダリー 毛穴カバー]",
+  "price": 3300,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00r136o.72d3y0bd.g00r136o.72d3za29/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F405528%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11285303%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00r136o.72d3y0bd.g00r136o.72d3za29/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F405528%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/528/405528.jpg?_ex=600x600",
+  "shop_name": "楽天24",
+  "review_count": 460,
+  "review_average": 4.7,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "ファンデーション パウダリー 毛穴カバー / マキアージュ(MAQUillAGE) / マキアージュ ドラマティックパウダリー EX レフィル",
+  "genre_id": "405324",
+  "score": 16.85,
+  "last_seen": "2026-09-21T08:32:58"
  }
 }
