@@ -109,6 +109,31 @@ Pinterest の API は個人向けの Trial だとピンが自分にしか見え�
 
 注意: Pinterest でもアフィリエイト明示が必要。説明文に #PR を入れている。ピンの保存先ページ（ブログ）に広告表記があるので規約上も問題ない。
 
+## カード画像（Pinterest 2:3 / Instagram 4:5）
+
+`build_site.py` が直近7日の商品について、商品写真＋商品名＋評価・レビュー件数＋価格・実質価格＋バッジの
+「情報カード画像」を自動生成する（`src/pin_image.py`）。`docs/pins/<code>.jpg`（1000×1500）と `docs/ig/<code>.jpg`（1080×1350）。
+Pinterest のフィードはこのカード画像を使う（縦長のほうがフィードで大きく表示される）。
+GitHub Actions では `fonts-noto-cjk` を入れて日本語を描く。Pages への公開は `keep_files: true` なので過去のカードも残る。
+
+Pinterest のタイトルは「検索語が先頭」（例: 敬老の日のギフトに｜骨取りさば｜半額）。記事ページにはリッチピン用の
+`article:published_time` 等を入れているので、https://developers.pinterest.com/tools/url-debugger/ で記事URLを1本検証すると
+以降のピンがリッチピン（記事タイトル・更新日つき）になる。
+
+## Instagram（フィード自動投稿・無料）
+
+X に投稿した商品のうち `INSTAGRAM_SLOTS`（既定 noon,night = 1日2件）のものを、ブログ公開後にカード画像で投稿する。
+Threads と同じ Meta 開発者アプリで、自分のアカウントなら審査不要。
+
+1. Instagram アカウントを **プロアカウント（ビジネス or クリエイター）** に切り替える（設定 → アカウントの種類とツール）。
+   プロフィールのリンクにブログURL、自己紹介に「楽天で売れている物を毎日｜PR」。
+2. https://developers.facebook.com/ の既存アプリ（Threads 用）→ 「ユースケースを追加」→ **「Instagram」**（Instagram API with Instagram Login）。
+3. ユースケース → Instagram → 設定 → 権限 `instagram_business_basic` と `instagram_business_content_publish` を追加。
+4. 「アプリの役割」→ Instagram テスターとして自分の Instagram アカウントを追加 → Instagram アプリ側で 設定 → アプリとウェブサイト → テスター招待 を承認。
+5. ユースケース → Instagram → 設定 → **「User Token Generator」** で自分のトークンを生成（60日、ツールが自動更新）。
+6. `python setup_env.py` で `INSTAGRAM_ACCESS_TOKEN` に貼る。GitHub の Secrets にも `INSTAGRAM_ACCESS_TOKEN` を追加。
+7. 次の昼・夜の実行から投稿される。確認: `python main.py instagram --dry-run`。
+
 ## ROOM で買われるための仕組み（売上の主戦場）
 
 X/Threads は「知ってもらう」役、購入が起きるのは ROOM。ROOM のランクS/Aは「投稿から楽天市場へ誘導した人数」で決まり、

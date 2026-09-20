@@ -147,6 +147,12 @@ class Settings:
     # Threads投稿の末尾に貼るリンク。空なら ROOM_URL を使う（ブログにしたいならブログURLを入れる）
     threads_link_url: str = field(default_factory=lambda: _env("THREADS_LINK_URL"))
 
+    instagram_access_token: str = field(default_factory=lambda: _env("INSTAGRAM_ACCESS_TOKEN"))
+    instagram_user_id: str = field(default_factory=lambda: _env("INSTAGRAM_USER_ID"))
+    # Instagram に流す枠（1日1〜2投稿が適正）。カンマ区切り
+    instagram_slots: str = field(default_factory=lambda: _env("INSTAGRAM_SLOTS", "noon,night"))
+    site_url: str = field(default_factory=lambda: _env("SITE_URL"))
+
     anthropic_api_key: str = field(default_factory=lambda: _env("ANTHROPIC_API_KEY"))
 
     posts_per_run: int = field(default_factory=lambda: _env_int("POSTS_PER_RUN", 1))
@@ -162,6 +168,9 @@ class Settings:
 
     def x_ready(self) -> bool:
         return all([self.x_api_key, self.x_api_secret, self.x_access_token, self.x_access_token_secret])
+
+    def instagram_ready(self) -> bool:
+        return bool(self.instagram_access_token) or (DATA_DIR / "instagram_token.json").exists()
 
     def threads_ready(self) -> bool:
         return bool(self.threads_access_token) or (DATA_DIR / "threads_token.json").exists()

@@ -338,7 +338,7 @@ def sidebar(rel: str, popular: list[dict[str, Any]], persona_counts: dict[str, i
 
 def layout(title: str, main_html: str, rel: str, desc: str, canonical: str | None, side_html: str,
            jsonld: list[dict] | None = None, og_type: str = "website", slider_html: str = "",
-           og_image: str = "") -> str:
+           og_image: str = "", extra_head: str = "") -> str:
     base = site_url()
     page_url = (base + canonical) if (base and canonical is not None) else ""
     can = f'<link rel="canonical" href="{esc(page_url)}">' if page_url else ""
@@ -363,7 +363,7 @@ def layout(title: str, main_html: str, rel: str, desc: str, canonical: str | Non
 <title>{esc(title)}</title>
 <meta name="description" content="{esc(desc)}">
 <meta name="robots" content="index,follow,max-image-preview:large">
-{can}{og}{gsc_tag}
+{can}{og}{gsc_tag}{extra_head}
 <link rel="icon" href="{rel}assets/icon.png">
 <link rel="alternate" type="application/rss+xml" title="{esc(SITE_NAME)}" href="{rel}feed.xml">
 {FONT_LINK}
@@ -492,9 +492,13 @@ def build() -> None:
                       "image": [x for x in m["imgs"] if x][:3] or ([f"{base}assets/og.png"] if base else []),
                       "mainEntityOfPage": f"{base}posts/{d}.html" if base else f"posts/{d}.html"}
         first_img = next((x for x in m["imgs"] if x), "")
+        # Pinterest リッチピン（記事）用のメタ情報
+        rich = (f'<meta property="article:published_time" content="{d}T21:00:00+09:00">'
+                f'<meta property="article:modified_time" content="{d}T21:00:00+09:00">'
+                f'<meta property="article:author" content="{esc(BRAND)}"><meta property="article:section" content="楽天 おすすめ">')
         (DOCS / "posts" / f"{d}.html").write_text(
             layout(f"{m['title']}｜{BRAND}", body, "../", m["desc"], f"posts/{d}.html", sidebar("../", popular, persona_counts),
-                   [article_ld, item_list_ld(top, m["title"]), cr_ld], "article", og_image=first_img), encoding="utf-8")
+                   [article_ld, item_list_ld(top, m["title"]), cr_ld], "article", og_image=first_img, extra_head=rich), encoding="utf-8")
         urls.append((f"posts/{d}.html", d))
 
     # ---- 記事一覧 ----
@@ -606,12 +610,13 @@ def build() -> None:
             '<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' +
             "".join(f"<url><loc>{esc(base + u)}</loc><lastmod>{d}</lastmod></url>" for u, d in urls) + "</urlset>", encoding="utf-8")
         (DOCS / "robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {base}sitemap.xml\n", encoding="utf-8")
+        n_cards = 0 if os.environ.get("SKIP_CARDS") else generate_cards(items)
         n_pins = write_pin_feeds(items, by_persona, base)
     else:
         (DOCS / "robots.txt").write_text("User-agent: *\nAllow: /\n", encoding="utf-8")
-        n_pins = 0
+        n_pins = n_cards = 0
 
-    print(f"生成完了: docs/  日別記事 {len(days)} 本、商品 {len(items)} 点、ページ {len(urls) + 1}、Pinterest用フィード {n_pins} 件、URL {base or '(SITE_URL 未設定)'}")
+    print(f"生成完了: docs/  日別記事 {len(days)} 本、商品 {len(items)} 点、ページ {len(urls) + 1}、カード画像 {n_cards} 点、Pinterest用フィード {n_pins} 件、URL {base or '(SITE_URL 未設定)'}")
 
 
 # ---------------------------------------------------------------- Pinterest 自動公開用 RSS
@@ -633,6 +638,56 @@ def _pin_image(url: str) -> str:
     return re.sub(r"\?_ex=\d+x\d+", "", url or "")
 
 
+def _card_url(e: dict[str, Any], base: str) -> str:
+    """生成済みの縦長カード画像（docs/pins/<code>.jpg）があればその公開URL。"""
+    from src.pin_image import safe_name
+    if (DOCS / "pins" / f"{safe_name(e['item_code'])}.jpg").exists():
+        return f"{base}pins/{safe_name(e['item_code'])}.jpg"
+    return ""
+
+
+def generate_cards(items: list[dict[str, Any]], days: int = 7, cap: int = 150) -> int:
+    """最近の商品について、Pinterest 用（2:3）と Instagram 用（4:5）のカード画像を生成する。"""
+    from src.pin_image import make_cards
+    cutoff = (datetime.now() - timedelta(days=days)).isoformat()
+    recent = sorted([e for e in items if e.get("image_url") and e.get("last_seen", "") >= cutoff],
+                    key=lambda x: x.get("last_seen", ""), reverse=True)[:cap]
+    made = 0
+    for e in recent:
+        prod = dict(e)
+        prod["short_name"] = _short_name(e["name"], 36)
+        try:
+            pin, _ = make_cards(prod, DOCS / "pins", DOCS / "ig", BRAND, TAGLINE, deal_of(e))
+            made += 1 if pin else 0
+        except Exception as ex:
+            print(f"  [warn] card {e['item_code']}: {ex}")
+    return made
+
+
+def _event_words(last: dict[str, Any]) -> tuple[str, str]:
+    """直近テーマから (行事名, 種別) を返す。例: ('敬老の日', 'gift')"""
+    ev = (last.get("theme") or "").split(" × ")[0].split("（")[0].strip()
+    return ev, last.get("event_type", "baseline")
+
+
+def pin_title(e: dict[str, Any], last: dict[str, Any]) -> str:
+    """検索される言葉を先頭に置く（Pinterest は画像の検索エンジン）。"""
+    name = _short_name(e["name"], 34)
+    ev, et = _event_words(last)
+    persona = last.get("persona", "all")
+    if et == "gift" and ev:
+        head = f"{ev}のギフトに"
+    elif et == "sale" and ev:
+        head = f"{ev}で買うなら"
+    elif et == "season" and ev:
+        head = ev
+    else:
+        head = f"{PERSONA_SHORT.get(persona, '')}に人気" if persona in PERSONA_SHORT else "楽天で人気"
+    deal = deal_of(e)
+    tail = deal.get("discount") or ("楽天ランキング1位" if deal.get("rank1") else "")
+    return "｜".join(x for x in [head, name, tail] if x)[:100]
+
+
 def pin_item(e: dict[str, Any], base: str) -> str:
     deal = deal_of(e)
     name = _short_name(e["name"], 40)
@@ -640,12 +695,7 @@ def pin_item(e: dict[str, Any], base: str) -> str:
     last = themes[-1] if themes else {}
     persona = last.get("persona", "all")
     link = f"{base}posts/{last['date']}.html" if last.get("date") else f"{base}for/{persona}.html"
-    title_bits = [name]
-    if deal.get("discount"):
-        title_bits.append(deal["discount"])
-    elif deal.get("rank1"):
-        title_bits.append("楽天ランキング1位")
-    title = "｜".join(title_bits)[:100]
+    title = pin_title(e, last)
     memo = memo_of(e)
     pt = e.get("point_rate", 1)
     deal_txt = "、".join(x for x in [
@@ -654,12 +704,19 @@ def pin_item(e: dict[str, Any], base: str) -> str:
         f"ポイント{pt}倍で実質{int(e['price'] * (1 - pt / 100)):,}円" if pt >= 2 else "",
         "送料無料" if deal.get("ship") else "",
     ] if x)
-    desc = (f"{PIN_LEAD.get(persona, PIN_LEAD['all'])}。{name}。"
+    ev, et = _event_words(last)
+    who = PERSONAS[persona].label.split("（")[0] if persona in PERSONAS else "みんな"
+    if et in ("gift", "sale", "season") and ev:
+        first = f"{ev}に向けて、{who}の間で売れている{name}。"
+    else:
+        first = f"{who}に人気の{name}。{PIN_LEAD.get(persona, PIN_LEAD['all'])}。"
+    desc = (first
             + (f"{memo} " if memo else "")
             + f"レビュー{e['review_count']:,}件で★{e['review_average']}。{e['price']:,}円"
             + (f"（{deal_txt}）" if deal_txt else "") + "。"
-            + "楽天で売れている物を毎日まとめています。#楽天 #楽天購入品 #PR")[:480]
-    img = _pin_image(e.get("image_url", ""))
+            + "楽天市場で本当に売れている物だけを、レビュー50件以上・評価4.2以上の基準で毎日まとめています。#楽天購入品 #楽天ROOM #PR")[:480]
+    card = _card_url(e, base)
+    img = card or _pin_image(e.get("image_url", ""))
     return (f"<item><title>{esc(title)}</title><link>{esc(link)}</link><guid isPermaLink=\"false\">{esc(e['item_code'])}</guid>"
             f"<description>{esc(desc)}</description><pubDate>{_rfc822(e.get('last_seen', ''))}</pubDate>"
             f"<enclosure url=\"{esc(img)}\" type=\"image/jpeg\" length=\"0\"/>"

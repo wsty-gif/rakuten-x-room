@@ -233,6 +233,55 @@ def cmd_engage(args, s: Settings):
     save_history(history)
 
 
+def cmd_instagram(args, s: Settings):
+    """今日 X に投稿した商品のうち、指定枠のものを Instagram にフィード投稿する（ブログ公開後に実行）。"""
+    if not s.instagram_ready() and not args.dry_run:
+        print("INSTAGRAM_ACCESS_TOKEN が未設定なので Instagram は飛ばします。")
+        return
+    import os
+    from src.instagram_poster import InstagramPoster, wait_until_public
+    from src.pin_image import safe_name
+    from src.writer import CTA, _short_name, extract_deal
+    base = s.site_url or (f"https://{os.environ.get('GITHUB_REPOSITORY_OWNER', '')}.github.io/" if os.environ.get("GITHUB_REPOSITORY_OWNER") else "")
+    if not base:
+        print("SITE_URL が不明なので Instagram は飛ばします。")
+        return
+    base = base.rstrip("/") + "/"
+    allowed = {x.strip() for x in s.instagram_slots.split(",") if x.strip()}
+    history = load_history()
+    today = datetime.now().strftime("%Y-%m-%d")
+    todo = [h for h in history if (h.get("kind") or "product") == "product" and h.get("date", "")[:10] == today
+            and h.get("slot") in allowed and not h.get("instagram_id") and h.get("item_code")]
+    if not todo:
+        print("Instagram に投稿する対象がありません。")
+        return
+    poster = None if args.dry_run else InstagramPoster(s)
+    for h in todo:
+        img_url = f"{base}ig/{safe_name(h['item_code'])}.jpg"
+        lines = [l for l in h.get("text", "").splitlines() if l.strip() and CTA not in l and not l.startswith("#")]
+        hook = lines[0].replace("#PR", "").strip() if lines else ""
+        name = _short_name(h.get("item_name", ""), 36)
+        body = [hook, "", name]
+        body += [l for l in lines[1:] if l != name][:3]
+        body += ["", "▶ 商品リンクはプロフィールのまとめサイトから", "",
+                 "#PR #楽天購入品 #楽天ROOM #楽天市場 #楽天セール #おすすめ #買ってよかった #購入品紹介"]
+        caption = "\n".join(body).strip()
+        print("\n" + "=" * 50 + f"\n[Instagram] {name}\n画像: {img_url}\n{caption}")
+        if not poster:
+            continue
+        if not wait_until_public(img_url):
+            print("  [warn] 画像がまだ公開されていないため、この商品は次回に回します")
+            continue
+        try:
+            ig_id = poster.post_image(img_url, caption)
+            h["instagram_id"] = ig_id
+            print(f"[Instagram 投稿完了] id={ig_id}")
+        except Exception as e:
+            print(f"  [warn] Instagram 投稿失敗: {e}")
+    if poster:
+        save_history(history)
+
+
 def cmd_genres(args, s: Settings):
     client = MockClient() if args.mock else RakutenClient(s)
     for gid, name in client.genres(0):
@@ -253,17 +302,17 @@ def cmd_report(args, s: Settings):
 
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("cmd", choices=["plan", "run", "engage", "presale", "genres", "report"])
+    ap.add_argument("cmd", choices=["plan", "run", "engage", "presale", "instagram", "genres", "report"])
     ap.add_argument("--force", action="store_true", help="presale: 対象日でなくても実行する")
     ap.add_argument("--slot", choices=["morning", "noon", "night"])
     ap.add_argument("--dry-run", action="store_true", help="Xに投稿せず内容だけ表示")
     ap.add_argument("--mock", action="store_true", help="楽天APIを使わずサンプルデータで動作確認")
     args = ap.parse_args()
     s = Settings()
-    if args.cmd not in ("report", "engage") and not args.mock and not s.rakuten_ready():
+    if args.cmd not in ("report", "engage", "instagram") and not args.mock and not s.rakuten_ready():
         print("RAKUTEN_APP_ID が未設定です。.env を作成してください（.env.example を参照）。--mock で動作確認は可能です。")
         sys.exit(1)
-    {"plan": cmd_plan, "run": cmd_run, "engage": cmd_engage, "presale": cmd_presale,
+    {"plan": cmd_plan, "run": cmd_run, "engage": cmd_engage, "presale": cmd_presale, "instagram": cmd_instagram,
      "genres": cmd_genres, "report": cmd_report}[args.cmd](args, s)
 
 
