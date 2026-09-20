@@ -337,11 +337,12 @@ def sidebar(rel: str, popular: list[dict[str, Any]], persona_counts: dict[str, i
 
 
 def layout(title: str, main_html: str, rel: str, desc: str, canonical: str | None, side_html: str,
-           jsonld: list[dict] | None = None, og_type: str = "website", slider_html: str = "") -> str:
+           jsonld: list[dict] | None = None, og_type: str = "website", slider_html: str = "",
+           og_image: str = "") -> str:
     base = site_url()
     page_url = (base + canonical) if (base and canonical is not None) else ""
     can = f'<link rel="canonical" href="{esc(page_url)}">' if page_url else ""
-    og_img = f"{base}assets/og.png" if base else f"{rel}assets/og.png"
+    og_img = og_image or (f"{base}assets/og.png" if base else f"{rel}assets/og.png")
     og = (f'<meta property="og:type" content="{og_type}"><meta property="og:site_name" content="{esc(SITE_NAME)}">'
           f'<meta property="og:title" content="{esc(title)}"><meta property="og:description" content="{esc(desc)}">'
           f'<meta property="og:image" content="{esc(og_img)}"><meta property="og:locale" content="ja_JP">'
@@ -350,6 +351,9 @@ def layout(title: str, main_html: str, rel: str, desc: str, canonical: str | Non
     ld = "".join(f'<script type="application/ld+json">{json.dumps(j, ensure_ascii=False)}</script>' for j in (jsonld or []))
     gsc = _env("GSC_VERIFICATION") or "iVy8LKuOONJ_5bkE3cqQXanhX1mp5nj-hfd78z7YnZ4"
     gsc_tag = f'<meta name="google-site-verification" content="{esc(gsc)}">' if gsc else ""
+    # Pinterest のウェブサイト認証（HTMLタグ方式）。GitHub の Variables に PINTEREST_VERIFICATION を入れると全ページに入る
+    pin = _env("PINTEREST_VERIFICATION") or "9da569e0e21ab8cecf88656524b65ba1"
+    gsc_tag += f'<meta name="p:domain_verify" content="{esc(pin)}">' if pin else ""
     gnav = "".join(f'<a href="{rel}for/{k}.html">{esc(PERSONA_SHORT[k])}</a>' for k in PERSONAS if k != "all")
     return f"""<!doctype html>
 <html lang="ja">
@@ -487,9 +491,10 @@ def build() -> None:
                       "author": {"@type": "Organization", "name": BRAND}, "publisher": org_ld(),
                       "image": [x for x in m["imgs"] if x][:3] or ([f"{base}assets/og.png"] if base else []),
                       "mainEntityOfPage": f"{base}posts/{d}.html" if base else f"posts/{d}.html"}
+        first_img = next((x for x in m["imgs"] if x), "")
         (DOCS / "posts" / f"{d}.html").write_text(
             layout(f"{m['title']}｜{BRAND}", body, "../", m["desc"], f"posts/{d}.html", sidebar("../", popular, persona_counts),
-                   [article_ld, item_list_ld(top, m["title"]), cr_ld], "article"), encoding="utf-8")
+                   [article_ld, item_list_ld(top, m["title"]), cr_ld], "article", og_image=first_img), encoding="utf-8")
         urls.append((f"posts/{d}.html", d))
 
     # ---- 記事一覧 ----
@@ -601,10 +606,87 @@ def build() -> None:
             '<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' +
             "".join(f"<url><loc>{esc(base + u)}</loc><lastmod>{d}</lastmod></url>" for u, d in urls) + "</urlset>", encoding="utf-8")
         (DOCS / "robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {base}sitemap.xml\n", encoding="utf-8")
+        n_pins = write_pin_feeds(items, by_persona, base)
     else:
         (DOCS / "robots.txt").write_text("User-agent: *\nAllow: /\n", encoding="utf-8")
+        n_pins = 0
 
-    print(f"生成完了: docs/  日別記事 {len(days)} 本、商品 {len(items)} 点、ページ {len(urls) + 1}、URL {base or '(SITE_URL 未設定)'}")
+    print(f"生成完了: docs/  日別記事 {len(days)} 本、商品 {len(items)} 点、ページ {len(urls) + 1}、Pinterest用フィード {n_pins} 件、URL {base or '(SITE_URL 未設定)'}")
+
+
+# ---------------------------------------------------------------- Pinterest 自動公開用 RSS
+PIN_LEAD = {
+    "20s_woman": "自分へのご褒美に", "30s_woman": "毎日の家事をラクに", "mama": "子育て中の家に",
+    "20s_man": "一人暮らしに", "30s_man": "時短と効率化に", "40s_man": "家族みんなで", "all": "迷ったらこれ",
+}
+
+
+def _rfc822(iso: str) -> str:
+    try:
+        return datetime.fromisoformat(iso).strftime("%a, %d %b %Y %H:%M:%S +0900")
+    except Exception:
+        return datetime.now().strftime("%a, %d %b %Y %H:%M:%S +0900")
+
+
+def _pin_image(url: str) -> str:
+    """Rakuten のサムネイルURLから縮小指定を外し、大きい元画像を使う（ピンは大きい画像が有利）。"""
+    return re.sub(r"\?_ex=\d+x\d+", "", url or "")
+
+
+def pin_item(e: dict[str, Any], base: str) -> str:
+    deal = deal_of(e)
+    name = _short_name(e["name"], 40)
+    themes = e.get("themes") or []
+    last = themes[-1] if themes else {}
+    persona = last.get("persona", "all")
+    link = f"{base}posts/{last['date']}.html" if last.get("date") else f"{base}for/{persona}.html"
+    title_bits = [name]
+    if deal.get("discount"):
+        title_bits.append(deal["discount"])
+    elif deal.get("rank1"):
+        title_bits.append("楽天ランキング1位")
+    title = "｜".join(title_bits)[:100]
+    memo = memo_of(e)
+    pt = e.get("point_rate", 1)
+    deal_txt = "、".join(x for x in [
+        deal.get("discount", "") + (f"（{deal['deadline']}）" if deal.get("deadline") and deal.get("discount") else ""),
+        deal.get("deadline", "") if not deal.get("discount") else "",
+        f"ポイント{pt}倍で実質{int(e['price'] * (1 - pt / 100)):,}円" if pt >= 2 else "",
+        "送料無料" if deal.get("ship") else "",
+    ] if x)
+    desc = (f"{PIN_LEAD.get(persona, PIN_LEAD['all'])}。{name}。"
+            + (f"{memo} " if memo else "")
+            + f"レビュー{e['review_count']:,}件で★{e['review_average']}。{e['price']:,}円"
+            + (f"（{deal_txt}）" if deal_txt else "") + "。"
+            + "楽天で売れている物を毎日まとめています。#楽天 #楽天購入品 #PR")[:480]
+    img = _pin_image(e.get("image_url", ""))
+    return (f"<item><title>{esc(title)}</title><link>{esc(link)}</link><guid isPermaLink=\"false\">{esc(e['item_code'])}</guid>"
+            f"<description>{esc(desc)}</description><pubDate>{_rfc822(e.get('last_seen', ''))}</pubDate>"
+            f"<enclosure url=\"{esc(img)}\" type=\"image/jpeg\" length=\"0\"/>"
+            f"<media:content url=\"{esc(img)}\" medium=\"image\"/></item>")
+
+
+def write_pin_feeds(items: list[dict[str, Any]], by_persona: dict[str, dict[str, Any]], base: str, limit: int = 60) -> int:
+    """docs/pin/all.xml と docs/pin/<persona>.xml を出す。Pinterest の「RSSフィードから自動公開」に登録する。"""
+    (DOCS / "pin").mkdir(exist_ok=True)
+    head = ('<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>'
+            f"<title>{esc(SITE_NAME)}</title><link>{esc(base)}</link><language>ja</language>"
+            "<description>楽天で本当に売れている物。レビュー50件以上・評価4.2以上だけ。</description>")
+    tail = "</channel></rss>"
+    total = 0
+
+    def newest(lst):
+        return sorted([e for e in lst if e.get("image_url")], key=lambda x: x.get("last_seen", ""), reverse=True)[:limit]
+
+    all_items = newest(items)
+    (DOCS / "pin" / "all.xml").write_text(head + "".join(pin_item(e, base) for e in all_items) + tail, encoding="utf-8")
+    total += len(all_items)
+    for key in PERSONAS:
+        if key == "all":
+            continue
+        lst = newest(by_persona.get(key, {}).values())
+        (DOCS / "pin" / f"{key}.xml").write_text(head + "".join(pin_item(e, base) for e in lst) + tail, encoding="utf-8")
+    return total
 
 
 if __name__ == "__main__":

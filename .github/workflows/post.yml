@@ -90,6 +90,7 @@ jobs:
           SITE_URL: https://${{ github.repository_owner }}.github.io/
           # Variables でも Secrets でも受け付ける
           GSC_VERIFICATION: ${{ vars.GSC_VERIFICATION || secrets.GSC_VERIFICATION }}
+          PINTEREST_VERIFICATION: ${{ vars.PINTEREST_VERIFICATION || secrets.PINTEREST_VERIFICATION }}
         run: python build_site.py
 
       # ブログは公開リポジトリ <ユーザー名>.github.io に書き出す（このリポジトリは Private のまま）

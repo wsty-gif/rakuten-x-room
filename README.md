@@ -85,6 +85,30 @@ PowerShell で:
 ```
 毎日 7:30 / 12:15 / 20:30 に実行される（時間は ps1 内で変更可）。PCがスリープしていると動かない。
 
+## Pinterest（RSS 自動公開・無料・審査なし）
+
+Pinterest の API は個人向けの Trial だとピンが自分にしか見えず、公開には動画提出つきの審査が要る。
+代わりに Pinterest 公式の「RSSフィードから自動公開」を使う。ブログが商品ごとの RSS を出し、Pinterest が毎日読んでピンを作る。
+
+生成されるフィード（`build_site.py`）:
+- `pin/all.xml` 全商品の新着60件
+- `pin/<persona>.xml` 誰向け別（30s_woman / mama / 20s_woman / 20s_man / 30s_man / 40s_man）
+各 item: タイトル（商品名＋割引 or 1位）、説明（誰向け・特徴・レビュー・実質価格・#PR）、リンク（ブログの日別記事）、画像（楽天の元画像）。
+
+### 設定手順（初回のみ、20分）
+1. Pinterest でビジネスアカウントを作る（無料。既存アカウントの「ビジネスアカウントに切り替え」でも可）。プロフィールのリンクにブログURL。
+2. **ウェブサイトを認証する**: 設定 → 認証済みアカウント（Claimed accounts）→ ウェブサイト → `https://wsty-gif.github.io/` を入力 → **「HTMLタグを追加」** を選び、
+   `<meta name="p:domain_verify" content="XXXX">` の XXXX をコピー。
+3. GitHub の rakuten-x-room → Settings → Secrets and variables → Actions → **Variables** → New repository variable で
+   Name `PINTEREST_VERIFICATION`、Value に XXXX を登録。Actions → Run workflow（dry_run=false）を1回実行してブログを更新。
+4. Pinterest に戻り「認証」を押す。通ると「認証済み」になる。
+5. ボードを作る（例: 「楽天で売れている物」「30代女性に人気」「子育てグッズ」…）。
+6. 設定 → **ピンの一括作成（Bulk create Pins）** → **自動公開（Auto-publish）** → 「RSSフィードをリンク」 に
+   `https://wsty-gif.github.io/pin/all.xml` を入れ、保存先ボードを選ぶ。誰向け別に分けるなら `pin/30s_woman.xml` などを追加（フィードごとに1ボード）。
+7. 24〜48時間後に最初のピンが作られ、以降は毎日自動。1日200件まで。
+
+注意: Pinterest でもアフィリエイト明示が必要。説明文に #PR を入れている。ピンの保存先ページ（ブログ）に広告表記があるので規約上も問題ない。
+
 ## ROOM で買われるための仕組み（売上の主戦場）
 
 X/Threads は「知ってもらう」役、購入が起きるのは ROOM。ROOM のランクS/Aは「投稿から楽天市場へ誘導した人数」で決まり、
