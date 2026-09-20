@@ -4031,23 +4031,30 @@
     "theme": "敬老の日（9日後） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-20",
+    "slot": "night",
+    "theme": "敬老の日（1日後） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "gift"
    }
   ],
   "item_code": "shizennoyakata:10007292",
-  "name": "≪1,000円OFF★楽天スーパーSALE限定クーポン≫ナッツ ミックスナッツ 無塩/有塩 無添加 ラッキーミックスナッツ アーモンド 素焼き 4種 3種 600g 送料無料 くるみ カシューナッツ マカダミアナッツ",
+  "name": "≪19日20時〜300円OFF★まとめ買いクーポン≫ナッツ ミックスナッツ 無塩/有塩 無添加 ラッキーミックスナッツ アーモンド 素焼き 4種 3種 600g 送料無料 くるみ カシューナッツ マカダミアナッツ",
   "price": 1549,
   "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pvlao.72d3y857.g00pvlao.72d3zfef/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshizennoyakata%2Fmixnutsofaphantom-spsale%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshizennoyakata%2Fi%2F10007292%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00pvlao.72d3y857.g00pvlao.72d3zfef/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshizennoyakata%2Fmixnutsofaphantom-spsale%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
-  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/shizennoyakata/cabinet/item_img/saleitem/imgrc0123707823.jpg?_ex=600x600",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/shizennoyakata/cabinet/item_img/saleitem/1549_luckynuts.jpg?_ex=600x600",
   "shop_name": "美味しさは元気の源 【自然の館】",
-  "review_count": 33790,
+  "review_count": 33840,
   "review_average": 4.59,
   "affiliate_rate": 4.0,
   "point_rate": 1,
   "catchcopy": "【楽天年間ランキング2024 スイーツ部門 1位受賞】 送料無料はそのままで配送が早くなりました 厳選4種ナッツを配合 保存に便利なチャック付き袋 ファスティング 業務用 ポスト投函",
   "genre_id": "304705",
-  "score": 18.11,
-  "last_seen": "2026-09-12T08:34:11"
+  "score": 17.71,
+  "last_seen": "2026-09-20T18:55:09"
  },
  "busyman:10000122": {
   "first_seen": "2026-09-09T00:04:04",
@@ -5563,14 +5570,21 @@
     "theme": "敬老の日（2日後） × 30代女性（暮らし・時短・コスパ）",
     "persona": "30s_woman",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-20",
+    "slot": "night",
+    "theme": "敬老の日（1日後） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "gift"
    }
   ],
   "item_code": "marukichi-kayano:10000017",
-  "name": "【新米】令和8年産 北海道産 ゆめぴりか 10kg (5kg×2袋) 白米 米 お米 送料無料 鮮度保持パック変更可",
-  "price": 6580,
+  "name": "【期間限定価格】【新米】令和8年産 北海道産 ゆめぴりか 10kg (5kg×2袋) 白米 米 お米 送料無料 鮮度保持パック変更可",
+  "price": 6380,
   "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00radio.72d3ya46.g00radio.72d3zfdb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmarukichi-kayano%2F10000017%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmarukichi-kayano%2Fi%2F10000017%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00radio.72d3ya46.g00radio.72d3zfdb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmarukichi-kayano%2F10000017%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
-  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/marukichi-kayano/cabinet/yumepirika/img_pirika10kn.jpg?_ex=600x600",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/marukichi-kayano/cabinet/yumepirika/img_pirika10kns1.jpg?_ex=600x600",
   "shop_name": "丸吉 茅野商店 北海道",
   "review_count": 12523,
   "review_average": 4.72,
@@ -5578,8 +5592,8 @@
   "point_rate": 1,
   "catchcopy": "レビュー1.2万件★4.73｜15年連続特A｜甘くてもっちり食感　",
   "genre_id": "201184",
-  "score": 18.66,
-  "last_seen": "2026-09-19T07:48:45"
+  "score": 17.46,
+  "last_seen": "2026-09-20T18:55:09"
  },
  "e-cha:10002295": {
   "first_seen": "2026-09-12T16:21:55",
@@ -6198,6 +6212,13 @@
     "theme": "敬老の日（4日後） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-20",
+    "slot": "night",
+    "theme": "敬老の日（1日後） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "gift"
    }
   ],
   "item_code": "isa:10001664",
@@ -6207,14 +6228,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00psg7o.72d3y9f3.g00psg7o.72d3z6d2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fisa%2F200310%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/isa/cabinet/bnr/p2505nekobudashi_r_m.jpg?_ex=600x600",
   "shop_name": "ACショップ",
-  "review_count": 9958,
+  "review_count": 9960,
   "review_average": 4.68,
   "affiliate_rate": 4.0,
   "point_rate": 1,
   "catchcopy": "梅沢富美男 漬物 おでん うどん テレビショッピング 濃縮 根昆布だし お味噌汁 ギフト ご贈答用 リピーター続出 万能和風だし 万能調味料",
   "genre_id": "410996",
-  "score": 18.19,
-  "last_seen": "2026-09-17T14:23:25"
+  "score": 17.29,
+  "last_seen": "2026-09-20T18:55:09"
  },
  "tenshi-okurimono:10001239": {
   "first_seen": "2026-09-13T16:40:15",
@@ -6405,6 +6426,13 @@
     "theme": "敬老の日（1日後） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-20",
+    "slot": "night",
+    "theme": "敬老の日（1日後） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "gift"
    }
   ],
   "item_code": "sanintoretatehonpo:10001122",
@@ -6414,14 +6442,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00qh9wo.72d3y3c1.g00qh9wo.72d3z5c0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsanintoretatehonpo%2Fmtys-mini-jonama-set%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/sanintoretatehonpo/cabinet/sw/fd/js12s-kr26-sam.jpg?_ex=600x600",
   "shop_name": "パーソナルギフト 風味絶佳.山陰",
-  "review_count": 2939,
+  "review_count": 2940,
   "review_average": 4.67,
   "affiliate_rate": 4.0,
   "point_rate": 1,
   "catchcopy": "敬老の日ギフト 彩り華やか！日本三大菓子処「松江」伝統の味",
   "genre_id": "200104",
-  "score": 17.36,
-  "last_seen": "2026-09-20T08:55:37"
+  "score": 17.56,
+  "last_seen": "2026-09-20T18:55:09"
  },
  "hhh-style:10027488": {
   "first_seen": "2026-09-15T01:56:42",
@@ -6629,6 +6657,13 @@
     "theme": "敬老の日（1日後） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-20",
+    "slot": "night",
+    "theme": "敬老の日（1日後） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "gift"
    }
   ],
   "item_code": "kyusyukome:10000047",
@@ -6644,8 +6679,8 @@
   "point_rate": 1,
   "catchcopy": "お米マイスターが自信を持って配合",
   "genre_id": "201184",
-  "score": 17.73,
-  "last_seen": "2026-09-20T08:55:37"
+  "score": 17.43,
+  "last_seen": "2026-09-20T18:55:09"
  },
  "okashi:10000308": {
   "first_seen": "2026-09-15T17:02:37",
@@ -6777,23 +6812,30 @@
     "theme": "敬老の日（1日後） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-20",
+    "slot": "night",
+    "theme": "敬老の日（1日後） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "gift"
    }
   ],
   "item_code": "maochan:10000047",
-  "name": "敬老の日 まだ間に合う ギフト スイーツ 高級 和栗 モンブラン ケーキ 生羊羹 和栗 栗くり ティラミス 敬老の日 プレゼント 和菓子 おしゃれ 誕生日プレゼント 誕生日ケーキ 記念日 お祝い 出産 内祝い お返し 退職祝い お見舞い お礼 お菓子 送料無料 お取り寄せスイーツ",
+  "name": "敬老の日 ギフト スイーツ 高級 和栗 モンブラン ケーキ 生羊羹 和栗 栗くり ティラミス 敬老の日 プレゼント 和菓子 おしゃれ 誕生日プレゼント 誕生日ケーキ 記念日 お祝い 出産 内祝い お返し 退職祝い お見舞 お礼 お菓子 送料無料 お取り寄せスイーツ ソーシャルギフト",
   "price": 3980,
   "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00u37ho.72d3ycdb.g00u37ho.72d3z9ef/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaochan%2Fmcs-g1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmaochan%2Fi%2F10000047%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00u37ho.72d3ycdb.g00u37ho.72d3z9ef/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaochan%2Fmcs-g1%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/maochan/cabinet/shohin/montblanc/mb_1000.jpg?_ex=600x600",
   "shop_name": "菓匠もりん（morin）",
-  "review_count": 1455,
+  "review_count": 1459,
   "review_average": 4.72,
   "affiliate_rate": 4.0,
   "point_rate": 1,
   "catchcopy": "敬老の日 ギフト 高級 モンブラン ケーキ 誕生日プレゼント 和菓子 内祝い お返し お菓子 吉野本葛を使用し余計な油分をカット!甘さ控えめな和のヘルシーギフト【配送日指定】",
   "genre_id": "201121",
-  "score": 17.55,
-  "last_seen": "2026-09-20T08:55:37"
+  "score": 17.36,
+  "last_seen": "2026-09-20T18:55:09"
  },
  "hamachu:10001014": {
   "first_seen": "2026-09-15T17:02:37",
@@ -7734,6 +7776,13 @@
     "theme": "お買い物マラソン（9月）（1日後） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-09-20",
+    "slot": "night",
+    "theme": "敬老の日（1日後） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "gift"
    }
   ],
   "item_code": "pricon:10000128",
@@ -7749,8 +7798,8 @@
   "point_rate": 3,
   "catchcopy": "「楽天ショップ・オブ・ザ・イヤー2025」医薬品・コンタクト・介護ジャンル大賞店舗！",
   "genre_id": "563999",
-  "score": 18.2,
-  "last_seen": "2026-09-18T23:08:23"
+  "score": 17.4,
+  "last_seen": "2026-09-20T18:55:09"
  },
  "roomy:10015766": {
   "first_seen": "2026-09-18T23:08:23",
@@ -8403,5 +8452,142 @@
   "genre_id": "205198",
   "score": 17.4,
   "last_seen": "2026-09-20T12:40:09"
+ },
+ "giftland-showa:10000006": {
+  "first_seen": "2026-09-20T18:55:09",
+  "themes": [
+   {
+    "date": "2026-09-20",
+    "slot": "night",
+    "theme": "敬老の日（1日後） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "gift"
+   }
+  ],
+  "item_code": "giftland-showa:10000006",
+  "name": "★19日と20日限定！ポイント10倍★ 敬老の日 プレゼント 内祝い ギフト 博多華味鳥 博多のご馳走 9点 お返し 食べ物 グルメ お中元 御中元 出産内祝い 食品 香典返し 結婚内祝い 法事 送料無料 高級 福岡 2500円 年配 高齢者 ご飯のお供 ソーシャルギフト対応",
+  "price": 2740,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tc14o.72d3y4aa.g00tc14o.72d3z611/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgiftland-showa%2F07703-01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgiftland-showa%2Fi%2F10000006%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00tc14o.72d3y4aa.g00tc14o.72d3z611/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgiftland-showa%2F07703-01%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/giftland-showa/cabinet/event/11919624/11919629/07703-01_p10_m.jpg?_ex=600x600",
+  "shop_name": "内祝いのギフトランドショーワ",
+  "review_count": 444,
+  "review_average": 4.62,
+  "affiliate_rate": 4.0,
+  "point_rate": 10,
+  "catchcopy": "出産 出産祝い 結婚祝い 両親 父 母 祖父 祖母 50代 60代 70代 80代 年配 高齢者 一人暮らし 炊き込みご飯の素 雑炊 お茶漬け 誕生日 3000円 お中元 花以外 ランキング 楽天 2025",
+  "genre_id": "566651",
+  "score": 18.23,
+  "last_seen": "2026-09-20T18:55:09",
+  "posted_text": "#PR 外さないプレゼントはこれ\n敬老の日 プレゼント 内祝い ギフト\n★4.62・レビュー444件\n2,740円（P10倍で実質2,466円）\n#楽天購入品\n▶ROOMはプロフから",
+  "posted_at": "2026-09-20T18:55:09"
+ },
+ "matsuya:10000095": {
+  "first_seen": "2026-09-20T18:55:09",
+  "themes": [
+   {
+    "date": "2026-09-20",
+    "slot": "night",
+    "theme": "敬老の日（1日後） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "gift"
+   }
+  ],
+  "item_code": "matsuya:10000095",
+  "name": "S 【300円OFFクーポンで1食200円~！衝撃の最大58％OFF！】 牛めしの具 プレミアム仕様 120g 選択制 大容量リピ確定BOX 松屋 公式 牛めし 牛丼の具 牛肉 肉 まつや 牛丼 食品 業務用 お弁当 非常食 セール 半額 ＜松屋60周年＞",
+  "price": 3280,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pwdgo.72d3ya6b.g00pwdgo.72d3ze2a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmatsuya%2Fus30-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmatsuya%2Fi%2F10000095%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00pwdgo.72d3ya6b.g00pwdgo.72d3ze2a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmatsuya%2Fus30-1%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/matsuya/cabinet/13862562/13892493/13892495/2609mt_sale_thm_300.jpg?_ex=600x600",
+  "shop_name": "松屋フーズ",
+  "review_count": 1892,
+  "review_average": 4.63,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "松屋の牛めし お取り寄せ 牛丼 肉 業務用 時短 冷凍食品 送料無料 惣菜 お弁当 絶品 お取り寄せグルメ お試し 松屋 冷凍 冷凍食品業務用 一人暮らし おかず 仕送り 食事 レンチンご飯",
+  "genre_id": "566683",
+  "score": 17.76,
+  "last_seen": "2026-09-20T18:55:09"
+ },
+ "bokunotamatebakoyafish:10002852": {
+  "first_seen": "2026-09-20T18:55:09",
+  "themes": [
+   {
+    "date": "2026-09-20",
+    "slot": "night",
+    "theme": "敬老の日（1日後） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "gift"
+   }
+  ],
+  "item_code": "bokunotamatebakoyafish:10002852",
+  "name": "【クーポンで半額】 NEWフレーバー登場★ 割れチョコ 訳あり チョコレート 「是非食べ比べて見てください★★★★ 絶対後悔させない!27種類より2個 選べる割れチョコ (200g×2袋)」 送料無料 [ チョコ スイーツ 大浜スイーツアカデミー ] 【予約販売】 お買い物マラソン",
+  "price": 3998,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00svnuo.72d3y1bf.g00svnuo.72d3za1c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbokunotamatebakoyafish%2Fhonki-mode455-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbokunotamatebakoyafish%2Fi%2F10002852%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00svnuo.72d3y1bf.g00svnuo.72d3za1c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbokunotamatebakoyafish%2Fhonki-mode455-2%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/bokunotamatebakoyafish/cabinet/event/0919a/imgrc0135759169.jpg?_ex=600x600",
+  "shop_name": "大浜スイーツアカデミー",
+  "review_count": 3828,
+  "review_average": 4.46,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "訳あり スイーツ 割れチョコ チョコレート 訳あり チョコ チョコレート カカオ チョコ 割れチョコ 割れチョコレート 大浜スイーツアカデミー",
+  "genre_id": "562614",
+  "score": 17.4,
+  "last_seen": "2026-09-20T18:55:09"
+ },
+ "tendofoods:10000086": {
+  "first_seen": "2026-09-20T18:55:09",
+  "themes": [
+   {
+    "date": "2026-09-20",
+    "slot": "night",
+    "theme": "敬老の日（1日後） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "gift"
+   }
+  ],
+  "item_code": "tendofoods:10000086",
+  "name": "お米 米 コメ 10kg 送料無料 令和7年 山形県産 つや姫 10kg(5kg×2) 精米 沖縄・一部離島への配送不可 【キャンセル・着日指定不可】",
+  "price": 5980,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rb9xo.72d3yc53.g00rb9xo.72d3z39b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftendofoods%2Fnew-rice-4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftendofoods%2Fi%2F10000086%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00rb9xo.72d3yc53.g00rb9xo.72d3z39b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftendofoods%2Fnew-rice-4%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/tendofoods/cabinet/rc18_tsu10_s.jpg?_ex=600x600",
+  "shop_name": "てんどうフーズうまいもの通販",
+  "review_count": 4710,
+  "review_average": 4.66,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "ごはんそのものがごちそう！",
+  "genre_id": "201184",
+  "score": 17.24,
+  "last_seen": "2026-09-20T18:55:09"
+ },
+ "qgift:10000004": {
+  "first_seen": "2026-09-20T18:55:09",
+  "themes": [
+   {
+    "date": "2026-09-20",
+    "slot": "night",
+    "theme": "敬老の日（1日後） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "gift"
+   }
+  ],
+  "item_code": "qgift:10000004",
+  "name": "＼期間中ポイント20倍！／ 博多長浜豚骨とんこつ ラーメン 黒浜 6人前 1000円 お取り寄せ グルメ 福岡 ご当地 ラーメン ポイント消化 訳あり 食品 送料無料 ポイント利用",
+  "price": 1000,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00us43o.72d3y191.g00us43o.72d3zd3a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fqgift%2Fkurohama-07np%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fqgift%2Fi%2F10000004%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00us43o.72d3y191.g00us43o.72d3zd3a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fqgift%2Fkurohama-07np%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/qgift/cabinet/item/data/kurohama-07np.jpg?_ex=600x600",
+  "shop_name": "九州からの贈り物 楽天市場店",
+  "review_count": 2281,
+  "review_average": 4.66,
+  "affiliate_rate": 4.0,
+  "point_rate": 20,
+  "catchcopy": "1000円ポッキリ 送料無料 クセのない優しいスープに極細ストレート麺 贅沢 備蓄 非常食 訳あり食品 レトルト",
+  "genre_id": "110487",
+  "score": 17.22,
+  "last_seen": "2026-09-20T18:55:09"
  }
 }
