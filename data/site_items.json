@@ -4052,6 +4052,13 @@
     "theme": "敬老の日（1日後） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-09-21",
+    "slot": "night",
+    "theme": "敬老の日（開催中） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
    }
   ],
   "item_code": "shizennoyakata:10007292",
@@ -4068,7 +4075,7 @@
   "catchcopy": "【楽天年間ランキング2024 スイーツ部門 1位受賞】 送料無料はそのままで配送が早くなりました 厳選4種ナッツを配合 保存に便利なチャック付き袋 ファスティング 業務用 ポスト投函",
   "genre_id": "304705",
   "score": 17.71,
-  "last_seen": "2026-09-20T18:55:09"
+  "last_seen": "2026-09-21T02:09:03"
  },
  "busyman:10000122": {
   "first_seen": "2026-09-09T00:04:04",
@@ -8542,6 +8549,13 @@
     "theme": "お買い物マラソン（9月）（開催中） × 子育て世帯のママ・パパ",
     "persona": "mama",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-09-21",
+    "slot": "night",
+    "theme": "敬老の日（開催中） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
    }
   ],
   "item_code": "matsuya:10000095",
@@ -8557,8 +8571,8 @@
   "point_rate": 1,
   "catchcopy": "松屋の牛めし お取り寄せ 牛丼 肉 業務用 時短 冷凍食品 送料無料 惣菜 お弁当 絶品 お取り寄せグルメ お試し 松屋 冷凍 冷凍食品業務用 一人暮らし おかず 仕送り 食事 レンチンご飯",
   "genre_id": "566683",
-  "score": 16.66,
-  "last_seen": "2026-09-21T01:50:01"
+  "score": 17.46,
+  "last_seen": "2026-09-21T02:09:03"
  },
  "bokunotamatebakoyafish:10002852": {
   "first_seen": "2026-09-20T18:55:09",
@@ -8568,6 +8582,13 @@
     "slot": "night",
     "theme": "敬老の日（1日後） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
+    "event_type": "gift"
+   },
+   {
+    "date": "2026-09-21",
+    "slot": "night",
+    "theme": "敬老の日（開催中） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
     "event_type": "gift"
    }
   ],
@@ -8585,7 +8606,7 @@
   "catchcopy": "訳あり スイーツ 割れチョコ チョコレート 訳あり チョコ チョコレート カカオ チョコ 割れチョコ 割れチョコレート 大浜スイーツアカデミー",
   "genre_id": "562614",
   "score": 17.4,
-  "last_seen": "2026-09-20T18:55:09"
+  "last_seen": "2026-09-21T02:09:03"
  },
  "tendofoods:10000086": {
   "first_seen": "2026-09-20T18:55:09",
@@ -8775,5 +8796,250 @@
   "genre_id": "412209",
   "score": 17.31,
   "last_seen": "2026-09-21T01:50:01"
+ },
+ "masuyone:10000016": {
+  "first_seen": "2026-09-21T02:09:03",
+  "themes": [
+   {
+    "date": "2026-09-21",
+    "slot": "night",
+    "theme": "敬老の日（開催中） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
+   }
+  ],
+  "item_code": "masuyone:10000016",
+  "name": "本日P5倍デー！敬老の日 ギフト 年末受付開始 6100円OFFクーポンで8640円〜送料無料＼2025年一番売れたカニ／ 選べる カニ 福袋最大3kg！メガ盛元祖カット済生ずわい蟹 生棒ポーション 爪肩肉3kg むき身 ズワイガニ カニしゃぶ 贈り物 誕生日 お祝い お歳暮",
+  "price": 14740,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pmn5o.72d3yb12.g00pmn5o.72d3zc7c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmasuyone%2F130007%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmasuyone%2Fi%2F10000016%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00pmn5o.72d3yb12.g00pmn5o.72d3zc7c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmasuyone%2F130007%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/masuyone/cabinet/goods/08472711/750x750.jpg?_ex=600x600",
+  "shop_name": "越前かに問屋「ますよね」",
+  "review_count": 46710,
+  "review_average": 4.32,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "先着500個限定クーポン有！ポイント最大10倍！即日出荷OK！ 【楽天総合1位】2025年上半期ランキング総合4位！夏のカニ ますよね 楽天グルメ大賞カニ部門6度受賞 食いしんぼう祭",
+  "genre_id": "110411",
+  "score": 20.41,
+  "last_seen": "2026-09-21T02:09:03",
+  "posted_text": "#PR 毎年これで喜ばれてます\nギフト 年末受付開始\n★4.32・レビュー46,710件・楽天ランキング1位\n14,740円・送料無料\n#楽天購入品\n▶ROOMはプロフから",
+  "posted_at": "2026-09-21T02:09:03"
+ },
+ "okayama-koubou:10000085": {
+  "first_seen": "2026-09-21T02:09:03",
+  "themes": [
+   {
+    "date": "2026-09-21",
+    "slot": "night",
+    "theme": "敬老の日（開催中） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
+   }
+  ],
+  "item_code": "okayama-koubou:10000085",
+  "name": "2026 ギフト 岡山県産 シャインマスカット 晴王 赤秀品 2房（600g×2 ） 贈答用 御中元 御歳暮 敬老の日 葡萄 ぶどう ブドウ プレゼント 御礼 御祝 御供 果物 くだもの フルーツ 【岡山果物工房】楽天グルメ大賞",
+  "price": 6800,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00sri1o.72d3y0ac.g00sri1o.72d3zf59/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fokayama-koubou%2Fsyain600g-2-01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fokayama-koubou%2Fi%2F10000085%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00sri1o.72d3y0ac.g00sri1o.72d3zf59/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fokayama-koubou%2Fsyain600g-2-01%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/okayama-koubou/cabinet/budou/syain/compass1650597301.jpg?_ex=600x600",
+  "shop_name": "岡山果物工房〜御中元御歳暮ギフト",
+  "review_count": 189,
+  "review_average": 4.71,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "＼ フルーツ ギフト／ 岡山県産 ブランド 晴王 シャインマスカット 特別な人へ向き 贈答用 お中元 ギフト 赤秀品 糖度保証",
+  "genre_id": "304609",
+  "score": 17.4,
+  "last_seen": "2026-09-21T02:09:03"
+ },
+ "yamagoiida:10000142": {
+  "first_seen": "2026-09-21T02:09:03",
+  "themes": [
+   {
+    "date": "2026-09-21",
+    "slot": "night",
+    "theme": "敬老の日（開催中） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
+   }
+  ],
+  "item_code": "yamagoiida:10000142",
+  "name": "【26日正午まで半額！9,980円→4,990円】〈無塩〉骨取り紅さけ（選べる1kg・2kg）｜訳あり 骨なし ロシア産 天然 鮭 厚切り 切身 冷凍 ストック 業務用 食品 離乳食 お弁当 プロテイン アスタキサンチン 一部地域除き 送料無料",
+  "price": 4990,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tqd5o.72d3y629.g00tqd5o.72d3z50c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamagoiida%2F10000116%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyamagoiida%2Fi%2F10000142%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00tqd5o.72d3y629.g00tqd5o.72d3z50c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamagoiida%2F10000116%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/yamagoiida/cabinet/12604244/12667664/12667667/sake_thum_mu04.jpg?_ex=600x600",
+  "shop_name": "骨取り魚の飯田商店",
+  "review_count": 677,
+  "review_average": 4.65,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "【紅さけの美味しさを食卓へ】天然紅さけならではの香り高さとしっかりした食感！無塩製法で原材料はロシア産天然紅さけのみ！",
+  "genre_id": "207774",
+  "score": 17.15,
+  "last_seen": "2026-09-21T02:09:03"
+ },
+ "ume-marucho:10000663": {
+  "first_seen": "2026-09-21T02:09:03",
+  "themes": [
+   {
+    "date": "2026-09-21",
+    "slot": "night",
+    "theme": "敬老の日（開催中） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
+   }
+  ],
+  "item_code": "ume-marucho:10000663",
+  "name": "☆今なら必ずクーポンで20%☆訳あり無選別(皮厚め)みかん蜂蜜梅1.6kg(800g×2個)(約60粒〜100粒程)塩分約5%　送料無料 食品　梅干し　紀州南高梅　はちみつ梅【 南高梅 わけあり　バニリン 】",
+  "price": 6480,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rue4o.72d3y6ea.g00rue4o.72d3ze08/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fume-marucho%2F1237%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fume-marucho%2Fi%2F10000663%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00rue4o.72d3y6ea.g00rue4o.72d3ze08/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fume-marucho%2F1237%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/ume-marucho/cabinet/shohin_image/imgrc0114195977.jpg?_ex=600x600",
+  "shop_name": "紀州のおいしい梅干し屋さん梅美膳",
+  "review_count": 487,
+  "review_average": 4.84,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "通算9度の楽天グルメ大賞受賞品の無選別(皮厚め)タイプの商品です。 多少のキズや大きさの不揃い、梅の皮が厚い分、かなりお買い得となっております。",
+  "genre_id": "204861",
+  "score": 17.0,
+  "last_seen": "2026-09-21T02:09:03"
+ },
+ "lindt-chocolate:10002111": {
+  "first_seen": "2026-09-21T02:09:03",
+  "themes": [
+   {
+    "date": "2026-09-21",
+    "slot": "night",
+    "theme": "敬老の日（開催中） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
+   }
+  ],
+  "item_code": "lindt-chocolate:10002111",
+  "name": "エントリーでポイント10倍／≪クーポンご利用で50％OFF≫リンツ クリアランスバッグ 500g",
+  "price": 7200,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00sjjgo.72d3yd4a.g00sjjgo.72d3zd65/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flindt-chocolate%2Fclearance_l%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flindt-chocolate%2Fi%2F10002111%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00sjjgo.72d3yd4a.g00sjjgo.72d3zd65/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flindt-chocolate%2Fclearance_l%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/lindt-chocolate/cabinet/9701731_2609_1r.jpg?_ex=600x600",
+  "shop_name": "リンツ チョコレート 楽天市場店",
+  "review_count": 922,
+  "review_average": 4.5,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "",
+  "genre_id": "201146",
+  "score": 17.0,
+  "last_seen": "2026-09-21T02:09:03"
+ },
+ "kasyou-morin:10000394": {
+  "first_seen": "2026-09-21T02:09:03",
+  "themes": [
+   {
+    "date": "2026-09-21",
+    "slot": "night",
+    "theme": "敬老の日（開催中） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
+   }
+  ],
+  "item_code": "kasyou-morin:10000394",
+  "name": "敬老の日 プレゼント 残暑見舞い ギフト スイーツ お菓子 送料無料 おしゃれ 高級 誕生日プレゼント 凛菓 ティラミス 詰め合わせ 抹茶スイーツ ほうじ茶 栗 黒胡麻 ケーキ 和菓子 瓶 お取り寄せスイーツ 人気 ランキング 誕生日スイーツ 出産 内祝い お返し お礼 贈り物",
+  "price": 3580,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rrzlo.72d3y039.g00rrzlo.72d3ze75/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkasyou-morin%2Ftiramisu-6%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkasyou-morin%2Fi%2F10000394%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00rrzlo.72d3y039.g00rrzlo.72d3ze75/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkasyou-morin%2Ftiramisu-6%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/kasyou-morin/cabinet/06855486/07563144/09185954/rinka-thum46812.jpg?_ex=600x600",
+  "shop_name": "Morin（もりん）",
+  "review_count": 1234,
+  "review_average": 4.65,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "敬老の日 スイーツ ギフト お菓子 高級 おしゃれ ティラミス 抹茶スイーツ 誕生日プレゼント ケーキ 和菓子 菓子折り 出産 内祝い お返し お礼 退職祝い 4000円 3000円【配送日指定】",
+  "genre_id": "204403",
+  "score": 16.54,
+  "last_seen": "2026-09-21T02:09:03"
+ },
+ "bokunotamatebakoya:10002400": {
+  "first_seen": "2026-09-21T02:09:03",
+  "themes": [
+   {
+    "date": "2026-09-21",
+    "slot": "night",
+    "theme": "敬老の日（開催中） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
+   }
+  ],
+  "item_code": "bokunotamatebakoya:10002400",
+  "name": "【クーポンで半額・50%OFF】 チョコレート スイーツ「 贅沢ハイカカオはじめ 4種から選べる アーモンドチョコ 大容量 400g (ハイカカオ / ミルク / ダーク /ホワイト)」 送料無料 [ 無選別 ハイカカオ ハイビター アーモンド ] 【予約販売】 お買い物マラソン セール",
+  "price": 3500,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tnjco.72d3y614.g00tnjco.72d3z8a0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbokunotamatebakoya%2Fa1004683%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbokunotamatebakoya%2Fi%2F10002400%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00tnjco.72d3y614.g00tnjco.72d3z8a0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbokunotamatebakoya%2Fa1004683%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/bokunotamatebakoya/cabinet/event/0919a/imgrc0192664720.jpg?_ex=600x600",
+  "shop_name": "ぼくの玉手箱屋ー",
+  "review_count": 2594,
+  "review_average": 4.43,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "アーモンド チョコ ビター カカオ70%以上 アーモンド チョコ スイーツ チョコレート ビターチョコレート ビターチョコ",
+  "genre_id": "207821",
+  "score": 16.46,
+  "last_seen": "2026-09-21T02:09:03"
+ },
+ "kanidokoro:10001911": {
+  "first_seen": "2026-09-21T02:09:03",
+  "themes": [
+   {
+    "date": "2026-09-21",
+    "slot": "night",
+    "theme": "敬老の日（開催中） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
+   }
+  ],
+  "item_code": "kanidokoro:10001911",
+  "name": "【ポイント最大7倍！】お正月 2027年 お節料理 盛付済み 冷蔵 | 6寸三段 和風おせち 35品目 約3人前 東京「銀座 田中屋」監修おせち 彩幸 【冷蔵おせち お節 御節】【9/24 1:59迄エントリーで！】",
+  "price": 8888,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rf0to.72d3ybd3.g00rf0to.72d3ze03/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkanidokoro%2F702%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkanidokoro%2Fi%2F10001911%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00rf0to.72d3ybd3.g00rf0to.72d3ze03/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkanidokoro%2F702%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/kanidokoro/cabinet/702/702_r-26thum_8888.jpg?_ex=600x600",
+  "shop_name": "海鮮かに処",
+  "review_count": 1431,
+  "review_average": 4.54,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "今年もランキング入賞の人気おせち！手に取りやすい価格でありながらも海老・いくら・ローストビーフなどの高級食材や定番の伊達巻きや黒豆もたっぷり盛り込んだ大変お得なおせち",
+  "genre_id": "410890",
+  "score": 16.4,
+  "last_seen": "2026-09-21T02:09:03"
+ },
+ "imagi:10000084": {
+  "first_seen": "2026-09-21T02:09:03",
+  "themes": [
+   {
+    "date": "2026-09-21",
+    "slot": "night",
+    "theme": "敬老の日（開催中） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "gift"
+   }
+  ],
+  "item_code": "imagi:10000084",
+  "name": "新米入荷 新潟県産 こしいぶき 10kg(5kg×2袋) 令和8年産 米 【送料無料】(北海道、九州、沖縄除く)",
+  "price": 5650,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pjpfo.72d3y6f4.g00pjpfo.72d3z161/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fimagi%2Fkoshiibuki-10%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fimagi%2Fi%2F10000084%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00pjpfo.72d3y6f4.g00pjpfo.72d3z161/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fimagi%2Fkoshiibuki-10%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/imagi/cabinet/item01/04/002/r8_ibuki_10kg_s.jpg?_ex=600x600",
+  "shop_name": "お米プラザ新潟［楽天市場店］",
+  "review_count": 1222,
+  "review_average": 4.64,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "新潟産こしひかりに迫る人気！〜当店太鼓判のお薦め銘柄〜",
+  "genre_id": "201184",
+  "score": 16.4,
+  "last_seen": "2026-09-21T02:09:03"
  }
 }
