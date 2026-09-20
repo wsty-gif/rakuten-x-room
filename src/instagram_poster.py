@@ -91,6 +91,76 @@ class InstagramPoster:
         return str(r.json()["id"])
 
 
+PERSONA_TAGS = {
+    "20s_woman": ["#プチプラ", "#自分磨き", "#購入品紹介"],
+    "30s_woman": ["#時短家事", "#暮らしを整える", "#主婦の味方"],
+    "mama": ["#子育てグッズ", "#ママの味方", "#育児便利グッズ"],
+    "20s_man": ["#一人暮らし", "#ガジェット", "#QOL向上"],
+    "30s_man": ["#時短", "#効率化", "#家電"],
+    "40s_man": ["#おうち時間", "#晩酌", "#家族時間"],
+}
+EVENT_TAGS = {
+    "sale": ["#楽天セール", "#お買い物マラソン", "#楽天スーパーセール"],
+    "gift": ["#ギフト", "#プレゼント選び", "#贈り物"],
+    "season": ["#季節の準備", "#暮らしの知恵"],
+    "baseline": ["#買ってよかった", "#リピ買い"],
+}
+BASE_TAGS = ["#PR", "#楽天購入品", "#楽天ROOM", "#楽天市場", "#楽天でお買い物", "#おすすめ商品"]
+
+
+def build_caption(entry: dict, item: dict | None, hook: str, features: list[str]) -> str:
+    """Instagram のキャプション。1行目は人の言葉、続いて縦線の箇条書き、保存を促す一言、リンク案内、タグ12〜15個。"""
+    from .writer import _short_name, extract_deal
+
+    name = _short_name(entry.get("item_name") or (item or {}).get("name", ""), 36)
+    price = int(entry.get("price") or (item or {}).get("price") or 0)
+    ra = (item or {}).get("review_average", 0)
+    rc = int((item or {}).get("review_count", 0) or 0)
+    pt = int((item or {}).get("point_rate", 1) or 1)
+    deal: dict = {}
+    if item:
+        class P:
+            name = item["name"]; catchcopy = item.get("catchcopy", ""); price = item["price"]; point_rate = pt
+        deal = extract_deal(P())  # type: ignore[arg-type]
+
+    lines = [f"{hook}", "", f"▶ {name}"]
+    facts = []
+    if rc:
+        facts.append(f"★{ra}（{rc:,}件のレビュー）")
+    if price:
+        p = f"{price:,}円"
+        if pt >= 2:
+            p += f" → ポイント{pt}倍で実質{int(price * (1 - pt / 100)):,}円"
+        facts.append(p)
+    if deal.get("discount") or deal.get("deadline"):
+        facts.append(" ".join(x for x in [deal.get("discount", ""), deal.get("deadline", "")] if x))
+    if deal.get("ship"):
+        facts.append("送料無料")
+    for f in features[:2]:
+        facts.append(f)
+    for i, f in enumerate(facts):
+        lines.append(("└ " if i == len(facts) - 1 else "├ ") + f)
+
+    persona = entry.get("persona", "all")
+    who = {"20s_woman": "20代女性", "30s_woman": "30代女性", "mama": "子育て中の家", "20s_man": "一人暮らしの男性",
+           "30s_man": "30代男性", "40s_man": "40代男性"}.get(persona, "")
+    lines += ["", (f"{who}の間で今よく買われている物です。" if who else "今よく買われている物です。") + "レビューの多い順に、評価4.2以上だけを毎日選んでいます。",
+              "", "🔖 保存しておくとセールのときに探しやすいです", "▶ 商品リンクはプロフィールのまとめサイトから", ""]
+
+    theme = entry.get("theme", "")
+    et = "sale" if "SALE" in theme or "マラソン" in theme or "感謝祭" in theme or "フライデー" in theme else \
+         "gift" if any(k in theme for k in ("敬老", "クリスマス", "母の日", "父の日", "バレンタイン", "プレゼント")) else \
+         "season" if any(k in theme for k in ("衣替え", "寒さ", "ハロウィン", "花粉", "猛暑", "新生活", "正月")) else "baseline"
+    tags = BASE_TAGS + EVENT_TAGS.get(et, []) + PERSONA_TAGS.get(persona, []) + ["#買い物メモ", "#お得情報"]
+    seen, uniq = set(), []
+    for t in tags:
+        if t not in seen:
+            seen.add(t)
+            uniq.append(t)
+    lines.append(" ".join(uniq[:15]))
+    return "\n".join(lines)[:2200]
+
+
 def wait_until_public(url: str, timeout_sec: int = 240) -> bool:
     """GitHub Pages への反映を待つ（画像が 200 を返すまで）。"""
     deadline = time.time() + timeout_sec

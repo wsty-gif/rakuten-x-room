@@ -55,6 +55,8 @@ def _features(caption: str, name: str, max_n: int = 2) -> list[str]:
             continue
         if PROMO.search(p) or EFFECT.search(p) or BOILER.search(p) or any(w in p for w in NG_WORDS):
             continue
+        if p.count(" ") >= 4:  # 検索用の単語列（「ギフト 高級 モンブラン ケーキ …」）は文章ではない
+            continue
         if re.search(r"\d{2,}", p) and not re.search(r"(cm|mm|ml|g|kg|枚|個|本|袋|人|年|畳|色|種|切|尾|玉)", p):
             continue  # 意味の分からない数字列は避ける
         cue = sum(1 for c in CUES if c in p)

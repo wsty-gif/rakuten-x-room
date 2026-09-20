@@ -229,14 +229,23 @@ def stars(avg: float) -> str:
     return "★" * full + "☆" * (5 - full)
 
 
+def _is_keyword_list(text: str) -> bool:
+    """「牛丼 肉 業務用 時短 冷凍食品 …」のような検索用の単語列かどうか。"""
+    toks = text.split(" ")
+    return len(toks) >= 6 and sum(len(t) for t in toks) / len(toks) <= 5 and "。" not in text and "、" not in text
+
+
 def memo_of(e: dict[str, Any]) -> str:
-    if e.get("posted_text"):
-        lines = [l for l in e["posted_text"].splitlines() if l.strip() and not l.startswith("#") and "ROOMはプロフ" not in l]
-        cand = [l for l in lines[1:] if not any(ch.isdigit() for ch in l[:2])] or lines[:1]
-        return cand[0] if cand else ""
+    """商品の「一言」。商品説明文から拾った特徴 → キャッチコピー（文章のものだけ）の順。"""
+    from src.room_comment import _features
+    feats = _features(e.get("caption", ""), e.get("name", ""), max_n=2)
+    if feats:
+        return "。".join(feats)[:80]
     cc = re.sub(r"[＼／\\/★☆【】\[\]｢｣「」]+", " ", e.get("catchcopy") or "")
     cc = re.sub(r"\s+", " ", cc).strip()
-    if any(w in cc for w in NG_WORDS + ["消える", "改善", "効く", "効果"]):
+    if not cc or _is_keyword_list(cc) or cc.count(" ") >= 4 or any(w in cc for w in NG_WORDS + ["消える", "改善", "効く", "効果"]):
+        return ""
+    if re.search(r"(OFF|％|%|クーポン|ポイント|送料|円|まで|限定|SALE|セール|楽天|店|ショップ|大賞|受賞|No\.?1|1位|ランキング)", cc):
         return ""
     return cc[:70] if len(cc) >= 6 else ""
 
@@ -646,6 +655,26 @@ def _card_url(e: dict[str, Any], base: str) -> str:
     return ""
 
 
+def card_hook(e: dict[str, Any]) -> str:
+    """カードの見出し（人の言葉）。X投稿文の1行目があればそれ、無ければ行事・誰向けから作る。"""
+    if e.get("posted_text"):
+        first = e["posted_text"].splitlines()[0].replace("#PR", "").strip()
+        if 6 <= len(first) <= 28:
+            return first
+    themes = e.get("themes") or []
+    last = themes[-1] if themes else {}
+    ev, et = _event_words(last)
+    persona = last.get("persona", "all")
+    who = PERSONA_SHORT.get(persona, "")
+    if et == "gift" and ev:
+        return f"{ev}、まだ決めてない人へ"
+    if et == "sale" and ev:
+        return f"{ev}で買っておきたい一品"
+    if et == "season" and ev:
+        return f"{ev}の準備、これから"
+    return f"{who}が今買っているもの" if who else "レビュー件数が答えのやつ"
+
+
 def generate_cards(items: list[dict[str, Any]], days: int = 7, cap: int = 150) -> int:
     """最近の商品について、Pinterest 用（2:3）と Instagram 用（4:5）のカード画像を生成する。"""
     from src.pin_image import make_cards
@@ -656,6 +685,8 @@ def generate_cards(items: list[dict[str, Any]], days: int = 7, cap: int = 150) -
     for e in recent:
         prod = dict(e)
         prod["short_name"] = _short_name(e["name"], 36)
+        prod["hook"] = card_hook(e)
+        prod["memo"] = memo_of(e)
         try:
             pin, _ = make_cards(prod, DOCS / "pins", DOCS / "ig", BRAND, TAGLINE, deal_of(e))
             made += 1 if pin else 0

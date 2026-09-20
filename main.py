@@ -256,16 +256,18 @@ def cmd_instagram(args, s: Settings):
         print("Instagram に投稿する対象がありません。")
         return
     poster = None if args.dry_run else InstagramPoster(s)
+    from src.instagram_poster import build_caption
+    from src.room_comment import _features
+    from src.site_store import load_site_items
+    store = load_site_items()
     for h in todo:
         img_url = f"{base}ig/{safe_name(h['item_code'])}.jpg"
-        lines = [l for l in h.get("text", "").splitlines() if l.strip() and CTA not in l and not l.startswith("#")]
-        hook = lines[0].replace("#PR", "").strip() if lines else ""
+        item = store.get(h["item_code"])
+        first = h.get("text", "").splitlines()[0].replace("#PR", "").strip() if h.get("text") else ""
+        hook = first if 6 <= len(first) <= 30 else "レビュー件数が答えのやつ"
+        feats = _features(item.get("caption", ""), item.get("name", "")) if item else []
+        caption = build_caption(h, item, hook, feats)
         name = _short_name(h.get("item_name", ""), 36)
-        body = [hook, "", name]
-        body += [l for l in lines[1:] if l != name][:3]
-        body += ["", "▶ 商品リンクはプロフィールのまとめサイトから", "",
-                 "#PR #楽天購入品 #楽天ROOM #楽天市場 #楽天セール #おすすめ #買ってよかった #購入品紹介"]
-        caption = "\n".join(body).strip()
         print("\n" + "=" * 50 + f"\n[Instagram] {name}\n画像: {img_url}\n{caption}")
         if not poster:
             continue
