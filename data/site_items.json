@@ -1149,6 +1149,13 @@
     "theme": "楽天スーパーSALE（9月）（開催中） × 子育て世帯のママ・パパ",
     "persona": "mama",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-09-23",
+    "slot": "morning",
+    "theme": "お買い物マラソン（9月）（開催中） × 子育て世帯のママ・パパ",
+    "persona": "mama",
+    "event_type": "sale"
    }
   ],
   "item_code": "kurashikenkou:10225492",
@@ -1158,14 +1165,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00qhoao.72d3y8c9.g00qhoao.72d3zd3f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F1925663%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/kurashikenkou/cabinet/jisyakura2/1925663_.jpg?_ex=600x600",
   "shop_name": "暮らし健康ネット館",
-  "review_count": 1848,
+  "review_count": 2022,
   "review_average": 4.64,
   "affiliate_rate": 4.0,
   "point_rate": 1,
   "catchcopy": "オムツ M 150枚 L 126枚 ビッグ 108枚 ビッグより大きい 72枚 パンツ ふわもちタッチ 肌に優しい 横モレ 最長12h さらさら おむつ 紙おむつ Genki 3個セット アイリスオーヤマ",
   "genre_id": "205198",
-  "score": 19.57,
-  "last_seen": "2026-09-11T08:26:37"
+  "score": 19.73,
+  "last_seen": "2026-09-23T08:01:00"
  },
  "netbaby:10028658": {
   "first_seen": "2026-09-06T03:50:26",
@@ -7624,6 +7631,13 @@
     "theme": "お買い物マラソン（9月）（1日後） × 子育て世帯のママ・パパ",
     "persona": "mama",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-09-23",
+    "slot": "morning",
+    "theme": "お買い物マラソン（9月）（開催中） × 子育て世帯のママ・パパ",
+    "persona": "mama",
+    "event_type": "sale"
    }
   ],
   "item_code": "naturavie:10000289",
@@ -7633,14 +7647,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00qwzfo.72d3y30c.g00qwzfo.72d3z74d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnaturavie%2F4530025008096%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/naturavie/cabinet/12615797/13475514/13476426/imgrc0126757209.jpg?_ex=600x600",
   "shop_name": "ママ＆キッズ　楽天市場店",
-  "review_count": 3778,
+  "review_count": 3781,
   "review_average": 4.77,
   "affiliate_rate": 4.0,
   "point_rate": 1,
   "catchcopy": "ベビーの毎日の全身ケアにべたつかない乳状ローション",
   "genre_id": "205205",
-  "score": 17.63,
-  "last_seen": "2026-09-18T07:16:03"
+  "score": 17.93,
+  "last_seen": "2026-09-23T08:01:00"
  },
  "sanho-store:10000068": {
   "first_seen": "2026-09-18T07:16:03",
@@ -7658,6 +7672,13 @@
     "theme": "お買い物マラソン（9月）（開催中） × 子育て世帯のママ・パパ",
     "persona": "mama",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-09-23",
+    "slot": "morning",
+    "theme": "お買い物マラソン（9月）（開催中） × 子育て世帯のママ・パパ",
+    "persona": "mama",
+    "event_type": "sale"
    }
   ],
   "item_code": "sanho-store:10000068",
@@ -7667,14 +7688,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00ss1uo.72d3y556.g00ss1uo.72d3z78c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsanho-store%2Fgiopillow%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/sanho-store/cabinet/cart/giopillow_cart.jpg?_ex=600x600",
   "shop_name": "三豊ストア",
-  "review_count": 11211,
+  "review_count": 11299,
   "review_average": 4.5,
   "affiliate_rate": 4.0,
-  "point_rate": 2,
+  "point_rate": 1,
   "catchcopy": "ヘルメットメーカー開発 楽天1位 ベビー枕 ジオピロー 新生児 ベビーまくら 絶壁頭 防止 マクラ 北欧 かわいい 赤ちゃん枕 子供用枕 子供 子ども 予防 子育て ドーナツ型 ベビー寝具 育児",
   "genre_id": "207730",
-  "score": 16.67,
-  "last_seen": "2026-09-21T01:50:01"
+  "score": 16.73,
+  "last_seen": "2026-09-23T08:01:00"
  },
  "baby-alice:10006664": {
   "first_seen": "2026-09-18T07:16:03",
@@ -9717,5 +9738,250 @@
   "genre_id": "204697",
   "score": 16.04,
   "last_seen": "2026-09-22T21:23:53"
+ },
+ "netbaby:10051424": {
+  "first_seen": "2026-09-23T08:01:00",
+  "themes": [
+   {
+    "date": "2026-09-23",
+    "slot": "morning",
+    "theme": "お買い物マラソン（9月）（開催中） × 子育て世帯のママ・パパ",
+    "persona": "mama",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "netbaby:10051424",
+  "name": "パンパース 肌へのいちばん オムツ パンツ(4袋入)【パンパース】",
+  "price": 8959,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pzd4o.72d3yfe6.g00pzd4o.72d3zc1c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetbaby%2F406536%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnetbaby%2Fi%2F10051424%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00pzd4o.72d3yfe6.g00pzd4o.72d3zc1c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetbaby%2F406536%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/netbaby/cabinet/536/406536.jpg?_ex=600x600",
+  "shop_name": "楽天24 ベビー館",
+  "review_count": 481,
+  "review_average": 4.86,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "パンパース / パンパース 肌へのいちばん オムツ パンツ",
+  "genre_id": "205198",
+  "score": 21.55,
+  "last_seen": "2026-09-23T08:01:00",
+  "posted_text": "#PR 子どもがいる家、結局これでした\nパンパース 肌へのいちばん オムツ パンツ\n★4.86・レビュー481件\n8,959円\n使ってる人いたら感想ください\n#お買い物マラソン\n▶ROOMはプロフから",
+  "posted_at": "2026-09-23T08:01:00"
+ },
+ "netbaby:10037814": {
+  "first_seen": "2026-09-23T08:01:00",
+  "themes": [
+   {
+    "date": "2026-09-23",
+    "slot": "morning",
+    "theme": "お買い物マラソン（9月）（開催中） × 子育て世帯のママ・パパ",
+    "persona": "mama",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "netbaby:10037814",
+  "name": "【1種類を選べる】ムーニーマン パンツ 男女 L・BIGサイズ 大容量(4袋セット)【ムーニーマン】",
+  "price": 9196,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pzd4o.72d3yfe6.g00pzd4o.72d3zc1c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetbaby%2F404937%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnetbaby%2Fi%2F10037814%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00pzd4o.72d3yfe6.g00pzd4o.72d3zc1c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetbaby%2F404937%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/netbaby/cabinet/937/404937.jpg?_ex=600x600",
+  "shop_name": "楽天24 ベビー館",
+  "review_count": 1500,
+  "review_average": 4.73,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "ムーニーマン / ムーニーマン パンツ 男女 L・BIGサイズ 大容量",
+  "genre_id": "205198",
+  "score": 21.3,
+  "last_seen": "2026-09-23T08:01:00"
+ },
+ "babycareshop:10000000": {
+  "first_seen": "2026-09-23T08:01:00",
+  "themes": [
+   {
+    "date": "2026-09-23",
+    "slot": "morning",
+    "theme": "お買い物マラソン（9月）（開催中） × 子育て世帯のママ・パパ",
+    "persona": "mama",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "babycareshop:10000000",
+  "name": "★マラソン中最大20％OFFクーポン★楽天1位 30冠★おしりふき 80枚×12パック 厚手で水分たっぷりのおしりふき 厚手 おしりふき 大判 厚手 手口ふき ウェットティッシュ 新生児 おしりふき 水99.9 おしりふき ふた付き タオル並み【Bc Babycare】",
+  "price": 4350,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00ujcfo.72d3y457.g00ujcfo.72d3za08/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbabycareshop%2Fbc20230001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbabycareshop%2Fi%2F10000000%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00ujcfo.72d3y457.g00ujcfo.72d3za08/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbabycareshop%2Fbc20230001%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/babycareshop/cabinet/item/babywipes/imgrc0118558245.jpg?_ex=600x600",
+  "shop_name": "Babycare楽天市場店",
+  "review_count": 1489,
+  "review_average": 4.8,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "【日本正規輸入代理店】おしりふき 厚手 おしりふき 大判 厚手 手口ふき ウェットティッシュ 新生児 おしりふき 水99.9 おしりふき ふた付き タオル並み",
+  "genre_id": "205194",
+  "score": 20.61,
+  "last_seen": "2026-09-23T08:01:00"
+ },
+ "vancljapan:10003204": {
+  "first_seen": "2026-09-23T08:01:00",
+  "themes": [
+   {
+    "date": "2026-09-23",
+    "slot": "morning",
+    "theme": "お買い物マラソン（9月）（開催中） × 子育て世帯のママ・パパ",
+    "persona": "mama",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "vancljapan:10003204",
+  "name": "【400円クーポン！累計66,340台突破！】三輪車 BTM 折りたたみ 手押し棒付き 安全ストッパー かじとり サンシェード 三輪車カバー 軽量 おしゃれ 自転車 バランスバイク キックバイク 9in1 赤ちゃん 誕生日 プレゼント ギフト箱入り 6ヶ月~6歳まで【2年保証】",
+  "price": 8580,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rgalo.72d3y7cd.g00rgalo.72d3z738/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvancljapan%2Fms295496%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fvancljapan%2Fi%2F10003204%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00rgalo.72d3y7cd.g00rgalo.72d3z738/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvancljapan%2Fms295496%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/vancljapan/cabinet/sale/05136602/12624933/n510p253593-2609.jpg?_ex=600x600",
+  "shop_name": "CoCo-Shopping",
+  "review_count": 3570,
+  "review_average": 4.58,
+  "affiliate_rate": 3.0,
+  "point_rate": 5,
+  "catchcopy": "【おもちゃ部門1位】送料無料 組み立て簡単 長く使える 買い替え不要 9in1変形 キッズバイク 5点式ハーネス 1歳 2歳 3歳 子供 お祝い 公園遊び 保育園準備に最適 出産お祝い 室内OK",
+  "genre_id": "101201",
+  "score": 17.82,
+  "last_seen": "2026-09-23T08:01:00"
+ },
+ "lecdirect:10001752": {
+  "first_seen": "2026-09-23T08:01:00",
+  "themes": [
+   {
+    "date": "2026-09-23",
+    "slot": "morning",
+    "theme": "お買い物マラソン（9月）（開催中） × 子育て世帯のママ・パパ",
+    "persona": "mama",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "lecdirect:10001752",
+  "name": "ウェットティッシュ 水99.9％ ウエットシート 手口ふき まとめ買い 80枚×15個【1,200枚】【肌にやさしい】 レック ダイレクト",
+  "price": 2390,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pv4jo.72d3y43c.g00pv4jo.72d3z4a1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flecdirect%2Fe242_999tekuchi15p%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flecdirect%2Fi%2F10001752%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00pv4jo.72d3y43c.g00pv4jo.72d3z4a1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flecdirect%2Fe242_999tekuchi15p%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/lecdirect/cabinet/img/e/e00975-1.jpg?_ex=600x600",
+  "shop_name": "レックダイレクト　楽天市場店",
+  "review_count": 4839,
+  "review_average": 4.69,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "ウエットシート ウエットティッシュ 日本製 純水99.9 安心 安全 手・口ふき 送料無料",
+  "genre_id": "505416",
+  "score": 17.25,
+  "last_seen": "2026-09-23T08:01:00"
+ },
+ "pigeon-shop:10002137": {
+  "first_seen": "2026-09-23T08:01:00",
+  "themes": [
+   {
+    "date": "2026-09-23",
+    "slot": "morning",
+    "theme": "お買い物マラソン（9月）（開催中） × 子育て世帯のママ・パパ",
+    "persona": "mama",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "pigeon-shop:10002137",
+  "name": "【マラソン特別価格！】電動鼻吸い器　シュポット | 0ヵ月頃〜 風邪予防・体温計・衛生商品 ピジョン 鼻水 吸引 吸引器 電動 鼻水吸引器 鼻水吸い 鼻水吸い器 電動鼻水吸引器 鼻吸い 鼻吸い器 赤ちゃん 赤ちゃん用品 赤ちゃんグッズ SHUPOT",
+  "price": 12870,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tgivo.72d3yf43.g00tgivo.72d3z1cb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpigeon-shop%2F1032018%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpigeon-shop%2Fi%2F10002137%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00tgivo.72d3yf43.g00tgivo.72d3z1cb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpigeon-shop%2F1032018%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/pigeon-shop/cabinet/thumb/thumb4/1032018_270717.jpg?_ex=600x600",
+  "shop_name": "ピジョン公式楽天市場店",
+  "review_count": 2367,
+  "review_average": 4.7,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "【レビュー記入キャンペーン実施中】",
+  "genre_id": "207739",
+  "score": 17.21,
+  "last_seen": "2026-09-23T08:01:00"
+ },
+ "pigeon-shop:10002195": {
+  "first_seen": "2026-09-23T08:01:00",
+  "themes": [
+   {
+    "date": "2026-09-23",
+    "slot": "morning",
+    "theme": "お買い物マラソン（9月）（開催中） × 子育て世帯のママ・パパ",
+    "persona": "mama",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "pigeon-shop:10002195",
+  "name": "【公式】妊娠中から使える骨盤ベルト 履くタイプ |ピジョン 妊娠 妊婦 マタニティ マタニティー 骨盤ケア 骨盤サポート 骨盤ベルト マタニティー用品 妊娠中 出産準備 産前産後 妊娠祝い プレゼント 産後ケア 骨盤矯正 サポート",
+  "price": 5622,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tgivo.72d3yf43.g00tgivo.72d3z1cb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpigeon-shop%2F1038571%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpigeon-shop%2Fi%2F10002195%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00tgivo.72d3yf43.g00tgivo.72d3z1cb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpigeon-shop%2F1038571%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/pigeon-shop/cabinet/thumb/11827558/1038571_th.jpg?_ex=600x600",
+  "shop_name": "ピジョン公式楽天市場店",
+  "review_count": 1219,
+  "review_average": 4.47,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "【レビュー記入キャンペーン実施中】",
+  "genre_id": "200880",
+  "score": 16.89,
+  "last_seen": "2026-09-23T08:01:00"
+ },
+ "slotre:10000310": {
+  "first_seen": "2026-09-23T08:01:00",
+  "themes": [
+   {
+    "date": "2026-09-23",
+    "slot": "morning",
+    "theme": "お買い物マラソン（9月）（開催中） × 子育て世帯のママ・パパ",
+    "persona": "mama",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "slotre:10000310",
+  "name": "【楽天ポイント5倍☆9/24まで】 おしりふき 厚手 タオルのような厚み 大判 蓋付き 80枚入り ウェットティッシュ おてふき 体拭き おしり拭き お尻拭き お尻ふき 水分たっぷり 肌にやさしい 無添加 シート 赤ちゃん ベビー Hugmuu ハグムー",
+  "price": 1980,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00t237o.72d3yfc5.g00t237o.72d3ze99/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fslotre%2F10000199%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fslotre%2Fi%2F10000310%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00t237o.72d3yfc5.g00t237o.72d3ze99/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fslotre%2F10000199%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/slotre/cabinet/sale-main/atude12_7.jpg?_ex=600x600",
+  "shop_name": "Hugmuu 楽天市場店",
+  "review_count": 1471,
+  "review_average": 4.7,
+  "affiliate_rate": 4.0,
+  "point_rate": 5,
+  "catchcopy": "1枚ですっきり！タオルのような厚みのおしりふき",
+  "genre_id": "205194",
+  "score": 16.7,
+  "last_seen": "2026-09-23T08:01:00"
+ },
+ "edion:10875142": {
+  "first_seen": "2026-09-23T08:01:00",
+  "themes": [
+   {
+    "date": "2026-09-23",
+    "slot": "morning",
+    "theme": "お買い物マラソン（9月）（開催中） × 子育て世帯のママ・パパ",
+    "persona": "mama",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "edion:10875142",
+  "name": "タカラトミー えらべる回転 6WAYジムにへんしんメリー プラス くまのプーさん 6WAY（プーメリー） ぷーめりージムニヘンシンメリ-プラスプ-サン [6WAYジムニヘンシンメリ-プラスプ-サン]",
+  "price": 12100,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00r9svo.72d3y57f.g00r9svo.72d3z256/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fedion%2F4904810935995%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fedion%2Fi%2F10875142%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00r9svo.72d3y57f.g00r9svo.72d3z256/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fedion%2F4904810935995%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/edion/cabinet/goods/ll/img_542/4904810935995_1.jpg?_ex=600x600",
+  "shop_name": "エディオン　楽天市場店",
+  "review_count": 74,
+  "review_average": 4.61,
+  "affiliate_rate": 3.0,
+  "point_rate": 10,
+  "catchcopy": "「生まれて」すぐから「たっち」まで。メリーがジムにへんしん!6つのステップで成長に合わせて長く使える。",
+  "genre_id": "201594",
+  "score": 16.54,
+  "last_seen": "2026-09-23T08:01:00"
  }
 }
