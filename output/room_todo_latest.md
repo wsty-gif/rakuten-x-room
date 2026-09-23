@@ -1,79 +1,42 @@
-# 楽天ROOMに追加する商品（2026-09-23）
+# 楽天ROOMに追加する商品（2026-09-24）
 
 手順: 商品URLを開く → 共有 → 「ROOMに投稿」 → コメントを貼って投稿。
 夜の分は20時までに入れておくと、購買ピーク（21〜24時）に乗ります。
 
-## 08:01 お買い物マラソン（9月）（開催中） × 子育て世帯のママ・パパ
+## 08:08 お買い物マラソン（9月）（開催中） × 20代男性（ガジェット・一人暮らし）
 
-1. **パンパース 肌へのいちばん オムツ パンツ(4袋入)【パンパース】**
-   - 価格: 8,959円 / ★4.86（481件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00pzd4o.72d3yfe6.g00pzd4o.72d3zc1c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetbaby%2F406536%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnetbaby%2Fi%2F10051424%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: お買い物マラソン中に狙いたい1つ。子どもがいる家で助かった系。どこを触ってもやわらかい。赤ちゃんのもちもち肌を守ります。レビュー481件で★4.86。8,959円。セール中に補充しておくと安心です。
+1. **シード ワンデーピュア うるおいプラス 96枚入×2箱 ( コンタクト 1日使い捨て ワンデー 1day シード see**
+   - 価格: 9,170円 / ★4.78（6,720件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00szm9o.72d3y753.g00szm9o.72d3zed6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flens-1%2F1pureup96p_02%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flens-1%2Fi%2F10002142%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: お買い物マラソン中に狙いたい1つ。レビューを見て買う人が多いやつ。国産の1日使い捨てコンタクトレンズです。レビュー6,720件で★4.78。9,170円。セール中に補充しておくと安心です。
 
-2. **★マラソン中最大20％OFFクーポン★楽天1位 30冠★おしりふき 80枚×12パック 厚手で水分たっぷりのおしりふき **
-   - 価格: 4,350円 / ★4.8（1,489件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00ujcfo.72d3y457.g00ujcfo.72d3za08/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbabycareshop%2Fbc20230001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbabycareshop%2Fi%2F10000000%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: お買い物マラソン中に狙いたい1つ。子どもがいる家で助かった系。水分量が多く、水で洗うのような拭き心地が実現しました。水が多ければ、汚れをサッと拭き拭き取る事ができ、赤ちゃんの皮膚にもとても優しいです。楽天ランキング1位、レビュー1,489件で★4.8。20%OFF。在庫が動きやすいので早めに。
+2. **＼お得!3枚目99%OFF!／ ワイドパンツ メンズ ズボン 秋 綿100％ パンツ 調整紐 ゆったり 日常 無地 スラ**
+   - 価格: 2,980円 / ★4.3（346件） / 料率 4.0% / P20倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00tz6ro.72d3yf3e.g00tz6ro.72d3z2c3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwuyue%2F152-a134xqq%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwuyue%2Fi%2F10021730%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: お買い物マラソン中に狙いたい1つ。レビューを見て買う人が多いやつ。肌なじみがよく、快適な着心地とファッション性も兼ね備えています。手触りは柔らかく、肌触りも細やかで、快適な着心地を提供します。レビュー346件で★4.3。99%OFF、ポイント20倍で実質2,384円。配送日も一緒に確認を。
 
-3. **＼1枚あたり16.6円〜／【3個】 オムツ M 150枚 L 126枚 ビッグ 108枚 ビッグより大きい 72枚 パン**
-   - 価格: 2,480円 / ★4.64（2,022件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qhoao.72d3y8c9.g00qhoao.72d3zd3f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashikenkou%2F1925663%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashikenkou%2Fi%2F10225492%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: お買い物マラソン中に狙いたい1つ。ママ友の間でよく話題になるやつ。肌当たりがやわらかく、しっとりなめらか。赤ちゃんのデリケートな肌に、いつでもやさしく。レビュー2,022件で★4.64。2,480円。配送日も一緒に確認を。
+3. **マラソンラスト26時間限定5％OFFクーポン★ オリオンビール tシャツ 正規品 17バリエーション オリオンTシャツ **
+   - 価格: 2,490円 / ★4.86（365件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00s0a5o.72d3yce2.g00s0a5o.72d3z1cf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkahoo-shop%2Ffkt194%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkahoo-shop%2Fi%2F10005300%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: お買い物マラソン中に狙いたい1つ。コスパで選ぶならこれ。気分に合わせて選べる、あなただけのカラー定番からトレンドまで。どなたでも着こなせる、安心のサイズ展開男女兼用でSからXLまでご用意。レビュー365件で★4.86。送料無料。セール中に補充しておくと安心です。
 
-4. **【楽天ポイント5倍☆9/24まで】 おしりふき 厚手 タオルのような厚み 大判 蓋付き 80枚入り ウェットティッシュ **
-   - 価格: 1,980円 / ★4.7（1,471件） / 料率 4.0% / P5倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00t237o.72d3yfc5.g00t237o.72d3ze99/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fslotre%2F10000199%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fslotre%2Fi%2F10000310%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: お買い物マラソン中に狙いたい1つ。まとめ買いしておくと楽になるもの。持ち歩きにちょうどいい、30枚タイプが新登場。おうちでの使い心地をそのままに、もっと持ち歩きやすく。レビュー1,471件で★4.7。9/24まで、ポイント5倍で実質1,881円。セール中に補充しておくと安心です。
+4. **【P15倍】iPhone18Pro ケース MagSafe対応 iPhone17 iPhone18ProMax iPho**
+   - 価格: 1,980円 / ★4.45（2,572件） / 料率 2.0% / P15倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00rqrso.72d3ydf5.g00rqrso.72d3za11/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhanaro%2Ftpu-ring-iphone3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhanaro%2Fi%2F10002585%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: お買い物マラソン中に狙いたい1つ。コスパで選ぶならこれ。レビュー2,572件で★4.45。ポイント15倍で実質1,683円。セール中に補充しておくと安心です。
 
-5. **ウェットティッシュ 水99.9％ ウエットシート 手口ふき まとめ買い 80枚×15個【1,200枚】【肌にやさしい】 **
-   - 価格: 2,390円 / ★4.69（4,839件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00pv4jo.72d3y43c.g00pv4jo.72d3z4a1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flecdirect%2Fe242_999tekuchi15p%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flecdirect%2Fi%2F10001752%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: お買い物マラソン中に狙いたい1つ。子どもがいる家で助かった系。商品紹介汚れを拭き取りやすくする為メッシュタイプにしました。目や傷口の周りを拭いても大丈夫。レビュー4,839件で★4.69。送料無料。気になる人はお気に入り登録を。
+5. **【45％OFF！14600円→7980円】リカバリーウェア《上下セット》 《ラッピング可》 長袖 半袖 Wellmo ル**
+   - 価格: 7,980円 / ★4.89（447件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00uo7vo.72d3y062.g00uo7vo.72d3zd24/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpegasus-store%2Frecovery%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpegasus-store%2Fi%2F10000093%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: お買い物マラソン中に狙いたい1つ。レビューを見て買う人が多いやつ。しっとりとなめらかな肌触りは、一度着たら手放せなくなる心地よさ。首元がよれにくいため、急なビデオ通話や宅配便の対応もそのまま可能です。レビュー447件で★4.89。45%OFF。気になる人はお気に入り登録を。
 
-6. **【1種類を選べる】ムーニーマン パンツ 男女 L・BIGサイズ 大容量(4袋セット)【ムーニーマン】**
-   - 価格: 9,196円 / ★4.73（1,500件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00pzd4o.72d3yfe6.g00pzd4o.72d3zc1c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetbaby%2F404937%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnetbaby%2Fi%2F10037814%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: お買い物マラソン中に狙いたい1つ。ママ友の間でよく話題になるやつ。すっぽりハイウエスト＆幅広ピタッとギャザーでしめつけすぎずやさしくフィット。レビュー1,500件で★4.73。9,196円。配送日も一緒に確認を。
-
-### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
-
-- **お買い物マラソンで買うもの**: パンパース 肌へのいちばん オムツ パンツ / 楽天1位 30冠 おしりふき / オムツ 150枚 126枚 ビッグ 108枚 / おしりふき 厚手 タオルのような厚み 大判 / ウェットティッシュ ウエットシート 手口ふき / ムーニーマン パンツ 男女 L・BIGサイズ
-- **子育て世帯のママ・パパのリピート候補**: パンパース 肌へのいちばん オムツ パンツ / 楽天1位 30冠 おしりふき / オムツ 150枚 126枚 ビッグ 108枚 / おしりふき 厚手 タオルのような厚み 大判 / ウェットティッシュ ウエットシート 手口ふき / ムーニーマン パンツ 男女 L・BIGサイズ
-
-## 21:10 お買い物マラソン（9月）（開催中） × 40代男性（家族・晩酌・車）
-
-1. **【先着500円OFFクーポン】【総額100万ポイントが当たる！】ビール アサヒ スーパードライ 350ml×48本2ケー**
-   - 価格: 9,485円 / ★4.82（1,704件） / 料率 4.0% / P7倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qo2ro.72d3yc8a.g00qo2ro.72d3z424/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flikaman%2F301335-48-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flikaman%2Fi%2F10020874%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: お買い物マラソン中に狙いたい1つ。家族みんなで使える定番。オリジナルビール新登場。レビュー1,704件で★4.82。ポイント7倍で実質8,821円、送料無料。気になる人はお気に入り登録を。
-
-2. **【20%OFF！7,238円 → 5,790円！】ワイン セット ミディアムボディ ワインセット 赤 ワイン ギフト 箱**
-   - 価格: 5,790円 / ★4.72（824件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00plfso.72d3yea7.g00plfso.72d3zea9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkbwine%2F1rs-bgs%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkbwine%2Fi%2F10028244%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: お買い物マラソン中に狙いたい1つ。まとめ買い向き。レビュー824件で★4.72。20%OFF、送料無料。配送日も一緒に確認を。
-
-3. **9/19 20:00〜9/23までP7倍 【先着500円OFFクーポン】【最強配送】【送料無料】アサヒ スタイルフリー **
-   - 価格: 7,696円 / ★4.81（2,086件） / 料率 4.0% / P7倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00rryxo.72d3y4c5.g00rryxo.72d3zf38/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fliquor-boss%2F1019c2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fliquor-boss%2Fi%2F10003336%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: お買い物マラソン中に狙いたい1つ。まとめ買い向き。食べたいものを、好きな時に、好きなお酒と。レビュー2,086件で★4.81。9/23まで、ポイント7倍で実質7,157円、送料無料。在庫が動きやすいので早めに。
-
-4. **9/19 20:00〜9/23までP4倍 【最強配送】【送料無料】キリン 淡麗グリーンラベル 350ml×2ケース/48**
-   - 価格: 7,736円 / ★4.82（2,180件） / 料率 4.0% / P4倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00rryxo.72d3y4c5.g00rryxo.72d3zf38/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fliquor-boss%2F2174c2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fliquor-boss%2Fi%2F10003361%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: お買い物マラソン中に狙いたい1つ。家族みんなで使える定番。レビュー2,180件で★4.82。9/23まで、ポイント4倍で実質7,426円、送料無料。セール中に補充しておくと安心です。
-
-5. **【P10倍◆ミラティウム公式】車 芳香剤 MILLATIUM MLT20 カーフレグランス 車用芳香剤 アロマディフュー**
-   - 価格: 5,980円 / ★4.55（1,217件） / 料率 2.0% / P10倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00tiaro.72d3yadd.g00tiaro.72d3zaab/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsangyo-leisure%2Fmlt20-main2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsangyo-leisure%2Fi%2F10000136%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: お買い物マラソン中に狙いたい1つ。まとめ買い向き。使いたい場所に合わせて自由に位置を変えることができ、便利さと柔軟性を提供します。レビュー1,217件で★4.55。ポイント10倍で実質5,382円。セール中に補充しておくと安心です。
-
-6. **[300円OFFクーポン/食いしんぼう祭]【公式】水 500ml 48本 送料無料 天然水 ミネラルウォーター ラベルレ**
-   - 価格: 2,280円 / ★4.62（5,872件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00t3zto.72d3y505.g00t3zto.72d3z9db/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Firisplaza-r%2F310999-cp%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Firisplaza-r%2Fi%2F10136708%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: お買い物マラソン中に狙いたい1つ。家族みんなで使える定番。アイリスの天然水は自然の恵みたっぷり。すっきりと飲みやすく、やわらかな口当たり。レビュー5,872件で★4.62。送料無料。在庫が動きやすいので早めに。
+6. **Discoat 《24色展開/7サイズ展開》-3kg見え!とろみイージーパンツ【ユニセックス】 ディスコート パンツ そ**
+   - 価格: 5,940円 / ★4.39（271件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00rf71o.72d3ydf4.g00rf71o.72d3z645/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstylife%2Fkx8129%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fstylife%2Fi%2F14561155%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: お買い物マラソン中に狙いたい1つ。レビューを見て買う人が多いやつ。Discoat（ディスコート）《24色展開/7サイズ展開》-3kg見え。低身長から高身長まで楽しめる7サイズ展開。レビュー271件で★4.39。送料無料。在庫が動きやすいので早めに。
 
 ### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
 
-- **お買い物マラソンで買うもの**: ビール アサヒ スーパードライ / ワイン セット ミディアムボディ / 19 20:00〜9 アサヒ スタイルフリー / 19 20:00〜9 キリン / 芳香剤 MILLATIUM MLT20 / 500ml 48本 天然水
-- **40代男性のリピート候補**: ビール アサヒ スーパードライ / ワイン セット ミディアムボディ / 19 20:00〜9 アサヒ スタイルフリー / 19 20:00〜9 キリン / 芳香剤 MILLATIUM MLT20 / 500ml 48本 天然水
+- **お買い物マラソンで買うもの**: シード ワンデーピュア うるおいプラス / ワイドパンツ メンズ ズボン パンツ 調整紐 / オリオンビール tシャツ 正規品 / ケース MagSafe対応 クリア ケース / リカバリーウェア 長袖 半袖 Wellmo / Discoat
+- **20代男性のリピート候補**: シード ワンデーピュア うるおいプラス / ワイドパンツ メンズ ズボン パンツ 調整紐 / オリオンビール tシャツ 正規品 / ケース MagSafe対応 クリア ケース / リカバリーウェア 長袖 半袖 Wellmo / Discoat
 
