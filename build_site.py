@@ -688,7 +688,7 @@ def generate_cards(items: list[dict[str, Any]], days: int = 7, cap: int = 150) -
         prod["hook"] = card_hook(e)
         prod["memo"] = memo_of(e)
         try:
-            pin, _ = make_cards(prod, DOCS / "pins", DOCS / "ig", BRAND, TAGLINE, deal_of(e))
+            pin, _ = make_cards(prod, DOCS / "pins", DOCS / "ig", BRAND, TAGLINE, deal_of(e), out_story=DOCS / "story")
             made += 1 if pin else 0
         except Exception as ex:
             print(f"  [warn] card {e['item_code']}: {ex}")

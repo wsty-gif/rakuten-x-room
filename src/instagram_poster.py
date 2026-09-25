@@ -73,6 +73,48 @@ class InstagramPoster:
         j = r.json()
         return str(j.get("user_id") or j.get("id"))
 
+    def _wait_container(self, creation_id: str, tries: int = 40, interval: int = 8) -> str:
+        """コンテナの処理完了を待つ。動画は数分かかることがある。"""
+        for _ in range(tries):
+            st = requests.get(f"{BASE}/{creation_id}", params={"fields": "status_code,status", "access_token": self.token}, timeout=20)
+            if st.status_code == 200:
+                code = st.json().get("status_code")
+                if code == "FINISHED":
+                    return code
+                if code in ("ERROR", "EXPIRED"):
+                    raise RuntimeError(f"Instagram コンテナ {code}: {st.json().get('status')}")
+            time.sleep(interval)
+        return "TIMEOUT"
+
+    def _publish(self, creation_id: str) -> str:
+        r = requests.post(f"{BASE}/{self.user_id}/media_publish",
+                          data={"creation_id": creation_id, "access_token": self.token}, timeout=60)
+        if r.status_code != 200:
+            raise RuntimeError(f"Instagram 公開失敗 {r.status_code}: {r.text[:200]}")
+        return str(r.json()["id"])
+
+    def post_story(self, image_url: str) -> str:
+        """ストーリーズ（画像）。スタンプやリンクはAPIから付けられないので、画像内の文言で誘導する。"""
+        r = requests.post(f"{BASE}/{self.user_id}/media",
+                          data={"media_type": "STORIES", "image_url": image_url, "access_token": self.token}, timeout=60)
+        if r.status_code != 200:
+            raise RuntimeError(f"Instagram ストーリーズ作成失敗 {r.status_code}: {r.text[:200]}")
+        cid = r.json()["id"]
+        self._wait_container(cid, tries=8)
+        return self._publish(cid)
+
+    def post_reel(self, video_url: str, caption: str, share_to_feed: bool = True) -> str:
+        """リール（9:16 mp4、公開URL）。処理に数分かかるので長めに待つ。"""
+        r = requests.post(f"{BASE}/{self.user_id}/media",
+                          data={"media_type": "REELS", "video_url": video_url, "caption": caption[:2200],
+                                "share_to_feed": "true" if share_to_feed else "false", "access_token": self.token}, timeout=60)
+        if r.status_code != 200:
+            raise RuntimeError(f"Instagram リール作成失敗 {r.status_code}: {r.text[:200]}")
+        cid = r.json()["id"]
+        if self._wait_container(cid, tries=45, interval=8) != "FINISHED":
+            raise RuntimeError("Instagram リールの処理がタイムアウトしました")
+        return self._publish(cid)
+
     def post_image(self, image_url: str, caption: str) -> str:
         r = requests.post(f"{BASE}/{self.user_id}/media",
                           data={"image_url": image_url, "caption": caption[:2200], "access_token": self.token}, timeout=60)

@@ -151,6 +151,10 @@ class Settings:
     instagram_user_id: str = field(default_factory=lambda: _env("INSTAGRAM_USER_ID"))
     # Instagram に流す枠（1日1〜2投稿が適正）。カンマ区切り
     instagram_slots: str = field(default_factory=lambda: _env("INSTAGRAM_SLOTS", "noon,night"))
+    # ストーリーズに流す枠（既定: 3枠すべて）。空文字で無効
+    instagram_story_slots: str = field(default_factory=lambda: _env("INSTAGRAM_STORY_SLOTS", "morning,noon,night"))
+    # リール（1日1本、夜枠）。0 で無効
+    instagram_reel: bool = field(default_factory=lambda: _env("INSTAGRAM_REEL", "1") == "1")
     site_url: str = field(default_factory=lambda: _env("SITE_URL"))
 
     anthropic_api_key: str = field(default_factory=lambda: _env("ANTHROPIC_API_KEY"))

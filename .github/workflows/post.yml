@@ -101,6 +101,11 @@ jobs:
           PINTEREST_VERIFICATION: ${{ vars.PINTEREST_VERIFICATION || secrets.PINTEREST_VERIFICATION }}
         run: python build_site.py
 
+      # リール動画（夜枠のみ、1日1本）。ブログ公開の前に作って docs/reels に置く
+      - name: Build reel video
+        if: steps.slot.outputs.slot == 'night' && steps.slot.outputs.dry != 'true'
+        run: python main.py reel-build || echo "reel build skipped"
+
       # ブログは公開リポジトリ <ユーザー名>.github.io に書き出す（このリポジトリは Private のまま）
       - name: Publish blog to <owner>.github.io
         if: steps.slot.outputs.slot != 'none' && steps.slot.outputs.dry != 'true' && env.BLOG_PUSH_TOKEN != ''
@@ -112,7 +117,9 @@ jobs:
           external_repository: ${{ github.repository_owner }}/${{ github.repository_owner }}.github.io
           publish_branch: main
           publish_dir: ./docs
-          keep_files: true
+          # 動画で肥大化しないよう、毎回1コミットに置き換える（直近7日分のカードと動画は毎回生成される）
+          keep_files: false
+          force_orphan: true
           user_name: rakuten-bot
           user_email: bot@users.noreply.github.com
           commit_message: "blog update"

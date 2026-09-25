@@ -134,6 +134,18 @@ Threads と同じ Meta 開発者アプリで、自分のアカウントなら審
 6. `python setup_env.py` で `INSTAGRAM_ACCESS_TOKEN` に貼る。GitHub の Secrets にも `INSTAGRAM_ACCESS_TOKEN` を追加。
 7. 次の昼・夜の実行から投稿される。確認: `python main.py instagram --dry-run`。
 
+## Instagram ストーリーズとリール（自動）
+
+- **ストーリーズ**: 各枠（朝・昼・夜）で X に投稿した商品の 9:16 カード（`docs/story/<code>.jpg`）を投稿する。
+  24時間で消える。スタンプやリンクは API から付けられないので、画像内の「詳しくはプロフィールのリンクから」で誘導。
+  枠は `INSTAGRAM_STORY_SLOTS`（既定 morning,noon,night）。
+- **リール**: 夜枠で `python main.py reel-build` が「タイトル → 今日の商品3点（ゆっくりズーム）→ 締め」の約15秒の 9:16 動画を
+  `docs/reels/YYYY-MM-DD.mp4` に作り、ブログ公開後に `main.py instagram` がリールとして投稿する（フィードにも表示）。
+  `INSTAGRAM_REEL=0` で無効。ffmpeg はシステム版か `imageio-ffmpeg` 同梱版を使う。
+- **BGM**: `assets/bgm/` に mp3 を1曲置くと自動で埋め込む（フェードイン・アウト付き）。無ければ無音トラック。
+  著作権フリーで商用利用可のものを（DOVA-SYNDROME、甘茶の音楽工房、BGMer など）。音ありのほうがリールは伸びる。
+- Pages への公開は毎回1コミットに置き換える（`force_orphan`）ので、動画を毎日出しても公開リポジトリは肥大化しない。
+
 ## ROOM で買われるための仕組み（売上の主戦場）
 
 X/Threads は「知ってもらう」役、購入が起きるのは ROOM。ROOM のランクS/Aは「投稿から楽天市場へ誘導した人数」で決まり、

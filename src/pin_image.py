@@ -261,11 +261,12 @@ def render_card(product: dict[str, Any], size: tuple[int, int], deal: dict[str, 
 
 
 def make_cards(product: dict[str, Any], out_pin: Path, out_ig: Path, brand: str, tagline: str,
-               deal: dict[str, str], force: bool = False) -> tuple[Path | None, Path | None]:
-    """2枚を生成して保存。既に両方あれば何もしない。戻り値は (pin_path, ig_path)。"""
+               deal: dict[str, str], force: bool = False, out_story: Path | None = None) -> tuple[Path | None, Path | None]:
+    """Pinterest(2:3) / Instagram(4:5) / ストーリーズ・リール(9:16) を生成して保存。既にあれば何もしない。"""
     name = safe_name(product["item_code"]) + ".jpg"
     p_pin, p_ig = out_pin / name, out_ig / name
-    if not force and p_pin.exists() and p_ig.exists():
+    p_story = (out_story / name) if out_story else None
+    if not force and p_pin.exists() and p_ig.exists() and (p_story is None or p_story.exists()):
         return p_pin, p_ig
     img = fetch_image(product.get("image_url", ""))
     if img is None:
@@ -274,4 +275,24 @@ def make_cards(product: dict[str, Any], out_pin: Path, out_ig: Path, brand: str,
     out_ig.mkdir(parents=True, exist_ok=True)
     render_card(product, (1000, 1500), deal, brand, tagline, img).save(p_pin, "JPEG", quality=90, optimize=True)
     render_card(product, (1080, 1350), deal, brand, tagline, img).save(p_ig, "JPEG", quality=90, optimize=True)
+    if p_story:
+        out_story.mkdir(parents=True, exist_ok=True)
+        render_story(product, deal, brand, tagline, img).save(p_story, "JPEG", quality=90, optimize=True)
     return p_pin, p_ig
+
+
+def render_story(product: dict[str, Any], deal: dict[str, str], brand: str, tagline: str, img: Image.Image) -> Image.Image:
+    """9:16（1080×1920）。4:5 のカードを中央に置き、上下に余白を取る（ストーリーズは上下がUIで隠れるため）。"""
+    card = render_card(product, (1080, 1350), deal, brand, tagline, img)
+    im = Image.new("RGB", (1080, 1920), CREAM)
+    # 背景: カードの写真部分をぼかして全面に
+    bg = _cover(img, 1080, 1920).filter(ImageFilter.GaussianBlur(40))
+    bg = ImageEnhance.Brightness(bg).enhance(0.6)
+    im.paste(bg, (0, 0))
+    card_r = _rounded(card, 40)
+    im.paste(card_r, (0, (1920 - 1350) // 2), card_r)
+    d = ImageDraw.Draw(im)
+    f = _font(FONT_CANDIDATES_BOLD, 34)
+    t = "▶ 詳しくはプロフィールのリンクから"
+    d.text(((1080 - d.textlength(t, font=f)) / 2, 1920 - 210), t, font=f, fill=WHITE)
+    return im
