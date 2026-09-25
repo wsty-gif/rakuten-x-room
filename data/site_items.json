@@ -4639,6 +4639,13 @@
     "theme": "お買い物マラソン（9月）（開催中） × 20代男性（ガジェット・一人暮らし）",
     "persona": "20s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-09-25",
+    "slot": "noon",
+    "theme": "今売れている物 × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "baseline"
    }
   ],
   "item_code": "keitai:10801623",
@@ -4648,14 +4655,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00pj8xo.72d3yed7.g00pj8xo.72d3ze16/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkeitai%2F41-907%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/keitai/cabinet/event/img/2025/41-907_sale.jpg?_ex=600x600",
   "shop_name": "Hamee（ハミィ）",
-  "review_count": 22693,
+  "review_count": 22694,
   "review_average": 4.57,
   "affiliate_rate": 2.0,
   "point_rate": 1,
   "catchcopy": "iFace公式 傷に強い 耐衝撃 強化ガラス クリアケース 透明だから背面で遊べる シアー iPhoneSE 12 15Pro 他 Reflection リフレクション ベージュ くすみカラー",
   "genre_id": "560271",
-  "score": 17.19,
-  "last_seen": "2026-09-24T08:08:18"
+  "score": 16.99,
+  "last_seen": "2026-09-25T12:41:57"
  },
  "officetrust:10000209": {
   "first_seen": "2026-09-09T16:35:38",
@@ -5623,6 +5630,13 @@
     "theme": "お買い物マラソン（9月）（開催中） × 20代男性（ガジェット・一人暮らし）",
     "persona": "20s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-09-25",
+    "slot": "noon",
+    "theme": "今売れている物 × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "baseline"
    }
   ],
   "item_code": "furumiyashop:10000146",
@@ -5632,14 +5646,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00tzq9o.72d3y118.g00tzq9o.72d3zd57/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffurumiyashop%2Fcdb00p60%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/furumiyashop/cabinet/10575868/11134205/p60-2235.jpg?_ex=600x600",
   "shop_name": "古宮shop",
-  "review_count": 6046,
+  "review_count": 6121,
   "review_average": 4.52,
   "affiliate_rate": 2.0,
   "point_rate": 1,
   "catchcopy": "5台同時充電 lightning type-c micro usb USB LEDライト付き 残量表示 急速充電 スマートフォン充電器 スマホ充電器 スマホバッテリー 携帯充電器 便利グッズ 緊急用 出張 停電 地震",
   "genre_id": "564277",
-  "score": 15.88,
-  "last_seen": "2026-09-22T07:49:33"
+  "score": 15.89,
+  "last_seen": "2026-09-25T12:41:57"
  },
  "mscien:10000041": {
   "first_seen": "2026-09-11T16:29:37",
@@ -5691,6 +5705,13 @@
     "theme": "お買い物マラソン（9月）（開催中） × 20代男性（ガジェット・一人暮らし）",
     "persona": "20s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-09-25",
+    "slot": "noon",
+    "theme": "今売れている物 × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "baseline"
    }
   ],
   "item_code": "x-plosion:10000023",
@@ -5706,8 +5727,8 @@
   "point_rate": 1,
   "catchcopy": "X-PLOSION WPC ミルクチョコレート 大容量3kg 国内製造 100%ナチュラルホエイプロテイン 激安 コスパ最強 甘い ココア",
   "genre_id": "567617",
-  "score": 16.57,
-  "last_seen": "2026-09-24T08:08:18"
+  "score": 15.47,
+  "last_seen": "2026-09-25T12:41:57"
  },
  "yoshinoya-shop:10000242": {
   "first_seen": "2026-09-12T08:34:11",
@@ -6870,6 +6891,13 @@
     "theme": "秋の衣替え（開催中） × 30代女性（暮らし・時短・コスパ）",
     "persona": "30s_woman",
     "event_type": "season"
+   },
+   {
+    "date": "2026-09-25",
+    "slot": "noon",
+    "theme": "今売れている物 × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "baseline"
    }
   ],
   "item_code": "glv:10085792",
@@ -6886,7 +6914,7 @@
   "catchcopy": "【365日翌日配送対応】Dickies ディッキーズ 874 おしゃれ ファッション アメカジ カジュアル 長ズボン 作業服 Original Work Pant MENS",
   "genre_id": "558846",
   "score": 16.16,
-  "last_seen": "2026-09-25T08:47:27"
+  "last_seen": "2026-09-25T12:41:57"
  },
  "teddyshop:10016943": {
   "first_seen": "2026-09-15T01:56:42",
@@ -9642,6 +9670,13 @@
     "theme": "お買い物マラソン（9月）（開催中） × 20代男性（ガジェット・一人暮らし）",
     "persona": "20s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-09-25",
+    "slot": "noon",
+    "theme": "今売れている物 × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "baseline"
    }
   ],
   "item_code": "bridge-store:10000004",
@@ -9651,14 +9686,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00tdmxo.72d3yab1.g00tdmxo.72d3z24f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbridge-store%2Fiphone-k%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/bridge-store/cabinet/glass2-thm/th-iphone-k-20.jpg?_ex=600x600",
   "shop_name": "Bridge Store 楽天市場店",
-  "review_count": 21086,
+  "review_count": 21104,
   "review_average": 4.52,
   "affiliate_rate": 2.0,
   "point_rate": 1,
   "catchcopy": "送料無料★らくらくクリップ付きで簡単貼り付け！シリーズ累計300万枚販売 iPhone17 ガラスフィルム iPhone18pro Max 17e Air 17pro 16 16e 15 14 13 15pro 保護フィルム 液晶保護",
   "genre_id": "560278",
-  "score": 16.0,
-  "last_seen": "2026-09-24T08:08:18"
+  "score": 15.9,
+  "last_seen": "2026-09-25T12:41:57"
  },
  "keitai:10814347": {
   "first_seen": "2026-09-22T07:49:33",
@@ -9669,6 +9704,13 @@
     "theme": "お買い物マラソン（9月）（開催中） × 20代男性（ガジェット・一人暮らし）",
     "persona": "20s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-09-25",
+    "slot": "noon",
+    "theme": "今売れている物 × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "baseline"
    }
   ],
   "item_code": "keitai:10814347",
@@ -9678,14 +9720,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00pj8xo.72d3yed7.g00pj8xo.72d3ze16/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkeitai%2F41-979%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/keitai/cabinet/event/img/2025/41-979_26_cpn.jpg?_ex=600x600",
   "shop_name": "Hamee（ハミィ）",
-  "review_count": 2142,
+  "review_count": 2152,
   "review_average": 4.48,
   "affiliate_rate": 2.0,
   "point_rate": 1,
   "catchcopy": "iFace 傷に強い 強化ガラス 耐衝撃 クリアケース 背面で遊べる ストラップホール付 iPhone18Pro iPhone18ProMax iPhone17 iPhone17e iPhone17Pro iPhone17ProMax iPhone16 iPhone15",
   "genre_id": "560271",
   "score": 15.69,
-  "last_seen": "2026-09-22T07:49:33"
+  "last_seen": "2026-09-25T12:41:57"
  },
  "lifedrinkcompany:10000004": {
   "first_seen": "2026-09-22T21:23:53",
@@ -10867,5 +10909,169 @@
   "genre_id": "206440",
   "score": 15.81,
   "last_seen": "2026-09-25T08:47:27"
+ },
+ "toolandmeal:10026598": {
+  "first_seen": "2026-09-25T12:41:57",
+  "themes": [
+   {
+    "date": "2026-09-25",
+    "slot": "noon",
+    "theme": "今売れている物 × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "baseline"
+   }
+  ],
+  "item_code": "toolandmeal:10026598",
+  "name": "【楽天1位 公式】超高評価☆4.79 カタログギフト ハートフルセレクション コンシェルジュ 香典返し 内祝い 結婚祝い グルメ 出産祝い 5000円 10000円 コース お菓子 人気 お祝い お返し お祝い返し 選べるギフト 送料無料 レビューキャンペーン",
+  "price": 3190,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pygqo.72d3y9cb.g00pygqo.72d3z2f9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftoolandmeal%2F105069441%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftoolandmeal%2Fi%2F10026598%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00pygqo.72d3y9cb.g00pygqo.72d3z2f9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftoolandmeal%2F105069441%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/toolandmeal/cabinet/catalog001/10401894/concierge_2027_th.jpg?_ex=600x600",
+  "shop_name": "TOOL＆MEAL",
+  "review_count": 1359,
+  "review_average": 4.79,
+  "affiliate_rate": 4.0,
+  "point_rate": 10,
+  "catchcopy": "ギフトセット のし 粗品 挨拶 プレゼント ラッピング 引出物 選べるギフト 肉 お得 お酒 スイーツ おしゃれ お酒 スイーツ 新築祝い 個別 旅行 体験ギフト ギフト ブック お中元",
+  "genre_id": "566732",
+  "score": 17.27,
+  "last_seen": "2026-09-25T12:41:57",
+  "posted_text": "#PR 一人暮らしのQOLが1段上がる\n超高評価 4.79 カタログギフト\n★4.79・レビュー1,359件・楽天ランキング1位\n3,190円（P10倍で実質2,871円）\n使ってる人いたら感想ください\n#楽天購入品\n▶ROOMはプロフから",
+  "posted_at": "2026-09-25T12:41:57"
+ },
+ "livelylife:10002460": {
+  "first_seen": "2026-09-25T12:41:57",
+  "themes": [
+   {
+    "date": "2026-09-25",
+    "slot": "noon",
+    "theme": "今売れている物 × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "baseline"
+   }
+  ],
+  "item_code": "livelylife:10002460",
+  "name": "【楽天1位獲得】2枚入り iPhone18pro 保護フィルム iPhone18pro max iPhone17 ガラスフィルム iPhone17e フィルム iPhone16e フィルム ブルーライトカット iPhone17pro max 覗き防止 iPhone16 iPhone15 覗き見防止 iPhone14 pro iPhone13 mini SE3 SE2 10H表面硬度 全面保護",
+  "price": 1000,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00simto.72d3y651.g00simto.72d3z62a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flivelylife%2Fg301310%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flivelylife%2Fi%2F10002460%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00simto.72d3y651.g00simto.72d3z62a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flivelylife%2Fg301310%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/livelylife/cabinet/g/g301310/g301310-i17.jpg?_ex=600x600",
+  "shop_name": "Lively Life（ライブリーライフ）",
+  "review_count": 75996,
+  "review_average": 4.54,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "2点目半額クーポン配布中 365日間保証 史上最強10H硬度登場！iPhone適応 livelylife ガラスフィルム ライブリーライフ 楽貼りフィルム アイフォン 液晶保護フィルム 日本製ガラス",
+  "genre_id": "560278",
+  "score": 15.69,
+  "last_seen": "2026-09-25T12:41:57"
+ },
+ "niccou-store:10000179": {
+  "first_seen": "2026-09-25T12:41:57",
+  "themes": [
+   {
+    "date": "2026-09-25",
+    "slot": "noon",
+    "theme": "今売れている物 × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "baseline"
+   }
+  ],
+  "item_code": "niccou-store:10000179",
+  "name": "【お得な2枚組★楽天1位獲得】iPhone18pro 保護フィルム iPhone18pro max iPhone17e ガラスフィルム iPhone16 iPhone15 iPhone16e フィルム iPhone17promax iPhone16promax iPhone15promax iPhone14promax 液晶フィルム 強化ガラスフィルム 貼り付け簡単 NIMASO",
+  "price": 1499,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00syhno.72d3yfe4.g00syhno.72d3zf78/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fniccou-store%2Fyr-2018-n2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fniccou-store%2Fi%2F10000179%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00syhno.72d3yfe4.g00syhno.72d3zf78/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fniccou-store%2Fyr-2018-n2%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/niccou-store/cabinet/12335494/12426802/2dgq-st2.jpg?_ex=600x600",
+  "shop_name": "NimasoDirect楽天市場店",
+  "review_count": 17576,
+  "review_average": 4.64,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "『リピーター続出TOP1』【圧倒的な高評価4.65点】『貼り付け失敗でも無料再送』ガイド枠付き 口コミ製品 【SOY2025年大賞獲得】人気定番商品no1 最長42ヶ月保証 送料無料",
+  "genre_id": "560278",
+  "score": 15.44,
+  "last_seen": "2026-09-25T12:41:57"
+ },
+ "anker:10001908": {
+  "first_seen": "2026-09-25T12:41:57",
+  "themes": [
+   {
+    "date": "2026-09-25",
+    "slot": "noon",
+    "theme": "今売れている物 × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "baseline"
+   }
+  ],
+  "item_code": "anker:10001908",
+  "name": "Anker Power Bank (10000mAh, 22.5W) (モバイルバッテリー 10000mAh 最大22.5W出力 USB-C & USB-C ケーブル付属 ディスプレイ搭載) 【USB PD/PowerIQ搭載/PSE技術基準適合】iPhone 15 Android iPad その他各種機器対応",
+  "price": 3490,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rr09o.72d3y980.g00rr09o.72d3z79c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa1257%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10001908%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00rr09o.72d3y980.g00rr09o.72d3z79c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa1257%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/tmb/a1/a1257_normal.jpg?_ex=600x600",
+  "shop_name": "アンカー・ダイレクト楽天市場店",
+  "review_count": 2238,
+  "review_average": 4.53,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "Power Bank モバイルバッテリー 10000mAh 最大22.5W出力 USB-C & USB-C ケーブル付属 ディスプレイ搭載 USB PD PowerIQ搭載 PSE技術基準適合 iPhone 15 Android iPad その他各種機器 防災",
+  "genre_id": "564277",
+  "score": 15.17,
+  "last_seen": "2026-09-25T12:41:57"
+ },
+ "anker:10001561": {
+  "first_seen": "2026-09-25T12:41:57",
+  "themes": [
+   {
+    "date": "2026-09-25",
+    "slot": "noon",
+    "theme": "今売れている物 × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "baseline"
+   }
+  ],
+  "item_code": "anker:10001561",
+  "name": "【期間限定セール実施中 9/25まで】Anker Nano Power Bank (12W, Built-In Lightning Connector ) / Anker Nano Power Bank (22.5W, Built-In USB-C Connector) (モバイルバッテリー 5000mAh 小型)【MFi認証済/端子一体型】iPhone 17/16/15/14",
+  "price": 2890,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rr09o.72d3y980.g00rr09o.72d3z79c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa1645%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10001561%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00rr09o.72d3y980.g00rr09o.72d3z79c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa1645%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/deal/202609m2/a1645_sale.jpg?_ex=600x600",
+  "shop_name": "アンカー・ダイレクト楽天市場店",
+  "review_count": 4045,
+  "review_average": 4.46,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "最大24/30ヶ月保証",
+  "genre_id": "564277",
+  "score": 15.14,
+  "last_seen": "2026-09-25T12:41:57"
+ },
+ "ennshopstore:10000094": {
+  "first_seen": "2026-09-25T12:41:57",
+  "themes": [
+   {
+    "date": "2026-09-25",
+    "slot": "noon",
+    "theme": "今売れている物 × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "baseline"
+   }
+  ],
+  "item_code": "ennshopstore:10000094",
+  "name": "楽天総合1位【1,976円・新発売SALE】 モバイルバッテリー 軽量 小型 24800mAh 22.5W 急速充電 軽量 薄い バッテリー 大容量 3台同時充電 充電器 22cmケーブル内蔵 携帯充電器 SCP 22.5W/PD 20W/QC 3.0最速 機内持込 防災グッズ ハンディファン 2026年NEW",
+  "price": 4390,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00ubfso.72d3y134.g00ubfso.72d3z388/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fennshopstore%2Fpt52%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fennshopstore%2Fi%2F10000094%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00ubfso.72d3y134.g00ubfso.72d3z388/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fennshopstore%2Fpt52%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/ennshopstore/cabinet/pt52/t52zt_0709.jpg?_ex=600x600",
+  "shop_name": "Rakuhome",
+  "review_count": 1034,
+  "review_average": 4.51,
+  "affiliate_rate": 2.0,
+  "point_rate": 5,
+  "catchcopy": "【一年間保証 PSE認証】本体に充電用のケーブル付属 停電対策 旅行/通勤通学/出張 回路保護 ストラップ付 USB充電 電気毛布 電熱ベスト 首掛け扇風機 ipad/iphone/andoroid対応",
+  "genre_id": "564277",
+  "score": 14.9,
+  "last_seen": "2026-09-25T12:41:57"
  }
 }
