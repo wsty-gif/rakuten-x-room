@@ -2571,5 +2571,63 @@
   "text": "楽天で「これは買ってよかった」と胸を張って言えるもの、1つ教えてください。\n次の紹介の参考にします。",
   "tweet_id": "2103415501565141296",
   "threads_id": "18105234431576985"
+ },
+ {
+  "date": "2026-09-26T07:29:08",
+  "slot": "morning",
+  "theme": "今売れている物 × 30代女性（暮らし・時短・コスパ）",
+  "persona": "30s_woman",
+  "item_code": "matsuya:10000095",
+  "item_name": "S 【300円OFFクーポンで1食200円~！衝撃の最大58％OFF！】 牛めしの具 プレミアム仕様 120g 選択制 大容量リピ確定BOX 松屋 公式 牛めし",
+  "price": 3280,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pwdgo.72d3ya6b.g00pwdgo.72d3ze2a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmatsuya%2Fus30-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmatsuya%2Fi%2F10000095%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "#PR 毎日の小さなストレス、これで消えます\n牛めしの具 プレミアム仕様 120g 選択制\n★4.63・レビュー1,895件\n58%OFF｜3,280円・送料無料\n#楽天購入品\n▶ROOMはプロフから",
+  "tweet_id": "2103612693664137439",
+  "threads_id": "17967830856166837",
+  "room_done": false,
+  "image": true
+ },
+ {
+  "date": "2026-09-26T07:29:08",
+  "kind": "room",
+  "slot": "morning",
+  "theme": "今売れている物 × 30代女性（暮らし・時短・コスパ）",
+  "persona": "30s_woman",
+  "item_code": "yamagoiida:10000115",
+  "item_name": "【26日正午まで半額！7,590円→3,795円】〈無塩〉骨取りあじ 訳あり（2kg） | 骨抜き 骨なし 韓国産 鯵 冷凍 ストック 業務用 食品 離乳食 お",
+  "price": 3795,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tqd5o.72d3y629.g00tqd5o.72d3z50c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamagoiida%2F10000098-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyamagoiida%2Fi%2F10000115%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "忙しい平日の味方。レビュー4,817件で★4.71。半額（26日正午まで）、送料無料。",
+  "room_done": false
+ },
+ {
+  "date": "2026-09-26T07:29:08",
+  "kind": "room",
+  "slot": "morning",
+  "theme": "今売れている物 × 30代女性（暮らし・時短・コスパ）",
+  "persona": "30s_woman",
+  "item_code": "kitanomachi:10000257",
+  "item_name": "【1kgで33%OFF!!】北海道 知床・羅臼産 鮭いくら 醤油漬け 【80g / 200g / 600g /1kg 鮭卵 いくら イクラ ギフト プレゼント ",
+  "price": 3980,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tqw0o.72d3y788.g00tqw0o.72d3zd02/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkitanomachi%2Fikura_400g%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkitanomachi%2Fi%2F10000257%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "毎日の家事がちょっとラクになるやつ。昆布の旨みが効いたシンプルな塩味で白いご飯との相性が抜群。羅臼産の昆布出汁などで作った特製のたれで味付けしています。レビュー1,467件で★4.63。33%OFF、送料無料。",
+  "room_done": false
+ },
+ {
+  "date": "2026-09-26T07:29:08",
+  "kind": "room",
+  "slot": "morning",
+  "theme": "今売れている物 × 30代女性（暮らし・時短・コスパ）",
+  "persona": "30s_woman",
+  "item_code": "kitchenavi:10000408",
+  "item_name": "【公式】VAKUEN 真空保存容器 電動 強力密閉 鮮度長持ち コンテナ タッパー キャニスター BPAフリー 電子レンジ 食洗機 冷凍 耐熱 フードストッカー",
+  "price": 2780,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00txego.72d3y63b.g00txego.72d3zd38/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkitchenavi%2F2498-001010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkitchenavi%2Fi%2F10000408%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 3.0,
+  "text": "買い置きしておくと安心なもの。保存容器の底に水が溜まっていませんか。本製品は耐熱ガラスではありません。楽天ランキング1位、レビュー5,622件で★4.73。2,780円。",
+  "room_done": false
  }
 ]
