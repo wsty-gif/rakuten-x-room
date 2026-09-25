@@ -17,7 +17,8 @@ load_dotenv(ROOT / ".env")
 
 
 def _env(name: str, default: str = "") -> str:
-    return os.environ.get(name, default).strip()
+    """環境変数を読む。空文字は「未設定」とみなして既定値を返す（GitHub の未設定 Variables は空文字で渡るため）。"""
+    return (os.environ.get(name) or default).strip()
 
 
 def _env_int(name: str, default: int) -> int:

@@ -99,6 +99,11 @@ jobs:
           # Variables でも Secrets でも受け付ける
           GSC_VERIFICATION: ${{ vars.GSC_VERIFICATION || secrets.GSC_VERIFICATION }}
           PINTEREST_VERIFICATION: ${{ vars.PINTEREST_VERIFICATION || secrets.PINTEREST_VERIFICATION }}
+          # ブログに載せる各SNSのプロフィールURL（未設定なら build_site.py の既定値）
+          X_PROFILE_URL: ${{ vars.X_PROFILE_URL }}
+          THREADS_PROFILE_URL: ${{ vars.THREADS_PROFILE_URL }}
+          INSTAGRAM_PROFILE_URL: ${{ vars.INSTAGRAM_PROFILE_URL }}
+          PINTEREST_PROFILE_URL: ${{ vars.PINTEREST_PROFILE_URL }}
         run: python build_site.py
 
       # リール動画（夜枠のみ、1日1本）。ブログ公開の前に作って docs/reels に置く

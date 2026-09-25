@@ -36,6 +36,20 @@ TAGLINE = SITE_NAME.split("｜")[1] if "｜" in SITE_NAME else ""
 ROOM_URL = _env("ROOM_URL")
 X_URL = _env("X_PROFILE_URL", "https://x.com/rakumitsu__room")
 THREADS_URL = _env("THREADS_PROFILE_URL", "https://www.threads.net/@rakumitsu__room")
+INSTAGRAM_URL = _env("INSTAGRAM_PROFILE_URL", "https://www.instagram.com/toach.jp/")
+PINTEREST_URL = _env("PINTEREST_PROFILE_URL", "https://jp.pinterest.com/rakumitsu__room/")
+
+
+def sns_list() -> list[tuple[str, str, str, str]]:
+    """(名前, URL, アイコンキー, 一言)。URL が空のものは出さない。"""
+    rows = [
+        ("X", X_URL, "x", "毎日3回、売れ筋を速報"),
+        ("Threads", THREADS_URL, "threads", "商品リンク付きで毎日3回"),
+        ("Instagram", INSTAGRAM_URL, "instagram", "カード画像・ストーリーズ・リール"),
+        ("Pinterest", PINTEREST_URL, "pinterest", "誰向け別に保存できるボード"),
+        ("楽天ROOM", ROOM_URL, "room", "気になった物をまとめて「コレ！」"),
+    ]
+    return [r for r in rows if r[1]]
 ITEMS_PER_DAY = 12
 SLOT_JA = {"morning": "朝", "noon": "昼", "night": "夜"}
 PERSONA_SHORT = {k: v.label.split("（")[0] for k, v in PERSONAS.items()}
@@ -73,6 +87,8 @@ ICONS = {
     "threads": '<svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 3c-5 0-8 3.5-8 9s3 9 8 9c4 0 7-2.3 7-5.6 0-2.8-2-4.4-4.8-4.4-2.4 0-4 1.2-4 3 0 1.6 1.3 2.6 3 2.6 2.2 0 3.5-1.6 3.6-4.6"/><path d="M8.2 9c.8-1.6 2.2-2.4 4-2.4 2.6 0 4.2 1.5 4.6 4"/></svg>',
     "room": '<svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><path d="M6 8h12l1 13H5L6 8z"/><path d="M9 8V6a3 3 0 0 1 6 0v2"/></svg>',
     "rss": '<svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor"><circle cx="5" cy="19" r="2.2"/><path d="M3 10a11 11 0 0 1 11 11h-3a8 8 0 0 0-8-8v-3z"/><path d="M3 3a18 18 0 0 1 18 18h-3A15 15 0 0 0 3 6V3z"/></svg>',
+    "instagram": '<svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="1" fill="currentColor"/></svg>',
+    "pinterest": '<svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor"><path d="M12 2a10 10 0 0 0-3.6 19.3c-.1-.8-.2-2 0-2.9l1.2-5s-.3-.6-.3-1.5c0-1.4.8-2.4 1.8-2.4.9 0 1.3.6 1.3 1.4 0 .9-.5 2.1-.8 3.3-.2 1 .5 1.8 1.5 1.8 1.8 0 3.1-1.9 3.1-4.6 0-2.4-1.7-4.1-4.2-4.1-2.9 0-4.6 2.1-4.6 4.4 0 .9.3 1.8.8 2.3.1.1.1.2.1.3l-.3 1.2c0 .2-.2.2-.4.1-1.3-.6-2.1-2.5-2.1-4 0-3.3 2.4-6.3 6.9-6.3 3.6 0 6.4 2.6 6.4 6 0 3.6-2.3 6.5-5.4 6.5-1.1 0-2.1-.6-2.4-1.2l-.7 2.5c-.2.9-.9 2.1-1.3 2.8A10 10 0 1 0 12 2z"/></svg>',
     "tag": '<svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><path d="M3 12V4h8l10 10-8 8L3 12z"/><circle cx="8" cy="9" r="1.5" fill="currentColor"/></svg>',
     "list": '<svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M8 6h13M8 12h13M8 18h13"/><circle cx="3.5" cy="6" r="1.2" fill="currentColor"/><circle cx="3.5" cy="12" r="1.2" fill="currentColor"/><circle cx="3.5" cy="18" r="1.2" fill="currentColor"/></svg>',
     "crown": '<svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><path d="M3 8l4.5 4L12 5l4.5 7L21 8l-2 11H5L3 8z"/></svg>',
@@ -154,6 +170,10 @@ h2.sec svg{color:var(--acc)}
 .cats{list-style:none;margin:0;padding:0}.cats li{border-bottom:1px solid var(--line)}.cats li:last-child{border-bottom:0}.cats a{display:flex;justify-content:space-between;padding:10px 4px;text-decoration:none;color:var(--ink);font-size:14px}.cats a:hover{color:var(--acc-d)}.cats span{color:var(--sub);font-size:12px}
 .ev{list-style:none;margin:0;padding:0}.ev li{display:grid;grid-template-columns:56px 1fr;gap:10px;padding:8px 0;border-bottom:1px solid var(--line);font-size:13px}.ev li:last-child{border-bottom:0}
 .ev time{background:var(--acc-l);color:var(--acc-d);border-radius:6px;text-align:center;font-weight:700;font-size:12px;line-height:1.3;padding:5px 0;align-self:start}.ev small{display:block;color:var(--sub)}
+.follow{list-style:none;margin:0;padding:0}.follow li{border-bottom:1px solid var(--line)}.follow li:last-child{border-bottom:0}
+.follow a{display:flex;align-items:center;gap:12px;padding:10px 2px;text-decoration:none;color:var(--ink)}.follow .ic{width:36px;height:36px;border-radius:50%;background:var(--acc-l);color:var(--acc-d);display:inline-flex;align-items:center;justify-content:center;flex-shrink:0}
+.follow b{display:block;font-size:14px}.follow small{display:block;font-size:11px;color:var(--sub);line-height:1.4}.follow .go{margin-left:auto;font-size:12px;font-weight:700;color:#fff;background:var(--acc);padding:5px 12px;border-radius:999px;white-space:nowrap}.follow a:hover .go{background:var(--acc-d)}
+.snsbar{display:flex;flex-wrap:wrap;gap:10px}.snsbar a{display:inline-flex;align-items:center;gap:8px;border:1px solid var(--line);background:#fff;border-radius:999px;padding:9px 16px;text-decoration:none;color:var(--ink);font-size:14px;font-weight:700}.snsbar a:hover{border-color:var(--acc);color:var(--acc-d)}
 /* 記事本文 */
 .post h1{font-size:clamp(21px,3vw,27px);line-height:1.5;margin:8px 0 10px}
 .meta{display:flex;flex-wrap:wrap;gap:8px 14px;align-items:center;font-size:12px;color:var(--sub);margin-bottom:16px}
@@ -301,7 +321,7 @@ def item_list_ld(items: list[dict[str, Any]], name: str) -> dict:
 def org_ld() -> dict:
     base = site_url()
     return {"@context": "https://schema.org", "@type": "Organization", "name": BRAND, "url": base or "/",
-            "logo": f"{base}assets/icon.png" if base else "assets/icon.png", "sameAs": [u for u in (X_URL, THREADS_URL, ROOM_URL) if u]}
+            "logo": f"{base}assets/icon.png" if base else "assets/icon.png", "sameAs": [u for _, u, _, _ in sns_list()]}
 
 
 def upcoming_events(n: int = 5) -> list[dict[str, str]]:
@@ -338,7 +358,8 @@ def sidebar(rel: str, popular: list[dict[str, Any]], persona_counts: dict[str, i
 <div class="box"><form class="search" action="https://www.google.com/search" method="get" target="_blank"><input type="text" name="q" placeholder="{esc(q)}キーワード" aria-label="サイト内検索"><button type="submit" aria-label="検索">{ICONS['search']}</button></form></div>
 <div class="box prof"><img src="{rel}assets/icon.png" alt="{esc(BRAND)}" width="96" height="96"><b>{esc(BRAND)}</b>
 <p>楽天市場で「本当に売れていて、買った人の評価が高い物」だけを毎日3回選んでいます。<br>・レビュー50件以上、評価4.2以上だけ<br>・セール中は「実質いくらか」を計算<br>・割引や締切は商品名にある数字だけ転記</p>
-<div class="sns"><a href="{esc(X_URL)}" aria-label="X">{ICONS['x']}</a><a href="{esc(THREADS_URL)}" aria-label="Threads">{ICONS['threads']}</a>{f'<a href="{esc(ROOM_URL)}" aria-label="楽天ROOM">{ICONS["room"]}</a>' if ROOM_URL else ''}<a href="{rel}feed.xml" aria-label="RSS">{ICONS['rss']}</a></div></div>
+<div class="sns">{''.join(f'<a href="{esc(u)}" aria-label="{esc(n)}" rel="me noopener" target="_blank">{ICONS[k]}</a>' for n, u, k, _ in sns_list())}<a href="{rel}feed.xml" aria-label="RSS">{ICONS['rss']}</a></div></div>
+<div class="box"><h3 class="sh">SNSで毎日発信中</h3><ul class="follow">{''.join(f'<li><a href="{esc(u)}" rel="me noopener" target="_blank"><span class="ic">{ICONS[k]}</span><span><b>{esc(n)}</b><small>{esc(t)}</small></span><span class="go">フォロー</span></a></li>' for n, u, k, t in sns_list())}</ul></div>
 <div class="box"><h3 class="sh">人気商品 TOP5</h3><ol class="rank">{rank_html}</ol><a class="more" style="width:auto;margin-top:14px;font-size:13px;padding:7px" href="{rel}ranking.html">ランキングをすべて見る</a></div>
 <div class="box"><h3 class="sh">近日のセール・行事</h3><ul class="ev">{ev_html or '<li>予定はありません</li>'}</ul></div>
 <div class="box"><h3 class="sh">誰向けで探す</h3><ul class="cats">{cats}</ul></div>
@@ -381,7 +402,7 @@ def layout(title: str, main_html: str, rel: str, desc: str, canonical: str | Non
 </head>
 <body>
 <div class="topbar"><div class="wrap"><span class="tag">{esc(TAGLINE)}。レビュー50件以上・評価4.2以上だけ。</span>
-<span class="sns"><a href="{esc(X_URL)}">{ICONS['x']}</a><a href="{esc(THREADS_URL)}">{ICONS['threads']}</a>{f'<a href="{esc(ROOM_URL)}">{ICONS["room"]}</a>' if ROOM_URL else ''}<a href="{rel}feed.xml">{ICONS['rss']}</a></span></div></div>
+<span class="sns">{''.join(f'<a href="{esc(u)}" aria-label="{esc(n)}" rel="me noopener" target="_blank">{ICONS[k]}</a>' for n, u, k, _ in sns_list())}<a href="{rel}feed.xml">{ICONS['rss']}</a></span></div></div>
 <header class="hdr"><div class="wrap"><a class="brand" href="{rel}index.html"><img src="{rel}assets/icon.png" alt="" width="36" height="36">{esc(BRAND)}</a>
 <nav class="gnav" aria-label="カテゴリー">{gnav}<a href="{rel}ranking.html">ランキング</a><a href="{rel}posts/index.html">記事一覧</a></nav></div></header>
 {slider_html}
@@ -389,7 +410,7 @@ def layout(title: str, main_html: str, rel: str, desc: str, canonical: str | Non
 <div class="main">{main_html}</div>
 {side_html}
 </div>
-<footer><div class="wrap"><a href="{rel}index.html">ホーム</a><a href="{rel}about.html">選び方と運営者情報</a><a href="{rel}privacy.html">プライバシーポリシー</a><a href="{rel}posts/index.html">記事一覧</a><a href="{rel}ranking.html">ランキング</a>
+<footer><div class="wrap"><a href="{rel}index.html">ホーム</a><a href="{rel}about.html">選び方と運営者情報</a><a href="{rel}privacy.html">プライバシーポリシー</a><a href="{rel}posts/index.html">記事一覧</a><a href="{rel}ranking.html">ランキング</a>{''.join(f'<a href="{esc(u)}" rel="me noopener" target="_blank">{esc(n)}</a>' for n, u, _, _ in sns_list())}
 <div class="copy">当サイトは楽天アフィリエイトの広告を含みます（PR）。掲載情報は楽天市場の公開データに基づき、価格・ポイント倍率は掲載時点のものです。<br>© {datetime.now().year} {esc(BRAND)}</div></div></footer>
 {SLIDER_JS if slider_html else ''}
 </body>
@@ -572,7 +593,7 @@ def build() -> None:
 <h2>広告について</h2>
 <p>当サイトは楽天アフィリエイトに参加しています。商品リンクは広告リンクで、リンク経由で購入されると当サイトに報酬が支払われます。報酬の有無や料率は掲載順位に影響していますが、レビュー件数と評価の基準を満たさない商品は料率が高くても掲載しません。</p>
 <h2>運営者</h2>
-<p>{esc(BRAND)}（個人運営）。更新情報は<a href="{esc(X_URL)}">X</a>、<a href="{esc(THREADS_URL)}">Threads</a>{f'、<a href="{esc(ROOM_URL)}">楽天ROOM</a>' if ROOM_URL else ''}でも発信しています。掲載内容の誤りや削除のご依頼はXのダイレクトメッセージでお知らせください。</p></article>"""
+<p>{esc(BRAND)}（個人運営）。更新情報は{'、'.join(f'<a href="{esc(u)}" rel="me noopener" target="_blank">{esc(n)}</a>' for n, u, _, _ in sns_list())}でも発信しています。掲載内容の誤りや削除のご依頼はXのダイレクトメッセージでお知らせください。</p></article>"""
     (DOCS / "about.html").write_text(layout(f"選び方と運営者情報｜{BRAND}", body, "", f"{BRAND}の掲載基準、価格表示の考え方、広告について、運営者情報。", "about.html", sidebar("", popular, persona_counts),
                                             [{"@context": "https://schema.org", "@type": "AboutPage", "name": "選び方と運営者情報", "url": f"{base}about.html" if base else "about.html"}, cr_ld]), encoding="utf-8")
     urls.append(("about.html", today))
@@ -597,7 +618,10 @@ def build() -> None:
             slides.append(f'<a class="slide" href="for/{k}.html">{collage([x.get("image_url", "") for x in pool], PERSONA_SHORT[k])}<span class="cat gray">{esc(PERSONA_SHORT[k])}</span><h3>{esc(PERSONA_SHORT[k])}に人気の楽天アイテム</h3><span class="date">{esc(PERSONA_DESC[k])}</span></a>')
     slider = f'<div class="slider"><div class="track">{"".join(slides)}</div><div class="dots">' + "".join('<span class="on"></span>' if i == 0 else "<span></span>" for i in range(len(slides))) + "</div></div>"
     who = "".join(f'<a href="for/{k}.html"><span class="ic">{PERSONA_ICON.get(k, "")}</span>{esc(PERSONA_SHORT[k])}</a>' for k in PERSONAS if k != "all")
+    snsbar = "".join(f'<a href="{esc(u)}" rel="me noopener" target="_blank">{ICONS[k]}{esc(n)}</a>' for n, u, k, _ in sns_list())
     body = (f'<section><h2 class="sec">{ICONS["tag"]}誰向けで探す</h2><div class="who">{who}</div></section>'
+            f'<section><h2 class="sec">{ICONS["user"]}SNSでも毎日発信中<small>更新をいち早く</small></h2>'
+            f'<p class="lead">セール速報やポイント倍率の高い日は、SNSのほうが早く届きます。使っているものをフォローしてください。</p><div class="snsbar">{snsbar}</div></section>'
             f'<section><h2 class="sec">{ICONS["list"]}記事一覧</h2><div class="cards">' + "".join(post_card(d) for d in days[:8]) + f'</div><a class="more" href="posts/index.html">もっと見る</a></section>')
     ld = [{"@context": "https://schema.org", "@type": "WebSite", "name": SITE_NAME, "url": base or "/", "description": "楽天市場で本当に売れている物を毎日3回、レビューと評価で厳選。", "publisher": org_ld()}, org_ld()]
     (DOCS / "index.html").write_text(layout(SITE_NAME, body, "", "楽天市場で本当に売れている物を毎日3回、レビュー50件以上・評価4.2以上の商品だけ厳選。ポイント倍率から実質価格も計算。", "", sidebar("", popular, persona_counts), ld, "website", slider), encoding="utf-8")
