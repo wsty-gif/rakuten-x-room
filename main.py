@@ -378,6 +378,14 @@ def cmd_reel_build(args, s: Settings):
     print(f"[reel] {out}（{'BGM: ' + bgm.name if bgm else '無音'}）\n{caption}")
 
 
+def cmd_topics(args, s: Settings):
+    """特集記事（行事・カテゴリ別）用の商品データを楽天から集めて data/topics.json に保存する。"""
+    from src.topics import refresh_topics
+    topics = refresh_topics(s, force=args.force)
+    for t in sorted(topics.values(), key=lambda x: x.get("kind"))[:60]:
+        print(f" - [{t['kind']:9s}] {t['title']:22s} {len(t['items']):2d}点  更新 {t['updated'][:10]}")
+
+
 def cmd_genres(args, s: Settings):
     client = MockClient() if args.mock else RakutenClient(s)
     for gid, name in client.genres(0):
@@ -398,7 +406,7 @@ def cmd_report(args, s: Settings):
 
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("cmd", choices=["plan", "run", "engage", "presale", "instagram", "reel-build", "genres", "report"])
+    ap.add_argument("cmd", choices=["plan", "run", "engage", "presale", "instagram", "reel-build", "topics", "genres", "report"])
     ap.add_argument("--force", action="store_true", help="presale: 対象日でなくても実行する")
     ap.add_argument("--slot", choices=["morning", "noon", "night"])
     ap.add_argument("--dry-run", action="store_true", help="Xに投稿せず内容だけ表示")
@@ -409,7 +417,7 @@ def main():
         print("RAKUTEN_APP_ID が未設定です。.env を作成してください（.env.example を参照）。--mock で動作確認は可能です。")
         sys.exit(1)
     {"plan": cmd_plan, "run": cmd_run, "engage": cmd_engage, "presale": cmd_presale, "instagram": cmd_instagram,
-     "reel-build": cmd_reel_build, "genres": cmd_genres, "report": cmd_report}[args.cmd](args, s)
+     "reel-build": cmd_reel_build, "topics": cmd_topics, "genres": cmd_genres, "report": cmd_report}[args.cmd](args, s)
 
 
 if __name__ == "__main__":

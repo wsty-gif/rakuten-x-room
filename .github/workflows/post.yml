@@ -93,6 +93,11 @@ jobs:
             python main.py run --slot $SLOT $DRY
           fi
 
+      # 特集記事用の商品データ（定番は7日ごと、行事は2日ごとに取り直す。夜枠のみ）
+      - name: Refresh topic articles data
+        if: steps.slot.outputs.slot == 'night' && steps.slot.outputs.dry != 'true'
+        run: python main.py topics || echo "topics refresh skipped"
+
       - name: Build blog (GitHub Pages)
         if: steps.slot.outputs.slot != 'none' && steps.slot.outputs.dry != 'true'
         env:
@@ -139,7 +144,7 @@ jobs:
         run: |
           git config user.name "rakuten-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add -f data/history.json data/site_items.json data/threads_token.json data/instagram_token.json output/*.md 2>/dev/null || true
+          git add -f data/history.json data/site_items.json data/topics.json data/threads_token.json data/instagram_token.json output/*.md 2>/dev/null || true
           git diff --cached --quiet || git commit -m "post: ${{ steps.slot.outputs.slot }} $(date +'%Y-%m-%d %H:%M')"
           git pull --rebase -X theirs origin main || true
           git push

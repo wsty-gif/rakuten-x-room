@@ -343,6 +343,33 @@ def upcoming_events(n: int = 5) -> list[dict[str, str]]:
 
 
 # ---------------------------------------------------------------- レイアウト
+_TOPICS_CACHE: list[dict[str, Any]] | None = None
+
+
+def topics_sorted() -> list[dict[str, Any]]:
+    """特集テーマを表示順で。行事は近い順、定番は今月に検索される物が上。"""
+    global _TOPICS_CACHE
+    if _TOPICS_CACHE is None:
+        from src.topics import load_topics, topic_priority
+        ts = [t for t in load_topics().values() if t.get("items")]
+        ts.sort(key=lambda t: -topic_priority(t))
+        _TOPICS_CACHE = ts
+    return _TOPICS_CACHE
+
+
+def topic_title(t: dict[str, Any], today: date | None = None) -> str:
+    today = today or date.today()
+    n = len(t.get("items", []))
+    if t.get("kind") == "event":
+        et = t.get("event_type", "season")
+        if et == "gift":
+            return f"{t['title']}のギフト・プレゼントおすすめ{n}選【{today.year}年】レビューが多くて評価が高い順"
+        if et == "sale":
+            return f"{t['title']}で買うべき物{n}選【{today.year}年{today.month}月】売れている順"
+        return f"{t['title']}に買っておきたい物{n}選【{today.year}年】レビュー順"
+    return f"{t['title']}のおすすめ{n}選【{today.year}年{today.month}月】レビューが多くて評価が高い順"
+
+
 def sidebar(rel: str, popular: list[dict[str, Any]], persona_counts: dict[str, int]) -> str:
     base = site_url()
     q = f"site:{base.replace('https://', '').rstrip('/')} " if base else ""
@@ -361,6 +388,7 @@ def sidebar(rel: str, popular: list[dict[str, Any]], persona_counts: dict[str, i
 <div class="sns">{''.join(f'<a href="{esc(u)}" aria-label="{esc(n)}" rel="me noopener" target="_blank">{ICONS[k]}</a>' for n, u, k, _ in sns_list())}<a href="{rel}feed.xml" aria-label="RSS">{ICONS['rss']}</a></div></div>
 <div class="box"><h3 class="sh">SNSで毎日発信中</h3><ul class="follow">{''.join(f'<li><a href="{esc(u)}" rel="me noopener" target="_blank"><span class="ic">{ICONS[k]}</span><span><b>{esc(n)}</b><small>{esc(t)}</small></span><span class="go">フォロー</span></a></li>' for n, u, k, t in sns_list())}</ul></div>
 <div class="box"><h3 class="sh">人気商品 TOP5</h3><ol class="rank">{rank_html}</ol><a class="more" style="width:auto;margin-top:14px;font-size:13px;padding:7px" href="{rel}ranking.html">ランキングをすべて見る</a></div>
+<div class="box"><h3 class="sh">特集記事</h3><ul class="cats">{''.join(f'<li><a href="{rel}topics/{t["slug"]}.html">{esc(t["title"])}{"のギフト" if t.get("event_type") == "gift" else ""}<span>{len(t["items"])}点</span></a></li>' for t in topics_sorted()[:8])}</ul><a class="more" style="width:auto;margin-top:14px;font-size:13px;padding:7px" href="{rel}topics/index.html">特集をすべて見る</a></div>
 <div class="box"><h3 class="sh">近日のセール・行事</h3><ul class="ev">{ev_html or '<li>予定はありません</li>'}</ul></div>
 <div class="box"><h3 class="sh">誰向けで探す</h3><ul class="cats">{cats}</ul></div>
 </aside>"""
@@ -404,7 +432,7 @@ def layout(title: str, main_html: str, rel: str, desc: str, canonical: str | Non
 <div class="topbar"><div class="wrap"><span class="tag">{esc(TAGLINE)}。レビュー50件以上・評価4.2以上だけ。</span>
 <span class="sns">{''.join(f'<a href="{esc(u)}" aria-label="{esc(n)}" rel="me noopener" target="_blank">{ICONS[k]}</a>' for n, u, k, _ in sns_list())}<a href="{rel}feed.xml">{ICONS['rss']}</a></span></div></div>
 <header class="hdr"><div class="wrap"><a class="brand" href="{rel}index.html"><img src="{rel}assets/icon.png" alt="" width="36" height="36">{esc(BRAND)}</a>
-<nav class="gnav" aria-label="カテゴリー">{gnav}<a href="{rel}ranking.html">ランキング</a><a href="{rel}posts/index.html">記事一覧</a></nav></div></header>
+<nav class="gnav" aria-label="カテゴリー"><a href="{rel}topics/index.html">特集</a>{gnav}<a href="{rel}ranking.html">ランキング</a><a href="{rel}posts/index.html">記事一覧</a></nav></div></header>
 {slider_html}
 <div class="wrap cols">
 <div class="main">{main_html}</div>
@@ -609,6 +637,9 @@ def build() -> None:
     (DOCS / "privacy.html").write_text(layout(f"プライバシーポリシー｜{BRAND}", body, "", f"{BRAND}のプライバシーポリシー。広告・クッキー・免責事項について。", "privacy.html", sidebar("", popular, persona_counts), [cr_ld]), encoding="utf-8")
     urls.append(("privacy.html", today))
 
+    # ---- 特集記事（行事・カテゴリ別）----
+    urls += render_topics(popular, persona_counts, base, today, now_iso)
+
     # ---- トップ ----
     slides = [f'<a class="slide" href="posts/{d}.html">{collage(meta[d]["imgs"], meta[d]["title"])}<span class="cat">{esc(meta[d]["cat"])}</span><h3>{esc(meta[d]["title"])}</h3><span class="date">{esc(jp_date(d))}</span></a>' for d in days[:3]]
     slides.append(f'<a class="slide" href="ranking.html">{collage([x.get("image_url", "") for x in popular[:4]], "ランキング")}<span class="cat gray">ランキング</span><h3>レビュー評価で選ぶ楽天の人気商品ランキング</h3><span class="date">毎日更新</span></a>')
@@ -619,8 +650,15 @@ def build() -> None:
     slider = f'<div class="slider"><div class="track">{"".join(slides)}</div><div class="dots">' + "".join('<span class="on"></span>' if i == 0 else "<span></span>" for i in range(len(slides))) + "</div></div>"
     who = "".join(f'<a href="for/{k}.html"><span class="ic">{PERSONA_ICON.get(k, "")}</span>{esc(PERSONA_SHORT[k])}</a>' for k in PERSONAS if k != "all")
     snsbar = "".join(f'<a href="{esc(u)}" rel="me noopener" target="_blank">{ICONS[k]}{esc(n)}</a>' for n, u, k, _ in sns_list())
+    tops = topics_sorted()[:6]
+    topic_cards = "".join(
+        f'<a class="pcard" href="topics/{t["slug"]}.html">{collage([x.get("image_url", "") for x in t["items"][:4]], t["title"])}'
+        f'<span class="cat{"" if t.get("kind") == "event" else " gray"}">{"行事" if t.get("kind") == "event" else "定番"}</span>'
+        f'<h3>{esc(topic_title(t))}</h3><span class="date">{esc(t["updated"][:10].replace("-", "/"))} 更新</span></a>' for t in tops)
     body = (f'<section><h2 class="sec">{ICONS["tag"]}誰向けで探す</h2><div class="who">{who}</div></section>'
-            f'<section><h2 class="sec">{ICONS["user"]}SNSでも毎日発信中<small>更新をいち早く</small></h2>'
+            + (f'<section><h2 class="sec">{ICONS["cal"]}特集<small>行事とカテゴリ別</small></h2><div class="cards">{topic_cards}</div>'
+               f'<a class="more" href="topics/index.html">特集をすべて見る</a></section>' if tops else "")
+            + f'<section><h2 class="sec">{ICONS["user"]}SNSでも毎日発信中<small>更新をいち早く</small></h2>'
             f'<p class="lead">セール速報やポイント倍率の高い日は、SNSのほうが早く届きます。使っているものをフォローしてください。</p><div class="snsbar">{snsbar}</div></section>'
             f'<section><h2 class="sec">{ICONS["list"]}記事一覧</h2><div class="cards">' + "".join(post_card(d) for d in days[:8]) + f'</div><a class="more" href="posts/index.html">もっと見る</a></section>')
     ld = [{"@context": "https://schema.org", "@type": "WebSite", "name": SITE_NAME, "url": base or "/", "description": "楽天市場で本当に売れている物を毎日3回、レビューと評価で厳選。", "publisher": org_ld()}, org_ld()]
@@ -650,6 +688,117 @@ def build() -> None:
         n_pins = n_cards = 0
 
     print(f"生成完了: docs/  日別記事 {len(days)} 本、商品 {len(items)} 点、ページ {len(urls) + 1}、カード画像 {n_cards} 点、Pinterest用フィード {n_pins} 件、URL {base or '(SITE_URL 未設定)'}")
+
+
+# ---------------------------------------------------------------- 特集記事
+TOPIC_INTRO = {
+    "evergreen": [
+        "{kw}を楽天市場で探すと数千点出てきますが、レビューが少ない商品や評価の低い商品を除くと、候補はぐっと絞れます。ここではレビュー50件以上・評価4.2以上の{n}点を、レビュー件数と評価の高い順に並べました。",
+        "{kw}は「買ってみないと分からない」タイプの商品なので、先に買った人の数と評価が一番の判断材料です。{n}点すべて、レビュー50件以上・評価4.2以上。価格帯は{pmin:,}〜{pmax:,}円です。",
+    ],
+    "gift": [
+        "{kw}は、贈る相手の顔が思い浮かぶ物ほど喜ばれます。ここでは「レビューが多く、評価が高く、配送日が選べる」ことを基準に{n}点を選びました。締切のある商品は締切も書いています。",
+        "{name}のプレゼントで失敗しないコツは、レビューの多い定番を選ぶことです。{n}点を、レビュー件数と評価の順に並べました。ギフト包装やのしの対応は各商品ページで確認してください。",
+    ],
+    "sale": [
+        "{name}で買い物をするなら、普段から売れていて評価が高い物を、セール価格で買うのが一番損をしません。ここでは{n}点を、レビュー件数と評価の順に並べました。ポイント倍率から実質価格も出しています。",
+    ],
+    "season": [
+        "{name}に向けて、楽天市場で売れている物を{n}点集めました。レビュー50件以上・評価4.2以上だけです。早めに揃えておくと、人気商品の在庫切れやセール終了に振り回されずに済みます。",
+    ],
+}
+
+
+def _topic_intro(t: dict[str, Any]) -> str:
+    items = t["items"]
+    prices = [int(x["price"]) for x in items]
+    kind = t.get("kind", "evergreen")
+    key = t.get("event_type", "season") if kind == "event" else "evergreen"
+    pool = TOPIC_INTRO.get(key) or TOPIC_INTRO["evergreen"]
+    tpl = pool[sum(ord(c) for c in t["slug"]) % len(pool)]
+    return tpl.format(kw=t["title"], name=t["title"], n=len(items), pmin=min(prices), pmax=max(prices))
+
+
+def _topic_tips(t: dict[str, Any]) -> list[str]:
+    """データから作る「選び方」。推測や効能は書かず、数字で言えることだけ。"""
+    items = t["items"]
+    prices = sorted(int(x["price"]) for x in items)
+    rcs = [int(x["review_count"]) for x in items]
+    avgs = [float(x["review_average"]) for x in items]
+    med = prices[len(prices) // 2]
+    tips = [
+        f"価格は{prices[0]:,}〜{prices[-1]:,}円。中央値は{med:,}円で、この前後が「売れ筋の価格帯」です。",
+        f"レビュー件数は最多で{max(rcs):,}件、評価は{min(avgs)}〜{max(avgs)}。件数が多く評価が4.5を超える物は、当たり外れが少ない傾向です。",
+    ]
+    pts = [x for x in items if int(x.get("point_rate", 1) or 1) >= 5]
+    if pts:
+        tips.append(f"ポイント{max(int(x['point_rate']) for x in pts)}倍の商品が{len(pts)}点あります。表示価格が同じなら、倍率の高い方が実質は安くなります。")
+    ships = sum(1 for x in items if "送料無料" in x["name"])
+    if ships:
+        tips.append(f"{len(items)}点中{ships}点が送料無料表記。送料込みで比べると順位が入れ替わることがあります。")
+    if t.get("kind") == "event" and t.get("start"):
+        tips.append(f"{t['title']}は{jp_date(t['start'])}{'〜' + jp_date(t['end']) if t.get('end') != t.get('start') else ''}。配送日指定ができる商品は、早めの注文で希望日に届きます。")
+    return tips
+
+
+def render_topics(popular: list[dict[str, Any]], persona_counts: dict[str, int], base: str, today: str, now_iso: str) -> list[tuple[str, str]]:
+    ts = topics_sorted()
+    if not ts:
+        return []
+    (DOCS / "topics").mkdir(exist_ok=True)
+    urls: list[tuple[str, str]] = []
+    for t in ts:
+        title = topic_title(t)
+        items = t["items"]
+        desc = (f"{t['title']}を楽天市場のレビュー件数と評価で厳選した{len(items)}点。レビュー50件以上・評価4.2以上だけ。"
+                + "、".join(_short_name(x["name"], 14) for x in items[:3]) + " など。ポイント倍率から実質価格も計算。")
+        cr, cr_ld = crumbs("../", [("topics/index.html", "特集"), ("", t["title"])])
+        persona = t.get("persona", "all")
+        rel_topics = [u for u in ts if u["slug"] != t["slug"] and (u.get("persona") == persona or u.get("kind") == t.get("kind"))][:6]
+        body = (f'<article class="post">{cr}<div class="meta"><span class="cat{"" if t.get("kind") == "event" else " gray"}">{"行事" if t.get("kind") == "event" else "定番"}</span>'
+                f'<time datetime="{t["updated"][:10]}">{esc(jp_date(t["updated"][:10]))}更新</time><span>文・{esc(BRAND)}</span></div>'
+                f'<h1>{esc(title)}</h1><div class="eyecatch">{collage([x.get("image_url", "") for x in items[:4]], title)}</div>'
+                f'<p class="intro">{esc(_topic_intro(t))}</p>')
+        toc = "".join(f'<li><a href="#item{i}">{i}. {esc(_short_name(x["name"], 26))}</a></li>' for i, x in enumerate(items, 1))
+        body += f'<nav class="toc"><b>この記事の商品</b><ol>{toc}</ol></nav>'
+        body += f'<h2 class="h">{esc(t["title"])}の選び方</h2><ul style="font-size:15px;padding-left:22px">' + "".join(f"<li>{esc(x)}</li>" for x in _topic_tips(t)) + "</ul>"
+        body += f'<h2 class="h">{esc(t["title"])} おすすめ{len(items)}選</h2>'
+        for i, x in enumerate(items, 1):
+            body += item_box(x, i)
+        body += ('<h2 class="h">この記事の基準</h2><div class="note">楽天市場の商品検索をレビュー件数順に取得し、レビュー50件以上・評価4.2以上・中古品以外に絞り、'
+                 'レビュー件数・評価・ポイント倍率で点数を付けて上位を掲載しています。同じ店は2点まで。価格と倍率は更新時点の情報です。'
+                 '詳しくは<a href="../about.html">選び方と運営者情報</a>をご覧ください。</div>')
+        if rel_topics:
+            body += '<h2 class="sec" style="margin-top:34px">関連する特集</h2><ul class="cats">' + "".join(
+                f'<li><a href="{u["slug"]}.html">{esc(topic_title(u))}<span>{len(u["items"])}点</span></a></li>' for u in rel_topics) + "</ul>"
+        if persona in PERSONA_SHORT and persona != "all":
+            body += f'<p style="margin-top:16px"><a href="../for/{persona}.html">{esc(PERSONA_SHORT[persona])}に人気の楽天アイテム</a>もあわせてどうぞ。</p>'
+        body += "</article>"
+        ld = [{"@context": "https://schema.org", "@type": "Article", "headline": title[:110], "description": desc,
+               "datePublished": (t.get("first_seen") or t["updated"])[:19] + "+09:00", "dateModified": t["updated"][:19] + "+09:00",
+               "author": {"@type": "Organization", "name": BRAND}, "publisher": org_ld(),
+               "image": [x.get("image_url") for x in items[:3] if x.get("image_url")],
+               "mainEntityOfPage": f"{base}topics/{t['slug']}.html" if base else f"topics/{t['slug']}.html"},
+              item_list_ld(items, title), cr_ld]
+        first_img = next((x.get("image_url") for x in items if x.get("image_url")), "")
+        (DOCS / "topics" / f"{t['slug']}.html").write_text(
+            layout(f"{title}｜{BRAND}", body, "../", desc, f"topics/{t['slug']}.html", sidebar("../", popular, persona_counts), ld, "article", og_image=first_img), encoding="utf-8")
+        urls.append((f"topics/{t['slug']}.html", t["updated"][:10]))
+
+    # 一覧
+    cr, cr_ld = crumbs("../", [("", "特集")])
+    events = [t for t in ts if t.get("kind") == "event"]
+    ever = [t for t in ts if t.get("kind") != "event"]
+    def cards(lst):
+        return '<div class="cards">' + "".join(
+            f'<a class="pcard" href="{t["slug"]}.html">{collage([x.get("image_url", "") for x in t["items"][:4]], t["title"])}'
+            f'<span class="cat{"" if t.get("kind") == "event" else " gray"}">{len(t["items"])}点</span><h3>{esc(topic_title(t))}</h3>'
+            f'<span class="date">{esc(t["updated"][:10].replace("-", "/"))} 更新</span></a>' for t in lst) + "</div>"
+    body = f'<section>{cr}<h2 class="sec" style="margin-top:14px">{ICONS["cal"]}近い行事の特集</h2>' + (cards(events) if events else "<p>いま近い行事はありません。</p>") + "</section>"
+    body += f'<section><h2 class="sec">{ICONS["list"]}定番の特集<small>毎週更新</small></h2>' + cards(ever) + "</section>"
+    (DOCS / "topics" / "index.html").write_text(layout(f"特集一覧｜{BRAND}", body, "../", "行事別・カテゴリ別に、楽天で売れている物をレビュー件数と評価で厳選した特集の一覧。", "topics/index.html", sidebar("../", popular, persona_counts), [cr_ld]), encoding="utf-8")
+    urls.append(("topics/index.html", today))
+    return urls
 
 
 # ---------------------------------------------------------------- Pinterest 自動公開用 RSS
@@ -705,6 +854,15 @@ def generate_cards(items: list[dict[str, Any]], days: int = 7, cap: int = 150) -
     cutoff = (datetime.now() - timedelta(days=days)).isoformat()
     recent = sorted([e for e in items if e.get("image_url") and e.get("last_seen", "") >= cutoff],
                     key=lambda x: x.get("last_seen", ""), reverse=True)[:cap]
+    # 行事の特集は上位6点、定番は上位3点もカードにする（Pinterest 先回りフィード用）
+    seen = {e["item_code"] for e in recent}
+    for t in topics_sorted():
+        for x in t["items"][: 6 if t.get("kind") == "event" else 3]:
+            if x["item_code"] not in seen and x.get("image_url"):
+                y = dict(x)
+                y.setdefault("themes", [{"theme": t["title"], "event_type": t.get("event_type", "baseline"), "persona": t.get("persona", "all"), "date": t["updated"][:10], "slot": "topic"}])
+                recent.append(y)
+                seen.add(x["item_code"])
     made = 0
     for e in recent:
         prod = dict(e)
@@ -798,7 +956,30 @@ def write_pin_feeds(items: list[dict[str, Any]], by_persona: dict[str, dict[str,
             continue
         lst = newest(by_persona.get(key, {}).values())
         (DOCS / "pin" / f"{key}.xml").write_text(head + "".join(pin_item(e, base) for e in lst) + tail, encoding="utf-8")
+    # 特集フィード: 行事（45日先まで）を優先。ピンのリンク先は特集記事（Pinterest は30〜45日先を探す人が多い）
+    tp_items = []
+    for t in topics_sorted():
+        take = 6 if t.get("kind") == "event" else 3
+        for x in t["items"][:take]:
+            tp_items.append((t, x))
+    (DOCS / "pin" / "topics.xml").write_text(head + "".join(topic_pin_item(t, x, base) for t, x in tp_items[:100]) + tail, encoding="utf-8")
     return total
+
+
+def topic_pin_item(t: dict[str, Any], e: dict[str, Any], base: str) -> str:
+    deal = deal_of(e)
+    name = _short_name(e["name"], 34)
+    kind = t.get("kind")
+    head = (f"{t['title']}のギフトに" if t.get("event_type") == "gift" else f"{t['title']}に向けて" if kind == "event" else f"{t['title']}のおすすめ")
+    title = "｜".join(x for x in [head, name, deal.get("discount") or ("楽天ランキング1位" if deal.get("rank1") else "")] if x)[:100]
+    pt = e.get("point_rate", 1)
+    desc = (f"{head}。{name}。レビュー{e['review_count']:,}件で★{e['review_average']}。{e['price']:,}円"
+            + (f"（ポイント{pt}倍で実質{int(e['price'] * (1 - pt / 100)):,}円）" if pt >= 2 else "") + "。"
+            + f"{t['title']}の候補をレビュー50件以上・評価4.2以上の基準で{len(t['items'])}点まとめました。#楽天購入品 #PR")[:480]
+    img = _card_url(e, base) or _pin_image(e.get("image_url", ""))
+    return (f"<item><title>{esc(title)}</title><link>{esc(base)}topics/{esc(t['slug'])}.html</link><guid isPermaLink=\"false\">topic:{esc(t['slug'])}:{esc(e['item_code'])}</guid>"
+            f"<description>{esc(desc)}</description><pubDate>{_rfc822(t.get('updated', ''))}</pubDate>"
+            f"<enclosure url=\"{esc(img)}\" type=\"image/jpeg\" length=\"0\"/><media:content url=\"{esc(img)}\" medium=\"image\"/></item>")
 
 
 if __name__ == "__main__":
