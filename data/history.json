@@ -2747,5 +2747,16 @@
   "affiliate_rate": 4.0,
   "text": "週末のお楽しみ用に。レビュー1,929件で★4.78。ポイント2倍で実質5,590円。",
   "room_done": false
+ },
+ {
+  "date": "2026-09-27T18:54:35",
+  "slot": "evening",
+  "kind": "engage",
+  "engage_key": "poll3",
+  "theme": "反応投稿（poll）",
+  "persona": "all",
+  "text": "5と0のつく日、意識して買ってる？",
+  "tweet_id": "2104147658273120676",
+  "threads_id": "17919053982442981"
  }
 ]
