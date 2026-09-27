@@ -29,3 +29,29 @@
 
 - **20代女性のリピート候補**: SUBU サンダル 暖かい メンズ / きれいめはっ水 4本タックデザイン パンツ / 29日10時まで / UVカット率 タンキニ 水着 レディース
 
+## 12:57 今売れている物 × 40代男性（家族・晩酌・車）
+
+1. **コンタクトレンズ ワンデー コンタクト ｜ ワンデーアキュビュー モイスト 90枚パック 2箱セット 1日使い捨て コン**
+   - 価格: 13,530円 / ★4.66（8,150件） / 料率 4.0% / P3倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qvpko.72d3yd83.g00qvpko.72d3z3a5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpricon%2Fc-1dayms90-2p%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpricon%2Fi%2F10000128%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 週末のお楽しみ用に。ベースカーブ（BC）度数（PWR）。レビュー8,150件で★4.66。ポイント3倍で実質13,124円。
+
+2. **【20%OFFクーポン＋ポイント5倍！9/19 0:00〜9/27 23:59まで】【レビュー特典あり】公式 浄水器のブ**
+   - 価格: 4,191円 / ★4.67（10,244件） / 料率 2.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00tbsuo.72d3y673.g00tbsuo.72d3zedf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbrita%2Fliquelli-2c%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbrita%2Fi%2F10000051%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 週末のお楽しみ用に。レビュー10,244件で★4.67。20%OFF（9/2723:59まで）。
+
+3. **【レビュー特典あり】【訳アリ】公式 浄水器のブリタ 交換用カートリッジ マクストラプロ ピュアパフォーマンス3個セット **
+   - 価格: 3,780円 / ★4.75（13,461件） / 料率 2.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00tbsuo.72d3y673.g00tbsuo.72d3zedf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbrita%2Fmaxtraplus-3-w%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbrita%2Fi%2F10000052%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: まとめ買い向き。レビュー13,461件で★4.75。3,780円。
+
+4. **メダリストワンデープラス 90枚パック ×2箱セット ボシュロム コンタクトレンズ ワンデー コンタクト 1day 1日**
+   - 価格: 5,705円 / ★4.78（1,929件） / 料率 4.0% / P2倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00s2zro.72d3yb2d.g00s2zro.72d3z0fe/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flensfree%2Fbl1dmp90-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flensfree%2Fi%2F10000056%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 週末のお楽しみ用に。レビュー1,929件で★4.78。ポイント2倍で実質5,590円。
+
+### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
+
+- **40代男性のリピート候補**: コンタクトレンズ ワンデー コンタクト / 公式 浄水器のブリタ ポット型浄水器 / 公式 浄水器のブリタ 交換用カートリッジ / メダリストワンデープラス 90枚パック
+
