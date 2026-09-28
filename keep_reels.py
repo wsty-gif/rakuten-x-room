@@ -48,12 +48,12 @@ def main() -> None:
                 continue
         except ValueError:
             continue
-        for ext in ("mp4", "json"):
-            dst = REELS / f"{d}.{ext}"
+        for ext in ("mp4", "json", "_slides.zip"):
+            dst = REELS / (f"{d}{ext}" if ext.startswith("_") else f"{d}.{ext}")
             if dst.exists():
                 continue
             try:
-                res = requests.get(f"{base}reels/{d}.{ext}", timeout=120)
+                res = requests.get(f"{base}reels/{dst.name}", timeout=120)
                 if res.status_code == 200 and res.content:
                     dst.write_bytes(res.content)
                     kept += 1

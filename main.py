@@ -342,9 +342,9 @@ def cmd_instagram(args, s: Settings):
                 from src.config import _env
                 topic = _env("NTFY_TOPIC")
                 if topic and public:
-                    send(topic, f"TikTok用の動画ができました（{today[5:].replace('-', '/')}）",
-                         "タップ → 「動画を保存」→ TikTok / Shorts に投稿。キャプションは同じページに。", f"{base}reels/index.html",
-                         tags=["clapper"])
+                    tt = json.loads(meta_file.read_text(encoding="utf-8")) if meta_file.exists() else {}
+                    send(topic, f"TikTok用スライドと投稿文ができました（{today[5:].replace('-', '/')}）",
+                         (tt.get("tiktok_caption") or "タップして開く")[:900], f"{base}reels/index.html", tags=["clapper"])
             except Exception as e:
                 print(f"  [warn] 動画通知失敗: {e}")
     if poster:
@@ -352,53 +352,98 @@ def cmd_instagram(args, s: Settings):
 
 
 def cmd_reel_build(args, s: Settings):
-    """今日の商品からリール動画（9:16、約15秒）を docs/reels/YYYY-MM-DD.mp4 に作る。ブログ公開の前に実行する。"""
-    from src.reel_video import build_reel, find_bgm, render_end_card, render_title_card
-    from src.pin_image import safe_name
-    from src.writer import _short_name
+    """今日の商品から TikTok フォトモード用スライド一式と、同じ構成の動画（Instagram リール用）を作る。ブログ公開の前に実行する。
+    出力: docs/reels/YYYY-MM-DD/01.jpg…（スライド）, YYYY-MM-DD_slides.zip, YYYY-MM-DD.mp4, YYYY-MM-DD.json（投稿文）"""
+    from src.reel_video import build_reel, find_bgm
+    from src.site_store import load_site_items
+    from src.tiktok_slides import brand_of, make_slide_set, short_name, zip_slides
+    from src.topics import load_topics
     today = datetime.now().strftime("%Y-%m-%d")
     history = load_history()
-    prods = [h for h in history if (h.get("kind") or "product") == "product" and h.get("date", "")[:10] == today and h.get("item_code")]
-    # ROOM向けに選んだ商品も候補に足し、価格×レビューで上位3点
-    rooms = [h for h in history if h.get("kind") == "room" and h.get("date", "")[:10] == today and h.get("item_code")]
+    store = load_site_items()
+
+    # ---- 商品を集める（今日X/ROOMに出した物 → 直近の特集の行事 → サイトの新着）----
     seen, cands = set(), []
-    for h in prods + rooms:
-        if h["item_code"] in seen:
+    def add(code, extra=None):
+        if not code or code in seen:
+            return
+        it = store.get(code)
+        if not it or not it.get("image_url"):
+            return
+        seen.add(code)
+        d = dict(it)
+        if extra:
+            d.update(extra)
+        cands.append(d)
+    for h in history:
+        if h.get("date", "")[:10] == today and (h.get("kind") or "product") in ("product", "room"):
+            add(h.get("item_code"))
+    event_topic = None
+    for t in sorted(load_topics().values(), key=lambda x: x.get("start", "9999")):
+        if t.get("kind") == "event" and t.get("start", "") >= today:
+            event_topic = t
+            for x in t["items"][:6]:
+                if x.get("item_code") not in seen and x.get("image_url"):
+                    seen.add(x["item_code"]); cands.append(dict(x))
+            break
+    for it in sorted(store.values(), key=lambda x: x.get("last_seen", ""), reverse=True)[:40]:
+        add(it.get("item_code"))
+    # レビュー数×評価で上位7点。同じ店は1点まで
+    cands.sort(key=lambda x: -(float(x.get("review_average", 0) or 0) * (int(x.get("review_count", 0) or 0) ** 0.5)))
+    picks, shops = [], set()
+    for it in cands:
+        if it.get("shop_name") in shops:
             continue
-        seen.add(h["item_code"])
-        cands.append(h)
-    story_dir = ROOT / "docs" / "story"
-    cands = [h for h in cands if (story_dir / f"{safe_name(h['item_code'])}.jpg").exists()]
-    if len(cands) < 2:
-        print(f"リール用の商品カードが足りません（{len(cands)}点）。ブログ生成後に実行してください。")
+        shops.add(it.get("shop_name"))
+        picks.append(it)
+        if len(picks) >= 7:
+            break
+    if len(picks) < 3:
+        print(f"スライド用の商品が足りません（{len(picks)}点）。")
         return
-    picks = cands[:3]
+
+    # ---- タイトル（参考: 「人気ギフト予算2万円 7選」）----
     _, m, d = today.split("-")
-    brand = os.environ.get("SITE_NAME") or "らくみつ｜楽天で見つけた良いもの"
-    brand_name = brand.split("｜")[0]
-    tagline = brand.split("｜")[1] if "｜" in brand else "楽天で見つけた良いもの"
-    tmp = ROOT / "output" / "reel_tmp"
-    tmp.mkdir(parents=True, exist_ok=True)
-    title = render_title_card(f"今日の楽天\n売れ筋{len(picks)}選", f"{int(m)}月{int(d)}日｜レビューが多くて評価が高い物だけ", brand_name, tmp / "title.jpg")
-    end = render_end_card(brand_name, tagline, tmp / "end.jpg")
-    clips = [(title, 2.5)] + [(story_dir / f"{safe_name(h['item_code'])}.jpg", 4.0) for h in picks] + [(end, 2.5)]
-    bgm = find_bgm(ROOT / "assets" / "bgm")
+    maxp = max(int(x["price"]) for x in picks)
+    budget = next(b for b in (3000, 5000, 10000, 20000, 30000, 50000, 100000) if maxp <= b)
+    budget_txt = f"{budget // 10000}万円" if budget >= 10000 else f"{budget:,}円"
+    n = len(picks)
+    NL = chr(10)
+    if event_topic and event_topic.get("event_type") == "gift":
+        title, theme_tag = f"{event_topic['title']}ギフト{NL}予算{budget_txt} {n}選", f"#{event_topic['title']}"
+    elif event_topic and event_topic.get("event_type") == "sale":
+        title, theme_tag = f"{event_topic['title']}で{NL}買うべき {n}選", "#楽天セール"
+    elif event_topic:
+        title, theme_tag = f"{event_topic['title']}に{NL}買っておきたい {n}選", "#季節の準備"
+    else:
+        title, theme_tag = f"楽天で今売れてる{NL}予算{budget_txt} {n}選", "#楽天購入品"
+    brand_name = (os.environ.get("SITE_NAME") or "らくみつ｜楽天で見つけた良いもの").split("｜")[0]
+
+    # ---- スライド一式 → zip → 動画 ----
+    out_dir = ROOT / "docs" / "reels" / today
+    paths = make_slide_set(picks, title, "レビュー4.2以上・50件以上だけ", brand_name, out_dir)
+    zip_slides(paths, ROOT / "docs" / "reels" / f"{today}_slides.zip")
+    clips = [(paths[0], 2.5)] + [(p, 3.0) for p in paths[1:-1]] + [(paths[-1], 2.5)]
     out = ROOT / "docs" / "reels" / f"{today}.mp4"
+    bgm = find_bgm(ROOT / "assets" / "bgm")
     build_reel(clips, out, bgm)
-    names = [_short_name(h.get("item_name", ""), 30) for h in picks]
-    caption = "\n".join([
-        f"今日の楽天売れ筋{len(picks)}選（{int(m)}/{int(d)}）",
-        "",
-    ] + [f"{i}. {n}" for i, n in enumerate(names, 1)] + [
-        "",
-        "レビュー50件以上・評価4.2以上の物だけを毎日3回選んでいます。",
-        "🔖 保存しておくとセールのときに探しやすいです",
-        "▶ 商品リンクはプロフィールのまとめサイトから",
-        "",
-        "#PR #楽天購入品 #楽天ROOM #楽天市場 #楽天でお買い物 #おすすめ商品 #買ってよかった #リピ買い #お得情報 #買い物メモ #暮らしを整える #時短家事",
-    ])
-    (ROOT / "docs" / "reels" / f"{today}.json").write_text(json.dumps({"caption": caption, "items": [h["item_code"] for h in picks]}, ensure_ascii=False), encoding="utf-8")
-    print(f"[reel] {out}（{'BGM: ' + bgm.name if bgm else '無音'}）\n{caption}")
+
+    # ---- 投稿文（TikTok用 / Instagram用）----
+    flat_title = title.replace(NL, " ")
+    lines = []
+    for i, x in enumerate(picks, 1):
+        b = brand_of(x["name"], x.get("shop_name", ""))
+        lines.append(f"{'①②③④⑤⑥⑦⑧⑨'[i-1]} {b}｜{short_name(x['name'], b, 24)} ¥{int(x['price']):,}")
+    tiktok = NL.join([flat_title, ""] + lines + ["", "保存して、あとでゆっくり見返してね🔖", "商品はプロフィールのリンク（まとめサイト）から", "",
+                        f"#楽天購入品 #楽天 {theme_tag} #買ってよかった #おすすめ #PR #楽天ROOM #tiktokで買い物 #プチプラ"])
+    insta = NL.join([flat_title, ""] + lines + ["", "レビュー50件以上・評価4.2以上の物だけを毎日選んでいます。", "🔖 保存しておくとセールのときに探しやすいです",
+                       "▶ 商品リンクはプロフィールのまとめサイトから", "",
+                       f"#PR #楽天購入品 #楽天ROOM #楽天市場 {theme_tag} #買ってよかった #リピ買い #お得情報 #買い物メモ #暮らしを整える"])
+    (ROOT / "docs" / "reels" / f"{today}.json").write_text(json.dumps({
+        "title": flat_title, "caption": insta, "tiktok_caption": tiktok, "items": [x["item_code"] for x in picks],
+        "slides": [p.name for p in paths]}, ensure_ascii=False), encoding="utf-8")
+    print(f"[reel] {out.name} / スライド {len(paths)} 枚（{'BGM: ' + bgm.name if bgm else '無音'}）")
+    print(tiktok)
 
 
 def cmd_topics(args, s: Settings):

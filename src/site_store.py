@@ -38,6 +38,7 @@ def save_site_items(cands: list[Product], theme: Theme, posts: list[dict[str, An
             "shop_name": p.shop_name, "review_count": p.review_count, "review_average": p.review_average,
             "affiliate_rate": p.affiliate_rate, "point_rate": p.point_rate, "catchcopy": p.catchcopy,
             "genre_id": p.genre_id, "score": round(p.score, 2), "last_seen": stamp,
+            "image_urls": list(p.image_urls or [p.image_url]), "caption": p.caption,
         })
         # 同じ日に同じテーマで複数回出た場合は1件にまとめる
         themes = [t for t in e["themes"] if not (t["date"] == day and t["slot"] == theme.slot)]

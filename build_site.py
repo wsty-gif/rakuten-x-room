@@ -818,23 +818,31 @@ def render_reels_page(popular, persona_counts, base: str, today: str) -> list[tu
                 meta = json.loads(mj.read_text(encoding="utf-8"))
             except Exception:
                 meta = {}
-        entries.append({"date": d, "mp4": f"reels/{d}.mp4", "caption": meta.get("caption", ""), "items": meta.get("items", [])})
+        slides_dir = reels_dir / d
+        slides = sorted(p.name for p in slides_dir.glob("*.jpg")) if slides_dir.exists() else []
+        entries.append({"date": d, "mp4": f"reels/{d}.mp4", "zip": f"reels/{d}_slides.zip" if (reels_dir / f"{d}_slides.zip").exists() else "",
+                        "slides": [f"reels/{d}/{n}" for n in slides], "title": meta.get("title", ""),
+                        "caption": meta.get("caption", ""), "tiktok_caption": meta.get("tiktok_caption", ""), "items": meta.get("items", [])})
     (reels_dir / "index.json").write_text(json.dumps(entries, ensure_ascii=False), encoding="utf-8")
     if not entries:
         return []
     cr, cr_ld = crumbs("../", [("", "動画")])
+    ta = 'readonly style="width:100%;height:170px;font-size:13px;border:1px solid var(--line);border-radius:8px;padding:10px"'
     blocks = ""
     for e in entries:
-        tiktok = "\n".join([l for l in e["caption"].splitlines() if not l.startswith("#")][:6] + ["", "#楽天購入品 #楽天 #買ってよかった #おすすめ #PR"])
-        blocks += (f'<section><h2 class="sec">{ICONS["cal"]}{esc(jp_date(e["date"]))}の動画</h2>'
-                   f'<video controls playsinline preload="metadata" style="width:100%;max-width:360px;border-radius:12px;background:#000" src="../{esc(e["mp4"])}"></video>'
+        tiktok = e.get("tiktok_caption") or "\n".join([l for l in e["caption"].splitlines() if not l.startswith("#")][:6] + ["", "#楽天購入品 #楽天 #買ってよかった #おすすめ #PR"])
+        thumbs = "".join(f'<a href="../{esc(u)}" download><img loading="lazy" src="../{esc(u)}" alt="" style="width:100%;border-radius:8px;border:1px solid var(--line)"></a>' for u in e["slides"])
+        blocks += (f'<section><h2 class="sec">{ICONS["cal"]}{esc(jp_date(e["date"]))}｜{esc(e.get("title", ""))}</h2>'
+                   + (f'<p class="lead"><b>TikTok（フォトモード）用のスライド {len(e["slides"])} 枚</b>。1枚ずつ長押しで保存するか、zip をダウンロードして写真に入れる → TikTok で「写真」を選び、この順に並べて、音楽をアプリ内で付ける。</p>'
+                      f'<div style="display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin:8px 0 12px">{thumbs}</div>' if e["slides"] else "")
+                   + (f'<p style="margin:6px 0"><a class="btn" style="display:inline-flex" href="../{esc(e["zip"])}" download>スライド一式を保存（zip）</a></p>' if e.get("zip") else "")
+                   + f'<p class="lead" style="margin-top:14px"><b>動画版（Instagram リール / YouTube Shorts 用）</b></p>'
+                   f'<video controls playsinline preload="metadata" style="width:100%;max-width:300px;border-radius:12px;background:#000" src="../{esc(e["mp4"])}"></video>'
                    f'<p style="margin:10px 0"><a class="btn" style="display:inline-flex" href="../{esc(e["mp4"])}" download>動画を保存（mp4）</a></p>'
-                   f'<p class="lead">TikTok / Shorts 用のキャプション（長押しでコピー）</p>'
-                   f'<textarea readonly style="width:100%;height:150px;font-size:13px;border:1px solid var(--line);border-radius:8px;padding:10px">{esc(tiktok)}</textarea>'
-                   f'<p class="lead" style="margin-top:8px">Instagram 用（そのまま使えます）</p>'
-                   f'<textarea readonly style="width:100%;height:150px;font-size:13px;border:1px solid var(--line);border-radius:8px;padding:10px">{esc(e["caption"])}</textarea></section>')
-    body = (f'<section>{cr}<h2 class="sec" style="margin-top:14px">{ICONS["list"]}動画（直近7日）</h2>'
-            f'<p class="lead">毎晩生成している「今日の楽天売れ筋3選」の動画です。スマホで「動画を保存」→ TikTok や YouTube Shorts に投稿できます。7日で消えます。</p></section>' + blocks)
+                   f'<p class="lead">TikTok 用の投稿文（長押しでコピー）</p><textarea {ta}>{esc(tiktok)}</textarea>'
+                   f'<p class="lead" style="margin-top:8px">Instagram / Shorts 用</p><textarea {ta}>{esc(e["caption"])}</textarea></section>')
+    body = (f'<section>{cr}<h2 class="sec" style="margin-top:14px">{ICONS["list"]}TikTok・動画（直近7日）</h2>'
+            f'<p class="lead">毎晩生成している商品紹介スライドです。TikTok はフォトモード（写真を音楽付きでスライド表示）で投稿すると、参考にした投稿と同じ見え方になります。7日で消えます。</p></section>' + blocks)
     (reels_dir / "index.html").write_text(layout(f"動画｜{BRAND}", body, "../", "毎晩生成している楽天売れ筋の短い動画。", None, sidebar("../", popular, persona_counts), [cr_ld]).replace('<meta name="robots" content="index,follow,max-image-preview:large">', '<meta name="robots" content="noindex,nofollow">'), encoding="utf-8")
     return []
 

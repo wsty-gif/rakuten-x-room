@@ -3,7 +3,7 @@ from __future__ import annotations
 
 import re
 import time
-from dataclasses import dataclass, asdict
+from dataclasses import dataclass, asdict, field
 from typing import Any
 
 import requests
@@ -34,6 +34,7 @@ class Product:
     source: str = ""       # どの経路で拾ったか（ranking:xxx / search:yyy）
     score: float = 0.0
     caption: str = ""      # 商品説明文（ROOMコメントの材料）
+    image_urls: list[str] = field(default_factory=list)  # 商品画像（最大3枚。TikTok用スライドで2枚使う）
 
     def to_dict(self) -> dict[str, Any]:
         return asdict(self)
@@ -92,10 +93,9 @@ class RakutenClient:
     @staticmethod
     def _to_product(item: dict[str, Any], source: str, rank: int | None = None) -> Product:
         imgs = item.get("mediumImageUrls") or []
-        img = ""
-        if imgs:
-            first = imgs[0]
-            img = first if isinstance(first, str) else first.get("imageUrl", "")
+        urls = [(u if isinstance(u, str) else u.get("imageUrl", "")) for u in imgs]
+        urls = [_enlarge(u) for u in urls if u]
+        img = urls[0] if urls else ""
         return Product(
             item_code=str(item.get("itemCode", "")),
             name=str(item.get("itemName", "")),
@@ -113,6 +113,7 @@ class RakutenClient:
             rank=rank,
             source=source,
             caption=str(item.get("itemCaption", ""))[:800],
+            image_urls=urls[:3],
         )
 
     # ---- 公開 ----
