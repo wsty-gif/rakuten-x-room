@@ -2773,7 +2773,8 @@
   "tweet_id": "2104329927042719834",
   "threads_id": "18052783679799955",
   "room_done": false,
-  "image": true
+  "image": true,
+  "instagram_story_id": "18112554203116210"
  },
  {
   "date": "2026-09-28T06:59:10",
@@ -2815,6 +2816,66 @@
   "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pqgeo.72d3y43d.g00pqgeo.72d3zdf6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Foutletshoes%2F65015%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Foutletshoes%2Fi%2F10017017%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "affiliate_rate": 4.0,
   "text": "毎日の家事がちょっとラクになるやつ。レビュー1,502件で★4.54。送料無料。",
+  "room_done": false
+ },
+ {
+  "date": "2026-09-28T11:58:25",
+  "slot": "noon",
+  "theme": "今売れている物 × 20代女性（自分磨き・プチプラ・映え）",
+  "persona": "20s_woman",
+  "item_code": "excitech:10000320",
+  "item_name": "【現役CA監修】 スーツケース キャリーケース 超軽量 【レビュー特典 有】 機内持ち込み 可能 S サイズ M サイズ L サイズ 大容量 拡張機能付き スト",
+  "price": 8990,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00stveo.72d3yd7e.g00stveo.72d3z758/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fexcitech%2Fexci-suitcase-001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fexcitech%2Fi%2F10000320%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "#PR プチプラで一番後悔しなかったやつ\nスーツケース キャリーケース 超軽量\n★4.51・レビュー2,929件\n8,990円・送料無料\n#楽天購入品\n▶ROOMはプロフから",
+  "tweet_id": "2104405223426982001",
+  "threads_id": "17876312208566596",
+  "room_done": false,
+  "image": true,
+  "instagram_id": "17909236356305556",
+  "instagram_story_id": "18125982046859860"
+ },
+ {
+  "date": "2026-09-28T11:58:25",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "今売れている物 × 20代女性（自分磨き・プチプラ・映え）",
+  "persona": "20s_woman",
+  "item_code": "lond:10001362",
+  "item_name": "【安心の公認美容室発送/ランキング1位多数受賞】ロアザオイル LOA THE OIL 30ml 100ml ロア ヘアオイル ブランシュ シトラスベール ジャス",
+  "price": 3520,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00u51so.72d3y1c8.g00u51so.72d3z6a9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flond%2Floatheoil_select%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flond%2Fi%2F10001362%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "SNSで見かけて気になってたやつ。楽天ランキング1位、レビュー558件で★4.54。ポイント11倍で実質3,132円。",
+  "room_done": false
+ },
+ {
+  "date": "2026-09-28T11:58:25",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "今売れている物 × 20代女性（自分磨き・プチプラ・映え）",
+  "persona": "20s_woman",
+  "item_code": "q1st:10000348",
+  "item_name": "【訳あり50％オフ】 【2箱セット】ザ・ダーママスク（boxタイプ）| クオリティファースト パック シートマスク フェイスパック シート 保湿 乾燥 毛穴 エ",
+  "price": 1760,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tcnio.72d3ydba.g00tcnio.72d3z565/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fq1st%2Fthedermabox%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fq1st%2Fi%2F10000348%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "SNSで見かけて気になってたやつ。レビュー171件で★4.87。50%OFF。",
+  "room_done": false
+ },
+ {
+  "date": "2026-09-28T11:58:25",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "今売れている物 × 20代女性（自分磨き・プチプラ・映え）",
+  "persona": "20s_woman",
+  "item_code": "sk-ii:10003757",
+  "item_name": "【公式】SK-II ジェノプティクス CC プライマー(30g/50g)｜SK-2 / SK-II（エスケーツー） 正規品 送料無料 SK2 SKII UVケア",
+  "price": 9900,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00siy3o.72d3yb85.g00siy3o.72d3zce2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsk-ii%2Fgccr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsk-ii%2Fi%2F10003757%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "自分へのご褒美にちょうどいい価格。そのまま使用を続けると症状が悪化することがあります。レビュー741件で★4.49。ポイント10倍で実質8,910円、送料無料。",
   "room_done": false
  }
 ]
