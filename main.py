@@ -265,7 +265,11 @@ def cmd_instagram(args, s: Settings):
     reel_file = ROOT / "docs" / "reels" / f"{today}.mp4"
     reel_done = any(h.get("kind") == "reel" and h.get("date", "")[:10] == today and h.get("instagram_id") for h in history)
     reel_todo = s.instagram_reel and reel_file.exists() and not reel_done
-    if not todo and not story_todo and not reel_todo:
+    # TikTok 用スライド（画像一式）: 公開されたら通知する（1日1回）
+    slides_zip = ROOT / "docs" / "reels" / f"{today}_slides.zip"
+    slides_notified = any(h.get("kind") == "tiktok" and h.get("date", "")[:10] == today for h in history)
+    slides_todo = slides_zip.exists() and not slides_notified
+    if not todo and not story_todo and not reel_todo and not slides_todo:
         print("Instagram に投稿する対象がありません。")
         return
     poster = None if args.dry_run else InstagramPoster(s)
@@ -336,17 +340,27 @@ def cmd_instagram(args, s: Settings):
                                     "theme": "リール", "persona": "all", "text": caption[:200], "instagram_error": str(e)[:200]})
             else:
                 print("  [warn] 動画が未公開のため、リールは次回に回します")
-            # TikTok / Shorts 用: 動画ページのリンクをスマホに送る（投稿は手動）
+
+    # ---- TikTok 用スライド: 公開を待ってスマホに通知（投稿は手動。フォトモードで音楽を付ける）----
+    if slides_todo and not args.dry_run:
+        zip_url = f"{base}reels/{today}_slides.zip"
+        meta_file = ROOT / "docs" / "reels" / f"{today}.json"
+        tt = json.loads(meta_file.read_text(encoding="utf-8")) if meta_file.exists() else {}
+        if wait_until_public(zip_url, timeout_sec=300):
             try:
                 from src.notify import send
                 from src.config import _env
                 topic = _env("NTFY_TOPIC")
-                if topic and public:
-                    tt = json.loads(meta_file.read_text(encoding="utf-8")) if meta_file.exists() else {}
-                    send(topic, f"TikTok用スライドと投稿文ができました（{today[5:].replace('-', '/')}）",
-                         (tt.get("tiktok_caption") or "タップして開く")[:900], f"{base}reels/index.html", tags=["clapper"])
+                if topic:
+                    send(topic, f"TikTok用スライド{len(tt.get('slides', []))}枚と投稿文（{today[5:].replace('-', '/')}）",
+                         (tt.get("tiktok_caption") or "タップして開く")[:900], f"{base}reels/index.html", tags=["framed_picture"])
+                history.append({"date": datetime.now().isoformat(timespec="seconds"), "kind": "tiktok", "slot": "night",
+                                "theme": "TikTokスライド", "persona": "all", "text": (tt.get("tiktok_caption") or "")[:200]})
+                print("[TikTok] スライドの通知を送りました")
             except Exception as e:
-                print(f"  [warn] 動画通知失敗: {e}")
+                print(f"  [warn] TikTok 通知失敗: {e}")
+        else:
+            print("  [warn] スライドzipが未公開のため、通知は次回に回します")
     if poster:
         save_history(history)
 
@@ -409,24 +423,28 @@ def cmd_reel_build(args, s: Settings):
     budget_txt = f"{budget // 10000}万円" if budget >= 10000 else f"{budget:,}円"
     n = len(picks)
     NL = chr(10)
+    # 参考: 上段「＼予算2万円／」、中段2行、下段「7選」（大）
+    top_line = f"＼予算{budget_txt}／"
     if event_topic and event_topic.get("event_type") == "gift":
-        title, theme_tag = f"{event_topic['title']}ギフト{NL}予算{budget_txt} {n}選", f"#{event_topic['title']}"
+        title, theme_tag = f"{event_topic['title']}にもらって{NL}嬉しかった 人気ギフト{NL}{n}選", f"#{event_topic['title']}"
     elif event_topic and event_topic.get("event_type") == "sale":
-        title, theme_tag = f"{event_topic['title']}で{NL}買うべき {n}選", "#楽天セール"
+        title, theme_tag = f"{event_topic['title']}で{NL}買ってよかった物{NL}{n}選", "#楽天セール"
     elif event_topic:
-        title, theme_tag = f"{event_topic['title']}に{NL}買っておきたい {n}選", "#季節の準備"
+        title, theme_tag = f"{event_topic['title']}に{NL}買っておきたい物{NL}{n}選", "#季節の準備"
     else:
-        title, theme_tag = f"楽天で今売れてる{NL}予算{budget_txt} {n}選", "#楽天購入品"
+        title, theme_tag = f"楽天で今{NL}本当に売れている物{NL}{n}選", "#楽天購入品"
     brand_name = (os.environ.get("SITE_NAME") or "らくみつ｜楽天で見つけた良いもの").split("｜")[0]
 
     # ---- スライド一式 → zip → 動画 ----
     out_dir = ROOT / "docs" / "reels" / today
-    paths = make_slide_set(picks, title, "レビュー4.2以上・50件以上だけ", brand_name, out_dir)
+    paths = make_slide_set(picks, title, "レビュー4.2以上・50件以上だけ", brand_name, out_dir, top_line=top_line)
     zip_slides(paths, ROOT / "docs" / "reels" / f"{today}_slides.zip")
-    clips = [(paths[0], 2.5)] + [(p, 3.0) for p in paths[1:-1]] + [(paths[-1], 2.5)]
     out = ROOT / "docs" / "reels" / f"{today}.mp4"
-    bgm = find_bgm(ROOT / "assets" / "bgm")
-    build_reel(clips, out, bgm)
+    bgm = None
+    if s.instagram_reel:  # 動画版は INSTAGRAM_REEL=1 のときだけ（既定は画像のみ）
+        clips = [(paths[0], 2.5)] + [(p, 3.0) for p in paths[1:-1]] + [(paths[-1], 2.5)]
+        bgm = find_bgm(ROOT / "assets" / "bgm")
+        build_reel(clips, out, bgm)
 
     # ---- 投稿文（TikTok用 / Instagram用）----
     flat_title = title.replace(NL, " ")
@@ -442,7 +460,7 @@ def cmd_reel_build(args, s: Settings):
     (ROOT / "docs" / "reels" / f"{today}.json").write_text(json.dumps({
         "title": flat_title, "caption": insta, "tiktok_caption": tiktok, "items": [x["item_code"] for x in picks],
         "slides": [p.name for p in paths]}, ensure_ascii=False), encoding="utf-8")
-    print(f"[reel] {out.name} / スライド {len(paths)} 枚（{'BGM: ' + bgm.name if bgm else '無音'}）")
+    print(f"[slides] {out_dir.name}/ スライド {len(paths)} 枚" + (f" / 動画 {out.name}（{'BGM: ' + bgm.name if bgm else '無音'}）" if s.instagram_reel else ""))
     print(tiktok)
 
 

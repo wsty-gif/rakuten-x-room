@@ -20,7 +20,15 @@ W, H = 1080, 1920
 BG = (233, 231, 227)        # 参考投稿の灰色
 INK = (40, 40, 44)
 SUB = (95, 95, 100)
-LABEL = (255, 255, 255, 215)
+LABEL = (255, 255, 255, 200)
+WHITE = (255, 255, 255)
+# タイトル・締めスライド用の明朝体（参考は白い明朝体を写真の上に置く）
+FONT_SERIF = [
+    "C:/Windows/Fonts/yumin.ttf", "C:/Windows/Fonts/yumindb.ttf", "C:/Windows/Fonts/NotoSerifJP-VF.ttf",
+    "C:/Windows/Fonts/BIZ-UDMinchoM.ttc", "C:/Windows/Fonts/msmincho.ttc",
+    "/usr/share/fonts/opentype/noto/NotoSerifCJK-Regular.ttc", "/usr/share/fonts/opentype/noto/NotoSerifCJKjp-Regular.otf",
+    "/usr/share/fonts/truetype/noto/NotoSerifCJK-Regular.ttc",
+]
 
 SHOP_NOISE = re.compile(r"(楽天市場店|楽天市場|公式ショップ|公式|オンラインショップ|オンラインストア|ストア|ショップ|本店|支店|店|Yahoo|PayPay|SHOP|Shop|STORE|Store)")
 
@@ -98,21 +106,21 @@ def image_clean_score(img: Image.Image) -> float:
 def _label(im: Image.Image, brand: str, name: str, price: int, cy: int) -> None:
     ov = Image.new("RGBA", im.size, (0, 0, 0, 0))
     d = ImageDraw.Draw(ov)
-    f_b = _font(FONT_CANDIDATES_BOLD, 46 if len(brand) <= 8 else 36)
-    f_n = _font(FONT_CANDIDATES_REG, 26)
-    f_p = _font(FONT_CANDIDATES_REG, 26)
-    lines = _wrap(d, name, f_n, 380, 2)
-    bw = max(460, int(max(d.textlength(brand, font=f_b), *[d.textlength(l, font=f_n) for l in lines]) + 90))
-    bh = 60 + f_b.size + 12 + len(lines) * 34 + 10 + f_p.size + 40
+    f_b = _font(FONT_CANDIDATES_REG, 62 if len(brand) <= 7 else (50 if len(brand) <= 10 else 40))
+    f_n = _font(FONT_CANDIDATES_REG, 30)
+    f_p = _font(FONT_CANDIDATES_REG, 28)
+    lines = _wrap(d, name, f_n, 400, 2)
+    bw = max(464, int(max(d.textlength(brand, font=f_b), *[d.textlength(l, font=f_n) for l in lines]) + 100))
+    bh = 46 + f_b.size + 14 + len(lines) * 40 + 6 + f_p.size + 46
     x0, y0 = (W - bw) // 2, cy - bh // 2
     d.rectangle([x0, y0, x0 + bw, y0 + bh], fill=LABEL)
     y = y0 + 40
     d.text(((W - d.textlength(brand, font=f_b)) / 2, y), brand, font=f_b, fill=INK)
-    y += f_b.size + 18
+    y += f_b.size + 16
     for l in lines:
         d.text(((W - d.textlength(l, font=f_n)) / 2, y), l, font=f_n, fill=INK)
-        y += 34
-    y += 8
+        y += 40
+    y += 4
     p = f"¥{price:,}"
     d.text(((W - d.textlength(p, font=f_p)) / 2, y), p, font=f_p, fill=INK)
     im.alpha_composite(ov)
@@ -140,39 +148,62 @@ def render_product_slide(item: dict[str, Any], imgs: list[Image.Image]) -> Image
     return im.convert("RGB")
 
 
-def render_title_slide(title: str, sub: str, brand: str) -> Image.Image:
-    im = Image.new("RGB", (W, H), BG)
+def _photo_backdrop(img: Image.Image | None) -> Image.Image:
+    """写真を全面に敷き、暗めにして文字を載せられるようにする（参考のタイトルスライドの雰囲気）。"""
+    if img is None:
+        return Image.new("RGB", (W, H), (70, 62, 58))
+    bg = _cover(img, W, H).filter(ImageFilter.GaussianBlur(2))
+    bg = ImageEnhance.Brightness(bg).enhance(0.55)
+    bg = ImageEnhance.Color(bg).enhance(0.8)
+    return bg
+
+
+def _center_text(d: ImageDraw.ImageDraw, text: str, font, y: int, fill=WHITE) -> int:
+    d.text(((W - d.textlength(text, font=font)) / 2, y), text, font=font, fill=fill)
+    return y + font.size
+
+
+def render_title_slide(title: str, sub: str, brand: str, photo: Image.Image | None = None, top_line: str = "") -> Image.Image:
+    """例: ＼予算2万円／ ／ 特別な日にもらって嬉しかった 人気ギフト ／ 7選"""
+    im = _photo_backdrop(photo)
     d = ImageDraw.Draw(im)
-    f_t = _font(FONT_CANDIDATES_BOLD, 84)
-    f_s = _font(FONT_CANDIDATES_REG, 32)
-    f_b = _font(FONT_CANDIDATES_REG, 28)
-    lines = []
-    for part in title.split("\n"):
-        lines += _wrap(d, part, f_t, W - 160, 2)
-    total = len(lines) * 104 + 40 + f_s.size
-    y = (H - total) // 2
-    for l in lines:
-        d.text(((W - d.textlength(l, font=f_t)) / 2, y), l, font=f_t, fill=INK)
-        y += 104
-    y += 30
-    d.text(((W - d.textlength(sub, font=f_s)) / 2, y), sub, font=f_s, fill=SUB)
-    d.text(((W - d.textlength(brand, font=f_b)) / 2, H - 260), brand, font=f_b, fill=SUB)
+    f_top = _font(FONT_SERIF, 44)
+    f_main = _font(FONT_SERIF, 66)
+    f_big = _font(FONT_SERIF, 118)
+    f_sub = _font(FONT_SERIF, 30)
+    parts = [p for p in title.split(chr(10)) if p]
+    big = parts[-1] if len(parts) >= 2 and len(parts[-1]) <= 4 else ""
+    mains = parts[:-1] if big else parts
+    main_lines = []
+    for p in mains:
+        main_lines += _wrap(d, p, f_main, W - 200, 2)
+    total = (f_top.size + 30 if top_line else 0) + len(main_lines) * 92 + (f_big.size + 30 if big else 0)
+    y = (H - total) // 2 - 40
+    if top_line:
+        y = _center_text(d, top_line, f_top, y) + 30
+    for l in main_lines:
+        _center_text(d, l, f_main, y)
+        y += 92
+    if big:
+        y += 10
+        _center_text(d, big, f_big, y)
+    if sub:
+        _center_text(d, sub, f_sub, H - 300, fill=(235, 235, 235))
+    _center_text(d, brand, f_sub, H - 230, fill=(235, 235, 235))
     return im
 
 
-def render_end_slide(brand: str) -> Image.Image:
-    im = Image.new("RGB", (W, H), BG)
+def render_end_slide(brand: str, photo: Image.Image | None = None) -> Image.Image:
+    im = _photo_backdrop(photo)
     d = ImageDraw.Draw(im)
-    f_t = _font(FONT_CANDIDATES_BOLD, 60)
-    f_s = _font(FONT_CANDIDATES_REG, 32)
-    lines = ["商品はプロフィールの", "リンクから見られます"]
-    y = H // 2 - 120
-    for l in lines:
-        d.text(((W - d.textlength(l, font=f_t)) / 2, y), l, font=f_t, fill=INK)
-        y += 84
-    s = "保存して、あとでゆっくり見返してね"
-    d.text(((W - d.textlength(s, font=f_s)) / 2, y + 30), s, font=f_s, fill=SUB)
-    d.text(((W - d.textlength(brand + "｜PR", font=f_s)) / 2, H - 260), brand + "｜PR", font=f_s, fill=SUB)
+    f_t = _font(FONT_SERIF, 64)
+    f_s = _font(FONT_SERIF, 32)
+    y = H // 2 - 140
+    for l in ["商品はプロフィールの", "リンクから見られます"]:
+        _center_text(d, l, f_t, y)
+        y += 92
+    _center_text(d, "保存して、あとでゆっくり見返してね", f_s, y + 40, fill=(235, 235, 235))
+    _center_text(d, brand + "｜PR", f_s, H - 230, fill=(235, 235, 235))
     return im
 
 
@@ -200,24 +231,24 @@ def load_item_images(item: dict[str, Any], max_n: int = 2) -> list[Image.Image]:
     return out
 
 
-def make_slide_set(items: list[dict[str, Any]], title: str, sub: str, brand: str, out_dir: Path) -> list[Path]:
+def make_slide_set(items: list[dict[str, Any]], title: str, sub: str, brand: str, out_dir: Path, top_line: str = "") -> list[Path]:
     """out_dir/01.jpg … を作り、パスの一覧を返す（先頭タイトル、末尾締め）。"""
     out_dir.mkdir(parents=True, exist_ok=True)
+    loaded = [(it, load_item_images(it)) for it in items]
+    loaded = [(it, imgs) for it, imgs in loaded if imgs]
+    cover = loaded[0][1][0] if loaded else None
     paths: list[Path] = []
     p = out_dir / "01.jpg"
-    render_title_slide(title, sub, brand).save(p, "JPEG", quality=92)
+    render_title_slide(title, sub, brand, photo=cover, top_line=top_line).save(p, "JPEG", quality=92)
     paths.append(p)
     n = 2
-    for it in items:
-        imgs = load_item_images(it)
-        if not imgs:
-            continue
+    for it, imgs in loaded:
         p = out_dir / f"{n:02d}.jpg"
         render_product_slide(it, imgs).save(p, "JPEG", quality=92)
         paths.append(p)
         n += 1
     p = out_dir / f"{n:02d}.jpg"
-    render_end_slide(brand).save(p, "JPEG", quality=92)
+    render_end_slide(brand, photo=loaded[-1][1][0] if loaded else None).save(p, "JPEG", quality=92)
     paths.append(p)
     return paths
 

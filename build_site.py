@@ -809,18 +809,16 @@ def render_reels_page(popular, persona_counts, base: str, today: str) -> list[tu
     reels_dir = DOCS / "reels"
     reels_dir.mkdir(exist_ok=True)
     entries = []
-    for mp4 in sorted(reels_dir.glob("*.mp4"), reverse=True):
-        d = mp4.stem
-        meta = {}
-        mj = reels_dir / f"{d}.json"
-        if mj.exists():
-            try:
-                meta = json.loads(mj.read_text(encoding="utf-8"))
-            except Exception:
-                meta = {}
+    for mj in sorted(reels_dir.glob("????-??-??.json"), reverse=True):
+        d = mj.stem
+        try:
+            meta = json.loads(mj.read_text(encoding="utf-8"))
+        except Exception:
+            meta = {}
+        mp4 = reels_dir / f"{d}.mp4"
         slides_dir = reels_dir / d
         slides = sorted(p.name for p in slides_dir.glob("*.jpg")) if slides_dir.exists() else []
-        entries.append({"date": d, "mp4": f"reels/{d}.mp4", "zip": f"reels/{d}_slides.zip" if (reels_dir / f"{d}_slides.zip").exists() else "",
+        entries.append({"date": d, "mp4": f"reels/{d}.mp4" if mp4.exists() else "", "zip": f"reels/{d}_slides.zip" if (reels_dir / f"{d}_slides.zip").exists() else "",
                         "slides": [f"reels/{d}/{n}" for n in slides], "title": meta.get("title", ""),
                         "caption": meta.get("caption", ""), "tiktok_caption": meta.get("tiktok_caption", ""), "items": meta.get("items", [])})
     (reels_dir / "index.json").write_text(json.dumps(entries, ensure_ascii=False), encoding="utf-8")
@@ -836,10 +834,10 @@ def render_reels_page(popular, persona_counts, base: str, today: str) -> list[tu
                    + (f'<p class="lead"><b>TikTok（フォトモード）用のスライド {len(e["slides"])} 枚</b>。1枚ずつ長押しで保存するか、zip をダウンロードして写真に入れる → TikTok で「写真」を選び、この順に並べて、音楽をアプリ内で付ける。</p>'
                       f'<div style="display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin:8px 0 12px">{thumbs}</div>' if e["slides"] else "")
                    + (f'<p style="margin:6px 0"><a class="btn" style="display:inline-flex" href="../{esc(e["zip"])}" download>スライド一式を保存（zip）</a></p>' if e.get("zip") else "")
-                   + f'<p class="lead" style="margin-top:14px"><b>動画版（Instagram リール / YouTube Shorts 用）</b></p>'
-                   f'<video controls playsinline preload="metadata" style="width:100%;max-width:300px;border-radius:12px;background:#000" src="../{esc(e["mp4"])}"></video>'
-                   f'<p style="margin:10px 0"><a class="btn" style="display:inline-flex" href="../{esc(e["mp4"])}" download>動画を保存（mp4）</a></p>'
-                   f'<p class="lead">TikTok 用の投稿文（長押しでコピー）</p><textarea {ta}>{esc(tiktok)}</textarea>'
+                   + (f'<p class="lead" style="margin-top:14px"><b>動画版（Instagram リール / YouTube Shorts 用）</b></p>'
+                      f'<video controls playsinline preload="metadata" style="width:100%;max-width:300px;border-radius:12px;background:#000" src="../{esc(e["mp4"])}"></video>'
+                      f'<p style="margin:10px 0"><a class="btn" style="display:inline-flex" href="../{esc(e["mp4"])}" download>動画を保存（mp4）</a></p>' if e.get("mp4") else "")
+                   + f'<p class="lead">TikTok 用の投稿文（長押しでコピー）</p><textarea {ta}>{esc(tiktok)}</textarea>'
                    f'<p class="lead" style="margin-top:8px">Instagram / Shorts 用</p><textarea {ta}>{esc(e["caption"])}</textarea></section>')
     body = (f'<section>{cr}<h2 class="sec" style="margin-top:14px">{ICONS["list"]}TikTok・動画（直近7日）</h2>'
             f'<p class="lead">毎晩生成している商品紹介スライドです。TikTok はフォトモード（写真を音楽付きでスライド表示）で投稿すると、参考にした投稿と同じ見え方になります。7日で消えます。</p></section>' + blocks)
