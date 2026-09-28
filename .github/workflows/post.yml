@@ -98,6 +98,11 @@ jobs:
         if: steps.slot.outputs.slot == 'night' && steps.slot.outputs.dry != 'true'
         run: python main.py topics || echo "topics refresh skipped"
 
+      # 公開中の直近7日分の動画を docs/reels に引き継ぐ（TikTok/Shorts へ手で投稿する猶予を残す）
+      - name: Keep recent reels
+        if: steps.slot.outputs.slot != 'none' && steps.slot.outputs.dry != 'true'
+        run: python keep_reels.py || echo "keep_reels skipped"
+
       - name: Build blog (GitHub Pages)
         if: steps.slot.outputs.slot != 'none' && steps.slot.outputs.dry != 'true'
         env:

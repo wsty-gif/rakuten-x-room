@@ -640,6 +640,9 @@ def build() -> None:
     # ---- 特集記事（行事・カテゴリ別）----
     urls += render_topics(popular, persona_counts, base, today, now_iso)
 
+    # ---- 動画ページ（TikTok / Shorts に手で投稿するための保存・コピー用）----
+    urls += render_reels_page(popular, persona_counts, base, today)
+
     # ---- トップ ----
     slides = [f'<a class="slide" href="posts/{d}.html">{collage(meta[d]["imgs"], meta[d]["title"])}<span class="cat">{esc(meta[d]["cat"])}</span><h3>{esc(meta[d]["title"])}</h3><span class="date">{esc(jp_date(d))}</span></a>' for d in days[:3]]
     slides.append(f'<a class="slide" href="ranking.html">{collage([x.get("image_url", "") for x in popular[:4]], "ランキング")}<span class="cat gray">ランキング</span><h3>レビュー評価で選ぶ楽天の人気商品ランキング</h3><span class="date">毎日更新</span></a>')
@@ -799,6 +802,41 @@ def render_topics(popular: list[dict[str, Any]], persona_counts: dict[str, int],
     (DOCS / "topics" / "index.html").write_text(layout(f"特集一覧｜{BRAND}", body, "../", "行事別・カテゴリ別に、楽天で売れている物をレビュー件数と評価で厳選した特集の一覧。", "topics/index.html", sidebar("../", popular, persona_counts), [cr_ld]), encoding="utf-8")
     urls.append(("topics/index.html", today))
     return urls
+
+
+# ---------------------------------------------------------------- 動画ページ
+def render_reels_page(popular, persona_counts, base: str, today: str) -> list[tuple[str, str]]:
+    reels_dir = DOCS / "reels"
+    reels_dir.mkdir(exist_ok=True)
+    entries = []
+    for mp4 in sorted(reels_dir.glob("*.mp4"), reverse=True):
+        d = mp4.stem
+        meta = {}
+        mj = reels_dir / f"{d}.json"
+        if mj.exists():
+            try:
+                meta = json.loads(mj.read_text(encoding="utf-8"))
+            except Exception:
+                meta = {}
+        entries.append({"date": d, "mp4": f"reels/{d}.mp4", "caption": meta.get("caption", ""), "items": meta.get("items", [])})
+    (reels_dir / "index.json").write_text(json.dumps(entries, ensure_ascii=False), encoding="utf-8")
+    if not entries:
+        return []
+    cr, cr_ld = crumbs("../", [("", "動画")])
+    blocks = ""
+    for e in entries:
+        tiktok = "\n".join([l for l in e["caption"].splitlines() if not l.startswith("#")][:6] + ["", "#楽天購入品 #楽天 #買ってよかった #おすすめ #PR"])
+        blocks += (f'<section><h2 class="sec">{ICONS["cal"]}{esc(jp_date(e["date"]))}の動画</h2>'
+                   f'<video controls playsinline preload="metadata" style="width:100%;max-width:360px;border-radius:12px;background:#000" src="../{esc(e["mp4"])}"></video>'
+                   f'<p style="margin:10px 0"><a class="btn" style="display:inline-flex" href="../{esc(e["mp4"])}" download>動画を保存（mp4）</a></p>'
+                   f'<p class="lead">TikTok / Shorts 用のキャプション（長押しでコピー）</p>'
+                   f'<textarea readonly style="width:100%;height:150px;font-size:13px;border:1px solid var(--line);border-radius:8px;padding:10px">{esc(tiktok)}</textarea>'
+                   f'<p class="lead" style="margin-top:8px">Instagram 用（そのまま使えます）</p>'
+                   f'<textarea readonly style="width:100%;height:150px;font-size:13px;border:1px solid var(--line);border-radius:8px;padding:10px">{esc(e["caption"])}</textarea></section>')
+    body = (f'<section>{cr}<h2 class="sec" style="margin-top:14px">{ICONS["list"]}動画（直近7日）</h2>'
+            f'<p class="lead">毎晩生成している「今日の楽天売れ筋3選」の動画です。スマホで「動画を保存」→ TikTok や YouTube Shorts に投稿できます。7日で消えます。</p></section>' + blocks)
+    (reels_dir / "index.html").write_text(layout(f"動画｜{BRAND}", body, "../", "毎晩生成している楽天売れ筋の短い動画。", None, sidebar("../", popular, persona_counts), [cr_ld]).replace('<meta name="robots" content="index,follow,max-image-preview:large">', '<meta name="robots" content="noindex,nofollow">'), encoding="utf-8")
+    return []
 
 
 # ---------------------------------------------------------------- Pinterest 自動公開用 RSS

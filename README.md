@@ -178,6 +178,26 @@ X/Threads は「知ってもらう」役、購入が起きるのは ROOM。ROOM 
 ROOM 側で人がやること（1日5分）: 通知を順に「コレ！」、月に3〜5枚は手元の商品のオリジナル写真を投稿（ランクB条件）、
 同ジャンルのROOMを10人フォロー＆いいね、コメントが付いたら返す。
 
+## 実行を確実にする（外部cronから起動）
+
+GitHub の定期実行は混雑時に丸ごと落ちることがある（夜枠が消える日がある）。無料の外部cron（cron-job.org）から
+決まった時刻に「今すぐ実行」を送ると、数秒以内に確実に起動する。GitHub 側の20分おきの起動は保険として残す。
+
+1. GitHub → 右上アイコン → Settings → Developer settings → Personal access tokens → **Fine-grained tokens** → Generate new token。
+   Repository access: Only select repositories → `rakuten-x-room`。Permissions → Repository permissions → **Actions: Read and write**。
+   Expiration は1年。生成された `github_pat_...` を控える（1回しか表示されない）。
+2. https://cron-job.org/ で無料登録 → 「Create cronjob」。
+   - URL: `https://api.github.com/repos/wsty-gif/rakuten-x-room/actions/workflows/post.yml/dispatches`
+   - Request method: **POST**
+   - Headers（Advanced → Headers）:
+     `Accept: application/vnd.github+json`
+     `Authorization: Bearer github_pat_...`
+     `X-GitHub-Api-Version: 2022-11-28`
+     `User-Agent: cronjob`
+   - Request body: `{"ref":"main","inputs":{"slot":"auto","dry_run":"false"}}`
+   - Schedule（タイムゾーン Asia/Tokyo）: 毎日 07:00 / 12:00 / 18:25 / 19:40 / 20:15 の5回（同じジョブに複数時刻を設定できる）
+   - 成功すると HTTP 204 が返る。`slot=auto` なので、その時間帯の枠を `slot_due.py` が判定し、済んでいれば何もしない。
+
 ## 反応を取る投稿（1日1回、18時台）
 
 商品紹介だけだと「いいね・返信」が付かず、Xのアルゴリズムに表示を絞られる。

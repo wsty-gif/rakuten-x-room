@@ -12,7 +12,7 @@ import argparse
 import json
 import os
 import sys
-from datetime import date, datetime
+from datetime import date, datetime, timedelta
 
 sys.stdout.reconfigure(encoding="utf-8")
 
@@ -257,8 +257,11 @@ def cmd_instagram(args, s: Settings):
         print("Instagram に投稿する対象がありません。")
         return
     story_slots = {x.strip() for x in s.instagram_story_slots.split(",") if x.strip()}
-    story_todo = [h for h in history if (h.get("kind") or "product") == "product" and h.get("date", "")[:10] == today
-                  and h.get("slot") in story_slots and not h.get("instagram_story_id") and h.get("item_code")]
+    # ストーリーズは前回失敗分も拾う（今日の分に加え、昨日の夜枠がまだなら出す）
+    yday = (datetime.now() - timedelta(days=1)).strftime("%Y-%m-%d")
+    story_todo = [h for h in history if (h.get("kind") or "product") == "product" and h.get("item_code")
+                  and not h.get("instagram_story_id") and h.get("slot") in story_slots
+                  and (h.get("date", "")[:10] == today or (h.get("date", "")[:10] == yday and h.get("slot") == "night"))]
     reel_file = ROOT / "docs" / "reels" / f"{today}.mp4"
     reel_done = any(h.get("kind") == "reel" and h.get("date", "")[:10] == today and h.get("instagram_id") for h in history)
     reel_todo = s.instagram_reel and reel_file.exists() and not reel_done
@@ -283,14 +286,17 @@ def cmd_instagram(args, s: Settings):
         print("\n" + "=" * 50 + f"\n[Instagram フィード] {name}\n画像: {img_url}\n{caption}")
         if not poster:
             continue
-        if not wait_until_public(img_url):
+        if not wait_until_public(img_url, timeout_sec=300):
             print("  [warn] 画像がまだ公開されていないため、この商品は次回に回します")
+            h["instagram_error"] = "image not public (timeout)"
             continue
         try:
             h["instagram_id"] = poster.post_image(img_url, caption)
+            h.pop("instagram_error", None)
             print(f"[Instagram フィード投稿完了] id={h['instagram_id']}")
         except Exception as e:
             print(f"  [warn] Instagram フィード投稿失敗: {e}")
+            h["instagram_error"] = str(e)[:200]
 
     # ---- ストーリーズ（画像。24時間で消える）----
     for h in story_todo:
@@ -298,14 +304,17 @@ def cmd_instagram(args, s: Settings):
         print(f"\n[Instagram ストーリーズ] {_short_name(h.get('item_name', ''), 36)}\n画像: {img_url}")
         if not poster:
             continue
-        if not wait_until_public(img_url, timeout_sec=120):
+        if not wait_until_public(img_url, timeout_sec=300):
             print("  [warn] ストーリーズ画像が未公開のため次回に回します")
+            h["instagram_story_error"] = "image not public (timeout)"
             continue
         try:
             h["instagram_story_id"] = poster.post_story(img_url)
+            h.pop("instagram_story_error", None)
             print(f"[Instagram ストーリーズ投稿完了] id={h['instagram_story_id']}")
         except Exception as e:
             print(f"  [warn] Instagram ストーリーズ投稿失敗: {e}")
+            h["instagram_story_error"] = str(e)[:200]
 
     # ---- リール（1日1本）----
     if reel_todo:
@@ -314,7 +323,8 @@ def cmd_instagram(args, s: Settings):
         caption = json.loads(meta_file.read_text(encoding="utf-8")).get("caption", "") if meta_file.exists() else ""
         print(f"\n[Instagram リール] {video_url}\n{caption}")
         if poster:
-            if wait_until_public(video_url, timeout_sec=240):
+            public = wait_until_public(video_url, timeout_sec=300)
+            if public:
                 try:
                     rid = poster.post_reel(video_url, caption)
                     history.append({"date": datetime.now().isoformat(timespec="seconds"), "kind": "reel", "slot": "night",
@@ -322,8 +332,21 @@ def cmd_instagram(args, s: Settings):
                     print(f"[Instagram リール投稿完了] id={rid}")
                 except Exception as e:
                     print(f"  [warn] Instagram リール投稿失敗: {e}")
+                    history.append({"date": datetime.now().isoformat(timespec="seconds"), "kind": "reel", "slot": "night",
+                                    "theme": "リール", "persona": "all", "text": caption[:200], "instagram_error": str(e)[:200]})
             else:
                 print("  [warn] 動画が未公開のため、リールは次回に回します")
+            # TikTok / Shorts 用: 動画ページのリンクをスマホに送る（投稿は手動）
+            try:
+                from src.notify import send
+                from src.config import _env
+                topic = _env("NTFY_TOPIC")
+                if topic and public:
+                    send(topic, f"TikTok用の動画ができました（{today[5:].replace('-', '/')}）",
+                         "タップ → 「動画を保存」→ TikTok / Shorts に投稿。キャプションは同じページに。", f"{base}reels/index.html",
+                         tags=["clapper"])
+            except Exception as e:
+                print(f"  [warn] 動画通知失敗: {e}")
     if poster:
         save_history(history)
 
