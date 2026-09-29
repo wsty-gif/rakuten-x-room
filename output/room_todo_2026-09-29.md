@@ -55,3 +55,29 @@
 
 - **20代女性のリピート候補**: 喪服 礼服 レディース オールシーズン / ロンT レイヤード シアー トップス / 水着 レディース 体型カバー 水着 タンキニ / 厚底 スニーカー レディース 厚底スニーカー
 
+## 20:16 今売れている物 × 20代男性（ガジェット・一人暮らし）
+
+1. **コンタクト クレオワンデーUVモイスト 1日使い捨て 90枚入 2箱セット コンタクトレンズ ワンデー【送料無料】**
+   - 価格: 9,420円 / ★4.78（3,363件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00rvxeo.72d3y743.g00rvxeo.72d3z8e4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fatcontact%2Fk_kz_cm90z0_02_m%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fatcontact%2Fi%2F10003172%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: コスパで選ぶならこれ。慌ただしい朝も、レジャーに出かける日も。毎日瞳につけるなら、安心できるものがいい。レビュー3,363件で★4.78。送料無料。
+
+2. **【選べる3枚セット】 ワイシャツ ノーアイロン 長袖 メンズ ノンアイロン カッターシャツ Yシャツ 安い おしゃれ ビ**
+   - 価格: 1,999円 / ★4.55（659件） / 料率 4.0% / P2倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qvfko.72d3y442.g00qvfko.72d3z09f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshirtshouse%2Fsun-ml-scl-1131-3set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshirtshouse%2Fi%2F10008329%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: レビューを見て買う人が多いやつ。アイロンがけの手間を省き、忙しい朝でもすぐに着られる手軽さが魅力です。シンプルでスタイリッシュなデザインは。レビュー659件で★4.55。ポイント2倍で実質1,959円。
+
+3. **シャツ メンズ レディース 長袖 glimmer グリマー ドライ長袖 ポロシャツ ポケット付 00335-ALP 送料**
+   - 価格: 1,197円 / ★4.51（417件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00q8dgo.72d3ybb1.g00q8dgo.72d3zc77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftshirt-st%2F335alp-01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftshirt-st%2Fi%2F10019636%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: コスパで選ぶならこれ。レビュー417件で★4.51。送料無料。
+
+4. **『最安挑戦』コピー用紙 A4 5000枚(2500枚×2箱)ペーパーワン（PAPER ONE） 高白色 カーボンニュート**
+   - 価格: 3,919円 / ★4.77（1,055件） / 料率 2.0% / P2倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00u1i9o.72d3y514.g00u1i9o.72d3z249/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fofficetrust%2F014002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fofficetrust%2Fi%2F10000232%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: コスパで選ぶならこれ。ペーパーワンは、世界的にも認知度の高いPEFC認証材を原料として生産されています。レビュー1,055件で★4.77。ポイント2倍で実質3,840円、送料無料。
+
+### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
+
+- **20代男性のリピート候補**: コンタクト クレオワンデーUVモイスト / ワイシャツ ノーアイロン 長袖 メンズ / シャツ メンズ レディース 長袖 / 『最安挑戦』コピー用紙 A4 5000枚
+
