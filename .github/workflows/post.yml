@@ -103,6 +103,11 @@ jobs:
         if: steps.slot.outputs.slot != 'none' && steps.slot.outputs.dry != 'true'
         run: python keep_reels.py || echo "keep_reels skipped"
 
+      # TikTok用スライド（夜枠のみ）。ブログ生成の前に作り、一覧ページ（reels/index.html）に載せる
+      - name: Build TikTok slides
+        if: steps.slot.outputs.slot == 'night' && steps.slot.outputs.dry != 'true'
+        run: python main.py reel-build || echo "reel build skipped"
+
       - name: Build blog (GitHub Pages)
         if: steps.slot.outputs.slot != 'none' && steps.slot.outputs.dry != 'true'
         env:
@@ -115,11 +120,6 @@ jobs:
           INSTAGRAM_PROFILE_URL: ${{ vars.INSTAGRAM_PROFILE_URL }}
           PINTEREST_PROFILE_URL: ${{ vars.PINTEREST_PROFILE_URL }}
         run: python build_site.py
-
-      # リール動画（夜枠のみ、1日1本）。ブログ公開の前に作って docs/reels に置く
-      - name: Build reel video
-        if: steps.slot.outputs.slot == 'night' && steps.slot.outputs.dry != 'true'
-        run: python main.py reel-build || echo "reel build skipped"
 
       # ブログは公開リポジトリ <ユーザー名>.github.io に書き出す（このリポジトリは Private のまま）
       - name: Publish blog to <owner>.github.io

@@ -367,6 +367,8 @@ def topic_title(t: dict[str, Any], today: date | None = None) -> str:
         if et == "sale":
             return f"{t['title']}で買うべき物{n}選【{today.year}年{today.month}月】売れている順"
         return f"{t['title']}に買っておきたい物{n}選【{today.year}年】レビュー順"
+    if t.get("kind") == "gift":
+        return f"{t['title']}のおすすめ{n}選【{today.year}年】レビューが多くて評価が高い順"
     return f"{t['title']}のおすすめ{n}選【{today.year}年{today.month}月】レビューが多くて評価が高い順"
 
 
@@ -656,7 +658,7 @@ def build() -> None:
     tops = topics_sorted()[:6]
     topic_cards = "".join(
         f'<a class="pcard" href="topics/{t["slug"]}.html">{collage([x.get("image_url", "") for x in t["items"][:4]], t["title"])}'
-        f'<span class="cat{"" if t.get("kind") == "event" else " gray"}">{"行事" if t.get("kind") == "event" else "定番"}</span>'
+        f'<span class="cat{"" if t.get("kind") == "event" else " gray"}">{"行事" if t.get("kind") == "event" else "ギフト" if t.get("kind") == "gift" else "定番"}</span>'
         f'<h3>{esc(topic_title(t))}</h3><span class="date">{esc(t["updated"][:10].replace("-", "/"))} 更新</span></a>' for t in tops)
     body = (f'<section><h2 class="sec">{ICONS["tag"]}誰向けで探す</h2><div class="who">{who}</div></section>'
             + (f'<section><h2 class="sec">{ICONS["cal"]}特集<small>行事とカテゴリ別</small></h2><div class="cards">{topic_cards}</div>'
@@ -716,7 +718,7 @@ def _topic_intro(t: dict[str, Any]) -> str:
     items = t["items"]
     prices = [int(x["price"]) for x in items]
     kind = t.get("kind", "evergreen")
-    key = t.get("event_type", "season") if kind == "event" else "evergreen"
+    key = t.get("event_type", "season") if kind == "event" else ("gift" if kind == "gift" else "evergreen")
     pool = TOPIC_INTRO.get(key) or TOPIC_INTRO["evergreen"]
     tpl = pool[sum(ord(c) for c in t["slug"]) % len(pool)]
     return tpl.format(kw=t["title"], name=t["title"], n=len(items), pmin=min(prices), pmax=max(prices))
@@ -758,7 +760,7 @@ def render_topics(popular: list[dict[str, Any]], persona_counts: dict[str, int],
         cr, cr_ld = crumbs("../", [("topics/index.html", "特集"), ("", t["title"])])
         persona = t.get("persona", "all")
         rel_topics = [u for u in ts if u["slug"] != t["slug"] and (u.get("persona") == persona or u.get("kind") == t.get("kind"))][:6]
-        body = (f'<article class="post">{cr}<div class="meta"><span class="cat{"" if t.get("kind") == "event" else " gray"}">{"行事" if t.get("kind") == "event" else "定番"}</span>'
+        body = (f'<article class="post">{cr}<div class="meta"><span class="cat{"" if t.get("kind") == "event" else " gray"}">{"行事" if t.get("kind") == "event" else "ギフト" if t.get("kind") == "gift" else "定番"}</span>'
                 f'<time datetime="{t["updated"][:10]}">{esc(jp_date(t["updated"][:10]))}更新</time><span>文・{esc(BRAND)}</span></div>'
                 f'<h1>{esc(title)}</h1><div class="eyecatch">{collage([x.get("image_url", "") for x in items[:4]], title)}</div>'
                 f'<p class="intro">{esc(_topic_intro(t))}</p>')
@@ -805,6 +807,42 @@ def render_topics(popular: list[dict[str, Any]], persona_counts: dict[str, int],
 
 
 # ---------------------------------------------------------------- 動画ページ
+def write_slides_page(day_dir, e: dict, tiktok: str) -> None:
+    """reels/YYYY-MM-DD/index.html: スマホで1枚ずつ保存するためのページ。
+    画像を <a> で包まないのがポイント（iPhone は包むと長押しメニューに「写真に追加」が出ない）。"""
+    if not e.get("slides"):
+        return
+    n = len(e["slides"])
+    imgs = "".join(
+        f'<figure><img src="{esc(u.split("/")[-1])}" alt="スライド{i}"><figcaption>{i} / {n}'
+        f'<a class="dl" href="{esc(u.split("/")[-1])}" download="tiktok_{esc(e["date"])}_{i:02d}.jpg">Androidはこちら</a></figcaption></figure>'
+        for i, u in enumerate(e["slides"], 1))
+    html = f"""<!doctype html>
+<html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow"><title>TikTokスライド {esc(jp_date(e["date"]))}</title>
+<style>
+body{{margin:0;background:#111;color:#eee;font-family:-apple-system,"Hiragino Sans","Noto Sans JP",sans-serif}}
+.wrap{{max-width:540px;margin:0 auto;padding:14px 12px 60px}}
+h1{{font-size:17px;margin:4px 0 10px}}
+.how{{background:#222;border-radius:10px;padding:12px 14px;font-size:14px;line-height:1.7;margin-bottom:14px}}
+.how b{{color:#ffd166}}
+figure{{margin:0 0 18px}}
+img{{width:100%;display:block;border-radius:10px}}
+figcaption{{display:flex;justify-content:space-between;align-items:center;font-size:13px;color:#aaa;padding:6px 2px}}
+.dl{{color:#9ecbff;text-decoration:none;border:1px solid #446;border-radius:6px;padding:3px 8px}}
+textarea{{width:100%;box-sizing:border-box;height:220px;background:#222;color:#eee;border:1px solid #444;border-radius:8px;padding:10px;font-size:14px}}
+</style></head><body><div class="wrap">
+<h1>{esc(jp_date(e["date"]))}｜{esc(e.get("title", ""))}</h1>
+<div class="how"><b>保存の仕方</b><br>iPhone：画像を長押し →「"写真"に追加」<br>Android：画像を長押し →「画像をダウンロード」（または各画像の下のボタン）<br>
+{n}枚すべて保存したら、TikTok で「＋」→「写真」を選び、1 から順に並べて、音楽はアプリ内で付ける。</div>
+{imgs}
+<p style="font-size:14px;color:#aaa">TikTok 用の投稿文（長押し→すべて選択→コピー）</p>
+<textarea readonly>{esc(tiktok)}</textarea>
+</div></body></html>"""
+    day_dir.mkdir(parents=True, exist_ok=True)
+    (day_dir / "index.html").write_text(html, encoding="utf-8")
+
+
 def render_reels_page(popular, persona_counts, base: str, today: str) -> list[tuple[str, str]]:
     reels_dir = DOCS / "reels"
     reels_dir.mkdir(exist_ok=True)
@@ -829,9 +867,10 @@ def render_reels_page(popular, persona_counts, base: str, today: str) -> list[tu
     blocks = ""
     for e in entries:
         tiktok = e.get("tiktok_caption") or "\n".join([l for l in e["caption"].splitlines() if not l.startswith("#")][:6] + ["", "#楽天購入品 #楽天 #買ってよかった #おすすめ #PR"])
-        thumbs = "".join(f'<a href="../{esc(u)}" download><img loading="lazy" src="../{esc(u)}" alt="" style="width:100%;border-radius:8px;border:1px solid var(--line)"></a>' for u in e["slides"])
+        thumbs = "".join(f'<img loading="lazy" src="../{esc(u)}" alt="" style="width:100%;border-radius:8px;border:1px solid var(--line)">' for u in e["slides"])
+        write_slides_page(reels_dir / e["date"], e, tiktok)
         blocks += (f'<section><h2 class="sec">{ICONS["cal"]}{esc(jp_date(e["date"]))}｜{esc(e.get("title", ""))}</h2>'
-                   + (f'<p class="lead"><b>TikTok（フォトモード）用のスライド {len(e["slides"])} 枚</b>。1枚ずつ長押しで保存するか、zip をダウンロードして写真に入れる → TikTok で「写真」を選び、この順に並べて、音楽をアプリ内で付ける。</p>'
+                   + (f'<p class="lead"><b>TikTok（フォトモード）用のスライド {len(e["slides"])} 枚</b>。スマホでは <a href="{esc(e["date"])}/">保存ページ</a> を開き、画像を長押し→「写真に追加」で1枚ずつ保存 → TikTok で「写真」を選び、この順に並べて、音楽をアプリ内で付ける。</p>'
                       f'<div style="display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin:8px 0 12px">{thumbs}</div>' if e["slides"] else "")
                    + (f'<p style="margin:6px 0"><a class="btn" style="display:inline-flex" href="../{esc(e["zip"])}" download>スライド一式を保存（zip）</a></p>' if e.get("zip") else "")
                    + (f'<p class="lead" style="margin-top:14px"><b>動画版（Instagram リール / YouTube Shorts 用）</b></p>'

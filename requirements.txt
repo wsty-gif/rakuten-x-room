@@ -4,3 +4,4 @@ anthropic>=1.4
 python-dotenv>=1.0
 pillow>=10.0
 imageio-ffmpeg>=0.5
+numpy>=1.26

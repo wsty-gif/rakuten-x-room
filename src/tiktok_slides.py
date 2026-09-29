@@ -15,6 +15,45 @@ from typing import Any
 from PIL import Image, ImageDraw, ImageFilter, ImageEnhance
 
 from .pin_image import FONT_CANDIDATES_BOLD, FONT_CANDIDATES_REG, _contain, _cover, _font, _wrap, fetch_image
+from .text_score import photo_band, text_score
+
+CLEAN_MAX = 45.0      # これ以下なら「物の写真」として使う（説明文の帯を切った後の値）
+SECOND_MAX = 20.0     # 2枚目（上下2段）に使うのはさらにきれいな物だけ
+MIN_BAND = 0.6        # 説明文を切り落とした後に、元画像の高さの何割以上残るときだけ切る
+_IMG_CACHE: dict[str, Image.Image | None] = {}
+
+
+def cached_image(url: str) -> Image.Image | None:
+    if url not in _IMG_CACHE:
+        _IMG_CACHE[url] = fetch_image(url)
+    return _IMG_CACHE[url]
+
+
+def scored_images(item: dict[str, Any]) -> list[tuple[float, int, Image.Image]]:
+    """商品の画像（最大3枚）を文字らしさの低い順に。(score, 元の順番, 画像)"""
+    urls = [u for u in (item.get("image_urls") or []) if u] or [item.get("image_url", "")]
+    out, seen = [], set()
+    for i, u in enumerate(urls[:3]):
+        if not u or u in seen:
+            continue
+        seen.add(u)
+        img = cached_image(u)
+        if img is None:
+            continue
+        # 画像の上下に説明文の帯が付いていれば先に切り落とし、残った写真の部分で文字らしさを測る
+        y0, y1 = photo_band(img)
+        if (y1 - y0) >= MIN_BAND and (y0 > 0.02 or y1 < 0.98):
+            img = img.crop((0, int(y0 * img.height), img.width, int(y1 * img.height)))
+        out.append((text_score(img), i, img))
+    out.sort(key=lambda x: (x[0], x[1]))
+    return out
+
+
+def best_image_score(item: dict[str, Any]) -> float:
+    """商品の一番きれいな画像の文字らしさ。画像が無ければ大きい値。"""
+    sc = scored_images(item)
+    return sc[0][0] if sc else 999.0
+
 
 W, H = 1080, 1920
 BG = (233, 231, 227)        # 参考投稿の灰色
@@ -39,9 +78,9 @@ def brand_of(name: str, shop: str) -> str:
     s = re.sub(r"[＼／\\/|｜★☆◆■●]+", " ", s).strip()
     toks = [t for t in s.split(" ") if t]
     for t in toks[:3]:
-        if re.fullmatch(r"[A-Za-z][A-Za-z0-9&'\-\.]{1,14}", t):
+        if re.fullmatch(r"[A-Za-z][A-Za-z0-9&'\-\.]{1,14}", t) and not re.fullmatch(r"(?i)(k\d+|pt\d+|sv\d+|\d+ct|xs|s|m|l|xl|ll|\d+l|\d+ml|\d+g|\d+kg)", t):
             return t
-        if re.fullmatch(r"[ァ-ヴー]{2,10}", t) and not re.search(r"(セット|まとめ|送料|セール|ギフト|プレゼント|ランキング|ポイント|クーポン|レビュー)", t):
+        if re.fullmatch(r"[ァ-ヴー]{2,10}", t) and not re.search(r"(セット|まとめ|送料|セール|ギフト|プレゼント|ランキング|ポイント|クーポン|レビュー|レディース|メンズ|キッズ|ベビー|ユニセックス|ブランド|サイズ|カラー|タイプ|ネックレス|ピアス|リング|ブレスレット|バッグ|ポーチ|イヤホン|スニーカー|タンブラー|マグ|キーケース|ドライヤー|アイロン|ストール|エプロン|タオル|キャンドル|ハンドクリーム|ダイヤモンド|パール|ゴールド|シルバー|プラチナ|スイーツ|カステラ|クッキー|チョコ|贈り物|オープン|ハート|クロス|プレミアム|デラックス|スペシャル|オリジナル|セレクト)", t):
             return t
     sh = _clean_brand(shop or "")
     # 「浄水器のブリタ」「玄米・雑穀米の通販 川島」→ 最後の固有名だけ
@@ -134,25 +173,37 @@ def render_product_slide(item: dict[str, Any], imgs: list[Image.Image]) -> Image
         im.paste(top, (0, 0))
         im.paste(bot, (0, H // 2))
     elif imgs:
-        bg = _cover(imgs[0], W, H).filter(ImageFilter.GaussianBlur(50))
-        bg = ImageEnhance.Brightness(bg).enhance(0.95)
-        bg = Image.blend(bg, Image.new("RGB", (W, H), BG), 0.55)
-        im.paste(bg, (0, 0))
-        # 写真は幅いっぱい（余白なし）。縦長すぎる写真だけ高さで制限
-        iw, ih = imgs[0].size
-        scale = min(W / iw, 1400 / ih)
-        ph = imgs[0].resize((max(1, int(iw * scale)), max(1, int(ih * scale))), Image.LANCZOS)
-        im.paste(ph, ((W - ph.size[0]) // 2, (H - ph.size[1]) // 2))
+        # 写真1枚のときも画面いっぱい（説明文の帯は scored_images で切り落とし済み。中央基準で切り抜く）
+        im.paste(_cover(imgs[0], W, H), (0, 0))
     brand = brand_of(item["name"], item.get("shop_name", ""))
     _label(im, brand, short_name(item["name"], brand), int(item["price"]), H // 2)
     return im.convert("RGB")
 
 
-def _photo_backdrop(img: Image.Image | None) -> Image.Image:
-    """写真を全面に敷き、暗めにして文字を載せられるようにする（参考のタイトルスライドの雰囲気）。"""
+PLAIN_COLORS = [(46, 46, 48), (58, 54, 52), (40, 46, 54), (70, 62, 58), (52, 50, 56)]
+
+
+def _plain_backdrop(seed: int = 0) -> Image.Image:
+    """無機質な背景（商品写真は使わない）。濃いグレーに、ごく薄いざらつきと上下のグラデーション、細い枠線。"""
+    r, g, b = PLAIN_COLORS[seed % len(PLAIN_COLORS)]
+    im = Image.new("RGB", (W, H), (r, g, b))
+    grad = Image.linear_gradient("L").resize((W, H))  # 上が暗く下が明るい
+    lighter = Image.new("RGB", (W, H), (min(r + 26, 255), min(g + 26, 255), min(b + 26, 255)))
+    im = Image.composite(lighter, im, grad)
+    noise = Image.effect_noise((W, H), 28).filter(ImageFilter.GaussianBlur(0.6))
+    grain = Image.merge("RGB", (noise, noise, noise))
+    im = Image.blend(im, grain, 0.08)
+    d = ImageDraw.Draw(im)
+    d.rectangle([54, 54, W - 55, H - 55], outline=(255, 255, 255), width=2)
+    d.rectangle([66, 66, W - 67, H - 67], outline=(255, 255, 255), width=1)
+    return im
+
+
+def _photo_backdrop(img: Image.Image | None, seed: int = 0) -> Image.Image:
+    """写真を全面に敷き、暗めにして文字を載せられるようにする。写真が無ければ無機質な背景。"""
     if img is None:
-        return Image.new("RGB", (W, H), (70, 62, 58))
-    bg = _cover(img, W, H).filter(ImageFilter.GaussianBlur(2))
+        return _plain_backdrop(seed)
+    bg = _cover(img, W, H)
     bg = ImageEnhance.Brightness(bg).enhance(0.55)
     bg = ImageEnhance.Color(bg).enhance(0.8)
     return bg
@@ -163,9 +214,9 @@ def _center_text(d: ImageDraw.ImageDraw, text: str, font, y: int, fill=WHITE) ->
     return y + font.size
 
 
-def render_title_slide(title: str, sub: str, brand: str, photo: Image.Image | None = None, top_line: str = "") -> Image.Image:
+def render_title_slide(title: str, sub: str, brand: str, photo: Image.Image | None = None, top_line: str = "", seed: int = 0) -> Image.Image:
     """例: ＼予算2万円／ ／ 特別な日にもらって嬉しかった 人気ギフト ／ 7選"""
-    im = _photo_backdrop(photo)
+    im = _photo_backdrop(photo, seed)
     d = ImageDraw.Draw(im)
     f_top = _font(FONT_SERIF, 44)
     f_main = _font(FONT_SERIF, 66)
@@ -193,8 +244,8 @@ def render_title_slide(title: str, sub: str, brand: str, photo: Image.Image | No
     return im
 
 
-def render_end_slide(brand: str, photo: Image.Image | None = None) -> Image.Image:
-    im = _photo_backdrop(photo)
+def render_end_slide(brand: str, photo: Image.Image | None = None, seed: int = 0) -> Image.Image:
+    im = _photo_backdrop(photo, seed)
     d = ImageDraw.Draw(im)
     f_t = _font(FONT_SERIF, 64)
     f_s = _font(FONT_SERIF, 32)
@@ -207,39 +258,32 @@ def render_end_slide(brand: str, photo: Image.Image | None = None) -> Image.Imag
     return im
 
 
-def load_item_images(item: dict[str, Any], max_n: int = 2) -> list[Image.Image]:
-    """画像を最大3枚取り、バナーらしさの低い順に max_n 枚返す。2枚目が明らかにバナーなら1枚だけ返す。"""
-    urls = [u for u in (item.get("image_urls") or []) if u] or [item.get("image_url", "")]
-    cands: list[tuple[float, int, Image.Image]] = []
-    seen = set()
-    for i, u in enumerate(urls[:3]):
-        if not u or u in seen:
-            continue
-        seen.add(u)
-        img = fetch_image(u)
-        if img is not None:
-            cands.append((image_clean_score(img), i, img))
-    if not cands:
+def load_item_images(item: dict[str, Any], max_n: int = 1) -> list[Image.Image]:
+    """文字らしさの低い順に最大 max_n 枚。1枚目は最良の物（多少文字があっても使う）、
+    2枚目は SECOND_MAX 以下のきれいな物だけ（無ければ1枚を全面に）。"""
+    sc = scored_images(item)
+    if not sc:
         return []
-    cands.sort(key=lambda x: (x[0], x[1]))
-    out = [cands[0][2]]
-    for sc, _, img in cands[1:]:
+    out = [sc[0][2]]
+    for s, _, img in sc[1:]:
         if len(out) >= max_n:
             break
-        if sc <= 0.55:  # バナーらしい画像は使わない
+        if s <= SECOND_MAX:
             out.append(img)
     return out
 
 
-def make_slide_set(items: list[dict[str, Any]], title: str, sub: str, brand: str, out_dir: Path, top_line: str = "") -> list[Path]:
-    """out_dir/01.jpg … を作り、パスの一覧を返す（先頭タイトル、末尾締め）。"""
+def make_slide_set(items: list[dict[str, Any]], title: str, sub: str, brand: str, out_dir: Path, top_line: str = "",
+                   plain: bool = True, seed: int = 0) -> list[Path]:
+    """out_dir/01.jpg … を作り、パスの一覧を返す（先頭タイトル、末尾締め）。
+    plain=True なら先頭と末尾は商品写真を使わず無機質な背景に文字だけ。"""
     out_dir.mkdir(parents=True, exist_ok=True)
     loaded = [(it, load_item_images(it)) for it in items]
     loaded = [(it, imgs) for it, imgs in loaded if imgs]
-    cover = loaded[0][1][0] if loaded else None
+    cover = None if plain else (loaded[0][1][0] if loaded else None)
     paths: list[Path] = []
     p = out_dir / "01.jpg"
-    render_title_slide(title, sub, brand, photo=cover, top_line=top_line).save(p, "JPEG", quality=92)
+    render_title_slide(title, sub, brand, photo=cover, top_line=top_line, seed=seed).save(p, "JPEG", quality=92)
     paths.append(p)
     n = 2
     for it, imgs in loaded:
@@ -248,7 +292,7 @@ def make_slide_set(items: list[dict[str, Any]], title: str, sub: str, brand: str
         paths.append(p)
         n += 1
     p = out_dir / f"{n:02d}.jpg"
-    render_end_slide(brand, photo=loaded[-1][1][0] if loaded else None).save(p, "JPEG", quality=92)
+    render_end_slide(brand, photo=None if plain else (loaded[-1][1][0] if loaded else None), seed=seed).save(p, "JPEG", quality=92)
     paths.append(p)
     return paths
 

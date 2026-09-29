@@ -346,14 +346,18 @@ def cmd_instagram(args, s: Settings):
         zip_url = f"{base}reels/{today}_slides.zip"
         meta_file = ROOT / "docs" / "reels" / f"{today}.json"
         tt = json.loads(meta_file.read_text(encoding="utf-8")) if meta_file.exists() else {}
-        if wait_until_public(zip_url, timeout_sec=300):
+        if wait_until_public(f"{base}reels/{today}/index.html", timeout_sec=300):
             try:
                 from src.notify import send
                 from src.config import _env
                 topic = _env("NTFY_TOPIC")
                 if topic:
-                    send(topic, f"TikTok用スライド{len(tt.get('slides', []))}枚と投稿文（{today[5:].replace('-', '/')}）",
-                         (tt.get("tiktok_caption") or "タップして開く")[:900], f"{base}reels/index.html", tags=["framed_picture"])
+                    page = f"{base}reels/{today}/"
+                    names = tt.get("slides", [])
+                    first = f"{base}reels/{today}/{names[0]}" if names else ""
+                    send(topic, f"TikTok用スライド{len(names)}枚（{today[5:].replace('-', '/')}）ボタンから保存",
+                         "「スライドを保存する」を押す→画像を長押し→写真に追加。投稿文もそのページにあります。" + chr(10) + chr(10) + (tt.get("tiktok_caption") or "")[:700],
+                         page, tags=["framed_picture"], attach=first, filename=f"tiktok_{today}_01.jpg", label="スライドを保存する")
                 history.append({"date": datetime.now().isoformat(timespec="seconds"), "kind": "tiktok", "slot": "night",
                                 "theme": "TikTokスライド", "persona": "all", "text": (tt.get("tiktok_caption") or "")[:200]})
                 print("[TikTok] スライドの通知を送りました")
@@ -376,68 +380,91 @@ def cmd_reel_build(args, s: Settings):
     history = load_history()
     store = load_site_items()
 
-    # ---- 商品を集める（今日X/ROOMに出した物 → 直近の特集の行事 → サイトの新着）----
-    seen, cands = set(), []
-    def add(code, extra=None):
-        if not code or code in seen:
-            return
-        it = store.get(code)
-        if not it or not it.get("image_url"):
-            return
-        seen.add(code)
-        d = dict(it)
-        if extra:
-            d.update(extra)
-        cands.append(d)
-    for h in history:
-        if h.get("date", "")[:10] == today and (h.get("kind") or "product") in ("product", "room"):
-            add(h.get("item_code"))
+    NL = chr(10)
+    picks: list[dict] = []
+    gift = None
+    theme_tag = "#楽天購入品"
+    if (os.environ.get("TIKTOK_MODE") or "gift").strip() != "ranking":
+        # ---- ギフト企画（TikTok 専用）: 誰に・予算いくら を日替わりで決めて楽天から7点 ----
+        from src.rakuten_client import RakutenClient
+        from src.tiktok_gift import budget_text, fetch_gift_items, pick_theme, save_gift_topic
+        gift = pick_theme()
+        try:
+            picks = fetch_gift_items(RakutenClient(s), gift, s, n=7)
+        except Exception as e:
+            print(f"  [warn] ギフト検索に失敗: {e}")
+            picks = []
+        if len(picks) >= 3:
+            slug = save_gift_topic(gift, picks)
+            print(f"[gift] {gift.get('event') or gift['who']} / 予算{budget_text(gift['budget'])} / {len(picks)}点 → 特集 topics/{slug}.html")
+        else:
+            print(f"  [warn] ギフト企画の商品が足りないため、売れ筋に切り替えます（{len(picks)}点）")
+            gift = None
+
     event_topic = None
-    for t in sorted(load_topics().values(), key=lambda x: x.get("start", "9999")):
-        if t.get("kind") == "event" and t.get("start", "") >= today:
-            event_topic = t
-            for x in t["items"][:6]:
-                if x.get("item_code") not in seen and x.get("image_url"):
-                    seen.add(x["item_code"]); cands.append(dict(x))
-            break
-    for it in sorted(store.values(), key=lambda x: x.get("last_seen", ""), reverse=True)[:40]:
-        add(it.get("item_code"))
-    # レビュー数×評価で上位7点。同じ店は1点まで
-    cands.sort(key=lambda x: -(float(x.get("review_average", 0) or 0) * (int(x.get("review_count", 0) or 0) ** 0.5)))
-    picks, shops = [], set()
-    for it in cands:
-        if it.get("shop_name") in shops:
-            continue
-        shops.add(it.get("shop_name"))
-        picks.append(it)
-        if len(picks) >= 7:
-            break
+    if gift is None:
+        # ---- 従来: 今日X/ROOMに出した物 → 直近の特集の行事 → サイトの新着 ----
+        seen, cands = set(), []
+        def add(code, extra=None):
+            if not code or code in seen:
+                return
+            it = store.get(code)
+            if not it or not it.get("image_url"):
+                return
+            seen.add(code)
+            d = dict(it)
+            if extra:
+                d.update(extra)
+            cands.append(d)
+        for h in history:
+            if h.get("date", "")[:10] == today and (h.get("kind") or "product") in ("product", "room"):
+                add(h.get("item_code"))
+        for t in sorted(load_topics().values(), key=lambda x: x.get("start", "9999")):
+            if t.get("kind") == "event" and t.get("start", "") >= today:
+                event_topic = t
+                for x in t["items"][:6]:
+                    if x.get("item_code") not in seen and x.get("image_url"):
+                        seen.add(x["item_code"]); cands.append(dict(x))
+                break
+        for it in sorted(store.values(), key=lambda x: x.get("last_seen", ""), reverse=True)[:40]:
+            add(it.get("item_code"))
+        cands.sort(key=lambda x: -(float(x.get("review_average", 0) or 0) * (int(x.get("review_count", 0) or 0) ** 0.5)))
+        shops = set()
+        for it in cands:
+            if it.get("shop_name") in shops:
+                continue
+            shops.add(it.get("shop_name"))
+            picks.append(it)
+            if len(picks) >= 7:
+                break
     if len(picks) < 3:
         print(f"スライド用の商品が足りません（{len(picks)}点）。")
         return
 
-    # ---- タイトル（参考: 「人気ギフト予算2万円 7選」）----
-    _, m, d = today.split("-")
-    maxp = max(int(x["price"]) for x in picks)
-    budget = next(b for b in (3000, 5000, 10000, 20000, 30000, 50000, 100000) if maxp <= b)
-    budget_txt = f"{budget // 10000}万円" if budget >= 10000 else f"{budget:,}円"
+    # ---- タイトル（参考: 「＼予算2万円／ 特別な日にもらって嬉しかったギフト 7選」）----
     n = len(picks)
-    NL = chr(10)
-    # 参考: 上段「＼予算2万円／」、中段2行、下段「7選」（大）
-    top_line = f"＼予算{budget_txt}／"
-    if event_topic and event_topic.get("event_type") == "gift":
-        title, theme_tag = f"{event_topic['title']}にもらって{NL}嬉しかった 人気ギフト{NL}{n}選", f"#{event_topic['title']}"
-    elif event_topic and event_topic.get("event_type") == "sale":
-        title, theme_tag = f"{event_topic['title']}で{NL}買ってよかった物{NL}{n}選", "#楽天セール"
-    elif event_topic:
-        title, theme_tag = f"{event_topic['title']}に{NL}買っておきたい物{NL}{n}選", "#季節の準備"
+    if gift:
+        budget_txt = budget_text(gift["budget"])
+        title, theme_tag = f"{gift['title']}{NL}{n}選", " ".join(gift["tags"][:3])
     else:
-        title, theme_tag = f"楽天で今{NL}本当に売れている物{NL}{n}選", "#楽天購入品"
+        maxp = max(int(x["price"]) for x in picks)
+        budget = next(b for b in (3000, 5000, 10000, 20000, 30000, 50000, 100000) if maxp <= b)
+        budget_txt = f"{budget // 10000}万円" if budget >= 10000 else f"{budget:,}円"
+        if event_topic and event_topic.get("event_type") == "gift":
+            title, theme_tag = f"{event_topic['title']}にもらって{NL}嬉しかった 人気ギフト{NL}{n}選", f"#{event_topic['title']}"
+        elif event_topic and event_topic.get("event_type") == "sale":
+            title, theme_tag = f"{event_topic['title']}で{NL}買ってよかった物{NL}{n}選", "#楽天セール"
+        elif event_topic:
+            title, theme_tag = f"{event_topic['title']}に{NL}買っておきたい物{NL}{n}選", "#季節の準備"
+        else:
+            title, theme_tag = f"楽天で今{NL}本当に売れている物{NL}{n}選", "#楽天購入品"
+    top_line = f"＼予算{budget_txt}／"
     brand_name = (os.environ.get("SITE_NAME") or "らくみつ｜楽天で見つけた良いもの").split("｜")[0]
 
     # ---- スライド一式 → zip → 動画 ----
     out_dir = ROOT / "docs" / "reels" / today
-    paths = make_slide_set(picks, title, "レビュー4.2以上・50件以上だけ", brand_name, out_dir, top_line=top_line)
+    paths = make_slide_set(picks, title, "レビュー4.2以上・50件以上だけ", brand_name, out_dir, top_line=top_line,
+                           plain=True, seed=datetime.now().toordinal())
     zip_slides(paths, ROOT / "docs" / "reels" / f"{today}_slides.zip")
     out = ROOT / "docs" / "reels" / f"{today}.mp4"
     bgm = None
@@ -452,8 +479,13 @@ def cmd_reel_build(args, s: Settings):
     for i, x in enumerate(picks, 1):
         b = brand_of(x["name"], x.get("shop_name", ""))
         lines.append(f"{'①②③④⑤⑥⑦⑧⑨'[i-1]} {b}｜{short_name(x['name'], b, 24)} ¥{int(x['price']):,}")
-    tiktok = NL.join([flat_title, ""] + lines + ["", "保存して、あとでゆっくり見返してね🔖", "商品はプロフィールのリンク（まとめサイト）から", "",
-                        f"#楽天購入品 #楽天 {theme_tag} #買ってよかった #おすすめ #PR #楽天ROOM #tiktokで買い物 #プチプラ"])
+    if gift:
+        tiktok = NL.join([gift["hook"], f"予算{budget_txt}で、レビュー評価4.2以上のものだけ{n}つ🎁", ""] + lines + ["",
+                          "保存しておくと、誕生日や記念日の前に困らない🔖", "商品はプロフィールのリンク（まとめサイト）から", "",
+                          f"{theme_tag} #プレゼント選び #ギフト #誕生日プレゼント #楽天 #PR #tiktokで買い物 #プレゼントにおすすめ"])
+    else:
+        tiktok = NL.join([flat_title, ""] + lines + ["", "保存して、あとでゆっくり見返してね🔖", "商品はプロフィールのリンク（まとめサイト）から", "",
+                          f"#楽天購入品 #楽天 {theme_tag} #買ってよかった #おすすめ #PR #楽天ROOM #tiktokで買い物 #プチプラ"])
     insta = NL.join([flat_title, ""] + lines + ["", "レビュー50件以上・評価4.2以上の物だけを毎日選んでいます。", "🔖 保存しておくとセールのときに探しやすいです",
                        "▶ 商品リンクはプロフィールのまとめサイトから", "",
                        f"#PR #楽天購入品 #楽天ROOM #楽天市場 {theme_tag} #買ってよかった #リピ買い #お得情報 #買い物メモ #暮らしを整える"])

@@ -17,12 +17,18 @@ from .rakuten_client import Product
 
 
 def send(topic: str, title: str, message: str, click: str = "", server: str = "https://ntfy.sh",
-         priority: int = 3, tags: list[str] | None = None) -> bool:
+         priority: int = 3, tags: list[str] | None = None, attach: str = "", filename: str = "",
+         label: str = "楽天で開く") -> bool:
+    """attach: 画像などのURL。ntfy アプリが通知に画像を表示し、そのままスマホに保存できる。"""
     payload: dict[str, Any] = {"topic": topic, "title": title, "message": message,
                                "tags": tags or ["shopping_bags"], "priority": priority}
     if click:
         payload["click"] = click
-        payload["actions"] = [{"action": "view", "label": "楽天で開く", "url": click}]
+        payload["actions"] = [{"action": "view", "label": label, "url": click}]
+    if attach:
+        payload["attach"] = attach
+        if filename:
+            payload["filename"] = filename
     r = requests.post(server.rstrip("/"), json=payload, timeout=15)
     if r.status_code >= 300:
         print(f"  [warn] ntfy {r.status_code}: {r.text[:100]}")

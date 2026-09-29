@@ -1,7 +1,8 @@
-"""公開中のリール動画（直近7日分）を docs/reels に引き継ぐ。
+"""公開中のTikTokスライド・動画（直近7日分）を docs/reels に引き継ぐ。
 
-GitHub Pages は毎回 docs/ の内容で置き換えるため、そのままだと昨夜の動画が翌朝の更新で消える。
-TikTok や YouTube Shorts に手で投稿する猶予を残すため、公開サイトから直近の動画を取り戻してから公開する。
+GitHub Pages は毎回 docs/ の内容で置き換えるため、そのままだと昨夜のスライドが翌朝の更新で消える。
+TikTok や YouTube Shorts に手で投稿する猶予を残すため、公開サイトから直近分を取り戻してから公開する。
+index.json には頼らず、直近7日の日付を直接たどる（YYYY-MM-DD.json があればその日の分を全部取る）。
   python keep_reels.py            （SITE_URL 環境変数、または GITHUB_REPOSITORY_OWNER から公開URLを決める）
 """
 from __future__ import annotations
@@ -9,7 +10,7 @@ from __future__ import annotations
 import json
 import os
 import sys
-from datetime import date, datetime, timedelta
+from datetime import date, timedelta
 from pathlib import Path
 
 import requests
@@ -27,38 +28,48 @@ def site_url() -> str:
     return u.rstrip("/") + "/" if u else ""
 
 
+def fetch(url: str, dst: Path, timeout: int = 120) -> bool:
+    if dst.exists():
+        return False
+    try:
+        res = requests.get(url, timeout=timeout)
+        if res.status_code == 200 and res.content:
+            dst.parent.mkdir(parents=True, exist_ok=True)
+            dst.write_bytes(res.content)
+            return True
+    except Exception as ex:
+        print(f"  [warn] {dst.name}: {ex}")
+    return False
+
+
 def main() -> None:
     base = site_url()
     if not base:
         print("SITE_URL が不明なのでスキップ")
         return
     REELS.mkdir(parents=True, exist_ok=True)
-    try:
-        r = requests.get(f"{base}reels/index.json", timeout=20)
-        entries = r.json() if r.status_code == 200 else []
-    except Exception as e:
-        print(f"index.json 取得失敗（初回なら正常）: {e}")
-        entries = []
-    cutoff = date.today() - timedelta(days=KEEP_DAYS)
     kept = 0
-    for e in entries:
-        d = e.get("date", "")
-        try:
-            if datetime.strptime(d, "%Y-%m-%d").date() < cutoff:
-                continue
-        except ValueError:
-            continue
-        for ext in ("mp4", "json", "_slides.zip"):
-            dst = REELS / (f"{d}{ext}" if ext.startswith("_") else f"{d}.{ext}")
-            if dst.exists():
-                continue
+    for back in range(KEEP_DAYS + 1):
+        d = (date.today() - timedelta(days=back)).isoformat()
+        meta = REELS / f"{d}.json"
+        if not meta.exists():
             try:
-                res = requests.get(f"{base}reels/{dst.name}", timeout=120)
-                if res.status_code == 200 and res.content:
-                    dst.write_bytes(res.content)
-                    kept += 1
+                r = requests.get(f"{base}reels/{d}.json", timeout=20)
             except Exception as ex:
-                print(f"  [warn] {d}.{ext}: {ex}")
+                print(f"  [warn] {d}.json: {ex}")
+                continue
+            if r.status_code != 200:
+                continue
+            meta.write_bytes(r.content)
+            kept += 1
+        try:
+            info = json.loads(meta.read_text(encoding="utf-8"))
+        except Exception:
+            info = {}
+        for name in info.get("slides", []):
+            kept += fetch(f"{base}reels/{d}/{name}", REELS / d / name)
+        kept += fetch(f"{base}reels/{d}_slides.zip", REELS / f"{d}_slides.zip")
+        kept += fetch(f"{base}reels/{d}.mp4", REELS / f"{d}.mp4", timeout=180)
     print(f"[keep_reels] 引き継いだファイル {kept} 件")
 
 
