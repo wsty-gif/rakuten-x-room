@@ -34,3 +34,34 @@
 
 - **30代女性のリピート候補**: レインブーツ レインシューズ 長靴 / 裾フリンジバレルレッグデニムパンツ パンツ / 新色登場！ブラトップ デザイン4種 / サイドゴア レインブーツ レディース 長靴 / レインコート 自転車 リュック対応 リュック
 
+## 12:01 今売れている物 × 20代女性（自分磨き・プチプラ・映え）
+
+1. **【日本No.1受賞】ハグモッチ 正規品【より改善】【医師の92%推奨】30万人の眠りをサポートした 枕 ふわもち 腰 肩**
+   - 価格: 9,980円 / ★4.54（15,897件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00tm5yo.72d3ybf7.g00tm5yo.72d3ze11/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fluckyspread%2F10000001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fluckyspread%2Fi%2F10000001%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。自分へのご褒美にちょうどいい価格。ハグモッチは従来の枕より非常に体圧分散に優れています。レビュー15,897件で★4.54。9,980円。
+
+2. **【送料無料】乳液 セラミド 楽天ベストコスメ2023 殿堂入り 高保湿 さらさら 学術誌掲載 60m 選べる3タイプ ト**
+   - 価格: 3,610円 / ★4.59（3,679件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00q4g8o.72d3yae0.g00q4g8o.72d3z56d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftvert%2F972273%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftvert%2Fi%2F10000064%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。プチプラで探してる人に。セラミドにプラスして肌トラブルにアプローチする美容成分を配合し、保護力を高めました。お得になりました。レビュー3,679件で★4.59。送料無料。
+
+3. **【50%オフクーポン】即納 収納ボックス 収納ケース チェスト 折りたたみ 収納 ふた付き キャスター付き 5面開き 前**
+   - 価格: 2,580円 / ★4.56（4,222件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00rgpgo.72d3ya75.g00rgpgo.72d3z09b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-kaei-trading%2Fzk-snb02-all%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-kaei-trading%2Fi%2F10000740%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。SNSで見かけて気になってたやつ。レビュー4,222件で★4.56。50%OFF。
+
+4. **【国内正規品】コスメデコルテ フェイスパウダー #80 20g ルース パウダー #00 #01 #02 #03 #04**
+   - 価格: 3,585円 / ★4.68（2,082件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00t269o.72d3y83e.g00t269o.72d3za5c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Farianakosume%2F4953923307878-fukubukuro%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Farianakosume%2Fi%2F10000637%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。SNSで見かけて気になってたやつ。極上のシルクのような軽くなめらかなタッチで、しっとり肌に溶けこむようになじみます。乾燥しがちな肌を長時間しっとりやさしく包みこみます。レビュー2,082件で★4.68。送料無料。
+
+5. **[期間限定]10%OFFクーポン NERUS ふわとろ毛布 Air AirPremium 【正規品】 毛布 ブランケット**
+   - 価格: 2,980円 / ★4.73（3,660件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00u9h5o.72d3y88d.g00u9h5o.72d3z15e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ft-interior%2Fhtc50%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ft-interior%2Fi%2F10000256%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。SNSで見かけて気になってたやつ。レビュー3,660件で★4.73。10%OFF。
+
+### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
+
+- **20代女性のリピート候補**: ハグモッチ 正規品 / 乳液 セラミド 楽天ベストコスメ2023 / 即納 収納ボックス 収納ケース チェスト / コスメデコルテ フェイスパウダー #80 / NERUS ふわとろ毛布 Air 毛布
+
