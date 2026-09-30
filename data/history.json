@@ -3301,5 +3301,16 @@
   "affiliate_rate": 3.0,
   "text": "今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。SNSで見かけて気になってたやつ。レビュー3,660件で★4.73。10%OFF。",
   "room_done": false
+ },
+ {
+  "date": "2026-09-30T18:31:17",
+  "slot": "evening",
+  "kind": "engage",
+  "engage_key": "poll6",
+  "theme": "反応投稿（poll）",
+  "persona": "all",
+  "text": "【5と0のつく日】\n楽天のお買い物、スマホ？PC？",
+  "tweet_id": "2105228890130043171",
+  "threads_id": "18166662145471147"
  }
 ]
