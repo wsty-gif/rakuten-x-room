@@ -6545,23 +6545,36 @@
     "theme": "敬老の日（開催中） × 30代女性（暮らし・時短・コスパ）",
     "persona": "30s_woman",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-10-01",
+    "slot": "noon",
+    "theme": "今売れている物 × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "baseline"
    }
   ],
   "item_code": "fuchigami:10000061",
-  "name": "【大赤字特価★さらに300円OFFクーポン利用で3,680円～！】米 10kg 令和7年産米入り 訳あり ほほえみ米 お米マイスター厳選米 米 10kg 送料無料 白米 10kg 送料無料 お米 10kg 無洗米 送料無料 10キロ 西日本産 こめたつ 備蓄用 あす楽",
-  "price": 3980,
+  "name": "【7年産最終SALE！在庫限りの大赤字特価！】 米 10kg 令和7年産米入り 訳あり ほほえみ米 お米マイスター厳選米 米 10kg 送料無料 白米 10kg 送料無料 お米 10kg 無洗米 送料無料 10キロ 西日本産 こめたつ 備蓄用 あす楽",
+  "price": 3680,
   "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rxaro.72d3yafc.g00rxaro.72d3zdeb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffuchigami%2F10000061%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffuchigami%2Fi%2F10000061%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00rxaro.72d3yafc.g00rxaro.72d3zdeb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffuchigami%2F10000061%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
-  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/fuchigami/cabinet/rakurip/kome/imgrc0117217365.jpg?_ex=600x600",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/fuchigami/cabinet/rakurip/kome/hoho-saisyu-10.jpg?_ex=600x600",
   "shop_name": "こめたつ",
-  "review_count": 9205,
+  "review_count": 9358,
   "review_average": 4.41,
   "affiliate_rate": 4.0,
   "point_rate": 1,
   "catchcopy": "こめたつ 暮らし応援宣言！！米 10kg 白米 無洗米 送料無料【訳あり米】",
   "genre_id": "201184",
-  "score": 17.13,
-  "last_seen": "2026-09-21T23:18:52"
+  "score": 17.04,
+  "last_seen": "2026-10-01T12:01:44",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/fuchigami/cabinet/rakurip/kome/hoho-saisyu-10.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/fuchigami/cabinet/bana2/kome_keppin_0630.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/fuchigami/cabinet/hoho/imgrc0105162470.jpg?_ex=600x600"
+  ],
+  "caption": "ほほえみ、その他のサイズはこちら▼・5kg・10kg ・20kg・30kg商品名ほほえみ白米10kg名称精米原料玄米：産地国内産原料玄米：品種複数原料米原料玄米：産年ブレンド米については産年の表示ができません原料玄米：使用割合10割内容量精米10kg精米時期別途商品ラベルに記載（精米日の指定ができない為、極パックをお勧めいたします）保存方法【通常包装】●温度の高い場所を避け、密閉容器に移し15℃以下で保管して下さい。(袋のままの保存はNG)●お米は湿気を吸い易く、カビ等の原因になりますので保管にご注意下さい。●保管容器は、虫の発生を防ぐためにも、こまめに清掃して下さい。●お米は臭いを吸着し易い食品です。臭いの強い食品や洗剤、灯油などのそばには置かないで下さい。●開封・未開封に関わらず品質保証は商品到着後7日以内となります。保管方法の詳しくはこちら【極パック包装】●冷暗所での保管。●未開封であれば約180日ほどフレッシュにいただけます。"
  },
  "nagasaki-kasutera:10000382": {
   "first_seen": "2026-09-13T16:40:15",
@@ -7770,6 +7783,13 @@
     "theme": "今売れている物 × 子育て世帯のママ・パパ",
     "persona": "mama",
     "event_type": "baseline"
+   },
+   {
+    "date": "2026-10-01",
+    "slot": "noon",
+    "theme": "今売れている物 × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "baseline"
    }
   ],
   "item_code": "kanenakaya-jihee:10000270",
@@ -7786,7 +7806,7 @@
   "catchcopy": "《祝！楽天グルメ大賞2024受賞！》北海道産の貴重な秋鮭のみ使用 保存料等の化学調味料不使用 厚切りカットで食べ応えあり 国内加工で安心 離乳食にもおすすめ 使いやすいチャック袋入",
   "genre_id": "207774",
   "score": 16.59,
-  "last_seen": "2026-09-30T20:16:28",
+  "last_seen": "2026-10-01T12:01:44",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/kanenakaya-jihee/cabinet/09120873/imgrc0153024235.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/kanenakaya-jihee/cabinet/imgrc0150288696.jpg?_ex=600x600",
@@ -10376,6 +10396,13 @@
     "theme": "お買い物マラソン（9月）（開催中） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-10-01",
+    "slot": "noon",
+    "theme": "今売れている物 × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "baseline"
    }
   ],
   "item_code": "salonmoon:10000013",
@@ -10385,14 +10412,20 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00t6tgo.72d3y54b.g00t6tgo.72d3z844/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsalonmoon%2Fslm-006%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_gold/salonmoon/slm106/flick/slm106_108_f_00_ra_d2.jpg?_ex=600x600",
   "shop_name": "ヘアアイロン専門店 サロンムーン",
-  "review_count": 7395,
+  "review_count": 7412,
   "review_average": 4.68,
   "affiliate_rate": 2.0,
   "point_rate": 1,
   "catchcopy": "シリーズ累計出荷台数100万台突破 ヘアアイロン！全国送料無料 メーカー公式 一年保証 【面白いほどツヤを生み出す ストレートアイロン 】【高濃度マイナスイオン発生器 搭載",
   "genre_id": "509412",
-  "score": 17.39,
-  "last_seen": "2026-09-23T21:10:45"
+  "score": 16.39,
+  "last_seen": "2026-10-01T12:01:44",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_gold/salonmoon/slm106/flick/slm106_108_f_00_ra_d2.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_gold/salonmoon/slm106/flick/slm106_d01_set_f_d1_01.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_gold/salonmoon/slm106/flick/slm106_d01_set_f_d1_02.jpg?_ex=600x600"
+  ],
+  "caption": "商品説明 (プレート幅 24mm) メーカー名SALONMOON 商品名ミラーダブルイオン®ストレートヘアアイロン 24mm BLACK / WHITE / MOON GRAY / MAUVE PINK サイズ 本体：約284mm x 31mm x 37.5mm プレート：約92mm x 24mm 重量約360g ( コード込み ) コードの長さ約2m ( 長すぎず、短すぎない、断線しにくい長さ ) 定格電圧100-240V ＜ 海外対応 ＞ 付属品本体・取扱説明書 ※当モデルには耐熱性シリコンカバーは付属しておりません。 商品説明 (プレート幅 15mm) メーカー名SALONMOON 商品名ミラーダブルイオン®ストレートヘアアイロン 15mm BLACK / WHITE / MOON GRAY サイズ 本体：約284mm x 31mm x 37.5mm プレート：約95mm x 15mm 重量約320g ( コード込み ) コードの長さ約2m ( 長すぎず、短すぎない、断線しにくい長さ ) 定格電圧100-240V ＜ 海外対応 ＞ 付属品本体・取扱説明書 ※当モデルには耐熱性シリコンカバーは付属しておりません。 【 NEW MODEL 】人気を博した「SALONMOONイオンストレートヘアアイロン」をリニューアルしました。 【 お求めやすさ × クオリティ 】ヘアアイロン“本体”に全精力を注ぎました。当商品は付属品に掛けていた費用を本体に投じ、お客様がお求めやすいギリギリの価格で、より使いやすい商品を実現しました。( ポーチ、シリコンカバー等はあえて付属しておりません。 ) 【 ミラーチタニウムプレート 搭載 】摩擦によるダメージを抑え、艶と潤いの髪に仕上げます。 【 強化版 マイナスイオン発生器 】マイナスイオンを強力噴射するマイナスイオン発生装置を強化。パサつきを"
  },
  "travel-depart:10000706": {
   "first_seen": "2026-09-22T21:23:53",
@@ -12280,6 +12313,13 @@
     "theme": "今売れている物 × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "baseline"
+   },
+   {
+    "date": "2026-10-01",
+    "slot": "noon",
+    "theme": "今売れている物 × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "baseline"
    }
   ],
   "item_code": "wwpc:10064892",
@@ -12289,14 +12329,20 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00pt32o.72d3ya19.g00pt32o.72d3z295/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwwpc%2F3182550901215%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/wwpc/cabinet/215/3182550901215.jpg?_ex=600x600",
   "shop_name": "楽天24 どうぶつ医療館",
-  "review_count": 2817,
+  "review_count": 2823,
   "review_average": 4.66,
   "affiliate_rate": 4.0,
   "point_rate": 1,
   "catchcopy": "ロイヤルカナン療法食 / ロイヤルカナン 猫用 ユリナリーS／O オルファクトリーライト",
   "genre_id": "404149",
-  "score": 15.9,
-  "last_seen": "2026-09-27T12:57:14"
+  "score": 16.11,
+  "last_seen": "2026-10-01T12:01:44",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/wwpc/cabinet/215/3182550901215.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/wwpc/cabinet/215/3182550901215-2.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/wwpc/cabinet/215/3182550901215-3.jpg?_ex=600x600"
+  ],
+  "caption": "お店TOP＞ロイヤルカナン 猫用 ユリナリーS／O オルファクトリーライト (4kg)お一人様12個まで。【ロイヤルカナン 猫用 ユリナリーS／O オルファクトリーライトの商品詳細】●この商品は、特別療法食です。特別療法食とは、犬猫の病気（各種特定した疾患）に対して考慮された獣医の処方により開発されたペットフードです。この商品は獣医師の指導が必要な商品となります。かかりつけ動物病院登録サイト（外部サイト）にログインの上、ロイヤルカナン食事療法食を与えるペットとかかりつけ動物病院をご選択ください。また、商品販売に必要な範囲で、「かかりつけ動物病院登録サイト」の運営元である共立製薬株式会社と楽天グループ株式会社間で認証情報や購買情報などのお客様の情報を共有いたします。●猫用 ユリナリーS/O オルファクトリー ライト は、下部尿路疾患（ストルバイト結石症およびシュウ酸カルシウム結石症）の猫に給与することを目的として、特別に調製された食事療法食です。この食事は、マグネシウムなどのミネラル成分を調整しています。また食欲をそそる独自の香り組成に調整し、さらに体重過多に配慮してカロリー密度を低く調整しています。【ロイヤルカナン 猫用 ユリナリーS／O オルファクトリーライトの原材料】魚肉、米、コーンフラワー、植物性繊維、超高消化性小麦タンパク（消化率90％以上）、動物性油脂、コーングルテン、加水分解タンパク（鶏、七面鳥）、大豆油、フラクトオリゴ糖、マリーゴールドエキス（ルテイン源）、アミノ酸類（DL-メチオニン、タウリン、L-カルニチン）、ミネラル類（Cl、K、Na、Ca、P、Zn、Mn、Fe、Cu、I）、ビタミン類（コリン、E、ナイアシン、B12、パントテン酸カルシウム、ビオチン、B6、A、B2、B1、D3、葉酸、K3）、酸化防止剤（ミックストコフェロール、ローズマリーエキス）【栄養"
  },
  "autoway:10313711": {
   "first_seen": "2026-09-27T12:57:14",
@@ -14075,6 +14121,13 @@
     "theme": "今売れている物 × 子育て世帯のママ・パパ",
     "persona": "mama",
     "event_type": "baseline"
+   },
+   {
+    "date": "2026-10-01",
+    "slot": "noon",
+    "theme": "今売れている物 × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "baseline"
    }
   ],
   "item_code": "sfd-ymt:10000345",
@@ -14090,8 +14143,8 @@
   "point_rate": 1,
   "catchcopy": "レビュー24,000件突破！",
   "genre_id": "110411",
-  "score": 18.75,
-  "last_seen": "2026-09-30T20:16:28",
+  "score": 18.05,
+  "last_seen": "2026-10-01T12:01:44",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/sfd-ymt/cabinet/00661828/2023bt-sku-firsta.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/sfd-ymt/cabinet/00603090/soy2023_renew.jpg?_ex=600x600",
@@ -14141,6 +14194,13 @@
     "theme": "今売れている物 × 子育て世帯のママ・パパ",
     "persona": "mama",
     "event_type": "baseline"
+   },
+   {
+    "date": "2026-10-01",
+    "slot": "noon",
+    "theme": "今売れている物 × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "baseline"
    }
   ],
   "item_code": "yokogoshi:10000946",
@@ -14156,8 +14216,8 @@
   "point_rate": 1,
   "catchcopy": "新潟からお届け致します※三ツ星、五ツ星お米マイスターによる丁寧かつ丹精に精米致しましたお米でございます。当店では明細書入れません",
   "genre_id": "201184",
-  "score": 17.26,
-  "last_seen": "2026-09-30T20:16:28",
+  "score": 16.46,
+  "last_seen": "2026-10-01T12:01:44",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/yokogoshi/cabinet/shohin/rice/kome-10kg_006.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/yokogoshi/cabinet/osirase/wrapping_paperless.jpg?_ex=600x600"
@@ -14526,5 +14586,205 @@
    "https://thumbnail.image.rakuten.co.jp/@0_mall/tombow-school/cabinet/img-up_1_198/243_k2_31066_62.jpg?_ex=600x600"
   ],
   "caption": "※この商品はトンボ公式ネットショップオリジナル商品のため 市販されておりません 【トンボ公式】形態安定 抗菌防臭 カッターシャツ 男子 長袖 TOMBOW トンボ学生服 2100023 商品詳細 ・ サイズ ： A体 : 150A / 155A / 160A / 165A / 170A / 175A / 180A / 185A B体 : 160B / 170B / 180B ・ カラー ： 白 ・ 素材 ： ポリエステル 65% / 綿 35% ・ ブランド名 ： TOMBOW ・ 原産国 ： 日本企画 海外製 お手入れ方法 つけ置き洗いや、ぬれたままの放置はおさけください。 無蛍光洗剤を使用してください。 手絞りは弱く、遠心脱水は短時間で絞ってください。 タンブラー乾燥はおさけください。刺繍、マークがある場合は、直接アイロンが当たらないようにご注意ください。 取扱い注意 1.液温は40℃を限度とし、洗濯機で洗濯ができます 2.塩素系漂白剤の使用禁止 3.タンブル乾燥禁止 4.干し方は、日陰の吊り干しがよい 5.底面温度160℃を限度としてアイロン仕上げができます 6.石油系溶剤による弱いドライクリーニングができます 7.弱い操作のウエットクリーニングができます 半袖はこちら♪ そのほかのシャツはこちらから　※この商品はトンボ公式ネットショップオリジナル商品のため 市販されておりません この商品に関連するキーワード：シャツ カッターシャツ スクールシャツ 学生シャツ 長袖シャツ ワイシャツ yシャツ 男子 長袖 中学生 高校生 制服 学生服 TOMBOWトンボ学生服 抗菌 防臭 フォーマル ノーアイロン シワになりにくい 襟付き 形態安定 白 ホワイト ワイシャツ"
+ },
+ "kanidokoro:10001780": {
+  "first_seen": "2026-10-01T12:01:44",
+  "themes": [
+   {
+    "date": "2026-10-01",
+    "slot": "noon",
+    "theme": "今売れている物 × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "baseline"
+   }
+  ],
+  "item_code": "kanidokoro:10001780",
+  "name": "【毎年総合ランキング1位獲得★】福袋おせち◆高級おせちを含む56種のおせちのいずれかをお届け【送料無料】2027年 お正月 お節料理 予約 冷蔵おせち お節 御節 冷蔵 元祖",
+  "price": 12345,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rf0to.72d3ybd3.g00rf0to.72d3ze03/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkanidokoro%2F428%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkanidokoro%2Fi%2F10001780%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00rf0to.72d3ybd3.g00rf0to.72d3ze03/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkanidokoro%2F428%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/kanidokoro/cabinet/428/428_r_26thum_00b.jpg?_ex=600x600",
+  "shop_name": "海鮮かに処",
+  "review_count": 51251,
+  "review_average": 4.42,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "おせち販売累計448万個突破！！ おせち購入者の94％以上が満足！ 冷蔵おせち",
+  "genre_id": "410890",
+  "score": 19.47,
+  "last_seen": "2026-10-01T12:01:44",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/kanidokoro/cabinet/428/428_r_26thum_00b.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/kanidokoro/cabinet/428/26_428_mv.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/kanidokoro/cabinet/428/26_428_onegai.jpg?_ex=600x600"
+  ],
+  "caption": "商品番号 428 名称 福袋おせち 保存方法 そのまま冷蔵庫で保存 消費期限 2026年1月2日 配送可能地域 全国配送可能※一部離島では宅配の出来ない場合がございます。 販売者 スカイネット株式会社大阪市西区北堀江1-5-2四ツ橋新興産ビル2F2号 2025年 お正月 お節料理 予約 冷蔵おせち 冷蔵",
+  "posted_text": "#PR 家族みんなが使ってる定番\n福袋おせち\n★4.42・レビュー51,251件・楽天ランキング1位\n12,345円・送料無料\n使ってる人いたら感想ください\n#楽天購入品\n▶ROOMはプロフから",
+  "posted_at": "2026-10-01T12:01:44"
+ },
+ "jcrops:10000210": {
+  "first_seen": "2026-10-01T12:01:44",
+  "themes": [
+   {
+    "date": "2026-10-01",
+    "slot": "noon",
+    "theme": "今売れている物 × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "baseline"
+   }
+  ],
+  "item_code": "jcrops:10000210",
+  "name": "クーポンで500円OFF 先着5000枚限定 令和7年産 福島県産ミルキークイーン 無洗米 玄米 送料無料 5kg 10kg 20kg 30kg 米 お米 無洗米 玄米 コメ こめ 無洗米 5kg 無洗米 10kg 無洗米 20kg 無洗米 30kg 玄米 10kg 玄米 20kg 玄米 30kg",
+  "price": 3799,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00plxio.72d3yae3.g00plxio.72d3z359/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjcrops%2F588021%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjcrops%2Fi%2F10000210%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00plxio.72d3yae3.g00plxio.72d3z359/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjcrops%2F588021%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/jcrops/cabinet/168.jpg?_ex=600x600",
+  "shop_name": "会津CROPS米直販・楽天市場店",
+  "review_count": 8234,
+  "review_average": 4.72,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "楽天SOY2025米雑穀部門大賞受賞！ミルキークイーン 無洗米 もちもち感が特徴のお米になります。",
+  "genre_id": "201184",
+  "score": 17.28,
+  "last_seen": "2026-10-01T12:01:44",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/jcrops/cabinet/168.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/jcrops/cabinet/01620862/02076439/1-2025.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/jcrops/cabinet/01620862/02076439/2-25.jpg?_ex=600x600"
+  ],
+  "caption": "名称 玄米・無洗米 産地・銘柄 福島県産ミルキークイーン 産年 令和7年産 内容量 5kg 10kg 20kg 30kg 精米年月日 袋に記載 販売者 グラントマト株式会社福島県須賀川市狸森字下竹之内9-5 サイズ別はこちらから 福島県産ミルキークイーン無洗米　5kg 福島県産ミルキークイーン無洗米　30kg 福島県産ミルキークイーン玄米　30kg ※おしらせ※ 到着日のご希望などがある場合にはお届け先設定画面の「お届け日の指定」や「備考欄」にご記載ください。 ●発送日のチェックについてご注意ください● ▼ご購入の前にご確認下さい▼ 5kg袋でのお届けとなります ダンボール箱でのお届けとなります【佐川急便指定】一部地域は日時指定不可。 ※沖縄・全ての離島・中継料のかかる地域は別途送料をいただきます。 【ヤマト便希望】【中継料のかかる地域】へのご変更は＋送料300円 【沖縄・全ての離島】へのお届け＋送料1,100円おのし・ギフト対応不可。 ▲ぜひご一読ください▲▼あす楽対象エリア、注意点はこちら▼ ▲ご一読ください▲"
+ },
+ "fuchigami:10000003": {
+  "first_seen": "2026-10-01T12:01:44",
+  "themes": [
+   {
+    "date": "2026-10-01",
+    "slot": "noon",
+    "theme": "今売れている物 × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "baseline"
+   }
+  ],
+  "item_code": "fuchigami:10000003",
+  "name": "【7年産最終SALE！在庫限りの大赤字特価！】 米 10kg 令和7年 熊本県産 ヒノヒカリ ひのひかり 米 10kg 送料無料 白米 10kg 送料無料 お米 10kg 無洗米 送料無料 10キロ こめたつ 備蓄用 非常用 あす楽",
+  "price": 4180,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rxaro.72d3yafc.g00rxaro.72d3zdeb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffuchigami%2F10000003%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffuchigami%2Fi%2F10000003%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00rxaro.72d3yafc.g00rxaro.72d3zdeb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffuchigami%2F10000003%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/fuchigami/cabinet/rakurip/kome/hino-saisyu-10.jpg?_ex=600x600",
+  "shop_name": "こめたつ",
+  "review_count": 9417,
+  "review_average": 4.62,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "白米・無洗米・雑穀入り・麦ごはんの4種から選べます。米 10kg 送料無料 備蓄用 新鮮極パック（窒素充填包装）選択可",
+  "genre_id": "201184",
+  "score": 17.27,
+  "last_seen": "2026-10-01T12:01:44",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/fuchigami/cabinet/rakurip/kome/hino-saisyu-10.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/fuchigami/cabinet/bana2/kome_keppin_0630.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/fuchigami/cabinet/johino/hino_setumei_fl-1.jpg?_ex=600x600"
+  ],
+  "caption": "熊本県産ヒノヒカリ、その他のサイズはこちら▼・5kg ・10kg ・20kg・30kg商品名熊本県産ヒノヒカリ10kg名称精米 【白米から無洗米選択可】原料玄米：産地熊本県産原料玄米：品種ヒノヒカリ原料玄米：産年7年産原料玄米：使用割合単一原料米内容量精米10kg（5kg×2袋）精米時期別途商品ラベルに記載（精米時期の指定ができな為、極パックをお勧めいたします）保存方法【通常包装】●温度の高い場所を避け、密閉容器に移し15℃以下で保管して下さい。(袋のままの保存はNG)●お米は湿気を吸い易く、カビ等の原因になりますので保管にご注意下さい。●保管容器は、虫の発生を防ぐためにも、こまめに清掃して下さい。●お米は臭いを吸着し易い食品です。臭いの強い食品や洗剤、灯油などのそばには置かないで下さい。●開封・未開封に関わらず品質保証は商品到着後7日以内となります。保管方法の詳しくはこちら【極パック包装】●冷暗所での保管。●未開封であれば約180日ほどフレッシュにいただけます。商品名熊本県産ヒノヒカリ10kg（雑穀入り）名称穀物原料料名うるち米（国内産）、玄米（国内産）、黒米（国内産）、もち麦（国内産）、有機オーツ麦（フィンランド産）内容量10kg（5kg×2）賞味期限商品表面上部記載保存方法直射日光、高温多湿を避け冷暗所で保管してください。まれに原料由来のもみ殻などが残っている場合がございます。取り除いてご使用ください。備考開封後は、できるだけ早くお召し上がりください。／バリア性の高いチャック袋を使用しておりますので、チャックをしっかりと閉じて冷蔵庫での保管をおすすめいたします。／開封後は、チャックをしっかりと閉めて、15℃以下で保存しないとカビや虫の発生の原因になります。商品名熊本県産ヒノヒカリ10kg（麦ごはん）名称精米（無洗米）原料玄米単一原料米内容量10kg（5kg [精麦1."
+ },
+ "styleplus:10000052": {
+  "first_seen": "2026-10-01T12:01:44",
+  "themes": [
+   {
+    "date": "2026-10-01",
+    "slot": "noon",
+    "theme": "今売れている物 × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "baseline"
+   }
+  ],
+  "item_code": "styleplus:10000052",
+  "name": "超薄型 ペットシーツ レギュラー 1200枚（300枚×4袋） ワイド 600枚（150枚×4袋） スーパーワイド 300枚（75×4袋） ペットシーツ専門店 スタイルプラス オリジナル",
+  "price": 5280,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qup5o.72d3y108.g00qup5o.72d3z5e4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstyleplus%2F10000000tw%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fstyleplus%2Fi%2F10000052%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00qup5o.72d3y108.g00qup5o.72d3z5e4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstyleplus%2F10000000tw%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/styleplus/cabinet/brand/sa/styleplus/style_chouusu.jpg?_ex=600x600",
+  "shop_name": "ペットシーツ専門店スタイルプラス",
+  "review_count": 20691,
+  "review_average": 4.52,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "送料無料！ 1回使い捨てタイプ",
+  "genre_id": "409755",
+  "score": 16.48,
+  "last_seen": "2026-10-01T12:01:44",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/styleplus/cabinet/brand/sa/styleplus/style_chouusu.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/styleplus/cabinet/brand/sa/styleplus/ranking202606.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/styleplus/cabinet/brand/sa/styleplus/10000000tw_02.jpg?_ex=600x600"
+  ],
+  "caption": "スタイルプラス社オリジナル 超薄型ペットシーツ レギュラー 1200枚（300枚×4袋） シートサイズ 約32.5×44.5cm＊商品の性質上、各辺約1cm前後の誤差は発生する場合がございます。予めご了承下さい。 ケースサイズ 約61.0×42.0×高さ30.0cm＊誤差が生じます。予めご了承下さい。 シート重量 約11g/1枚あたり＊1gの誤差は良品の範囲内です。予めご了承下さい。 対　象 超小型犬、小型犬、猫、うさぎ、モルモット、チンチラ、フェレット等の小動物、他(体重約5kgまで)体重約5kgまでの子の1回分(約30cc/回)のオシッコを吸収 スタイルプラス社オリジナル 超薄型ペットシーツ ワイド 600枚（150枚×4袋） シートサイズ 約44.5×59.0cm＊商品の性質上、各辺約1cm前後の誤差は発生する場合がございます。予めご了承下さい。 ケースサイズ 約61.0×40.0×高さ36.0cm＊誤差が生じます。予めご了承下さい。 シート重量 約22g/1枚あたり＊2gの誤差は良品の範囲内です。予めご了承下さい。 対　象 超小型犬、小型犬、猫、うさぎ、モルモット、チンチラ、フェレット等の小動物、他(体重約10kgまで)体重約10kgまでの子の1回分(約60cc/回)のオシッコを吸収 スタイルプラス社オリジナル 超薄型ペットシーツ スーパーワイド 300枚（75枚×4袋） シートサイズ 約60.0×90.0cm＊商品の性質上、各辺約1cm前後の誤差は発生する場合がございます。予めご了承下さい。 ケースサイズ 約59.0×36.0×高さ41.0cm＊誤差が生じます。予めご了承下さい。 シート重量 約40g/1枚あたり 対　象 超小型犬、小型犬、中型犬、猫、うさぎ、モルモット、チンチラ、フェレット等の小動物、他(体重約25kgまで)体重約10kgまでの子の約2回分(約6"
+ },
+ "hi-syokuzaishitu:10000914": {
+  "first_seen": "2026-10-01T12:01:44",
+  "themes": [
+   {
+    "date": "2026-10-01",
+    "slot": "noon",
+    "theme": "今売れている物 × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "baseline"
+   }
+  ],
+  "item_code": "hi-syokuzaishitu:10000914",
+  "name": "【1個ご購入で送料無料！】【9年連続＆2025楽天グルメ大賞受賞】 チーズ セルロース 無添加 こだわる大人の配合S-1 ゴーダ×サムソーの贅沢配合 とろけるチーズ シュレッドチーズ 【800g】【冷蔵/冷凍可】 無添加 チーズ ゴーダ サムソー ピザ トースト",
+  "price": 1880,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qavco.72d3y08b.g00qavco.72d3z305/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhi-syokuzaishitu%2Fmix-01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhi-syokuzaishitu%2Fi%2F10000914%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00qavco.72d3y08b.g00qavco.72d3z305/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhi-syokuzaishitu%2Fmix-01%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/hi-syokuzaishitu/cabinet/00469252/11862129/12523199/imgrc0109003960.jpg?_ex=600x600",
+  "shop_name": "ハイ食材室",
+  "review_count": 9055,
+  "review_average": 4.68,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "",
+  "genre_id": "201080",
+  "score": 16.43,
+  "last_seen": "2026-10-01T12:01:44",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/hi-syokuzaishitu/cabinet/00469252/11862129/12523199/imgrc0109003960.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/hi-syokuzaishitu/cabinet/00469252/11862129/12523199/imgrc0109004186.gif?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/hi-syokuzaishitu/cabinet/04300201/07450748/08768695/imgrc0079158445.gif?_ex=600x600"
+  ],
+  "caption": "■INFORMATION 商品名：こだわる大人の配合S-1 原産国：オランダ、デンマーク 賞味期限：お届け後、未開封で約1ヶ月サイズ：800g 原材料：生乳、食塩 保存方法：冷蔵または冷凍で保管して下さい 発送方法：冷蔵/冷凍発送可能 ■栄養成分（100gあたり）エネルギー：362kcal たんぱく質：24.0g 脂質：29.0g 炭水化物：0.3g 食塩相当量：1.9g ■販売者 DRESSTABLE Inc. 東京都中央区八重洲2-1-1 YANMARTOKYO 7F ■配送方法 クール宅急便（ヤマト運輸）にて手配いたします ■お届けの目安 ご注文から1～2日の内に発送 ※店舗休業日を除く"
+ },
+ "jcrops:10008458": {
+  "first_seen": "2026-10-01T12:01:44",
+  "themes": [
+   {
+    "date": "2026-10-01",
+    "slot": "noon",
+    "theme": "今売れている物 × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "baseline"
+   }
+  ],
+  "item_code": "jcrops:10008458",
+  "name": "クーポンで500円OFF 先着5000枚限定 令和7年産 福島県産つきあかり 無洗米 長期保存 脱酸素剤入り 送料無料 5kg 10kg 20kg 30kg 米 お米 無洗米 コメ こめ 無洗米 5kg 無洗米 10kg 無洗米 20kg 無洗米 30kg",
+  "price": 3199,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00plxio.72d3yae3.g00plxio.72d3z359/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjcrops%2F4560131951467-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjcrops%2Fi%2F10008458%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00plxio.72d3yae3.g00plxio.72d3z359/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjcrops%2F4560131951467-2%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/jcrops/cabinet/159.jpg?_ex=600x600",
+  "shop_name": "会津CROPS米直販・楽天市場店",
+  "review_count": 1928,
+  "review_average": 4.83,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "楽天SOY2025米雑穀部門大賞受賞！無洗米 長期保存米 脱酸素剤入り",
+  "genre_id": "201184",
+  "score": 16.27,
+  "last_seen": "2026-10-01T12:01:44",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/jcrops/cabinet/159.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/jcrops/cabinet/01620862/02076439/1-2025.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/jcrops/cabinet/01620862/02076439/2-25.jpg?_ex=600x600"
+  ],
+  "caption": "名称 精米(無洗米) 産地・銘柄 福島県産つきあかり 産年 令和7年産 内容量 5kg(5kg×1袋) 10kg(5kg×2袋) 20kg(5kg×4袋) 30kg(5kg×6袋) 精米年月日 袋に記載　 販売者 グラントマト株式会社福島県須賀川市狸森字下竹之内9-5 サイズ別はこちらから 福島県産つきあかり無洗米　5kg 福島県産つきあかり無洗米　30kg 福島県産つきあかり玄米　30kg ●発送日のチェックについてご注意ください● ▼ご購入の前にご確認下さい▼ ダンボール箱でのお届けとなります【佐川急便指定】一部地域は日時指定不可。 ※沖縄・全ての離島・中継料のかかる地域は別途送料をいただきます。 【ヤマト便希望】【中継料のかかる地域】へのご変更は＋送料300円 【沖縄・全ての離島】へのお届け＋送料1,100円おのし・ギフト対応不可。 ▲ぜひご一読ください▲▲ご一読ください▲"
  }
 }

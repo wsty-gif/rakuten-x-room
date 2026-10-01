@@ -3521,7 +3521,8 @@
   "tweet_id": "2105417730690064572",
   "threads_id": "18050260538810720",
   "room_done": false,
-  "image": true
+  "image": true,
+  "instagram_story_id": "18285152068291947"
  },
  {
   "date": "2026-10-01T07:01:45",
@@ -3563,6 +3564,66 @@
   "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qllxo.72d3y0f6.g00qllxo.72d3z222/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fantiqua-a%2Fza-00191%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fantiqua-a%2Fi%2F10026410%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "affiliate_rate": 4.0,
   "text": "自分へのご褒美にちょうどいい価格。ユニセックスで着られるシンプルなデザインとサイズ感。トラッド感のあるデザインにカラー配色がアクセント。レビュー62件で★4.53。送料無料。",
+  "room_done": false
+ },
+ {
+  "date": "2026-10-01T12:01:44",
+  "slot": "noon",
+  "theme": "今売れている物 × 40代男性（家族・晩酌・車）",
+  "persona": "40s_man",
+  "item_code": "kanidokoro:10001780",
+  "item_name": "【毎年総合ランキング1位獲得★】福袋おせち◆高級おせちを含む56種のおせちのいずれかをお届け【送料無料】2027年 お正月 お節料理 予約 冷蔵おせち お節 御",
+  "price": 12345,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rf0to.72d3ybd3.g00rf0to.72d3ze03/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkanidokoro%2F428%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkanidokoro%2Fi%2F10001780%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "#PR 家族みんなが使ってる定番\n福袋おせち\n★4.42・レビュー51,251件・楽天ランキング1位\n12,345円・送料無料\n使ってる人いたら感想ください\n#楽天購入品\n▶ROOMはプロフから",
+  "tweet_id": "2105493226753019905",
+  "threads_id": "18002921055033537",
+  "room_done": false,
+  "image": true,
+  "instagram_id": "18086683472689441",
+  "instagram_story_id": "17949284994331146"
+ },
+ {
+  "date": "2026-10-01T12:01:44",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "今売れている物 × 40代男性（家族・晩酌・車）",
+  "persona": "40s_man",
+  "item_code": "fujikocyan:10000256",
+  "item_name": "【同梱不可】メルマガでのみ中身を公開！10月おついたち箱【送料無料】お歳暮 御歳暮 2026 冬ギフト 牛丼 冷しゃぶ BBQ 福箱 福袋 肉 セット 詰め合わ",
+  "price": 3980,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00r8gio.72d3ya92.g00r8gio.72d3z73a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffujikocyan%2F20191225-001sp%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffujikocyan%2Fi%2F10000256%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "週末のお楽しみ用に。お知らせ水曜日、日曜日は定休日となっております。レビュー367件で★4.67。送料無料。",
+  "room_done": false
+ },
+ {
+  "date": "2026-10-01T12:01:44",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "今売れている物 × 40代男性（家族・晩酌・車）",
+  "persona": "40s_man",
+  "item_code": "fuchigami:10000061",
+  "item_name": "【7年産最終SALE！在庫限りの大赤字特価！】 米 10kg 令和7年産米入り 訳あり ほほえみ米 お米マイスター厳選米 米 10kg 送料無料 白米 10kg",
+  "price": 3680,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rxaro.72d3yafc.g00rxaro.72d3zdeb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffuchigami%2F10000061%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffuchigami%2Fi%2F10000061%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "まとめ買い向き。お米は臭いを吸着し易い食品です。レビュー9,358件で★4.41。送料無料。",
+  "room_done": false
+ },
+ {
+  "date": "2026-10-01T12:01:44",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "今売れている物 × 40代男性（家族・晩酌・車）",
+  "persona": "40s_man",
+  "item_code": "jcrops:10000210",
+  "item_name": "クーポンで500円OFF 先着5000枚限定 令和7年産 福島県産ミルキークイーン 無洗米 玄米 送料無料 5kg 10kg 20kg 30kg 米 お米 無洗",
+  "price": 3799,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00plxio.72d3yae3.g00plxio.72d3z359/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjcrops%2F588021%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjcrops%2Fi%2F10000210%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "まとめ買い向き。レビュー8,234件で★4.72。送料無料。",
   "room_done": false
  }
 ]
