@@ -1,83 +1,42 @@
-# 楽天ROOMに追加する商品（2026-10-01）
+# 楽天ROOMに追加する商品（2026-10-02）
 
 手順: 商品URLを開く → 共有 → 「ROOMに投稿」 → コメントを貼って投稿。
 夜の分は20時までに入れておくと、購買ピーク（21〜24時）に乗ります。
 
-## 07:01 秋の衣替え（開催中） × 20代女性（自分磨き・プチプラ・映え）
+## 07:01 お買い物マラソン（10月予想）（2日後） × 子育て世帯のママ・パパ
 
-1. **【 Lypo-C 公式 】新発売 リポ カプセル ビタミンC (28包入) ×1箱 リポソーム ビタミンC サプリ リポ**
-   - 価格: 7,776円 / ★4.65（2,037件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00u5q2o.72d3y136.g00u5q2o.72d3zcb4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flypoc%2Flypo-c28%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flypoc%2Fi%2F10000019%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: SNSで見かけて気になってたやつ。ビタミンCは美容や健康を維持する為には不可欠な栄養素です。レビュー2,037件で★4.65。送料無料。
+1. **【一部予約】 ベビー枕 ジオピロー 【公式】 新生児 から使える 絶壁防止 ドーナツ枕 出産祝い シルク 枕カバー 赤ち**
+   - 価格: 7,980円 / ★4.5（11,785件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00ss1uo.72d3y556.g00ss1uo.72d3z78c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsanho-store%2Fgiopillow%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsanho-store%2Fi%2F10000068%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: お買い物マラソン中に狙いたい1つ。子どもがいる家で助かった系。丸洗い可能でデリケートな肌にも安心。窒息リスクを未然に防ぐ：圧倒的通気性の呼吸する枕で安全・快適。楽天ランキング1位、レビュー11,785件で★4.5。7,980円。セール中に補充しておくと安心です。
 
-2. **カラコン ワンデー 水光カラコン OLENS オーレンズ 1day MEOVV 度あり 度なし グローイ ティア Tea**
-   - 価格: 1,760円 / ★4.66（2,636件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00s25to.72d3y175.g00s25to.72d3z779/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmorecon2%2F10000780%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmorecon2%2Fi%2F10001867%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: プチプラで探してる人に。レビュー2,636件で★4.66。送料無料。
+2. **P＼10/1限定★P10倍／【食いしんぼう祭500円OFFクーポン対象】 もち麦 九州産 900g【美味しく食物繊維をプ**
+   - 価格: 1,000円 / ★4.76（4,004件） / 料率 4.0% / P10倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qajfo.72d3y241.g00qajfo.72d3ze54/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fchashoan%2F3-731%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fchashoan%2Fi%2F10001818%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: お買い物マラソン中に狙いたい1つ。まとめ買いしておくと楽になるもの。レビュー4,004件で★4.76。ポイント10倍で実質900円、送料無料。在庫が動きやすいので早めに。
 
-3. **チノパン メンズ 超伸縮 チノパンツ 伸縮自在ストレッチ ゴルフ ゴルフウェア ゴルフパンツ ハイテンションストレッチ **
-   - 価格: 2,198円 / ★4.25（4,054件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qc3eo.72d3yb80.g00qc3eo.72d3z414/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faruge%2Fd2g%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faruge%2Fi%2F10065522%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: SNSで見かけて気になってたやつ。モデルコメント：Mサイズを着用しました。Mサイズを着用しました。レビュー4,054件で★4.25。送料無料。
+3. **有機JAS オーガニック セイロンシナモンパウダー 100g / 100g×3袋(管理栄養士監修レシピ付) / 500g**
+   - 価格: 1,188円 / ★4.77（1,307件） / 料率 4.0% / P3倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00tnwko.72d3y82a.g00tnwko.72d3z4d9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fspanion%2Fceylon-cinnamon%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fspanion%2Fi%2F10000124%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: お買い物マラソン中に狙いたい1つ。ママ友の間でよく話題になるやつ。レビュー1,307件で★4.77。ポイント3倍で実質1,152円。在庫が動きやすいので早めに。
 
-4. **カーディガン レディース トップス 長袖 配色 送料無料・再入荷 メール便不可**
-   - 価格: 4,950円 / ★4.53（62件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qllxo.72d3y0f6.g00qllxo.72d3z222/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fantiqua-a%2Fza-00191%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fantiqua-a%2Fi%2F10026410%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 自分へのご褒美にちょうどいい価格。ユニセックスで着られるシンプルなデザインとサイズ感。トラッド感のあるデザインにカラー配色がアクセント。レビュー62件で★4.53。送料無料。
+4. **【ワンダフルデー限定10％OFFクーポン】葉酸サプリ エレビット 葉酸800μg 無添加 30日分 妊活 妊婦 葉酸 授**
+   - 価格: 4,980円 / ★4.56（2,218件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00sqjxo.72d3ydc8.g00sqjxo.72d3z9d1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbayeryakuhin%2F85130056-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbayeryakuhin%2Fi%2F10000008%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: お買い物マラソン中に狙いたい1つ。子どもがいる家で助かった系。レビュー2,218件で★4.56。10%OFF。配送日も一緒に確認を。
 
-### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
+5. **＼10/4AM9:59まで超早割／【楽天総合1位】特大タラバ蟹1kg 2kg 3kg 5kg 独自のワンフローズン カニ**
+   - 価格: 9,999円 / ★4.24（24,415件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qaozo.72d3ybe0.g00qaozo.72d3zfc8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsfd-ymt%2F869808%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsfd-ymt%2Fi%2F10000345%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: お買い物マラソン中に狙いたい1つ。まとめ買いしておくと楽になるもの。楽天ランキング1位、レビュー24,415件で★4.24。10/49:59まで。配送日も一緒に確認を。
 
-- **20代女性のリピート候補**: 新発売 リポ カプセル ビタミンC ×1箱 / カラコン ワンデー 水光カラコン OLENS / チノパン メンズ 超伸縮 チノパンツ / カーディガン レディース トップス 長袖
-
-## 12:01 今売れている物 × 40代男性（家族・晩酌・車）
-
-1. **【毎年総合ランキング1位獲得★】福袋おせち◆高級おせちを含む56種のおせちのいずれかをお届け【送料無料】2027年 お正**
-   - 価格: 12,345円 / ★4.42（51,251件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00rf0to.72d3ybd3.g00rf0to.72d3ze03/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkanidokoro%2F428%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkanidokoro%2Fi%2F10001780%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: まとめ買い向き。楽天ランキング1位、レビュー51,251件で★4.42。送料無料。
-
-2. **【同梱不可】メルマガでのみ中身を公開！10月おついたち箱【送料無料】お歳暮 御歳暮 2026 冬ギフト 牛丼 冷しゃぶ **
-   - 価格: 3,980円 / ★4.67（367件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00r8gio.72d3ya92.g00r8gio.72d3z73a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffujikocyan%2F20191225-001sp%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffujikocyan%2Fi%2F10000256%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 週末のお楽しみ用に。お知らせ水曜日、日曜日は定休日となっております。レビュー367件で★4.67。送料無料。
-
-3. **【7年産最終SALE！在庫限りの大赤字特価！】 米 10kg 令和7年産米入り 訳あり ほほえみ米 お米マイスター厳選米**
-   - 価格: 3,680円 / ★4.41（9,358件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00rxaro.72d3yafc.g00rxaro.72d3zdeb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffuchigami%2F10000061%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffuchigami%2Fi%2F10000061%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: まとめ買い向き。お米は臭いを吸着し易い食品です。レビュー9,358件で★4.41。送料無料。
-
-4. **クーポンで500円OFF 先着5000枚限定 令和7年産 福島県産ミルキークイーン 無洗米 玄米 送料無料 5kg 10**
-   - 価格: 3,799円 / ★4.72（8,234件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00plxio.72d3yae3.g00plxio.72d3z359/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjcrops%2F588021%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjcrops%2Fi%2F10000210%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: まとめ買い向き。レビュー8,234件で★4.72。送料無料。
+6. **最大1000円OFFクーポン配布中 【レビュー特典あり】【ポイント10倍】 スイマーバ Swimava うきわ首リング **
+   - 価格: 3,520円 / ★4.68（4,528件） / 料率 4.0% / P10倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qcnfo.72d3y28d.g00qcnfo.72d3zbe7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnatural-living%2Fu503267%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnatural-living%2Fi%2F10009683%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: お買い物マラソン中に狙いたい1つ。まとめ買いしておくと楽になるもの。それはまるで子宮の中にいた頃を思い出しているかのよう。生まれて初めて体験するベビープレスイミングで水に親しみましょう。レビュー4,528件で★4.68。ポイント10倍で実質3,168円、送料無料。在庫が動きやすいので早めに。
 
 ### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
 
-- **40代男性のリピート候補**: 福袋おせち / 【同梱不可】メルマガでのみ中身を公開！10月 / 10kg 令和7年産米入り 訳あり / 令和7年産 福島県産ミルキークイーン 無洗米
-
-## 20:16 秋の衣替え（開催中） × 30代女性（暮らし・時短・コスパ）
-
-1. **【予約：10月中旬納期】甘い服ほど、このブーツ。フロントジップブーツ ブーツ レディース 靴 合皮 痛くない 歩きやすい**
-   - 価格: 6,930円 / ★4.28（590件） / 料率 4.0% / P10倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qllxo.72d3y0f6.g00qllxo.72d3z222/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fantiqua-a%2Fap-00038%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fantiqua-a%2Fi%2F10023819%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 忙しい平日の味方。シボ感のあるアッパーが表情豊かで、シンプルなコーディネートにも奥行きをプラス。タンクソールは厚底ながら軽量で、長時間の歩行も疲れにくく快適です。レビュー590件で★4.28。ポイント10倍で実質6,237円、送料無料。
-
-2. **コーデに悩まない服。セットアップ レディース トップス ワイドパンツ 半袖 速乾 ドルマン ゆったり 体型カバー 軽量 **
-   - 価格: 3,990円 / ★4.21（53件） / 料率 4.0% / P10倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qllxo.72d3y0f6.g00qllxo.72d3z222/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fantiqua-a%2Fna-00515%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fantiqua-a%2Fi%2F10031463%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 忙しい平日の味方。着るだけで心ときめく。無地だから着回しやすく、落ち感のある生地でデイリーからお出かけまで品よく活躍。レビュー53件で★4.21。ポイント10倍で実質3,591円、送料無料。
-
-3. **【限定！15%OFFクーポン】≪10月1日再販≫カツラギバレルレッグカーブパンツ レディース M L 秋 ワイドパンツ **
-   - 価格: 5,498円 / ★4.3（37件） / 料率 4.0% / P5倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qe0io.72d3yd3e.g00qe0io.72d3z076/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgalstar%2F139853%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgalstar%2Fi%2F10082323%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 買い置きしておくと安心なもの。レビュー37件で★4.3。15%OFF、ポイント5倍で実質5,223円。
-
-4. **＜先行予約限定1,000円＞【年間ランキング6位】 裏起毛 レギンス トレンカ 冷え取り 冷えとり あったか レディース**
-   - 価格: 1,000円 / ★4.34（12,276件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00q8qjo.72d3y742.g00q8qjo.72d3zf92/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdarkangel%2Fto2309-3814%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdarkangel%2Fi%2F10036257%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 買い置きしておくと安心なもの。極厚の裏起毛で一度はいたら病みつき。ワンピースの下にはもちろん、ワイドパンツにプラスワンでさらに防寒。レビュー12,276件で★4.34。1,000円。
-
-### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
-
-- **30代女性のリピート候補**: 【予約：10月中旬納期】甘い服ほど、このブー / コーデに悩まない服。セットアップ レディース / 【限定！15%OFFクーポン】≪10月1日再 / 裏起毛 レギンス トレンカ 冷え取り
+- **お買い物マラソンで買うもの**: ベビー枕 ジオピロー 新生児 から使える / 10 もち麦 九州産 900g 国産もち麦 / 有機JAS オーガニック / 葉酸サプリ エレビット 葉酸800μg / 10 4AM9:59まで超早割 / スイマーバ Swimava うきわ首リング
+- **子育て世帯のママ・パパのリピート候補**: ベビー枕 ジオピロー 新生児 から使える / 10 もち麦 九州産 900g 国産もち麦 / 有機JAS オーガニック / 葉酸サプリ エレビット 葉酸800μg / 10 4AM9:59まで超早割 / スイマーバ Swimava うきわ首リング
 
