@@ -858,6 +858,13 @@
     "theme": "楽天スーパーSALE（9月）（開催中） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-10-02",
+    "slot": "night",
+    "theme": "お買い物マラソン（10月予想）（2日後） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "kireijapan:10000065",
@@ -867,14 +874,20 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00tywto.72d3y9ca.g00tywto.72d3z878/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkireijapan%2Fet04000200%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/kireijapan/cabinet/08096446/fcu0400/official_japan.jpg?_ex=600x600",
   "shop_name": "Etec正規店きれいナチュラル生活",
-  "review_count": 7877,
+  "review_count": 7952,
   "review_average": 4.84,
   "affiliate_rate": 2.0,
   "point_rate": 1,
   "catchcopy": "【正規・純正品】イーテック純正。ウルオ・ウルオクールどちらにも使えます",
   "genre_id": "212491",
-  "score": 17.61,
-  "last_seen": "2026-09-06T09:10:43"
+  "score": 16.02,
+  "last_seen": "2026-10-02T20:16:24",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/kireijapan/cabinet/08096446/fcu0400/official_japan.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/kireijapan/cabinet/08096446/fcu0400/new_cartridge_teiki.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/kireijapan/cabinet/08096446/fcu0400/gokansei.jpg?_ex=600x600"
+  ],
+  "caption": "商品内容ウルオ・ウルオクール用カートリッジ FCU-0400メーカー株式会社イーテック家庭用品品質表示法に基づく表示■材料の種類（カートリッジ本体）ポリプロピレン　ポリオレフィン　シリコーンゴム ■ろ材の種類活性炭 不織布 珪酸チタン ■ろ過流量　0.2L／分 ■浄水能力 ・遊離残留塩素 (総ろ過水量 : 400l 除去率 : 80% JIS S 3201 試験結果) ・濁り (総ろ過水量 : 400l 除去率 : 80% JIS S 3201 試験結果) ・溶解性鉛 (総ろ過水量 : 400l 除去率 : 80% JIS S 3201 試験結果) ・2-MIB(カビ臭) (総ろ過水量 : 400l 除去率 : 80% JIS S 3201 試験結果) ・CAT(農薬) (総ろ過水量 : 400l 除去率 : 80% JIS S 3201 試験結果) ・クロロホルム (総ろ過水量 : 400l 除去率 : 80% JIS S 3201 附属書 A 試験結果) ・ブロモジクロロメタン (総ろ過水量 : 400l 除去率 : 80% JIS S 3201 附属書 A 試験結果) ・ジブロモクロロメタン (総ろ過水量 : 400l 除去率 : 80% JIS S 3201 附属書 A 試験結果) ・ブロモホルム (総ろ過水量 : 400l 除去率 : 80% JIS S 3201 附属書 A 試験結果) ・テトラクロロエチレン (総ろ過水量 : 400l 除去率 : 80% JIS S 3201 附属書 A 試験結果) ・トリクロロエチレン (総ろ過水量 : 400l 除去率 : 80% JIS S 3201 附属書 A 試験結果) ・総トリハロメタン (総ろ過水量 : 400l 除去率 : 80% JIS S 3201 附属書 A 試験結果) ・1,2-DCE (総ろ過水量 :"
  },
  "brita:10000012": {
   "first_seen": "2026-09-06T03:27:02",
@@ -1802,23 +1815,36 @@
     "theme": "楽天スーパーSALE（9月）（開催中） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-10-02",
+    "slot": "night",
+    "theme": "お買い物マラソン（10月予想）（2日後） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "plywood:10022493",
-  "name": "●楽天1位【もれなく本鶏だし&全36品目レシピ付】レコルト 自動調理ポット ラージ RSY-3 自動調理ラージrecolte Auto Cooking Pot Large 自動調理 大容量 防水 ミキサー ブレンダー 豆乳メーカー スープメーカー◇電気 レシピ付 離乳食 保温 氷OK 送料無料 P10倍",
+  "name": "●楽天1位 【豪華レシピ2冊付き】 レコルト 自動調理ポット ラージ RSY-3 自動調理ラージrecolte Auto Cooking Pot Large 自動調理 大容量 防水 ミキサー ブレンダー 豆乳メーカー スープメーカー◇電気 レシピ付 離乳食 保温 氷OK 送料無料 P10倍",
   "price": 19800,
   "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pzd8o.72d3yd94.g00pzd8o.72d3z72a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fplywood%2F20149424%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fplywood%2Fi%2F10022493%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00pzd8o.72d3yd94.g00pzd8o.72d3z72a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fplywood%2F20149424%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/plywood/cabinet/503/20149424.jpg?_ex=600x600",
   "shop_name": "plywood キッチン・インテリア雑貨",
-  "review_count": 347,
-  "review_average": 4.76,
+  "review_count": 413,
+  "review_average": 4.74,
   "affiliate_rate": 2.0,
   "point_rate": 10,
   "catchcopy": "自動調理ポットラージ キッチン家電 調理器具 簡単調理 ポタージュ 野菜スープ ジュース おかゆ スムージー ポトフ カレー 氷 豆乳 かわいい ペースト食 便利 おしゃれ ペースト食",
   "genre_id": "565076",
-  "score": 17.59,
-  "last_seen": "2026-09-06T09:10:43"
+  "score": 16.55,
+  "last_seen": "2026-10-02T20:16:24",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/plywood/cabinet/503/20149424.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/plywood/cabinet/img-up_2_1389/2470_k1_716309_50.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/plywood/cabinet/kaden12/20149424-sab16.jpg?_ex=600x600"
+  ],
+  "caption": "ギフト対応 ブランド recolte / レコルト サイズ (約)幅13.5×奥行18.2×高さ26.3cm 重　量 約1.3kg(コード含まず) 主材料 本体、フタ、お手入れブラシ、計量スプーン：ポリプロピレン本体内側：セラミックコーティング刃：ステンレス(チタンコーティング) 容　量 1,000ml(ジュース/CLEANモード)800ml(ポタージュ/ペースト、スープ、たべるスープ、おかゆ、豆乳、保温/あたためモード) コード長 約1m セット内容 本体×1、フタ×1、電源コード×1、お手入れブラシ×1、計量スプーン×1、専用レシピブック×1 電　源 AC100V 50/60Hz 消費電力 600W(ポタージュ/ペースト、スープ、たべるスープ、おかゆ、豆乳、保温/あたためモード) 130W(ジュース/CLEANモード) 定格時間 ポタージュ/ペースト、スープ、たべるスープ、おかゆ、豆乳、保温/あたためモード使用時：50分 ジュース/CLEANモード使用時：3分30秒 備　考 本体はプラグ挿入口カバーをしっかり取り付けた状態でIPX4相当の防水性能です。完全防水ではありません。水に浸けたり、丸洗いなどはしないでください。 タイマー機能付き。※「豆乳モード」と「おかゆモード」のみ設定可能。その他のモードはタイマー設定不可。※傷みやすい食材などは入れないでください。 空焚き防止機能付き。 計量スプーン：1杯で25ml(乾燥大豆 約20g分になります) お手入れ方法 MINラインまで水またはぬるま湯を入れ、台所用中性洗剤1～2滴を入れてフタをして「ジュース/CLEAN」モードで攪拌すれば、お手入れの際の予洗いにも便利。予洗い後は付属のお手入れ専用のクリーニングブラシで気になる部分をこすり洗いするだけ。内部はセラミックコーティングが施され、汚れや焦げがつきにくい仕様です。 お手入"
  },
  "roomy:10018139": {
   "first_seen": "2026-09-06T09:10:43",
@@ -1843,23 +1869,36 @@
     "theme": "今売れている物 × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "baseline"
+   },
+   {
+    "date": "2026-10-02",
+    "slot": "night",
+    "theme": "お買い物マラソン（10月予想）（2日後） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "roomy:10018139",
-  "name": "【36種類レシピ付】レコルト スープメーカー 豆乳メーカー スープ 全自動 豆乳機 自動調理 ポタージュメーカー ミキサー ブレンダー 保温 豆乳 おかゆ お粥 離乳食 自動調理器 スムージー 味噌汁 レシピ 800mL 1L 大容量 RSY-3［ recolte 自動調理ポット ラージ ］",
+  "name": "【特典＋36種類レシピ付】レコルト スープメーカー 豆乳メーカー スープ 全自動 豆乳機 自動調理 ポタージュメーカー ミキサー ブレンダー 保温 豆乳 おかゆ お粥 離乳食 自動調理器 スムージー 味噌汁 レシピ 800mL 1L 大容量 RSY-3［ recolte 自動調理ポット ラージ ］",
   "price": 19800,
   "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qb0lo.72d3y6eb.g00qb0lo.72d3z421/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Froomy%2Fwin26feb09a01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Froomy%2Fi%2F10018139%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00qb0lo.72d3y6eb.g00qb0lo.72d3z421/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Froomy%2Fwin26feb09a01%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
-  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/roomy/cabinet/500cart_all/500cart_11g/p10-8/win2006-to010-1_gt01.jpg?_ex=600x600",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/roomy/cabinet/500cart_all/500cart_11g/p10n-8/win2006-to010-1_gt01.jpg?_ex=600x600",
   "shop_name": "インテリアショップ roomy",
-  "review_count": 542,
+  "review_count": 555,
   "review_average": 4.74,
   "affiliate_rate": 2.0,
   "point_rate": 10,
   "catchcopy": "「 自動調理ポット 」に大容量サイズ登場。スープは800mL、ジュースは1Lまで調理でき7つの調理モードを搭載。なめらかポタージュ、食べるスープ、濾さずに飲める豆乳など簡単に時短調理。",
   "genre_id": "565076",
-  "score": 15.62,
-  "last_seen": "2026-09-27T12:57:14"
+  "score": 15.94,
+  "last_seen": "2026-10-02T20:16:24",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/roomy/cabinet/500cart_all/500cart_11g/p10n-8/win2006-to010-1_gt01.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/roomy/cabinet/500cart_all/500cart_pr/260902_mo_gdpre.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/roomy/cabinet/500cart_all/500cart_ca2_7/win2006-to010-1_sz01.jpg?_ex=600x600"
+  ],
+  "caption": "recolte Auto Cooking Pot Largeレコルト 自動調理ポット ラージ 7つのモードで簡単＆時短 大容量スープメーカー ほったらかし調理で本格スープが作れるレコルトの大人気キッチン家電「 自動調理ポット 」に、たっぷり作れる大容量サイズの『 recolte 自動調理ポット ラージ 』がラインアップ。スープは800mL、ジュースは1Lまで調理可能で、多彩な7つの調理モードを搭載。なめらかポタージュ、具だくさんの食べるスープ、濾さずに飲める自家製豆乳など、魅力的なメニューを簡単に時短調理できます。調理時間が確認できるディスプレイ表示や予約タイマー機能など、使い勝手もさらにアップしました。 スペック 品名 recolte Auto Cooking Pot Largeレコルト 自動調理ポット ラージ 品番 / JAN クリームホワイト：RSY-3（ W ）/ 4582180208361ナチュラルブラック：RSY-3（ BK ）/ 4582180208378 サイズ 約 幅 135mm×奥行き 182mm×高さ 263mm 重さ 本体：約 1.3kg 素材 本体 / フタ / お手入れブラシ / 計量スプーン：ポリプロピレン本体内側：ステンレス（ セラミックコーティング ）刃：ステンレス（ チタンコーティング ） コードの長さ 着脱式電源コード：約 1m ※充電式ではありません。 電源 AC100V 50/60Hz 消費電力 ジュース / CLEANモード使用時：130Wその他モード使用時：600W 定格容量 ジュース / CLEANモード使用時：1Lその他モード使用時：800mL計量スプーン：25mL（ 乾燥大豆 約 20g ）※材料は400mL以上で使用してください。 定格時間 ジュース / CLEANモード使用時：3分30秒その他モード使用時：50分 7つ"
  },
  "pricon:10003151": {
   "first_seen": "2026-09-06T09:10:43",
@@ -1954,23 +1993,36 @@
     "theme": "楽天スーパーSALE（9月）（開催中） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-10-02",
+    "slot": "night",
+    "theme": "お買い物マラソン（10月予想）（2日後） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "nissoplus:10000178",
-  "name": "【楽天総合1位★スーパーSALE限定 10%OFFクーポン】レビュー高評価！足 マッサージ器 EMS フットマッサージャー NIPLUX ニップラックス LEG FIT ふくらはぎ マッサージ機 フットマッサージ コンパクト 持ち運び コードレス 太もも 足裏 脚",
+  "name": "【かまいたちチャンネルで紹介｜楽天総合1位★10%OFFクーポン】レビュー高評価！足 マッサージ器 EMS フットマッサージャー NIPLUX ニップラックス LEG FIT ふくらはぎ マッサージ機 フットマッサージ コンパクト 持ち運び コードレス 太もも 足裏 脚",
   "price": 9900,
   "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tmc7o.72d3y7ad.g00tmc7o.72d3zea3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnissoplus%2Fnp-lf23%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnissoplus%2Fi%2F10000178%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00tmc7o.72d3y7ad.g00tmc7o.72d3zea3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnissoplus%2Fnp-lf23%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/nissoplus/cabinet/item/leg_fit3/main/legfit01_260324.jpg?_ex=600x600",
   "shop_name": "NIPLUX楽天市場店",
-  "review_count": 4247,
-  "review_average": 4.52,
+  "review_count": 4389,
+  "review_average": 4.53,
   "affiliate_rate": 2.0,
   "point_rate": 1,
   "catchcopy": "人気の足ケア商品がパワーアップ！ 立ち仕事 トレーニング 筋力 筋トレ ems フットマット リラックス 美脚美足 運動不足 高齢者 健康 むくみ 疲れ 足 トレーニング プレゼント 実用的",
   "genre_id": "101765",
-  "score": 17.15,
-  "last_seen": "2026-09-06T09:10:43"
+  "score": 16.2,
+  "last_seen": "2026-10-02T20:16:24",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/nissoplus/cabinet/item/leg_fit3/main/legfit01_260324.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/nissoplus/cabinet/s_banner/soldout/lfm.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/nissoplus/cabinet/item/leg_fit3/legfit_s01.jpg?_ex=600x600"
+  ],
+  "caption": "■ 商品仕様 ブランドNIPLUX（ニップラックス）／NIPLUX BEAUTY 品 名LEG FIT（レッグフィット）／LEG FIT MOOMIN（レッグフィット ムーミン） 品 番NP-LF23BK／NP-LF23BK-MM 定格電源DC 5V 2A 消費電力約0.43W（充電時） セット内容フットマット×1コントローラー×1リモコン×1USB充電コード×1取扱説明書兼保証書×1 本体寸法フットマット：約298×296×4mm 化粧箱寸法約307×304×30mm 重 量フットマット：約84gコントローラー：約18gリモコン：約22g 電池容量85mAh 使用環境環境温度：-5～40℃相対湿度≦80％RH 製品素材フットマット：導電性TPUコントローラー：PCリモコン：ABS樹脂、PC 保証期間購入日より1年間 ※本製品は、医療用 マッサージ マッサージ機 マッサージ器 フットマッサージ フットマッサージ器 ではありません。 ※本製品は、一般家庭用の コードレスEMS (Electrical Muscle Stimulation) 運動器（雑貨）です。 【使用上の注意】 ●次のような医用電子機器を使用している人は使用しないでください。 ・ペースメーカーなど体内植込式医用電子機器 ・人工心肺など生命維持用医用電子機器 ・心電計などの装着型医用電子機器 ●他の低周波/高周波医療機器と同時に使用しないでください。 ●医師からマッサージを禁じられている方は使用しないでください。 ●乳幼児や子供の手の届く場所に保管したり、使用させたりしないでください。 ●ペットには使用しないでください。 ●次のような方は医師と相談の上、ご使用ください。 ・悪性腫瘍のある方 ・心臓疾患、急性疾患、感染症疾患のある方 ・血行障害、毛細血管拡張、血圧に異常のある方 ・薬を服用中の方 ・妊娠中、生理中"
  },
  "kurashi-zakka:10002471": {
   "first_seen": "2026-09-06T12:46:19",
@@ -3478,6 +3530,13 @@
     "theme": "今売れている物 × 20代男性（ガジェット・一人暮らし）",
     "persona": "20s_man",
     "event_type": "baseline"
+   },
+   {
+    "date": "2026-10-02",
+    "slot": "night",
+    "theme": "お買い物マラソン（10月予想）（2日後） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "tplinkdirect:10001261",
@@ -3487,20 +3546,22 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00sbb0o.72d3y9ac.g00sbb0o.72d3z11b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftplinkdirect%2F4895252502688%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/tplinkdirect/cabinet/06321509/archer-ax3000.jpg?_ex=600x600",
   "shop_name": "TP-Linkダイレクト　楽天市場店",
-  "review_count": 1858,
+  "review_count": 1862,
   "review_average": 4.59,
   "affiliate_rate": 2.0,
-  "point_rate": 1,
+  "point_rate": 20,
   "catchcopy": "【迷ったらコレ】wifiルーター 収納 壁掛け WiFi6 無線LANルーター EasyMesh OneMesh 縦型 接続台数 42台 価格.comプロダクトアワード2023 無線LANルーター銀賞受賞製品",
   "genre_id": "506591",
-  "score": 15.42,
-  "last_seen": "2026-09-29T20:16:27",
+  "score": 18.28,
+  "last_seen": "2026-10-02T20:16:24",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/tplinkdirect/cabinet/06321509/archer-ax3000.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/tplinkdirect/cabinet/promotion/soysub.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/tplinkdirect/cabinet/promotion/kakakuaward-ax3000.jpg?_ex=600x600"
   ],
-  "caption": "【レビュー特典付き】 特典期間：2026年9月30日(水)まで フォーム応募期間：2026年10月7日まで 参加の流れ： STEP1 こちらのページから商品購入 STEP2 使用後の感想自由にご評価 STEP3 応募フォームから応募（画像のリンク/QRコードにより応募、忘れないでください） STEP4 スマートプラグP105プレゼントGET! 賞品の発送：2026年10月以降順次発送 特徴：あなたのWi-Fi環境を一新する、AX3000規格(2402+574Mbps) Wi-Fi6対応 ルーター かんたん設定： スマホアプリでどなたでも簡単にWi-Fiの設定ができます 縦置きx壁掛け： 設置スペースに合わせて縦置でも壁掛けでも設置可能 IPv6 IPoE（IPv4 over IPv6）対応： v6プラス・OCNバーチャルコネクト・DS-Liteに対応しており、回線の混雑を回避した高速通信が可能になります 安定して遠くまで届く： ームフォーミングに対応したデュアルバンドハイゲインアンテナを2本内蔵しており、広範囲をカバー可能です 13年連続世界シェアNo.1!：TP-Link製品は世界中のお客様に愛されており、13年連続で世界シェア1位を獲得しています! (2023年第4四半期IDC調べ)"
+  "caption": "【レビュー特典付き】 特典期間：2026年10月31日(土)まで フォーム応募期間：2026年11月7日まで 参加の流れ： STEP1 こちらのページから商品購入 STEP2 使用後の感想自由にご評価 STEP3 応募フォームから応募（画像のリンク/QRコードにより応募、忘れないでください） STEP4 スマートプラグP105プレゼントGET! 賞品の発送：2026年11月以降順次発送 特徴：あなたのWi-Fi環境を一新する、AX3000規格(2402+574Mbps) Wi-Fi6対応 ルーター かんたん設定： スマホアプリでどなたでも簡単にWi-Fiの設定ができます 縦置きx壁掛け： 設置スペースに合わせて縦置でも壁掛けでも設置可能 IPv6 IPoE（IPv4 over IPv6）対応： v6プラス・OCNバーチャルコネクト・DS-Liteに対応しており、回線の混雑を回避した高速通信が可能になります 安定して遠くまで届く： ームフォーミングに対応したデュアルバンドハイゲインアンテナを2本内蔵しており、広範囲をカバー可能です 13年連続世界シェアNo.1!：TP-Link製品は世界中のお客様に愛されており、13年連続で世界シェア1位を獲得しています! (2023年第4四半期IDC調べ)",
+  "posted_text": "#PR セール価格は期間中だけ。迷うなら今\nWiFi6 無線LAN ルーター\n★4.59・レビュー1,862件\n9,900円（P20倍で実質7,920円）\n#お買い物マラソン\n▶ROOMはプロフから",
+  "posted_at": "2026-10-02T20:16:24"
  },
  "kukuya:10000154": {
   "first_seen": "2026-09-07T16:33:40",
@@ -10561,23 +10622,36 @@
     "theme": "お買い物マラソン（9月）（開催中） × 30代男性（健康・効率化・家電）",
     "persona": "30s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-10-02",
+    "slot": "night",
+    "theme": "お買い物マラソン（10月予想）（2日後） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "travel-depart:10000706",
-  "name": "＼国内品質検査クリア／ LUSEEQ ルシーク バランスドーム 半円 半球 47cm 60cm 半円型バランスボール 子供 大人 室内遊び 体幹トレーニング バランスボール トランポリン バランスボード バランスディスク 金具内蔵 空気入れ付 宅トレ 知育遊具 耐荷重500kg ima",
+  "name": "＼国内品質検査クリア／ LUSEEQ バランスドーム 半円 半球 47cm 60cm 半円型バランスボール 子供 大人 室内遊び 体幹トレーニング バランスボール トランポリン バランスボード バランスディスク 金具内蔵 プレゼント ギフト 誕生日 宅トレ 知育遊具 ima",
   "price": 4680,
   "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00slbbo.72d3y242.g00slbbo.72d3z6c2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftravel-depart%2Frs0001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftravel-depart%2Fi%2F10000706%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00slbbo.72d3y242.g00slbbo.72d3z6c2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftravel-depart%2Frs0001%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/travel-depart/cabinet/thumbnail001/thumbnail-0918-9.jpg?_ex=600x600",
   "shop_name": "リバーブ　セレクト",
-  "review_count": 685,
+  "review_count": 750,
   "review_average": 4.58,
   "affiliate_rate": 4.0,
   "point_rate": 1,
-  "catchcopy": "遊びながら体幹トレーニングができる、半円型のバランス遊具。家族の「たのしい運動時間」をつくる！【レビュー投稿で2年間保証延長 】",
+  "catchcopy": "遊びながら体幹・バランス感覚を育てる！親子で楽しめるおうち遊び・室内運動に。キッズから大人まで運動不足解消・エクササイズ・フィットネスにもおすすめ レビュー記載で2年保証♪",
   "genre_id": "204697",
-  "score": 16.04,
-  "last_seen": "2026-09-22T21:23:53"
+  "score": 15.9,
+  "last_seen": "2026-10-02T20:16:24",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/travel-depart/cabinet/thumbnail001/thumbnail-0918-9.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/travel-depart/cabinet/tj/r-img_rr/1/rs0001.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/travel-depart/cabinet/tj/ir-img_ir/1/rs0001.jpg?_ex=600x600"
+  ],
+  "caption": "商品の説明トランポリンは大きすぎる。でも子供に思いきり体を動かしてほしい。そんな悩みに応える、半円形のバランスドームです。半円形なので転がりにくく、室内で使いやすいサイズ。空気を抜けばコンパクトに収納できます。図解入りの取扱説明書付きで、届いた日から使用できます。子供の室内遊びや体幹・バランストレーニングに。耐荷重約500kgで、大人の運動にも家族で活用できます。 商品の機能遊びながら、全身を動かせる跳ぶ・立つ・バランスを取るなど、遊びの中で自然に全身を動かせます。使い方は、子供が決めるドーム面で跳ぶ・立つ。ひっくり返せばバランスボードに。伸縮チューブを使えば、上半身を動かすエクササイズにも活用できます。届いてすぐ使える。1年保証付き図解入り取扱説明書、空気入れポンプ、伸縮チューブ、空気栓、栓抜きクリップ、ワークアウトガイドを同梱しています。 国内第三者機関で、次の4種の検査を実施荷重・破壊強度試験一般財団法人ボーケン品質評価機構で荷重・破壊強度試験を実施。7000Nの荷重を加えた試験で異常がないことを確認しました。耐荷重約500kgは、この試験結果をもとに当社が設定しています。ホルムアルデヒドの測定・VOC6物質の測定お子さまが使うものだから、気になる“ニオイ”も検査。放散試験を実施し、対象7物質すべてが厚生労働省の室内濃度指針値以下であることを確認。ホルムアルデヒドと6VOCのうち5物質は定量下限値未満、テトラデカンは41&micro;g/m&sup3;（指針値330&micro;g/m&sup3;）でした。フタル酸エステル類6物質の試験お子さまが触れる部分に関わる成分も確認。食品衛生法の規格基準に基づく方法で試験を実施。対象6物質すべてが基準値0.1％以下であることを確認しました。※各試験結果は、試験機関へ提出した試料に対するものです。 スペックサイズS：直径約47c"
  },
  "netbaby:10051424": {
   "first_seen": "2026-09-23T08:01:00",
@@ -12604,6 +12678,13 @@
     "theme": "今売れている物 × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "baseline"
+   },
+   {
+    "date": "2026-10-02",
+    "slot": "night",
+    "theme": "お買い物マラソン（10月予想）（2日後） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "vesync:10000001",
@@ -12613,14 +12694,20 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00u8ebo.72d3ycfc.g00u8ebo.72d3z9b4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvesync%2Fkaapafcsnjp0062%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/vesync/cabinet/09152443/09653695/imgrc0092744404.jpg?_ex=600x600",
   "shop_name": "Vesync公式　楽天市場店",
-  "review_count": 1174,
+  "review_count": 1190,
   "review_average": 4.68,
   "affiliate_rate": 2.0,
   "point_rate": 1,
   "catchcopy": "大容量 電気フライヤー エアフライヤー　エアーフライヤー コンパクト ギフト　家庭用　低カロリー　健康　ダイエット　お手入れ簡単　時短料理　操作簡単",
   "genre_id": "564331",
-  "score": 15.2,
-  "last_seen": "2026-09-27T12:57:14"
+  "score": 15.8,
+  "last_seen": "2026-10-02T20:16:24",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/vesync/cabinet/09152443/09653695/imgrc0092744404.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/vesync/cabinet/09152443/09653695/11241926/imgrc0089893356.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/vesync/cabinet/09152443/09653695/11241926/imgrc0089893360.jpg?_ex=600x600"
+  ],
+  "caption": "商品情報メーカー名Vesync Japan株式会社商品サイズ36.5 x 27.4 x 30.7cm商品説明【健康かつ美味しい】9つの調理機能を搭載したCOSORI PRO LEノンフライヤーは、スマートでスタイリッシュ、 そしてパワフル!手作り料理に欠かせない相棒です。広い範囲の温度調節機能と360度 高速循環加熱技術により、料理作りが手軽になり、調理時間がだいぶ短縮できます。 お気に入りの食事をヘルシーに、あっという間に。【静音性抜群】COSORI独自の技術で、運転音は55dbまで下げ、静かな事務所にいる感覚。【付属品】ノンフライー本体、多言語レシピブックと取り扱い説明書（日本語＆英語）＊当店の商品は全て国内から配送されます。＊国内配送の商品は国内でのお買い物と同じく消費税が発生いたします。関税はかかりません。＊ご注意：モニターの発色具合により実物とお色味が異なる場合がございます。ブランド名コソリ(COSORI)色グレー梱包サイズ41.0 x 37.2 x 33.4 cm（±0.5cm）梱包重量5.71 KG商品重量4.54 KG容量4.7 Lワット数(W)1230 W電圧(V)100 ボルト (AC)電源電源コード式電池使用いいえ騒音レベル55 dBお手入れ食器洗い機セーフメーカー保証2年間品質保証PSE関連Vesyncグループのすべての対象製品は、PSEマークの取得に必要な技術基準に適合しております。届出事業者名：Vesync Japan株式会社PSマークの種類：PSECOSORI ノンフライヤー CAF-L501-KJP 4.7L大容量 電気フライヤー ノンオイル フライヤー 卓上 LEDディスプレイ タッチパネル タイマー 温度調整 レシピ付き 家庭用 送料無料[メーカー保証2年] 大容量 電気フライヤー エアフライヤー　エアーフライヤー コンパクト ギフト　家"
  },
  "vesync:10000022": {
   "first_seen": "2026-09-27T12:57:14",
@@ -15510,5 +15597,170 @@
    "https://thumbnail.image.rakuten.co.jp/@0_mall/shizuka-will-/cabinet/09171238/09171239/09179913/b3.jpg?_ex=600x600"
   ],
   "caption": "● シズカウィル がお客様の液晶画面を守ります。 携帯ショップや家電量販店で販売される 高級品 と同等の強度、特殊コーティングによる滑らかな指すべりの 高品質ガラスフィルム を低価格で提供します。 ● 表面の 硬度9H でカッターナイフでも傷付かない 表面硝子はAGC 日本製 旭硝子 を使用し、液晶とフィルムを貼り付ける密着面には 日本 のNippa社製の密着剤を採用しており素材に拘った一品になっています。カッターやナイフでも傷つけられない 硬度9H があなたの液晶画面を守ります。 ● 滑らかな指触りでスムースタッチ 硝子表面はプラズマ溶射処理による、フッ素コーティングを施しており、滑らかな指すべりを実感して頂けます。また、油脂類のバリヤ（はいあがり防止）・飛散防止と付着防止・防汚などのメリットを発揮してくれます。 ●誰が貼っても位置ズレしないストレスフリーで簡単貼り付け！ フィルムって貼るのが難しい…という悩みをよくお聞きすることがございます。そんな悩みも シズカウィル は解放します。付属するガイド枠を端末にセットして上から フィルム を置いたらおしまい!誰でもカンタン・キレイに貼り付け。シンプルイズベスト！ ■対応機種 ラインナップ iPhone18 Pro / iPhone18 Pro Max / iPhone17e / iPhone17 / iPhone Air / iPhone17 Pro / iPhone17 Pro Max / iPhone16e / iPhone16e / iPhone16 / iPhone16 Plus / iPhone16 Pro / iPhone16 Pro Max / iPhone15 / iPhone15 Plus / iPhone15 Pro / iPhone15 Pro Max / iPhone14 / iPhone14 Plu"
+ },
+ "futabasp:10032266": {
+  "first_seen": "2026-10-02T20:16:24",
+  "themes": [
+   {
+    "date": "2026-10-02",
+    "slot": "night",
+    "theme": "お買い物マラソン（10月予想）（2日後） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "futabasp:10032266",
+  "name": "【クーポン対象】ノビタプロ プロテイン NOBITA 750g FD-0008 FD0008 寝る前に飲む ケガ予防 関節 捻挫 骨折 睡眠 スパッツィオ spazio",
+  "price": 6264,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tjdgo.72d3yfe2.g00tjdgo.72d3z9ad/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffutabasp%2Ffd-0008%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffutabasp%2Fi%2F10032266%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00tjdgo.72d3yfe2.g00tjdgo.72d3z9ad/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffutabasp%2Ffd-0008%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/futabasp/cabinet/image115/fd-0008-0.jpg?_ex=600x600",
+  "shop_name": "フタバSP 楽天市場店",
+  "review_count": 76,
+  "review_average": 4.59,
+  "affiliate_rate": 4.0,
+  "point_rate": 10,
+  "catchcopy": "成長期の栄養サポート！本気のアスリートへ！",
+  "genre_id": "200180",
+  "score": 17.6,
+  "last_seen": "2026-10-02T20:16:24",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/futabasp/cabinet/image115/fd-0008-0.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/futabasp/cabinet/image129/fd0008n_c.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/futabasp/cabinet/image115/nobita2026banner.jpg?_ex=600x600"
+  ],
+  "caption": "【今だけ！】レビュー投稿して頂いた方にPIPPO君キーホルダープレゼント!!※商品なくなり次第終了となりますキーホルダー発送までに数日頂く場合がございます。ご了承ください。 プロテイン サプリメント 成長期の栄養サポート 栄養補給メーカー：スパッツィオ spazio味：【004】ココア　【003】ヨーグルト　【005】イチゴミルク　【010】パイン内容量：750gNOBITAの成長期の栄養サポート成分に加え、関節や靭帯に有効な成分や骨の強化に有効な成分、心地よい睡眠をサポートする成分を配合。ジュニア〜大人まで本気で取り組むアスリートにおすすめです。寝る前に飲んで、寝ている間に成長・ケガ予防・回復をサポート。明日のコンディションと未来の身体のために！成長期のアスリートに大事な栄養成分をたっぷり配合。【在庫について】当ショップは、店頭及び自社サイトにて在庫を共有している為、在庫更新の時間差等により表示上は在庫が「○」（有り）の状態の場合でも『在庫が無い』『売り違い』等が発生する場合がございます。店内在庫が無い商品に関しましては、(※メーカー在庫確認後)『他商品への差し替えのご提案』または『キャンセル』とさせて戴いております。お急ぎの場合は当店まで、在庫の確認をお願い致します。※当日又は、翌営業日中に自動返信メールとは別に各種メールを送信致します。(在庫なし。ご注文承諾メール。商品発送メール等）"
+ },
+ "xexymix:10001150": {
+  "first_seen": "2026-10-02T20:16:24",
+  "themes": [
+   {
+    "date": "2026-10-02",
+    "slot": "night",
+    "theme": "お買い物マラソン（10月予想）（2日後） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "xexymix:10001150",
+  "name": "【クーポン利用で2枚目半額】ゼクシィミックス xexymix スポーツ レギンス ヨガレギンス ヨガパンツ ヨガウェア ピラティスウェア スポーツウェア レディース トレーニングウェア レディース フィットネスウェア レディース ジムウェア レディース ゼクシーミックス XP9157T",
+  "price": 5940,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00th21o.72d3y1dd.g00th21o.72d3z41a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fxexymix%2Fcpxp9157t%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fxexymix%2Fi%2F10001150%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00th21o.72d3y1dd.g00th21o.72d3z41a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fxexymix%2Fcpxp9157t%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/xexymix/cabinet/main-22/xp9157t_main_2503.jpg?_ex=600x600",
+  "shop_name": "XEXYMIX Online Shop 楽天市場店",
+  "review_count": 2629,
+  "review_average": 4.69,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "360N ランニングウェア ヨガレギンス レディース 韓国 ヨガウェア ブランド ヨガウェア おしゃれ ヨガウエア ホットヨガ yoga 流行 かわいい 美脚パンツ 体型カバー 細見え",
+  "genre_id": "501882",
+  "score": 16.85,
+  "last_seen": "2026-10-02T20:16:24",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/xexymix/cabinet/main-22/xp9157t_main_2503.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/xexymix/cabinet/main-22/xp9157t_main_1.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/xexymix/cabinet/main-25/n_xp9157t_title.jpg?_ex=600x600"
+  ],
+  "caption": "→ サイズでお悩みの方はコチラ 「BLACK LABEL シグネチャー360N」 驚きの弾力を実現するシークレット原糸を黄金比で混紡 肌には優しくて、体にはぴたっとフィットして ボディラインをすっきり整えてくれます。 また、高密度に織られたハイゲージのため、 摩擦強度と優れた保温性を兼ね備えて 高強度運動からアウトドアまであらゆるパフォーマンスに 対応できるプレミアム素材です。 細かく密に編み込まれたため、 透けにくくて丈夫で長持ちします。 FDは艶消しのマットな質感で 高級感のあるシックな色味に仕上がりました。 ウエストのカッティングラインと細いゴムバンド がどんなポーズを取っても丸まりにくくてしっかりフィット さらに、内側の生地を短めにすることでずれて来たり、 落ちて来たりすることなく 優れたサポート力とカバー力を実現しました。 フロントのU字が脚を長く見せて ヒップのV字がさりげなくヒップアップ効果が期待できる スタイルアップにこだわったディテール ■お手入れについて ・ご着用いただく前に、一度洗濯してください。 ・水または30度以下のぬるま湯で手洗いしてください。 ・柔軟剤・塩素系漂白剤の仕様はお避け、中性洗剤をご使用ください。 ・色落ちや色移りする可能性がありますので単独洗濯してください。 ・つけ置きしないでください。 ・手で軽く絞りの後、風通しの良い場所で形を整えて陰干ししてください。(脱水機、乾燥機のご使用はお避けください。) ・長時間濡れたままにしておくと色がおちる恐れがあります。 ・ブラパッドが付いた商品はパッドの型崩れの恐れがありますので洗濯の際は必ずお取りください。 ・素材の特性上、洗濯の際に若干の伸び縮みが起こる可能性があります。※商品によってお手入れ方法が異なります。洗濯前手に必ずケアラベルをご確認ください。 ■ご購入前に ・お使いのモニターやスマ"
+ },
+ "samuriding:10001631": {
+  "first_seen": "2026-10-02T20:16:24",
+  "themes": [
+   {
+    "date": "2026-10-02",
+    "slot": "night",
+    "theme": "お買い物マラソン（10月予想）（2日後） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "samuriding:10001631",
+  "name": "【SG認証】【無料返品交換】SGマーク sopota 自転車 ヘルメット 大人用 キャップ型 帽子型 / M 53-57cm / L 55-60cm / 自転車用 通勤 通学 女性 レディース メンズ ソポタ SOP-AH",
+  "price": 3980,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00s949o.72d3y82a.g00s949o.72d3z019/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsamuriding%2Fsop-ah%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsamuriding%2Fi%2F10001631%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00s949o.72d3y82a.g00s949o.72d3z019/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsamuriding%2Fsop-ah%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/samuriding/cabinet/shouhin/new_thumbnail/imgrc0128132074.jpg?_ex=600x600",
+  "shop_name": "サムライディング 楽天市場店",
+  "review_count": 1423,
+  "review_average": 4.66,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "頭上にベンチレーション（穴）がないので、雨の通学・通勤もOK",
+  "genre_id": "501409",
+  "score": 16.36,
+  "last_seen": "2026-10-02T20:16:24",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/samuriding/cabinet/shouhin/new_thumbnail/imgrc0128132074.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/samuriding/cabinet/shouhin/etc/imgrc0129185927.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/samuriding/cabinet/shouhin/09604750/imgrc0126147406.jpg?_ex=600x600"
+  ],
+  "caption": "【特徴】 &#128692;【日本安全基準であるSGマーク取得】日本の厳しい安全基準をクリアしたキャップ型ヘルメットなので安心して使用できます。 &#128692;【帽子みたいに自然にかぶれるキャップ型デザイン】通勤・通学からお出かけまであらゆるシーンで自然にかぶれます。普通の帽子のような見た目だから、学校でも職場でも違和感なく着用でき、男女問わずおしゃれに決まります。 &#128692;【雨の日も安心！頭上に穴がないキャップ型設計】一般的なヘルメットと違い、頭上にベンチレーション（穴）がないため、雨の日でも頭が濡れません。梅雨の季節や急な雨でも快適に通学・通勤できます。 &#128692;【9cmロングツバで日差しもしっかりガード】一般的なキャップより長い9cmのツバを採用。強い日差しでも眩しさを軽減し、快適な視界を確保します。 &#128692;【日本人の頭にぴったりなJapan fitモデル採用】日本人の丸い頭の形に合わせたJapan fitモデルを採用しているので、グローバル用のヘルメットと違い頭が痛くならず、しっかり頭を包み込みます。 &#128692;【ダイヤルアジャスターで簡単にサイズ調整可能】後頭部にあるダイヤルアジャスターを回すことで簡単にサイズ調整ができます。ライド中のずれや不快感を感じることなく快適な走りをサポート。 &#128692;【豊富なカラーバリエーション】北欧テイストの優しい8色展開。どんなファッションにもなじみやすく、お気に入りのカラーを選べます。 &#128692;【仕様詳細】自転車ヘルメット 大人 学生 レディース メンズ キャップ型ヘルメット自転車用 SOP-AH　【サイズ】●Mサイズ(53～57cm)　約259g　●Lサイズ(55～60cm)　約275g ◆【お買い上げ前に】頭に合ったサイズのヘルメットをかぶるために、商品画像を参照"
+ },
+ "alpen:10506609": {
+  "first_seen": "2026-10-02T20:16:24",
+  "themes": [
+   {
+    "date": "2026-10-02",
+    "slot": "night",
+    "theme": "お買い物マラソン（10月予想）（2日後） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "alpen:10506609",
+  "name": "最大10％OFFクーポン【9/30〜10/1】 ナイキ REVOLUTION 8 レボリューション 8 ワイド HQ1996-001 メンズ 陸上/ランニング ランニングシューズ : ブラック×ホワイト NIKE imbkk",
+  "price": 4360,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pw1eo.72d3y4f5.g00pw1eo.72d3z3d5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Falpen%2F4320567115%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Falpen%2Fi%2F10506609%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00pw1eo.72d3y4f5.g00pw1eo.72d3z3d5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Falpen%2F4320567115%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/alpen/cabinet/img/930/4320567115_8.jpg?_ex=600x600",
+  "shop_name": "アルペン楽天市場店",
+  "review_count": 181,
+  "review_average": 4.66,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "",
+  "genre_id": "509058",
+  "score": 16.22,
+  "last_seen": "2026-10-02T20:16:24",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/alpen/cabinet/img/930/4320567115_8.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/alpen/cabinet/img/930/4320567115_1.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/alpen/cabinet/img/930/4320567115_2.jpg?_ex=600x600"
+  ],
+  "caption": "◇ナイキ レボリューション 8の快適な履き心地で、これからのランをリードしよう。ランニングの成功には、快適性が欠かせません。そこで、足を踏み出すたびにクッション性と柔軟性を実感できる、柔らかい履き心地を追求。通気性に優れたデザインで人気モデルをアップデートしました。■カラー(メーカー表記):ブラック×ホワイト(001)■甲材(アッパー):合成樹脂■底材(ソール):合成底■生産国:インドネシア■2025年モデル※ブランドやシリーズによっては甲高や幅等小さめに作られていることがあります。あくまで目安としてご判断ください。アルペン alpen スポーツデポ SPORTSDEPO スポーツシューズ ランニングシューズ ランニング シューズ ジョギングシューズ レボリューション8 ワイドタイプ 幅広タイプ スニーカー"
+ },
+ "magcruise:10000091": {
+  "first_seen": "2026-10-02T20:16:24",
+  "themes": [
+   {
+    "date": "2026-10-02",
+    "slot": "night",
+    "theme": "お買い物マラソン（10月予想）（2日後） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "magcruise:10000091",
+  "name": "【警察 安全教室採用】 返品保証 子供 ヘルメット 自転車 子供用ヘルメット こども sgマーク 50~54cm 2歳 3歳 6歳 220g 子供 自転車 キッズ プロテクター ヘルメット 1歳 マグライド 軽量 子どもヘルメット おしゃれ 幼稚園 Mag Ride",
+  "price": 3980,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00t9r8o.72d3y652.g00t9r8o.72d3z3b5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmagcruise%2Fsecond-220%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmagcruise%2Fi%2F10000091%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00t9r8o.72d3y652.g00t9r8o.72d3z3b5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmagcruise%2Fsecond-220%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/magcruise/cabinet/magride/220/2024thumbnail.jpg?_ex=600x600",
+  "shop_name": "MagRide公式ストア楽天市場店",
+  "review_count": 2917,
+  "review_average": 4.72,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "日本人専用設計! 3歳 からの 子供用ヘルメット 2つ目に最適な設計 3歳から8歳までのキッズヘルメット SG保険 PL保険 自転車保険 は マグライド だけ どんな理由でも返品OKの満足保証",
+  "genre_id": "564131",
+  "score": 15.81,
+  "last_seen": "2026-10-02T20:16:24",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/magcruise/cabinet/magride/220/2024thumbnail.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/magcruise/cabinet/magride/220/lp01.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/magcruise/cabinet/magride/220/lp02.jpg?_ex=600x600"
+  ],
+  "caption": "【3歳からのセカンドヘルメット】 Mag Ride ニーニーゼロは、3歳 からの セカンド ヘルメット として専用に開発＆設計された 子供用ヘルメット です。わずか 220g の 超 軽量 な ヘルメット は、お子さま への負担を極限まで減少し、ストレス なく 着用出来る ヘルメットです。 日本で 一番軽い 、 一歳からの ヘルメット \" イチハチロク \"からの ステップアップモデルとして開発されました。 【日本人専用設計】 日本人 と 外国人 の頭の形は異なります。 巷のほとんどの ヘルメットは 海外規格のためフィット感が イマイチ な場合も・・・。 Mag Ride シリーズは日本人の頭部の形状に合わせた専用設計のため頭にピッタリとフィット！着用時のズレなどでお子さまが嫌がることなく被ってくれます。 ※フィット感には個人差があります。 【満足保証＆1年保証】 ・サイズ が合わない、イメージ と違った、 お子さま がやっぱり違う色がいいと言い出した、、などの理由でも 返品 受付 ！全額返金 致します。※送料等は除く ・安心の 1年 保証 つき！品質に自信のある 国内 ブランド だからできる 安心制度 ！大事なお子さまを守る大切な ヘルメット 。 不具合かな？と思ったらすぐに当店までご連絡ください。 ※通常使用による損傷は対象外 【SG規格＆PL保険&自転車保険】 ・厳しい 国内基準 をクリアした商品だけが取得できる” SGマーク ”認証 済みです。衝撃やアゴ紐の強度など様々なテストに合格した安全性の高い製品の証です。 ・万が一のための！ PL保険 加入済み店舗です。こちらの ヘルメット が原因で他人に怪我をさせてしまった場合などに、当店が法律上の損害賠償責任を負担する場合の損害を補償する保険です。 ・ ヘルメット ご購入で自転車保険が6ヶ月無料でついてくる！ ※ご購入から"
  }
 }
