@@ -865,6 +865,13 @@
     "theme": "お買い物マラソン（10月予想）（2日後） × 30代男性（健康・効率化・家電）",
     "persona": "30s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-10-03",
+    "slot": "noon",
+    "theme": "お買い物マラソン（10月予想）（1日後） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "kireijapan:10000065",
@@ -881,7 +888,7 @@
   "catchcopy": "【正規・純正品】イーテック純正。ウルオ・ウルオクールどちらにも使えます",
   "genre_id": "212491",
   "score": 16.02,
-  "last_seen": "2026-10-02T20:16:24",
+  "last_seen": "2026-10-03T12:01:43",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/kireijapan/cabinet/08096446/fcu0400/official_japan.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/kireijapan/cabinet/08096446/fcu0400/new_cartridge_teiki.jpg?_ex=600x600",
@@ -1876,6 +1883,13 @@
     "theme": "お買い物マラソン（10月予想）（2日後） × 30代男性（健康・効率化・家電）",
     "persona": "30s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-10-03",
+    "slot": "noon",
+    "theme": "お買い物マラソン（10月予想）（1日後） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "roomy:10018139",
@@ -1892,7 +1906,7 @@
   "catchcopy": "「 自動調理ポット 」に大容量サイズ登場。スープは800mL、ジュースは1Lまで調理でき7つの調理モードを搭載。なめらかポタージュ、食べるスープ、濾さずに飲める豆乳など簡単に時短調理。",
   "genre_id": "565076",
   "score": 15.94,
-  "last_seen": "2026-10-02T20:16:24",
+  "last_seen": "2026-10-03T12:01:43",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/roomy/cabinet/500cart_all/500cart_11g/p10n-8/win2006-to010-1_gt01.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/roomy/cabinet/500cart_all/500cart_pr/260902_mo_gdpre.jpg?_ex=600x600",
@@ -10610,6 +10624,13 @@
     "theme": "今売れている物 × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "baseline"
+   },
+   {
+    "date": "2026-10-03",
+    "slot": "noon",
+    "theme": "お買い物マラソン（10月予想）（1日後） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "salonmoon:10000013",
@@ -10619,14 +10640,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00t6tgo.72d3y54b.g00t6tgo.72d3z844/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsalonmoon%2Fslm-006%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_gold/salonmoon/slm106/flick/slm106_108_f_00_ra_d2.jpg?_ex=600x600",
   "shop_name": "ヘアアイロン専門店 サロンムーン",
-  "review_count": 7412,
+  "review_count": 7414,
   "review_average": 4.68,
   "affiliate_rate": 2.0,
   "point_rate": 1,
   "catchcopy": "シリーズ累計出荷台数100万台突破 ヘアアイロン！全国送料無料 メーカー公式 一年保証 【面白いほどツヤを生み出す ストレートアイロン 】【高濃度マイナスイオン発生器 搭載",
   "genre_id": "509412",
-  "score": 16.39,
-  "last_seen": "2026-10-01T12:01:44",
+  "score": 15.8,
+  "last_seen": "2026-10-03T12:01:43",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_gold/salonmoon/slm106/flick/slm106_108_f_00_ra_d2.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_gold/salonmoon/slm106/flick/slm106_d01_set_f_d1_01.jpg?_ex=600x600",
@@ -10650,6 +10671,13 @@
     "theme": "お買い物マラソン（10月予想）（2日後） × 30代男性（健康・効率化・家電）",
     "persona": "30s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-10-03",
+    "slot": "noon",
+    "theme": "お買い物マラソン（10月予想）（1日後） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "travel-depart:10000706",
@@ -10666,7 +10694,7 @@
   "catchcopy": "遊びながら体幹・バランス感覚を育てる！親子で楽しめるおうち遊び・室内運動に。キッズから大人まで運動不足解消・エクササイズ・フィットネスにもおすすめ レビュー記載で2年保証♪",
   "genre_id": "204697",
   "score": 15.9,
-  "last_seen": "2026-10-02T20:16:24",
+  "last_seen": "2026-10-03T12:01:43",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/travel-depart/cabinet/thumbnail001/thumbnail-0918-9.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/travel-depart/cabinet/tj/r-img_rr/1/rs0001.jpg?_ex=600x600",
@@ -12706,6 +12734,13 @@
     "theme": "お買い物マラソン（10月予想）（2日後） × 30代男性（健康・効率化・家電）",
     "persona": "30s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-10-03",
+    "slot": "noon",
+    "theme": "お買い物マラソン（10月予想）（1日後） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "vesync:10000001",
@@ -12721,8 +12756,8 @@
   "point_rate": 1,
   "catchcopy": "大容量 電気フライヤー エアフライヤー　エアーフライヤー コンパクト ギフト　家庭用　低カロリー　健康　ダイエット　お手入れ簡単　時短料理　操作簡単",
   "genre_id": "564331",
-  "score": 15.8,
-  "last_seen": "2026-10-02T20:16:24",
+  "score": 15.9,
+  "last_seen": "2026-10-03T12:01:43",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/vesync/cabinet/09152443/09653695/imgrc0092744404.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/vesync/cabinet/09152443/09653695/11241926/imgrc0089893356.jpg?_ex=600x600",
@@ -15717,6 +15752,13 @@
     "theme": "お買い物マラソン（10月予想）（2日後） × 30代男性（健康・効率化・家電）",
     "persona": "30s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-10-03",
+    "slot": "noon",
+    "theme": "お買い物マラソン（10月予想）（1日後） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "samuriding:10001631",
@@ -15733,7 +15775,7 @@
   "catchcopy": "頭上にベンチレーション（穴）がないので、雨の通学・通勤もOK",
   "genre_id": "501409",
   "score": 16.36,
-  "last_seen": "2026-10-02T20:16:24",
+  "last_seen": "2026-10-03T12:01:43",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/samuriding/cabinet/shouhin/new_thumbnail/imgrc0128132074.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/samuriding/cabinet/shouhin/etc/imgrc0129185927.jpg?_ex=600x600",
@@ -15783,6 +15825,13 @@
     "theme": "お買い物マラソン（10月予想）（2日後） × 30代男性（健康・効率化・家電）",
     "persona": "30s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-10-03",
+    "slot": "noon",
+    "theme": "お買い物マラソン（10月予想）（1日後） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "magcruise:10000091",
@@ -15799,7 +15848,7 @@
   "catchcopy": "日本人専用設計! 3歳 からの 子供用ヘルメット 2つ目に最適な設計 3歳から8歳までのキッズヘルメット SG保険 PL保険 自転車保険 は マグライド だけ どんな理由でも返品OKの満足保証",
   "genre_id": "564131",
   "score": 15.81,
-  "last_seen": "2026-10-02T20:16:24",
+  "last_seen": "2026-10-03T12:01:43",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/magcruise/cabinet/magride/220/2024thumbnail.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/magcruise/cabinet/magride/220/lp01.jpg?_ex=600x600",
@@ -16004,5 +16053,172 @@
    "https://thumbnail.image.rakuten.co.jp/@0_mall/fuchigami/cabinet/kagayaki/imgrc0099106844.jpg?_ex=600x600"
   ],
   "caption": "熊本県産くまさんの輝き、その他のサイズはこちら▼・5kg ・10kg・20kg・30kg商品名熊本県産くまさんの輝き10kg名称精米原料玄米：産地熊本県産原料玄米：品種くまさんの輝き原料玄米：産年7年産原料玄米：使用割合単一原料米内容量精米10kg精米時期別途商品ラベルに記載（精米日の指定ができない為、極パックをお勧めいたします）保存方法【通常包装】●温度の高い場所を避け、密閉容器に移し15℃以下で保管して下さい。(袋のままの保存はNG)●お米は湿気を吸い易く、カビ等の原因になりますので保管にご注意下さい。●保管容器は、虫の発生を防ぐためにも、こまめに清掃して下さい。●お米は臭いを吸着し易い食品です。臭いの強い食品や洗剤、灯油などのそばには置かないで下さい。●開封・未開封に関わらず品質保証は商品到着後7日以内となります。保管方法の詳しくはこちら【極パック包装】●冷暗所での保管。●未開封であれば約180日ほどフレッシュにいただけます。商品名熊本県産くまさんの輝き10kg（麦ごはん）名称精米（無洗米）原料玄米単一原料米内容量10kg（5kg[ 精麦1.25kg ]×2袋）精米時期別途商品ラベルに記載保存方法【極パック包装】●冷暗所での保管。●未開封であれば約180日ほどフレッシュにいただけます。"
+ },
+ "e-kurashi:10017265": {
+  "first_seen": "2026-10-03T12:01:43",
+  "themes": [
+   {
+    "date": "2026-10-03",
+    "slot": "noon",
+    "theme": "お買い物マラソン（10月予想）（1日後） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "e-kurashi:10017265",
+  "name": "【P5倍 10/9 9:59迄】 IHクッキングヒーター 卓上 1口 1000W 1400W IHコンロ EER-S100/YEN-S140 卓上IHコンロ IH調理器 IH調理機 1口IH 揚げ物 保温コンパクト 小型 一人暮らし 1人暮らし 新生活 山善 YAMAZEN 【送料無料】",
+  "price": 5980,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pui9o.72d3y639.g00pui9o.72d3zc91/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-kurashi%2Fqt604%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-kurashi%2Fi%2F10017265%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00pui9o.72d3y639.g00pui9o.72d3zc91/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-kurashi%2Fqt604%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/e-kurashi/cabinet/rank-img/018/main-s1w83.jpg?_ex=600x600",
+  "shop_name": "くらしのeショップ",
+  "review_count": 1561,
+  "review_average": 4.48,
+  "affiliate_rate": 2.0,
+  "point_rate": 5,
+  "catchcopy": "選べる3色展開 保温機能と揚げ物モードが搭載した卓上1口IHコンロ 送料無料",
+  "genre_id": "208514",
+  "score": 16.68,
+  "last_seen": "2026-10-03T12:01:43",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/e-kurashi/cabinet/rank-img/018/main-s1w83.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/e-kurashi/cabinet/pc_sub/086/s1w82-01.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/e-kurashi/cabinet/pc_sub/089/s1w82-18.jpg?_ex=600x600"
+  ],
+  "caption": "山善 YAMAZEN IHクッキングヒーター 卓上 コンロ IHコンロ 1口 1000W 1400W EER-S100/YEN-S140 本体サイズ EER-S100：幅28.5×奥行24×高さ5cm 重量1.7kgYEN-S140：幅29×奥行35×高さ4.8cm　重量2.5kg 商品説明 ●【EER-S100 1000Wタイプの仕様】●電源：AC100V(50/60Hz)●消費電力：1000W●電源コード長さ：約1.5m●加熱：5段階(200/400/600/800/1000W)●揚げ物温度：5段階(160/170/180/190/200度)●保温：3段階(40/60/80度)●使える鍋：(材質)鉄・鉄鋳物、鉄ほうろう、ステンレス、多層鋼なべ【鍋底計上】底の平らなもの、揚げ物調理の場合そりが1mm以下のもの、加熱調理の場合そりが3mm以下のもの【大きさ】直径12〜22cmの鍋、揚げ物調理の場合最大18cmの鍋●マグネットプラグ採用で安全●メーカー保証：1年間【YEN-S140 1400Wタイプの仕様】●電源：AC100V(50/60Hz)●消費電力：1400W●電源コード長さ：1.8m●火力調整：6段階(300W-1400W)●揚げ物調理対応：温度調整6段階(150度-200度)●使える鍋：【材質】鉄・鉄鋳物、鉄ほうろう、ステンレス、多層鋼なべ【鍋底計上】底の平らなもの、加熱調理の場合そりが3mm以下のもの、揚げ物調理の場合そりが1mm以下のもの【大きさ】直径120mm〜260mm ※揚げ物の場合は180mm～220mmまで●マグネットプラグ採用で安全●メーカー保証：1年間※2024年11月よりEER-S100 1000Wタイプを追加しております 商品補足説明 YAMAZEN ヤマゼン 山善 通販 ih調理器 ih対応 ihヒーター 電磁調理器 IH調理器 IH調理機 ",
+  "posted_text": "#PR レビュー見て即決したやつ\nIHクッキングヒーター 卓上 1口\n★4.48・レビュー1,561件\n10/9 9:59まで｜5,980円（P5倍で実質5,681円）\n#お買い物マラソン\n▶ROOMはプロフから",
+  "posted_at": "2026-10-03T12:01:43"
+ },
+ "nene777:10000018": {
+  "first_seen": "2026-10-03T12:01:43",
+  "themes": [
+   {
+    "date": "2026-10-03",
+    "slot": "noon",
+    "theme": "お買い物マラソン（10月予想）（1日後） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "nene777:10000018",
+  "name": "掃除機 コードレス【楽天12連冠達成！吸引力完全進化95Kpa超強力!革新版グリーンLEDライト付＆60分連続稼働＆自立式&次世代LED液晶ディスプレイ】掃除機サイクロン式3段吸引力絡まないヘッド LED液晶ディスプレイ軽量低騒音伸縮パイプ HEPA多重濾過着脱式バッテリー3年間保証",
+  "price": 11980,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00upspo.72d3y466.g00upspo.72d3ze3c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnene777%2Fcompass1747365900%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnene777%2Fi%2F10000018%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00upspo.72d3y466.g00upspo.72d3ze3c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnene777%2Fcompass1747365900%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/nene777/cabinet/compass1788079226.jpg?_ex=600x600",
+  "shop_name": "NENE777楽天市場店",
+  "review_count": 4932,
+  "review_average": 4.6,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "業界革新！掃除機 コードレス【楽天12連冠達成！吸引力完全進化】グリーンLED×110Kpa超吸引で「見えない汚れ」も完全制圧自立式&次世代LED液晶ディスプレイ3年間保証",
+  "genre_id": "565105",
+  "score": 16.29,
+  "last_seen": "2026-10-03T12:01:43",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/nene777/cabinet/compass1788079226.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/nene777/cabinet/compass1777039846.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/nene777/cabinet/compass1790935511.jpg?_ex=600x600"
+  ],
+  "caption": "商品情報製品特徴&#127775;「お客様の声を元に、製品を全面進化」吸着力はさらに強化し、他の機能とお手入れも進化させました。&#127873;【限定期間キャンペーン】今ご注文いただくと、交換用フィルターセット（2個セット）がもらえる！（お一人様1回）お気軽に弊社までご応募してください！&#127775;「革新版自立式技術で、掃除中に方向を変えてもヘッドは浮くことがなく、ちょっと手を離したい時にも立てておけるので便利です。」&#127775;「ごみくっきり緑色のLEDライト付き」&#127775;「7重濾過システム、0.3ミクロンの微細なホコリを99.99%捕らえ、部屋の空気よりもきれいな空気を排出。ペットや小さなお子さまにも安心2026。」&#127775;「絡まないV字型ブラシとHEPAフィルター」&#127775;「110KPa超強吸引力＆三段階吸引力調節可能」&#127775;「特別な掃除ブラシ付き、集塵カップに溜まったダストもキレイに掃除できます。」 &#127775;「史上最長60分連続稼働＆着脱式バッテリー」&#127775;「2WAY仕様&スティック&ハンディ」&#127775;「軽量&サイクロン式＆低騒音」&#127775;「ダストカップ、フィルターデバイスとブラシは丸水洗いOKで安心！」&#127775;「大画面LED液晶ディスプレイ搭載、バッテリー残量、充電状態と吸引力モードは一目瞭然」&#127775;「PSE認証済み＆3年間品質保証」パッケージ内容掃除機本体壁掛けブラケット2in1ノズル隙間ツール掃除ブラシアダプター商品説明文【特別な日も、いつもの日も…「感謝」を贈る贈り物、開ける感動を設計】本製品は単なる家電ではなく、大切な人への想いを形にするギフトセットです。「ありがとう」の気持ちを、特別な贈り物で届けます。【110KPa超強吸引力＆軽量＆独"
+ },
+ "aibeaute:10001221": {
+  "first_seen": "2026-10-03T12:01:43",
+  "themes": [
+   {
+    "date": "2026-10-03",
+    "slot": "noon",
+    "theme": "お買い物マラソン（10月予想）（1日後） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "aibeaute:10001221",
+  "name": "【500円OFFクーポン】【めざましテレビ で紹介！】LINKA スリークオン コンパクト ヒートブラシ ポーチ付き ストレート カール ヘアアイロン 135g 超軽量 コードレス USB充電 急速加熱 セラミックコーティング やけど防止 ポータブル 旅行 前髪 湿気 リンカ",
+  "price": 7700,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00sc18o.72d3y0da.g00sc18o.72d3z094/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faibeaute%2F321%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faibeaute%2Fi%2F10001221%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00sc18o.72d3y0da.g00sc18o.72d3z094/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faibeaute%2F321%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/aibeaute/cabinet/13504580/13808453/imgrc0166889994.jpg?_ex=600x600",
+  "shop_name": "美顔器 美容家電 アイビビッド",
+  "review_count": 737,
+  "review_average": 4.43,
+  "affiliate_rate": 2.0,
+  "point_rate": 5,
+  "catchcopy": "【おでかけ革命】前髪のへたりや湿気によるカール崩れも簡単お直し 通勤中 や 外出先でもブラシ感覚で簡単ヘアセット ストレート カールもこれ1本 ポーチ に入るコンパクト設計",
+  "genre_id": "562667",
+  "score": 15.64,
+  "last_seen": "2026-10-03T12:01:43",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/aibeaute/cabinet/13504580/13808453/imgrc0166889994.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/aibeaute/cabinet/05430039/12370831/imgrc0166824656.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/aibeaute/cabinet/05430039/12370831/imgrc0164757836.jpg?_ex=600x600"
+  ],
+  "caption": "【リンカ スリークオン -ヒートブラシ -LINKA SleekOn -heat brush-】 折りたたみが可能な充電式ヒートヘアブラシ。 超軽量設計、スマホよりも小さなサイズ感で、外出先でもサッと取り出してスタイリングが可能です。 セラミックコーティングされたヒートプレートが髪へ熱を均一に伝え、ヘアダメージを抑えながらスタイリング。 ストレートやワンカールはもちろん、細かなブラシで前髪など細部のアレンジもしやすい設計です。 男女ともに使いやすいシンプルなデザインながら、160/180/200℃の3段階温度切り替え、オートオフ機能などの便利な機能も搭載しています。 【4つの特徴】 1.コンパクト＆軽量 ポーチに入れて仕事終わりのお直しにも便利！ コードレスのため、移動中でもどこでも使用できます。 2.多様なヘアアレンジが可能 ストレートやワンカールはもちろん、ブラシ部分が細いため、前髪など細部のアレンジも自由自在。 ブラシが細いことで、男性でも扱いやすい◎ 3段階の温度切り替えができるため、髪質やその日の状態に合わせ、温度を調整することができます。 3.ブラシ部分の特殊設計 ◎セラミックコーティング 熱を均一に伝え、髪へのダメージを抑えながらスタイリングできます。 ◎火傷防止設計 ヒートプレートが頭皮に触れないよう高低差をつけて設計されているため、 安心してお使いいただけます。 4.自動OFF機能 折りたたむとスイッチが押され、自動で電源がOFFになるから安心 開いたままでも25分後に自動で電源が消えます。 【搭載機能】 折りたたみ可能、充電式、3段階温度切り替え、オートオフ設定(25分で自動OFF)プレート部分のセラミックコーティング加工 【プレゼントとしても】 シンプルなデザイン・カラーなので、男性女性問わずお使いいただけます。 大切な方へのギフトとしてもおススメです"
+ },
+ "maxshare:10061566": {
+  "first_seen": "2026-10-03T12:01:43",
+  "themes": [
+   {
+    "date": "2026-10-03",
+    "slot": "noon",
+    "theme": "お買い物マラソン（10月予想）（1日後） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "maxshare:10061566",
+  "name": "【楽天1位】FIELDOOR キャンプマット シングル セミダブル ダブル 幅75cm 幅100cm 幅132cm 極厚10cm インフレーターマット リバーシブル 選べる接触冷感 電動ポンプ付き エアーマット 自動膨張 エアーベッド 車中泊 アウトドア用寝具 厚手 連結 1年保証 ★[送料無料]",
+  "price": 11550,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00prbao.72d3y0ce.g00prbao.72d3z208/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaxshare%2Fa20801%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmaxshare%2Fi%2F10061566%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00prbao.72d3y0ce.g00prbao.72d3z208/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaxshare%2Fa20801%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/maxshare/cabinet/master/1st2/a20801.jpg?_ex=600x600",
+  "shop_name": "マックスシェアー　maxshare",
+  "review_count": 835,
+  "review_average": 4.5,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "【選べる枕付き】約70秒で膨らむ！エアーマットのようなコンパクト収納と、ウレタンマット並みの寝心地を両立。選べる接触冷感リバーシブルでオールシーズン快適な極厚10cmキャンプマット",
+  "genre_id": "501931",
+  "score": 15.63,
+  "last_seen": "2026-10-03T12:01:43",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/maxshare/cabinet/master/1st2/a20801.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/maxshare/cabinet/rn/a20801-awd.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/maxshare/cabinet/master/2nd/01.jpg?_ex=600x600"
+  ],
+  "caption": "お問合せはこちら ※[店舗管理用 URL]a20801※[品番]【シングル：200x75cm/通常/高断熱のみ：a20801】【シングル：200x75cm/通常/高断熱のみ：a20805】【シングル：200x75cm/通常/高断熱のみ：a20803】【シングル：200x75cm/通常/高断熱のみ：a20806】【セミダブル：200x100cm/通常/高断熱のみ：a22114】【セミダブル：200x100cm/通常/高断熱のみ：a22360】【セミダブル：200x100cm/通常/高断熱のみ：a22359】【セミダブル：200x100cm/通常/高断熱のみ：a22361】【ダブル：200x132cm/通常/高断熱のみ：a20802】【ダブル：200x132cm/通常/高断熱のみ：a20804】【シングル：200x75cm/リバーシブル/高断熱＆接触冷感：a22349】【シングル：200x75cm/リバーシブル/高断熱＆接触冷感：a22355】【シングル：200x75cm/リバーシブル/高断熱＆接触冷感：a22352】【シングル：200x75cm/リバーシブル/高断熱＆接触冷感：a22357】【セミダブル：200x100cm/リバーシブル/高断熱＆接触冷感：a22350】【セミダブル：200x100cm/リバーシブル/高断熱＆接触冷感：a22356】【セミダブル：200x100cm/リバーシブル/高断熱＆接触冷感：a22353】【セミダブル：200x100cm/リバーシブル/高断熱＆接触冷感：a22358】【ダブル：200x132cm/リバーシブル/高断熱＆接触冷感：a22351】【ダブル：200x132cm/リバーシブル/高断熱＆接触冷感：a22354】 約70秒で膨らむ！設営・撤収ラクラク 付属の電動ポンプを使えば約70秒で素早く膨らませることが可能。空気の注入も排出も簡単"
+ },
+ "sakoda-online:10038093": {
+  "first_seen": "2026-10-03T12:01:43",
+  "themes": [
+   {
+    "date": "2026-10-03",
+    "slot": "noon",
+    "theme": "お買い物マラソン（10月予想）（1日後） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "sakoda-online:10038093",
+  "name": "【楽天1位5冠＆6万個突破】 トランポリン クッション 高反発 58×58cm ポケットコイル ファブリック クッショントランポリン トランポリンクッション エクササイズ スプリング ダイエット プレゼント 大人用 子供用 オットマン 大きい おしゃれ 室内 騒音防止 家庭用 静音",
+  "price": 7990,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00sziso.72d3ye0c.g00sziso.72d3z12f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsakoda-online%2F1000000110651%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsakoda-online%2Fi%2F10038093%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00sziso.72d3ye0c.g00sziso.72d3z12f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsakoda-online%2F1000000110651%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/sakoda-online/cabinet/item_images/1000000110651b.jpg?_ex=600x600",
+  "shop_name": "APTME（アプトミー）楽天市場店",
+  "review_count": 3938,
+  "review_average": 4.5,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "よく 跳ねる 大きい 安全 トランポリンクッション 大人 子供 大人兼用 大きめ ジャンプ 運動 インテリア おうち時間 健康 カバー 高反発 トランポリン クッション 男の子 女の子",
+  "genre_id": "213416",
+  "score": 15.44,
+  "last_seen": "2026-10-03T12:01:43",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/sakoda-online/cabinet/item_images/1000000110651b.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/sakoda-online/cabinet/img-up_1_745/1185_k1_225980_3000.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/sakoda-online/cabinet/img-up_1_745/1185_k2_225980_224.jpg?_ex=600x600"
+  ],
+  "caption": "【Web限定商品】 商品名APTME Spring cube【アプトミー スプリングキューブ】ポケットコイルトランポリン クッション 58cm × 58cm ※旧商品名：SAKODA Spring cube【サコダ スプリングキューブ】ポケットコイルトランポリン クッション 58cm × 58cm 型番SKD-TCC58 サイズ幅58cm×奥行58cm×高さ18cm カラー・ブラウン・パープル・レッド・スカイブルー・オリーブ・グリーン・ライトグレー・チャコールグレー・アイボリー・オレンジ 材質中材：ウレタンフォーム／ポケットコイル カバー：ポリエステル 重量4kg 耐荷重約100kg(目安です) ご使用上の注意トランポリンの跳ね返り力を高めるため、裏面に板が入っております（滑り止めのついている肌色の面が裏面となります）。裏面からジャンプをされたり、強い衝撃を加えますと、板が割れて本来のジャンプ力が損なわれる可能性がございますため、おやめください。 カバーを外された場合は、底面をご確認の上、カバーを取り付けされてください（触って板の手触りを感じる硬いほうが底面になります）。故意に生じた板割れや型崩れにつきましては保証の対象外となりますので、ご注意ください。商品の性質上、火または温度の高いもののそばに置かないでください。湿気を避け、直射日光が当たらないところに置いてください。本体は水洗いできません。 商品紹介 大人から子どもまで、おうちで手軽に運動できる！少ない力で跳ね返るポケットコイルを使用。 まるでトランポリンのような反発力です！ 大人から子どもまで、おうちで手軽に運動できる！ 安心してジャンプできる58x58cmの超ビックサイズのトランポリンクッション！ 大判でお子様でも安心してご利用いただくことが出来ます。 備考・詳細クッション 性も高くリビングや 子供 部屋 の 座椅"
  }
 }
