@@ -4888,6 +4888,13 @@
     "theme": "お買い物マラソン（10月予想）（2日後） × 20代男性（ガジェット・一人暮らし）",
     "persona": "20s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-10-04",
+    "slot": "morning",
+    "theme": "お買い物マラソン（10月予想）（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "keitai:10801623",
@@ -4897,20 +4904,22 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00pj8xo.72d3yed7.g00pj8xo.72d3ze16/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkeitai%2F41-907%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/keitai/cabinet/item/41_9/41-907_genre1st.jpg?_ex=600x600",
   "shop_name": "Hamee（ハミィ）",
-  "review_count": 22702,
+  "review_count": 22705,
   "review_average": 4.57,
   "affiliate_rate": 2.0,
   "point_rate": 1,
   "catchcopy": "iFace公式 傷に強い 耐衝撃 強化ガラス クリアケース 透明だから背面で遊べる シアー iPhoneSE 12 15Pro 他 Reflection リフレクション ベージュ くすみカラー",
   "genre_id": "560271",
-  "score": 16.49,
-  "last_seen": "2026-10-02T12:01:43",
+  "score": 17.29,
+  "last_seen": "2026-10-04T07:01:46",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/keitai/cabinet/item/41_9/41-907_genre1st.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/keitai/cabinet/item/41_11/41-907_1.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/keitai/cabinet/item/41_11/41-907_2.jpg?_ex=600x600"
   ],
-  "caption": "楽天年間ランキング2024 スマートフォン・タブレットジャンル第1位 (集計期間：2023年8月17日(木)〜 2024年8月16日(金)) 楽天上半期ランキング2024 スマートフォン・タブレットジャンル第1位 (集計期間：2023年9月30日(土)〜2024年4月1日(月)) 商品名 iFace Reflection 強化ガラス クリアケース 対応機種 ・ iPhone 15 iPhone15 アイフォン アイフォン15プロ アイフォン15 アイフォン 15・ iPhone 15 Pro 6.1インチ iPhone15 Pro（ 6.1インチ ） iphone15 pro iphone15pro iphone 15pro アイフォン アイフォン15プロ アイフォン15 プロ アイフォン 15pro アイフォン 15 プロ・ iPhone 15 Plus 5.4インチ iPhone15 Plus（ 5.4インチ ）iphone15Plus アイフォン アイフォン15プラス アイフォン15 Plus プラス・ iPhone 15 Pro Max 6.7インチ iPhone15 Pro Max（ 6.7インチ ）iphone15 pro max iphone15promax iphone 15pro max iphone15 promax アイフォン アイフォン15プロマックス アイフォン15 プロ マックス アイフォン15 プロマックス 15pro max アイフォン 15 プロマックス・ iPhone 14 Pro 6.1インチ iPhone14 Pro（ 6.1インチ ） iphone14 pro iphone14pro iphone 14pro アイフォン アイフォン14プロ アイフォン14 プロ アイフォン 14pro アイフォン 14 プロ・ iPhone 14 "
+  "caption": "楽天年間ランキング2024 スマートフォン・タブレットジャンル第1位 (集計期間：2023年8月17日(木)〜 2024年8月16日(金)) 楽天上半期ランキング2024 スマートフォン・タブレットジャンル第1位 (集計期間：2023年9月30日(土)〜2024年4月1日(月)) 商品名 iFace Reflection 強化ガラス クリアケース 対応機種 ・ iPhone 15 iPhone15 アイフォン アイフォン15プロ アイフォン15 アイフォン 15・ iPhone 15 Pro 6.1インチ iPhone15 Pro（ 6.1インチ ） iphone15 pro iphone15pro iphone 15pro アイフォン アイフォン15プロ アイフォン15 プロ アイフォン 15pro アイフォン 15 プロ・ iPhone 15 Plus 5.4インチ iPhone15 Plus（ 5.4インチ ）iphone15Plus アイフォン アイフォン15プラス アイフォン15 Plus プラス・ iPhone 15 Pro Max 6.7インチ iPhone15 Pro Max（ 6.7インチ ）iphone15 pro max iphone15promax iphone 15pro max iphone15 promax アイフォン アイフォン15プロマックス アイフォン15 プロ マックス アイフォン15 プロマックス 15pro max アイフォン 15 プロマックス・ iPhone 14 Pro 6.1インチ iPhone14 Pro（ 6.1インチ ） iphone14 pro iphone14pro iphone 14pro アイフォン アイフォン14プロ アイフォン14 プロ アイフォン 14pro アイフォン 14 プロ・ iPhone 14 ",
+  "posted_text": "#PR 一人暮らしのQOLが1段上がる\n公式iFace ケース SE 第3世代\n★4.57・レビュー22,705件\n3,520円\n#お買い物マラソン\n▶ROOMはプロフから",
+  "posted_at": "2026-10-04T07:01:46"
  },
  "officetrust:10000209": {
   "first_seen": "2026-09-09T16:35:38",
@@ -5991,6 +6000,13 @@
     "theme": "お買い物マラソン（10月予想）（2日後） × 20代男性（ガジェット・一人暮らし）",
     "persona": "20s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-10-04",
+    "slot": "morning",
+    "theme": "お買い物マラソン（10月予想）（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "furumiyashop:10000146",
@@ -6000,14 +6016,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00tzq9o.72d3y118.g00tzq9o.72d3zd57/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffurumiyashop%2Fcdb00p60%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/furumiyashop/cabinet/zt/p60-2380.jpg?_ex=600x600",
   "shop_name": "古宮shop",
-  "review_count": 6310,
+  "review_count": 6341,
   "review_average": 4.52,
   "affiliate_rate": 2.0,
   "point_rate": 1,
   "catchcopy": "5台同時充電 lightning type-c micro usb USB LEDライト付き 残量表示 急速充電 スマートフォン充電器 スマホ充電器 スマホバッテリー 携帯充電器 便利グッズ 緊急用 出張 停電 地震",
   "genre_id": "564277",
-  "score": 15.71,
-  "last_seen": "2026-10-02T12:01:43",
+  "score": 15.81,
+  "last_seen": "2026-10-04T07:01:46",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/furumiyashop/cabinet/zt/p60-2380.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/furumiyashop/cabinet/p60/1000/1.jpg?_ex=600x600",
@@ -10481,6 +10497,13 @@
     "theme": "お買い物マラソン（10月予想）（2日後） × 20代男性（ガジェット・一人暮らし）",
     "persona": "20s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-10-04",
+    "slot": "morning",
+    "theme": "お買い物マラソン（10月予想）（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "keitai:10814347",
@@ -10490,14 +10513,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00pj8xo.72d3yed7.g00pj8xo.72d3ze16/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkeitai%2F41-979%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/keitai/cabinet/item/41_12/41-979_26.jpg?_ex=600x600",
   "shop_name": "Hamee（ハミィ）",
-  "review_count": 2174,
+  "review_count": 2180,
   "review_average": 4.48,
   "affiliate_rate": 2.0,
   "point_rate": 1,
   "catchcopy": "iFace 傷に強い 強化ガラス 耐衝撃 クリアケース 背面で遊べる ストラップホール付 iPhone18Pro iPhone18ProMax iPhone17 iPhone17e iPhone17Pro iPhone17ProMax iPhone16 iPhone15",
   "genre_id": "560271",
-  "score": 15.5,
-  "last_seen": "2026-10-02T12:01:43",
+  "score": 15.6,
+  "last_seen": "2026-10-04T07:01:46",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/keitai/cabinet/item/41_12/41-979_26.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/keitai/cabinet/item/41_12/41-979_1.jpg?_ex=600x600",
@@ -11905,23 +11928,30 @@
     "theme": "お買い物マラソン（10月予想）（2日後） × 20代男性（ガジェット・一人暮らし）",
     "persona": "20s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-10-04",
+    "slot": "morning",
+    "theme": "お買い物マラソン（10月予想）（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "anker:10001908",
-  "name": "【10/1限定 最大10%OFFクーポン&P10倍】Anker Power Bank (10000mAh, 22.5W) (モバイルバッテリー 10000mAh 最大22.5W出力 USB-C & USB-C ケーブル付属 ディスプレイ搭載) 【USB PD/PowerIQ搭載/PSE技術基準適合】iPhone 15 Android iPad その他各種機器対応",
+  "name": "Anker Power Bank (10000mAh, 22.5W) (モバイルバッテリー 10000mAh 最大22.5W出力 USB-C & USB-C ケーブル付属 ディスプレイ搭載) 【USB PD/PowerIQ搭載/PSE技術基準適合】iPhone 15 Android iPad その他各種機器対応",
   "price": 3490,
   "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rr09o.72d3y980.g00rr09o.72d3z79c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa1257%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10001908%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00rr09o.72d3y980.g00rr09o.72d3z79c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa1257%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/tmb/a1/a1257_normal.jpg?_ex=600x600",
   "shop_name": "アンカー・ダイレクト楽天市場店",
-  "review_count": 2246,
+  "review_count": 2248,
   "review_average": 4.53,
   "affiliate_rate": 2.0,
   "point_rate": 1,
   "catchcopy": "Power Bank モバイルバッテリー 10000mAh 最大22.5W出力 USB-C & USB-C ケーブル付属 ディスプレイ搭載 USB PD PowerIQ搭載 PSE技術基準適合 iPhone 15 Android iPad その他各種機器 防災",
   "genre_id": "564277",
-  "score": 15.57,
-  "last_seen": "2026-10-02T12:01:43",
+  "score": 15.27,
+  "last_seen": "2026-10-04T07:01:46",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/tmb/a1/a1257_normal.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/images/09779934/a1257011_2.jpg?_ex=600x600",
@@ -11938,23 +11968,36 @@
     "theme": "今売れている物 × 20代男性（ガジェット・一人暮らし）",
     "persona": "20s_man",
     "event_type": "baseline"
+   },
+   {
+    "date": "2026-10-04",
+    "slot": "morning",
+    "theme": "お買い物マラソン（10月予想）（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "anker:10001561",
-  "name": "【期間限定セール実施中 9/25まで】Anker Nano Power Bank (12W, Built-In Lightning Connector ) / Anker Nano Power Bank (22.5W, Built-In USB-C Connector) (モバイルバッテリー 5000mAh 小型)【MFi認証済/端子一体型】iPhone 17/16/15/14",
-  "price": 2890,
+  "name": "Anker Nano Power Bank (12W, Built-In Lightning Connector ) / Anker Nano Power Bank (22.5W, Built-In USB-C Connector) (モバイルバッテリー 5000mAh 小型)【MFi認証済/端子一体型】iPhone 17/16/15/14",
+  "price": 3990,
   "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rr09o.72d3y980.g00rr09o.72d3z79c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa1645%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10001561%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00rr09o.72d3y980.g00rr09o.72d3z79c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa1645%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
-  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/deal/202609m2/a1645_sale.jpg?_ex=600x600",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/tmb/a1/a1645_normal.jpg?_ex=600x600",
   "shop_name": "アンカー・ダイレクト楽天市場店",
-  "review_count": 4045,
+  "review_count": 4061,
   "review_average": 4.46,
   "affiliate_rate": 2.0,
   "point_rate": 1,
   "catchcopy": "最大24/30ヶ月保証",
   "genre_id": "564277",
-  "score": 15.14,
-  "last_seen": "2026-09-25T12:41:57"
+  "score": 15.04,
+  "last_seen": "2026-10-04T07:01:46",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/tmb/a1/a1645_normal.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/listing/product/a1653/a1653_sub_2.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/listing/product/a1653/a1653_sub_3.jpg?_ex=600x600"
+  ],
+  "caption": "Anker Nano Power Bank (12W, Built-In Lightning Connector) ライトニング端子一体型の超小型モバイルバッテリー さすだけで充電可能 折りたたみ式ライトニング端子によりケーブルレスを実現。これ1つでiPhoneをいつでも充電可能。 ポケットにも入る超コンパクト設計 小さいバッグやポケットにも収まる超コンパクト設計を実現。外出時などの持ち運びにも最適です。 超コンパクトなのにパワフル 超コンパクト設計ながら5000mAhかつ12W出力。iPhone 14へ約1回充電が可能です。※Cポートは入力のみとなります。 ケーブルいらずでストレスフリー ライトニング端子一体型によりケーブルいらずで充電可能。充電しながら快適なスマホ操作を実現。 MFi認証取得 Apple MFi認証を取得し、お使いのライトニング機器を安全に充電していただけます。 ケースはそのままで お使いのiPhoneケースを外すことなく、そのままご利用いただけます。 ※ケース下部が5mmを超える厚さのケース、ケーブル穴の幅が13mm未満のケースには非対応です。 Ankerグループのすべての対象製品（モバイルバッテリー・急速充電器・イヤホン等）は、PSEマークの取得に必要な技術基準に適合しております。 届出事業者名：アンカー・ジャパン株式会社 PSマークの種類：PSE 商品名 Anker Nano Power Bank (12W, Built-In Lightning Connector) サイズ 約 77 x 37 x 25 mm 重さ 約 99 g USB-C入力 5V = 3A (MAX 15W) Lightning 出力 5V = 2.4A (MAX 12W) 容量 5000mAh 対応機種 - iPhone 14 / 14 Plus / 14 Pro / 14"
  },
  "ennshopstore:10000094": {
   "first_seen": "2026-09-25T12:41:57",
@@ -15699,6 +15742,13 @@
     "theme": "お買い物マラソン（10月予想）（2日後） × 20代男性（ガジェット・一人暮らし）",
     "persona": "20s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-10-04",
+    "slot": "morning",
+    "theme": "お買い物マラソン（10月予想）（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "shizuka-will-:10000416",
@@ -15708,14 +15758,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00sb3ao.72d3y888.g00sb3ao.72d3zd50/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshizuka-will-%2Fap-ip8gl%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/shizuka-will-/cabinet/top/iphone01/ip8gl_01.jpg?_ex=600x600",
   "shop_name": "shizukawill（シズカウィル）",
-  "review_count": 32831,
+  "review_count": 32846,
   "review_average": 4.63,
   "affiliate_rate": 2.0,
   "point_rate": 1,
   "catchcopy": "365日製品保証 枠をセットしてフィルムを置いて簡単貼り付け ! 累計300万枚販売の iPhone18pro ガラスフィルム iPhone18proMax iPhone 18 17 17e 16e 16 15 promax 保護フィルム 液晶保護",
   "genre_id": "560278",
-  "score": 14.81,
-  "last_seen": "2026-10-02T12:01:43",
+  "score": 15.51,
+  "last_seen": "2026-10-04T07:01:46",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/shizuka-will-/cabinet/top/iphone01/ip8gl_01.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/shizuka-will-/cabinet/09171238/09171239/09179913/imgrc0118090396.jpg?_ex=600x600",
@@ -16506,5 +16556,202 @@
    "https://thumbnail.image.rakuten.co.jp/@0_mall/cbeer/cabinet/fuku/26100299-02.jpg?_ex=600x600"
   ],
   "caption": "＜販売ルール＞※こちらは商品名記載の点数のみの数量限定商品となります。ご注文が販売数上限に達するか、販売期間が過ぎた時点で販売終了となります。※お支払いはApplePayを含むクレジットカード決済のみ（全額ポイントは可）とさせていただきます。その他決済でのご注文、クレジットカードの審査不可となったご注文は即時入金確認ができないため、キャンセルとさせていただきます。※同梱不可となります。他商品をご一緒に注文された場合はその商品をキャンセルとさせていただきます。このウイスキーくじ商品単品でご注文ください。※販売期間中にキャンセルが発生した場合、その分の在庫を調整することがございます。売り切れ後に在庫が復活するようなことがありますが、販売上限数は変わりません。※商品の性質上、お客様都合での返品、交換、キャンセル、返金は承れません。商品がご希望の商品と違っていた等の理由での返品は承れませんのでご了承ください。※ご注文が殺到した場合、在庫の連動が間に合わない場合がございます。その場合、当店からの受注確認(サンクス)メールをもって在庫確保となりますので、予めご了承願います。 ※複数注文は可能ですが、在庫状況によりお断りする場合もございますので予めご了承ください。 ※沖縄県は別途送料加算となります。【2000円/1梱包毎】※万が一、配送中の事故等で商品破損・紛失が起こった場合、代替品との交換または商品代金返金となる場合がございます。※長期不在、住所不明などで荷物が差し戻された場合、再発送は承っておりません。ご注文時送付先に間違いがないか、よくご確認お願いします。※商品の転売、営利を目的としたご注文は固くお断り致します。＜抽選方法について＞※各賞の選定は、当店の厳正なる抽選方法により完全ランダムに選んで決定いたします。※発送作業の不備や、配送時の事故が起こった場合に対応する為、抽選結果は記"
+ },
+ "hanaro:10000896": {
+  "first_seen": "2026-10-04T07:01:46",
+  "themes": [
+   {
+    "date": "2026-10-04",
+    "slot": "morning",
+    "theme": "お買い物マラソン（10月予想）（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "hanaro:10000896",
+  "name": "【10%OFFクーポン】iPhone17 ケース 手帳型 iPhone18Pro ケース 手帳 iPhone17e iPhone18ProMax iPhone16 iPhone16e iPhone17Pro iPhone Air iPhone16Pro iPhone17ProMax iPhone 15 14 13 12 mini 16Plus 16ProMax カバー 手帳型ケース SE 第3世",
+  "price": 1650,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rqrso.72d3ydf5.g00rqrso.72d3za11/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhanaro%2Fdiy-pita-ip-pu%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhanaro%2Fi%2F10000896%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00rqrso.72d3ydf5.g00rqrso.72d3za11/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhanaro%2Fdiy-pita-ip-pu%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/hanaro/cabinet/diy2/diy86_1.jpg?_ex=600x600",
+  "shop_name": "HANARO-SHOP 楽天市場店",
+  "review_count": 16660,
+  "review_average": 4.59,
+  "affiliate_rate": 2.0,
+  "point_rate": 15,
+  "catchcopy": "当店人気No1 iPhone 全機種対応 手帳型ケース ベルトなし マグネット iPhone17 18 pro pro max 17e 16e 16 15 14 13 12 SE アイフォン ケース カバー iPhoneケース カード収納 定期券",
+  "genre_id": "560271",
+  "score": 17.1,
+  "last_seen": "2026-10-04T07:01:46",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/hanaro/cabinet/diy2/diy86_1.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/hanaro/cabinet/diy2/diy-pita-pu_1.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/hanaro/cabinet/diy2/diy-pita-pu_2.jpg?_ex=600x600"
+  ],
+  "caption": "メーカー希望小売価格はメーカーカタログに基づいて掲載しています 特徴 高品質なPUレザー使用 マグネット内蔵でフタがピタッと閉じる スタンドとしても使える機能性。動画の視聴もラクラク 閉じた状態で通話可能 丁寧な手仕事で細部までこだわる 複数カード収納できるカードポケット付き ケース上下にストラップホール付き 対応機種一覧　※選択肢から対応の機種をお選びください iPhone 18 Pro iPhone 18 Pro Max iPhone 17e iPhone 17 iPhone 17 Pro iPhone 17 Pro Max iPhone Air iPhone 16e iPhone 16 iPhone 16Plus iPhone 16Pro iPhone 16ProMax iPhone 15 iPhone 15Plus iPhone 15Pro iPhone 15ProMax iPhone 14 iPhone 14Pro iPhone 13 iPhone 13mini iPhone 12 iPhone 12Pro iPhone 12mini iPhone SE (第2・第3世代) iPhone 8 iPhone 7 ※iPhone 18 Pro/iPhone 17 Pro は兼用可能です。 ※iPhone 18 Pro Max/iPhone 17 Pro Max は兼用可能です。 ※iPhone 17e/iPhone 16e は兼用可能です。 ※iPhoneSE (第2・第3世代)/iPhone 8/iPhone 7 は兼用可能です。 ※下記機種のケースをお探しの方は→→→こちら←←← iPhone 14Plus iPhone 14ProMax iPhone 13Pro iPhone 13ProMax iPhone 12ProMax iPhone 11ProMax iP"
+ },
+ "wavecontactlenses:10000330": {
+  "first_seen": "2026-10-04T07:01:46",
+  "themes": [
+   {
+    "date": "2026-10-04",
+    "slot": "morning",
+    "theme": "お買い物マラソン（10月予想）（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "wavecontactlenses:10000330",
+  "name": "シード ワンデーピュアうるおいプラス 96枚入り×2箱セット シード コンタクトレンズ ワンデー コンタクト 1day 1日使い捨て",
+  "price": 8970,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tnelo.72d3y08b.g00tnelo.72d3zbc6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwavecontactlenses%2Fsd1dpup96-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwavecontactlenses%2Fi%2F10000330%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00tnelo.72d3y08b.g00tnelo.72d3zbc6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwavecontactlenses%2Fsd1dpup96-2%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/wavecontactlenses/cabinet/product/contactcp3/sd1dpup96-2.jpg?_ex=600x600",
+  "shop_name": "コンタクト通販　レンズアップル",
+  "review_count": 3649,
+  "review_average": 4.84,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "シード ワンデーピュアうるおいプラス 96枚入り×2箱セット シード コンタクトレンズ ワンデー コンタクト 1day 1日使い捨て",
+  "genre_id": "563999",
+  "score": 15.71,
+  "last_seen": "2026-10-04T07:01:46",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/wavecontactlenses/cabinet/product/contactcp3/sd1dpup96-2.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/wavecontactlenses/cabinet/product/sub/sd/sd1dpup96_info.jpg?_ex=600x600"
+  ],
+  "caption": "＼ まとめ買いがお得！／※WAVEコンタクトサイトへ遷移します WAVE公式サイトへ移動します"
+ },
+ "starfocus:10002405": {
+  "first_seen": "2026-10-04T07:01:46",
+  "themes": [
+   {
+    "date": "2026-10-04",
+    "slot": "morning",
+    "theme": "お買い物マラソン（10月予想）（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "starfocus:10002405",
+  "name": "【10/2 20％OFF】【マイクロSDカード 128GBセット】SDカードリーダー iPhone17 対応 1TB 写真 動画 バックアップ データ 移行 保存 外付け USBメモリ アプリ不要 Type-C Lightning Android iPad 日本語取説付 1年保証 スターフォーカス 正規品[2025楽天年間1位]",
+  "price": 8980,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00ruz0o.72d3ycf9.g00ruz0o.72d3z98e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstarfocus%2Fs-ifd-m32-%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fstarfocus%2Fi%2F10002405%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00ruz0o.72d3ycf9.g00ruz0o.72d3z98e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstarfocus%2Fs-ifd-m32-%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/starfocus/cabinet/sm/rakuten_sale/ifd-m128/ifd-m128_020off.jpg?_ex=600x600",
+  "shop_name": "スマホメモリ専門スターフォーカス",
+  "review_count": 2112,
+  "review_average": 4.46,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "【レビューで次回のSDカード500円OFF】【マイクロSDカード 128GBセット】スマホの容量不足で悩むママへ。子供の思い出を消さなくてOK！専用アプリ不要でiPhone6s~17対応。",
+  "genre_id": "408453",
+  "score": 15.12,
+  "last_seen": "2026-10-04T07:01:46",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/starfocus/cabinet/sm/rakuten_sale/ifd-m128/ifd-m128_020off.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/starfocus/cabinet/sp/s-cardreader/cardreader_slide-02-.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/starfocus/cabinet/sp/s-cardreader/cardreader_slide-03.jpg?_ex=600x600"
+  ],
+  "caption": "商品名 STAR FOCUS(スターフォーカス) 4in1 スマホ SDカードリーダー マイクロSDカード 128GBセット 商品説明 マイクロSDカード 128GBがセットでお得！買ってすぐ使えます。 スマホの容量不足を解消するSDカードリーダーです。お子様の写真や動画も簡単にバックアップできます。 ・iPhone / Android / タブレット / PC に幅広く対応。スマホ同士のデータ移行も可能 ・Wi-Fiやスマホ通信は不要。クラウド・メール・LINEの容量制限を気にせず高速転送 ・最大2TBの大容量対応。デジカメ・ビデオカメラ・アクションカメラの写真や動画も1枚にまとめて保存 ・専用アプリ不要。普段のファイルアプリでそのまま使えるので操作も簡単 ・Googleフォト有料化の代替えにも最適 商品仕様 ■カラー：全3色 ホワイト / ブラック / ゴールド ■接続端子(転送速度) ・Lightning：読込 27MB/s / 書込 12MB/s ・USB2.0：読込 23.5MB/s / 書込 18MB/s ・Type-C：読込 33.2MB/s / 書込 29.6MB/s ・Micro USB：読込 32.5MB/s / 書込 24.3MB/s ■対応OS iOS 13~26 / iPadOS 13~26 Android OS 5~16 Windows 11 / 10 macOS / Chrome OS / Linux ■使用アプリ ・iPhone(iPhone15以降のType-C含む) / iPad：ファイルアプリ ・Galaxy：マイファイル ・OPPO：ファイルマネージャー ・Google Pixel / Xperia / AQUOS…：Files ■対応SDカード ・SD規格：SDHC / SDXC / microSDHC / microSDXC ・S"
+ },
+ "smartphonecase:10001722": {
+  "first_seen": "2026-10-04T07:01:46",
+  "themes": [
+   {
+    "date": "2026-10-04",
+    "slot": "morning",
+    "theme": "お買い物マラソン（10月予想）（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "smartphonecase:10001722",
+  "name": "【2枚目半額・3枚目99％OFF】 保護フィルム 覗き防止 ガラスフィルム iPhone17 iPhone17e iPhone iPhone16 iPhone16e iPhone18pro iPhoneduo iPhone18ProMax iPhone17Pro 15 SE 13 12 14 スマホ フィルム 除き見防止フィルム ブルーライトカット",
+  "price": 1350,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tcjgo.72d3y482.g00tcjgo.72d3z99a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsmartphonecase%2Fbb-film%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsmartphonecase%2Fi%2F10001722%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00tcjgo.72d3y482.g00tcjgo.72d3z99a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsmartphonecase%2Fbb-film%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/smartphonecase/cabinet/bb-film_360_01.jpg?_ex=600x600",
+  "shop_name": "スマホケース屋さん　楽天市場店",
+  "review_count": 22439,
+  "review_average": 4.41,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "【 ブルーライトカット ＆ 覗き見防止 】 二刀流 液晶保護フィルム スマホフィルム 日本製硝子 iPhone17Pro iPhone16Pro iPhone15Pro iPhone14Pro iPhone13mini iPhone12mini proMAX",
+  "genre_id": "560278",
+  "score": 15.11,
+  "last_seen": "2026-10-04T07:01:46",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/smartphonecase/cabinet/bb-film_360_01.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/smartphonecase/cabinet/film-2set.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/smartphonecase/cabinet/bb-film-09.jpg?_ex=600x600"
+  ],
+  "caption": "商品概要 ・覗き見防止とブルーライトカット両方の機能を併せ持ったハイブリッドフィルム ・【覗き見防止】＋【ブルーライトカット】 対応機種とサイズ(縦/横) ・iPhone 17e / 143mm / 68mm ・iPhone 17 / 146mm / 68mm ・iPhone Air / 153mm / 71mm ・iPhone 17 pro / 146mm / 68mm ・iPhone 17 pro Max / 159mm / 74mm ・iPhone 16e / 143mm / 68mm ・iPhone 16 / 143mm / 68mm ・iPhone 16 pro / 146mm / 68mm ・iPhone 16 plus / 157mm / 75mm ・iPhone 16 pro Max / 159mm / 74mm ・iPhone 15 / 143mm / 68mm ・iPhone 15 pro / 143mm / 67mm ・iPhone 15 plus / 157mm / 75mm ・iPhone 15 pro Max / 157mm / 73mm ・iPhone 14 / 144mm / 68mm ・iPhone 14 pro / 144mm / 68mm ・iPhone 14 Plus / 158mm / 75mm ・iPhone 14 pro Max / 157mm / 74mm ・iPhone SE（第3世代） / 134mm / 62mm ・iPhone 13 / 144mm / 68mm ・iPhone 13 pro / 144mm / 68mm ・iPhone 13 mini / 128mm / 61mm ・iPhone 13 pro Max / 158mm / 75mm ・iPhone 12 / 144mm / 69mm ・iPhone 1"
+ },
+ "qifeng:10000042": {
+  "first_seen": "2026-10-04T07:01:46",
+  "themes": [
+   {
+    "date": "2026-10-04",
+    "slot": "morning",
+    "theme": "お買い物マラソン（10月予想）（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "qifeng:10000042",
+  "name": "【楽天1位常連・超800冠獲得】 黒/白 モニター 21.5 / 23.8 / 24.5 / 27型 240Hz/200Hz /180Hz/165Hz/100Hz ゲーミングモニター 1ms応答 pcモニター パソコン モニター 非光沢 スピーカー内蔵 HDR/Freesync/VESA cocopar HG-238",
+  "price": 11990,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00u7muo.72d3y549.g00u7muo.72d3z5dd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fqifeng%2Fyc-238%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fqifeng%2Fi%2F10000042%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00u7muo.72d3y549.g00u7muo.72d3z5dd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fqifeng%2Fyc-238%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/qifeng/cabinet/09428456/09945422/imgrc0143632274.jpg?_ex=600x600",
+  "shop_name": "CK楽天市場店",
+  "review_count": 5101,
+  "review_average": 4.74,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "【240Hz新着】コスパ最強！1ms応答速度 2mmフレームレス 狭額縁 8mm超薄型 pc モニター チルト/スピーカー内蔵/HDR/DCR/Freesync/VESA対応 1920*1080 FHD IPS非光沢 モニター",
+  "genre_id": "110105",
+  "score": 15.03,
+  "last_seen": "2026-10-04T07:01:46",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/qifeng/cabinet/09428456/09945422/imgrc0143632274.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/qifeng/cabinet/09428456/09679115/imgrc0143960125.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/qifeng/cabinet/09428456/imgrc0143927792.jpg?_ex=600x600"
+  ],
+  "caption": "【更新履歴】 2026/3/4 240Hz高リフレッシュレートの新モデル「S-238H」が登場しました。 2024/9/25 HG-238Hは白色が登録されました。ホワイトがお気になる場合はHG-238HWを選んでください。 2024/9/5 ※ご注意：HG-238Hはもとの180Hzリフレッシュレートを200Hzに変更されました。HDMI端子も二つに変更いたしました。 2023/6/30 VESAマウント用のネジ穴が2つから4つになりました。 2023/11/27 HG-238のAudio In端子がAudio Out端子（イヤホンジャック）に変更されました。 メーカー希望小売価格はメーカーサイトに基づいて掲載しています。 スペック 型番 HG-238 画面サイズ 23.8インチ 本体重量 2.76kg（本体2.43kg） 液晶パネル 非光沢 VAパネル 画素数 1920 x 1080（フルHD） 色域 100%sRGB 表示色 約1677万色 周波数 100Hz 応答速度 1ms MPRT 輝度(標準値) 280cd/m2 高コントラスト比 4000：1 スピーカー内臓 2W*2 VESAマウント 75×75mm（ネジ規格 M4X6~8mm） チルト角度調整 -5°~+20° 消費電力 最大30W 機能 DCR/Freesync/Overdrive(OD) ブルーライト軽減 対応 本体寸法 539(W)×319(H)×7/38(D)mm 本体寸法(台座含む) 539(W)×405(H)×173(D)mm 入出力端子 DC* 1、HDMI* 1、VGA*1、Audio OUT*1 電源アダプター認証 PSマークの種類：PSE 届出事業者名：合同会社華佳商事 登録検査機関名：TÜV 【超薄型液晶モニター】モニター本体の最小厚さは1cmもなく、わずか約8mmです。フレームの厚"
+ },
+ "huawei-official:10000477": {
+  "first_seen": "2026-10-04T07:01:46",
+  "themes": [
+   {
+    "date": "2026-10-04",
+    "slot": "morning",
+    "theme": "お買い物マラソン（10月予想）（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "huawei-official:10000477",
+  "name": "2026新【エントリーで5倍P&10%OFF】楽天1位 HUAWEI Band 11 Aluminum Edition / 通常版 スマートウォッチ 8.99mm/17g薄型軽量ボディ アルミニウムケース 24時間睡眠管理 1500nits高輝度 1.62大画面 14日間持続バッテリー 情緒モニタリング LINE通知",
+  "price": 6800,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00u6nto.72d3ya71.g00u6nto.72d3z00d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhuawei-official%2F55020anj%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhuawei-official%2Fi%2F10000477%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00u6nto.72d3ya71.g00u6nto.72d3z00d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhuawei-official%2F55020anj%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/huawei-official/cabinet/13014907/13014914/imgrc0101208061.jpg?_ex=600x600",
+  "shop_name": "HUAWEI 公式楽天市場店",
+  "review_count": 5997,
+  "review_average": 4.5,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "防水 スマートウォッチ バンド スポーツバンド Android iphone ios 睡眠管理 薄型軽量 フィットネス 長時間バッテリー 急速充電 防水 心拍 血中酸素 ラッピング可 プレゼント ギフト",
+  "genre_id": "564895",
+  "score": 14.92,
+  "last_seen": "2026-10-04T07:01:46",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/huawei-official/cabinet/13014907/13014914/imgrc0101208061.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/huawei-official/cabinet/13014907/13014914/band11-ksp1.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/huawei-official/cabinet/13014907/13014914/band11-ksp2.jpg?_ex=600x600"
+  ],
+  "caption": "季節を問わずに使えますお正月 御正月 お年賀 御年賀 御年始 春休み 夏休み 冬休み お盆 帰省 GW ゴールデンウィーク 大型連休 シルバーウィーク 残暑 クリスマス 春夏秋冬 年末 年始 年明け ギフトにもおすすめです誕生日 バースデー バレンタイン ホワイトデー 母の日 マザーズデー 父の日 記念日 クリスマス お祝い アニバーサリー 就職祝い 合格祝い 退職記念 お父さん 父親 お母さん 母親 兄 弟 姉 妹 息子 娘 彼氏 彼女 同級生 同僚 友達メーカー希望小売価格はメーカーカタログに基づいて掲載していますKeyword：Apple Watch カバー 保護ケース バンド ベルト ファーウェイバンド11 レザー シリコン ステンレス チタン ナイロン ラバー マグネット スポーツ おしゃれ かわいい メンズ レディース 太い 細い 二重巻き 蒸れない 通気性 純正 エルメス コーチ ディズニー サンリオ 充電器 充電ケーブル 純正 タイプC anker モバイルバッテリー スタンド 2台同時 series 10 series 9 ultra 2 se gps Cellular 41mm 45mm 49mm キラキラ クリア ゴールド マット アルミ 金属 一体型 フルカバー 防水ケース 背面フィルム 中古 未使用 Apple Watch SE Apple Watch Ultra 2 Apple Watch Hermes Apple Watch 9 アップルウォッチ バンド アップルウォッチ ベルト アップルウォッチ 充電器 アップルウォッチ フィルム アップルウォッチ カバー アップルウォッチ ケース アップルウォッチ 磁石 アップルウォッチ 買取 アップルウォッチ 中古 アップルウォッチ 二重巻き アップルウォッチ 太い バンド アップルウォッチ 細い バンド"
  }
 }

@@ -1,116 +1,42 @@
-# 楽天ROOMに追加する商品（2026-10-03）
+# 楽天ROOMに追加する商品（2026-10-04）
 
 手順: 商品URLを開く → 共有 → 「ROOMに投稿」 → コメントを貼って投稿。
 夜の分は20時までに入れておくと、購買ピーク（21〜24時）に乗ります。
 
-## 07:01 お買い物マラソン（10月予想）（1日後） × 子育て世帯のママ・パパ
+## 07:01 お買い物マラソン（10月予想）（開催中） × 20代男性（ガジェット・一人暮らし）
 
-1. **【1種類を選べる】メリーズ ファーストプレミアム(4個)【メリーズ ファーストプレミアム】[オムツ 紙おむつ 紙オムツ **
-   - 価格: 6,985円 / ★4.75（1,999件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00pzd4o.72d3yfe6.g00pzd4o.72d3zc1c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetbaby%2F404201%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnetbaby%2Fi%2F10027996%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: お買い物マラソン中に狙いたい1つ。まとめ買いしておくと楽になるもの。すべての細菌の増殖を抑制するものではありません。(2)腰の位置よりも上までおむつを差し込みましょう。レビュー1,999件で★4.75。6,985円。気になる人はお気に入り登録を。
+1. **公式iFace iPhone14 ケース iPhoneSE iPhone12 12Pro 15Pro 15Plus 15**
+   - 価格: 3,520円 / ★4.57（22,705件） / 料率 2.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00pj8xo.72d3yed7.g00pj8xo.72d3ze16/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkeitai%2F41-907%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkeitai%2Fi%2F10801623%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: お買い物マラソン中に狙いたい1つ。レビューを見て買う人が多いやつ。レビュー22,705件で★4.57。3,520円。在庫が動きやすいので早めに。
 
-2. **【楽天ランキング1位】 ベビー パジャマ 長袖 腹巻 付き キッズ ルームウェア 綿100% セットアップ 上下セット **
-   - 価格: 1,990円 / ★4.64（540件） / 料率 4.0% / P10倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00su4bo.72d3y01f.g00su4bo.72d3z643/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fponopono%2F230507001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fponopono%2Fi%2F10002333%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: お買い物マラソン中に狙いたい1つ。ママ友の間でよく話題になるやつ。そしてやさしくて落ち着いたかわいい雰囲気の8デザイン。寝相が悪くても安心な腹巻タイプのボトムスは、夏のエアコンや冬の寝冷え対策に大活躍。楽天ランキング1位、レビュー540件で★4.64。ポイント10倍で実質1,791円。在庫が動きやすいので早めに。
+2. **【10%OFFクーポン】iPhone17 ケース 手帳型 iPhone18Pro ケース 手帳 iPhone17e iP**
+   - 価格: 1,650円 / ★4.59（16,660件） / 料率 2.0% / P15倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00rqrso.72d3ydf5.g00rqrso.72d3za11/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhanaro%2Fdiy-pita-ip-pu%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhanaro%2Fi%2F10000896%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: お買い物マラソン中に狙いたい1つ。コスパで選ぶならこれ。レビュー16,660件で★4.59。10%OFF、ポイント15倍で実質1,402円。配送日も一緒に確認を。
 
-3. **【LIMITED SALE 最大6%OFF】【送料無料】【イージーウォッシュ】乾燥機OK えらべるデザイン アソートパン**
-   - 価格: 1,499円 / ★4.69（391件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qnh8o.72d3ya2a.g00qnh8o.72d3z77e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdevirockstore%2F1ubt19075%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdevirockstore%2Fi%2F10031954%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: お買い物マラソン中に狙いたい1つ。まとめ買いしておくと楽になるもの。はくだけでおしゃれな印象に仕上がります。さらに、乾燥機OK"で時短も叶える家族の味方。レビュー391件で★4.69。送料無料。気になる人はお気に入り登録を。
+3. **雑穀 送料無料 1000円 ポッキリ 七福米 360g 大麦づくし 420g もち黒米 もち赤米 50g 雑穀米詰め合わ**
+   - 価格: 1,000円 / ★4.69（7,866件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qp9bo.72d3ycbd.g00qp9bo.72d3z81b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Figamai-tominaga%2Ff001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Figamai-tominaga%2Fi%2F10000252%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: お買い物マラソン中に狙いたい1つ。レビューを見て買う人が多いやつ。50g→100g。レビュー7,866件で★4.69。送料無料。気になる人はお気に入り登録を。
 
-4. **【7年産最終SALE！在庫限りの大赤字特価！】 米 10kg 令和7年 熊本県産 ヒノヒカリ ひのひかり 米 10kg **
-   - 価格: 4,180円 / ★4.62（9,421件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00rxaro.72d3yafc.g00rxaro.72d3zdeb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffuchigami%2F10000003%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffuchigami%2Fi%2F10000003%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: お買い物マラソン中に狙いたい1つ。ママ友の間でよく話題になるやつ。お米は臭いを吸着し易い食品です。レビュー9,421件で★4.62。送料無料。配送日も一緒に確認を。
+4. **【2枚目半額・3枚目99％OFF】 保護フィルム 覗き防止 ガラスフィルム iPhone17 iPhone17e iPh**
+   - 価格: 1,350円 / ★4.41（22,439件） / 料率 2.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00tcjgo.72d3y482.g00tcjgo.72d3z99a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsmartphonecase%2Fbb-film%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsmartphonecase%2Fi%2F10001722%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: お買い物マラソン中に狙いたい1つ。一人暮らしの部屋に1つあると便利。レビュー22,439件で★4.41。99%OFF。セール中に補充しておくと安心です。
 
-5. **【1種類を選べる】ムーニーマン パンツ 寝返りM・たっちM 大容量(3袋セット)【ムーニーマン】**
-   - 価格: 7,497円 / ★4.8（1,789件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00pzd4o.72d3yfe6.g00pzd4o.72d3zc1c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetbaby%2F404936%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnetbaby%2Fi%2F10037830%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: お買い物マラソン中に狙いたい1つ。まとめ買いしておくと楽になるもの。マシュマロごこち素材でお肌あんしん。幅広ピタっとギャザーで足まわりのすきまモレ0へ。レビュー1,789件で★4.8。7,497円。気になる人はお気に入り登録を。
+5. **【2点目半額】【楽天1位】 iPhone17 保護フィルム iPhone18Pro iPhone17e iPhone16**
+   - 価格: 1,000円 / ★4.5（17,393件） / 料率 2.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00s9umo.72d3y89b.g00s9umo.72d3zeb5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcolorful999%2F9hbhm%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcolorful999%2Fi%2F10000008%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: お買い物マラソン中に狙いたい1つ。コスパで選ぶならこれ。画期的なフィルム貼り付けデザイン・初心者でも簡単に貼り付け。複数回コーティングによる滑らかな指触りとスムースな操作感。楽天ランキング1位、レビュー17,393件で★4.5。半額、送料無料。セール中に補充しておくと安心です。
 
-6. **【7年産最終SALE！在庫限りの大赤字特価！】 米 10kg 令和7年 熊本県産 くまさんの輝き 米 10kg 送料無料**
-   - 価格: 4,080円 / ★4.65（1,373件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00rxaro.72d3yafc.g00rxaro.72d3zdeb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffuchigami%2Fkagayaki-10%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffuchigami%2Fi%2F10000276%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: お買い物マラソン中に狙いたい1つ。ママ友の間でよく話題になるやつ。お米は臭いを吸着し易い食品です。レビュー1,373件で★4.65。送料無料。配送日も一緒に確認を。
-
-### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
-
-- **お買い物マラソンで買うもの**: メリーズ ファーストプレミアム / ベビー パジャマ 長袖 腹巻 付き キッズ / 乾燥機OK えらべるデザイン アソートパンツ / 10kg 令和7年 熊本県産 ヒノヒカリ / ムーニーマン パンツ 寝返りM・たっちM / 10kg 令和7年 熊本県産 くまさんの輝き
-- **子育て世帯のママ・パパのリピート候補**: メリーズ ファーストプレミアム / ベビー パジャマ 長袖 腹巻 付き キッズ / 乾燥機OK えらべるデザイン アソートパンツ / 10kg 令和7年 熊本県産 ヒノヒカリ / ムーニーマン パンツ 寝返りM・たっちM / 10kg 令和7年 熊本県産 くまさんの輝き
-
-## 12:01 お買い物マラソン（10月予想）（1日後） × 30代男性（健康・効率化・家電）
-
-1. **【P5倍 10/9 9:59迄】 IHクッキングヒーター 卓上 1口 1000W 1400W IHコンロ EER-S10**
-   - 価格: 5,980円 / ★4.48（1,561件） / 料率 2.0% / P5倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00pui9o.72d3y639.g00pui9o.72d3zc91/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-kurashi%2Fqt604%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-kurashi%2Fi%2F10017265%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: お買い物マラソン中に狙いたい1つ。時短になる系。レビュー1,561件で★4.48。10/99:59まで、ポイント5倍で実質5,681円、送料無料。気になる人はお気に入り登録を。
-
-2. **【農薬・化学肥料不使用栽培の玄氣】1.5kg×3袋（4.5kg ）白米モード炊ける無洗米の発芽玄米無農薬（農薬・化学肥料**
-   - 価格: 5,800円 / ★4.79（11,184件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qmzxo.72d3y46e.g00qmzxo.72d3zbe8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgenki-genmai%2F10000006%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgenki-genmai%2Fi%2F10000004%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: お買い物マラソン中に狙いたい1つ。スペック比較して残ったやつ。また、栽培中に稲穂を好んで飛来する虫を薬品で。レビュー11,184件で★4.79。送料無料。配送日も一緒に確認を。
-
-3. **【1の付く日限定★クーポン配布中】【TVで紹介】レジャーシート 厚手 大判 200×200 遠足 子供 おしゃれ 洗える**
-   - 価格: 4,680円 / ★4.59（3,044件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00s64uo.72d3y7e2.g00s64uo.72d3zd4f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyouplus-r%2Fvi-qpm-sm%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyouplus-r%2Fi%2F10003879%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: お買い物マラソン中に狙いたい1つ。スペック比較して残ったやつ。また、汚れが気になるときは、ご家庭の洗濯機で簡単に洗えるため衛生的です。大人5〜6人が座れる大きさです。レビュー3,044件で★4.59。送料無料。在庫が動きやすいので早めに。
-
-4. **「楽天で一番売れた 」 ヘアアイロン ストレートアイロン 15mm 24mm サロンムーン LDK ミラーダブルイオン **
-   - 価格: 4,790円 / ★4.68（7,414件） / 料率 2.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00t6tgo.72d3y54b.g00t6tgo.72d3z844/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsalonmoon%2Fslm-006%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsalonmoon%2Fi%2F10000013%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: お買い物マラソン中に狙いたい1つ。時短になる系。お求めやすさ×クオリティヘアアイロン“本体”に全精力を注ぎました。(ポーチ、シリコンカバー等はあえて付属しておりません。レビュー7,414件で★4.68。送料無料。気になる人はお気に入り登録を。
-
-5. **【特別栽培の玄氣】1.5kg×3袋（4.5kg）特別栽培の発芽玄米白米モード炊ける無洗米の発芽玄米送料無料（沖縄県は10**
-   - 価格: 4,800円 / ★4.76（5,576件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qmzxo.72d3y46e.g00qmzxo.72d3zbe8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgenki-genmai%2F20000006%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgenki-genmai%2Fi%2F10000071%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: お買い物マラソン中に狙いたい1つ。毎日使うものほど良い物を、の代表。健康維持や健康管理が気になり始めた方にお勧めの逸品です。レビュー5,576件で★4.76。送料無料。配送日も一緒に確認を。
-
-6. **【 法人限定 】 高白色 コピー用紙 EX A4 5000枚 500枚×10冊 コピー紙 業務用 白コピー用紙 A4紙 **
-   - 価格: 3,880円 / ★4.58（1,563件） / 料率 2.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qq8to.72d3y446.g00qq8to.72d3z88f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcocodecow%2F701826%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcocodecow%2Fi%2F10049893%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: お買い物マラソン中に狙いたい1つ。時短になる系。レビュー1,563件で★4.58。送料無料。在庫が動きやすいので早めに。
+6. **『最安挑戦』コピー用紙 A4 2500枚(500枚×5冊)ペーパーワン（PAPER ONE） 高白色 カーボンニュートラ**
+   - 価格: 2,169円 / ★4.7（932件） / 料率 2.0% / P2倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00u1i9o.72d3y514.g00u1i9o.72d3z249/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fofficetrust%2F014001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fofficetrust%2Fi%2F10000209%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: お買い物マラソン中に狙いたい1つ。レビューを見て買う人が多いやつ。ペーパーワンは、世界的にも認知度の高いPEFC認証材を原料として生産されています。レビュー932件で★4.7。ポイント2倍で実質2,125円、送料無料。セール中に補充しておくと安心です。
 
 ### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
 
-- **お買い物マラソンで買うもの**: IHクッキングヒーター 卓上 1口 / 1.5kg×3袋 / レジャーシート 厚手 大判 200×200 / 「楽天で一番売れた ヘアアイロン / 1.5kg×3袋 / 高白色 コピー用紙 EX A4 5000枚
-- **30代男性のリピート候補**: IHクッキングヒーター 卓上 1口 / 1.5kg×3袋 / レジャーシート 厚手 大判 200×200 / 「楽天で一番売れた ヘアアイロン / 1.5kg×3袋 / 高白色 コピー用紙 EX A4 5000枚
-
-## 20:16 お買い物マラソン（10月予想）（1日後） × 40代男性（家族・晩酌・車）
-
-1. **100D23L　【新品カーバッテリー】　□パナソニック正規品□　製品保証3年　充電制御車対応　パナソニック　caos（カ**
-   - 価格: 17,000円 / ★4.81（805件） / 料率 2.0% / P11倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00ptoso.72d3y735.g00ptoso.72d3z3f9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgeki-car%2F3100222%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgeki-car%2Fi%2F10165033%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: お買い物マラソン中に狙いたい1つ。まとめ買い向き。商品出荷後のトラブルは全てブルーバッテリー安心サポートが対応いたします。登録後ブルーバッテリー安心サポートが開始されます。レビュー805件で★4.81。ポイント11倍で実質15,130円。セール中に補充しておくと安心です。
-
-2. **【ポイント10倍！10/3(土)～8(木)】ほうじ茶 お茶 静岡産 ほうじ茶ティーパック 100個入 送料無料 業務用 **
-   - 価格: 1,360円 / ★4.66（525件） / 料率 4.0% / P10倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00q9qfo.72d3y422.g00q9qfo.72d3z494/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkakuto-tea%2F10000454%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkakuto-tea%2Fi%2F10000454%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: お買い物マラソン中に狙いたい1つ。家族みんなで使える定番。水出しや業務用でもおすすめです。1個のティーバッグで350cc〜450cc位出ます。レビュー525件で★4.66。ポイント10倍で実質1,224円、送料無料。在庫が動きやすいので早めに。
-
-3. **【送料無料セット】大黒屋のくるみゆべし8個 / 伝承本造り おすすめ 郡山名物 お試しセット 伝統菓子 和菓子 お菓子 **
-   - 価格: 1,000円 / ★4.77（1,347件） / 料率 4.0% / P5倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00tg5jo.72d3yd84.g00tg5jo.72d3z110/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-daikokuya%2F01-00%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-daikokuya%2Fi%2F10000020%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: お買い物マラソン中に狙いたい1つ。まとめ買い向き。レビュー1,347件で★4.77。ポイント5倍で実質950円、送料無料。配送日も一緒に確認を。
-
-4. **【 送料無料 】 1本あたり732円(税込) 格上メドック＆5冠金賞入り!フランス金賞赤ワイン12本セット 第116弾【**
-   - 価格: 8,778円 / ★4.5（2,701件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qikdo.72d3yf0a.g00qikdo.72d3z747/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmywineclub%2Ffrancemedal10%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmywineclub%2Fi%2F10013711%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: お買い物マラソン中に狙いたい1つ。週末のお楽しみ用に。ボルドー金賞ワインを含むフランス各地の金賞受賞ワイン12本を厳選。信頼のメダル受賞確かな品質。レビュー2,701件で★4.5。送料無料。配送日も一緒に確認を。
-
-5. **キリン 一番搾り 一番しぼり 350ml 缶×48本送料無料 2ケース(48本) ビール 国産 キリン いちばん搾り 麒**
-   - 価格: 8,973円 / ★4.81（1,127件） / 料率 4.0% / P3倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qo2ro.72d3yc8a.g00qo2ro.72d3z424/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flikaman%2F300735-48-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flikaman%2Fi%2F10021577%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: お買い物マラソン中に狙いたい1つ。週末のお楽しみ用に。こちらはケースのまま出荷しております。包装等は致しておりません。レビュー1,127件で★4.81。ポイント3倍で実質8,703円、送料無料。在庫が動きやすいので早めに。
-
-6. **先着最大3000円OFFクーポン 【先着500円OFFクーポン】【最強配送】【送料無料】サッポロ 黒ラベル 350ml×**
-   - 価格: 9,367円 / ★4.77（1,321件） / 料率 4.0% / P4倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00rryxo.72d3y4c5.g00rryxo.72d3zf38/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fliquor-boss%2F892c2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fliquor-boss%2Fi%2F10003376%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: お買い物マラソン中に狙いたい1つ。家族みんなで使える定番。レビュー1,321件で★4.77。ポイント4倍で実質8,992円、送料無料。在庫が動きやすいので早めに。
-
-### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
-
-- **お買い物マラソンで買うもの**: 100D23L パナソニック正規品 / ～8 】ほうじ茶 お茶 静岡産 / 大黒屋のくるみゆべし8個 伝承本造り / 【 送料無料 】 1本あたり732円(税込) / キリン 一番搾り 一番しぼり 350ml / サッポロ 黒ラベル 350ml×2ケース
-- **40代男性のリピート候補**: 100D23L パナソニック正規品 / ～8 】ほうじ茶 お茶 静岡産 / 大黒屋のくるみゆべし8個 伝承本造り / 【 送料無料 】 1本あたり732円(税込) / キリン 一番搾り 一番しぼり 350ml / サッポロ 黒ラベル 350ml×2ケース
+- **お買い物マラソンで買うもの**: 公式iFace ケース SE 第3世代 / ケース 手帳型 ケース 手帳 Air 15 / 雑穀 ポッキリ 七福米 360g 大麦づくし / 保護フィルム 覗き防止 ガラスフィルム 15 / 保護フィルム フィルム ガラスフィルム / 『最安挑戦』コピー用紙 A4 2500枚
+- **20代男性のリピート候補**: 公式iFace ケース SE 第3世代 / ケース 手帳型 ケース 手帳 Air 15 / 雑穀 ポッキリ 七福米 360g 大麦づくし / 保護フィルム 覗き防止 ガラスフィルム 15 / 保護フィルム フィルム ガラスフィルム / 『最安挑戦』コピー用紙 A4 2500枚
 
