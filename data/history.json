@@ -4161,5 +4161,16 @@
   "affiliate_rate": 2.0,
   "text": "お買い物マラソン中に狙いたい1つ。時短になる系。レビュー1,563件で★4.58。送料無料。在庫が動きやすいので早めに。",
   "room_done": false
+ },
+ {
+  "date": "2026-10-03T18:31:13",
+  "slot": "evening",
+  "kind": "engage",
+  "engage_key": "poll1",
+  "theme": "反応投稿（poll）",
+  "persona": "all",
+  "text": "楽天で買うとき、いちばん気にするのは？",
+  "tweet_id": "2106316032545894639",
+  "threads_id": "18113826647034423"
  }
 ]
