@@ -620,6 +620,13 @@
     "theme": "お買い物マラソン（9月）（1日後） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-10-04",
+    "slot": "noon",
+    "theme": "お買い物マラソン（10月予想）（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "hotch-potch:10017531",
@@ -629,14 +636,22 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00pw1co.72d3ya1f.g00pw1co.72d3z2c0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhotch-potch%2F00014257_cooking_pot%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/hotch-potch/cabinet/kago_img11/00014257.jpg?_ex=600x600",
   "shop_name": "ホッチポッチ自由が丘 WEB shop",
-  "review_count": 16656,
+  "review_count": 16845,
   "review_average": 4.68,
   "affiliate_rate": 2.0,
   "point_rate": 10,
   "catchcopy": "調理ポット 豆乳機 コンパクト 自動調理器 ソイミルク 氷対応 ペースト ソース おかゆ おから お粥 ヘルシー レシピ本 耐熱 シンプル オート 簡単 洗いやすい 手作り auto cooking pot",
   "genre_id": "565076",
-  "score": 19.67,
-  "last_seen": "2026-09-18T23:08:23"
+  "score": 21.08,
+  "last_seen": "2026-10-04T12:01:45",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/hotch-potch/cabinet/kago_img11/00014257.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/hotch-potch/cabinet/01200382/re_omake_00014851.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/hotch-potch/cabinet/01200382/re_eraberu_tsuru4-1.jpg?_ex=600x600"
+  ],
+  "caption": "材料を入れたらあとはおまかせ、 ほったらかしで美味しいを叶える自動調理器。5つのモードに合わせて撹拌と加熱がプログラミングされた「レコルト自動調理ポット」。材料を入れたらあとはほったらかしでOK◎。なめらかなポタージュや具材の形を残した食べるスープ、おかゆ、豆乳など、手間なく簡単に作れます。加熱をせずにブレンダーとしても使用できるので、氷を入れてひんやりスムージーも楽しめます。ポットのように省スペースにおけるコンパクトなデザインながら、毎日の調理を手軽に時短でサポートしてくれる頼もしいアイテムです。 サイズ（約） 幅16.5×奥行12×高さ23.3cm コード長さ：1m 重量（約） 970g 定格容量 600ml 電源 AC100V 50/60Hz 消費電力 600W 55W（JUICE＆CLEANモード） 定格時間 SOYMILK・POTAGE＆PASTE・SOUP＆OKAYUモード：40分 JUICE＆CLEANモード：3分 WARMモード：25分 材質 本体、フタ、お手入れブラシ、計量スプーン：ポリプロピレン 本体内側：ステンレス（セラミックコーティング） 刃：ステンレス 付属品 お手入れブラシ、計量スプーン、専用レシピブック 原産国 中国 備考 ・本体の内側に表示されている300mlラインからMaxラインの間で使用してください。 ・本体外側を水につけたり、水をかけたり、洗い流したりしないでください。 ・SOYMILK、POTAGE＆PASTE、SOUP＆OKAYUモードは2回連続使用しないでください。連続使用する場合は本体が冷めるまで1時間程度休ませてください。 ・電子レンジや食器乾燥機、食器洗い乾燥機に入れないでください。 ・40℃以上のお湯を使用すると、吹きこぼれる場合があります。水または、40℃以下のぬるま湯をご使用ください。 ・豆乳、おからを作る場合、煮る・",
+  "posted_text": "#PR 家族みんなが使ってる定番\n楽天1位 スープメーカー 自動調理ポット\n★4.68・レビュー16,845件・楽天ランキング1位\n13,200円（P10倍で実質11,880円）\n#お買い物マラソン\n▶ROOMはプロフから",
+  "posted_at": "2026-10-04T12:01:45"
  },
  "tescom-japan:10000227": {
   "first_seen": "2026-09-06T03:27:02",
@@ -892,6 +907,13 @@
     "theme": "お買い物マラソン（10月予想）（1日後） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-10-04",
+    "slot": "noon",
+    "theme": "お買い物マラソン（10月予想）（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "kireijapan:10000065",
@@ -908,7 +930,7 @@
   "catchcopy": "【正規・純正品】イーテック純正。ウルオ・ウルオクールどちらにも使えます",
   "genre_id": "212491",
   "score": 16.22,
-  "last_seen": "2026-10-03T20:16:22",
+  "last_seen": "2026-10-04T12:01:45",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/kireijapan/cabinet/08096446/fcu0400/official_japan.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/kireijapan/cabinet/08096446/fcu0400/new_cartridge_teiki.jpg?_ex=600x600",
@@ -3997,6 +4019,13 @@
     "theme": "お買い物マラソン（10月予想）（1日後） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-10-04",
+    "slot": "noon",
+    "theme": "お買い物マラソン（10月予想）（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "soukaidrink:10009211",
@@ -4013,7 +4042,7 @@
   "catchcopy": "アサヒビール/ビール/スーパードライ / アサヒ スーパードライ / アサヒ スーパードライ 缶",
   "genre_id": "110626",
   "score": 17.58,
-  "last_seen": "2026-10-03T20:16:22",
+  "last_seen": "2026-10-04T12:01:45",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/soukaidrink/cabinet/707/4901004006707.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/soukaidrink/cabinet/707/4901004006707-2.jpg?_ex=600x600",
@@ -8950,6 +8979,13 @@
     "theme": "お買い物マラソン（10月予想）（1日後） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-10-04",
+    "slot": "noon",
+    "theme": "お買い物マラソン（10月予想）（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "soukaidrink:10005932",
@@ -8966,7 +9002,7 @@
   "catchcopy": "アサヒビール/ビール/スーパードライ / アサヒ スーパードライ / アサヒ スーパードライ 缶",
   "genre_id": "110626",
   "score": 17.14,
-  "last_seen": "2026-10-03T20:16:22",
+  "last_seen": "2026-10-04T12:01:45",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/soukaidrink/cabinet/557/62557.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/soukaidrink/cabinet/557/62557-2.jpg?_ex=600x600",
@@ -16194,25 +16230,32 @@
     "theme": "お買い物マラソン（10月予想）（1日後） × 30代男性（健康・効率化・家電）",
     "persona": "30s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-10-04",
+    "slot": "noon",
+    "theme": "お買い物マラソン（10月予想）（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "nene777:10000018",
-  "name": "掃除機 コードレス【楽天12連冠達成！吸引力完全進化95Kpa超強力!革新版グリーンLEDライト付＆60分連続稼働＆自立式&次世代LED液晶ディスプレイ】掃除機サイクロン式3段吸引力絡まないヘッド LED液晶ディスプレイ軽量低騒音伸縮パイプ HEPA多重濾過着脱式バッテリー3年間保証",
+  "name": "掃除機 コードレス【楽天12連冠達成！吸引力完全進化110Kpa超強力!革新版グリーンLEDライト付＆60分連続稼働＆自立式&次世代LED液晶ディスプレイ】掃除機サイクロン式3段吸引力絡まないヘッド LED液晶ディスプレイ軽量低騒音伸縮パイプ HEPA多重濾過着脱式バッテリー3年保証",
   "price": 11980,
   "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00upspo.72d3y466.g00upspo.72d3ze3c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnene777%2Fcompass1747365900%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnene777%2Fi%2F10000018%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00upspo.72d3y466.g00upspo.72d3ze3c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnene777%2Fcompass1747365900%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
-  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/nene777/cabinet/compass1788079226.jpg?_ex=600x600",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/nene777/cabinet/compass1790935193.jpg?_ex=600x600",
   "shop_name": "NENE777楽天市場店",
-  "review_count": 4932,
+  "review_count": 4933,
   "review_average": 4.6,
   "affiliate_rate": 2.0,
   "point_rate": 1,
   "catchcopy": "業界革新！掃除機 コードレス【楽天12連冠達成！吸引力完全進化】グリーンLED×110Kpa超吸引で「見えない汚れ」も完全制圧自立式&次世代LED液晶ディスプレイ3年間保証",
   "genre_id": "565105",
-  "score": 16.29,
-  "last_seen": "2026-10-03T12:01:43",
+  "score": 16.69,
+  "last_seen": "2026-10-04T12:01:45",
   "image_urls": [
-   "https://thumbnail.image.rakuten.co.jp/@0_mall/nene777/cabinet/compass1788079226.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/nene777/cabinet/compass1790935193.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/nene777/cabinet/compass1777039846.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/nene777/cabinet/compass1790935511.jpg?_ex=600x600"
   ],
@@ -16234,6 +16277,13 @@
     "theme": "お買い物マラソン（10月予想）（1日後） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-10-04",
+    "slot": "noon",
+    "theme": "お買い物マラソン（10月予想）（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "aibeaute:10001221",
@@ -16250,7 +16300,7 @@
   "catchcopy": "【おでかけ革命】前髪のへたりや湿気によるカール崩れも簡単お直し 通勤中 や 外出先でもブラシ感覚で簡単ヘアセット ストレート カールもこれ1本 ポーチ に入るコンパクト設計",
   "genre_id": "562667",
   "score": 15.94,
-  "last_seen": "2026-10-03T20:16:22",
+  "last_seen": "2026-10-04T12:01:45",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/aibeaute/cabinet/13504580/13808453/imgrc0166889994.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/aibeaute/cabinet/05430039/12370831/imgrc0166824656.jpg?_ex=600x600",
@@ -16434,6 +16484,13 @@
     "theme": "お買い物マラソン（10月予想）（1日後） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-10-04",
+    "slot": "noon",
+    "theme": "お買い物マラソン（10月予想）（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "plywood:10017400",
@@ -16450,7 +16507,7 @@
   "catchcopy": "キッチン家電 調理器具 簡単調理 ポタージュ 野菜スープ ジュース おかゆ スムージー 氷 豆乳 おから かわいい ペースト食 便利 お手入れ 簡単 おしゃれ ペースト食 保温 氷OK ギフト",
   "genre_id": "565076",
   "score": 17.26,
-  "last_seen": "2026-10-03T20:16:22",
+  "last_seen": "2026-10-04T12:01:45",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/plywood/cabinet/502/20149324.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/plywood/cabinet/img-up_1_1389/2470_k1_720293_74.jpg?_ex=600x600",
@@ -16465,6 +16522,13 @@
     "date": "2026-10-03",
     "slot": "night",
     "theme": "お買い物マラソン（10月予想）（1日後） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
+   },
+   {
+    "date": "2026-10-04",
+    "slot": "noon",
+    "theme": "お買い物マラソン（10月予想）（開催中） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "sale"
    }
@@ -16483,7 +16547,7 @@
   "catchcopy": "おトクな辛口泡ならコレ!世界選りすぐりスパークリングワイン11本セット",
   "genre_id": "567664",
   "score": 16.46,
-  "last_seen": "2026-10-03T20:16:22",
+  "last_seen": "2026-10-04T12:01:45",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/mywineclub/cabinet/shohin42/9000426.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/mywineclub/cabinet/shohin42/9000425_520_01.jpg?_ex=600x600",
@@ -16533,6 +16597,13 @@
     "theme": "お買い物マラソン（10月予想）（1日後） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-10-04",
+    "slot": "noon",
+    "theme": "お買い物マラソン（10月予想）（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "cbeer:10035069",
@@ -16549,7 +16620,7 @@
   "catchcopy": "響、山崎、イチロー、ジョニーウォーカー、カバラン・・・The人気銘柄★勢ぞろいのウイスキーくじ",
   "genre_id": "204449",
   "score": 16.18,
-  "last_seen": "2026-10-03T20:16:22",
+  "last_seen": "2026-10-04T12:01:45",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/cbeer/cabinet/fuku/26100299-kago.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/cbeer/cabinet/fuku/26100299-01.jpg?_ex=600x600",
@@ -16753,5 +16824,104 @@
    "https://thumbnail.image.rakuten.co.jp/@0_mall/huawei-official/cabinet/13014907/13014914/band11-ksp2.jpg?_ex=600x600"
   ],
   "caption": "季節を問わずに使えますお正月 御正月 お年賀 御年賀 御年始 春休み 夏休み 冬休み お盆 帰省 GW ゴールデンウィーク 大型連休 シルバーウィーク 残暑 クリスマス 春夏秋冬 年末 年始 年明け ギフトにもおすすめです誕生日 バースデー バレンタイン ホワイトデー 母の日 マザーズデー 父の日 記念日 クリスマス お祝い アニバーサリー 就職祝い 合格祝い 退職記念 お父さん 父親 お母さん 母親 兄 弟 姉 妹 息子 娘 彼氏 彼女 同級生 同僚 友達メーカー希望小売価格はメーカーカタログに基づいて掲載していますKeyword：Apple Watch カバー 保護ケース バンド ベルト ファーウェイバンド11 レザー シリコン ステンレス チタン ナイロン ラバー マグネット スポーツ おしゃれ かわいい メンズ レディース 太い 細い 二重巻き 蒸れない 通気性 純正 エルメス コーチ ディズニー サンリオ 充電器 充電ケーブル 純正 タイプC anker モバイルバッテリー スタンド 2台同時 series 10 series 9 ultra 2 se gps Cellular 41mm 45mm 49mm キラキラ クリア ゴールド マット アルミ 金属 一体型 フルカバー 防水ケース 背面フィルム 中古 未使用 Apple Watch SE Apple Watch Ultra 2 Apple Watch Hermes Apple Watch 9 アップルウォッチ バンド アップルウォッチ ベルト アップルウォッチ 充電器 アップルウォッチ フィルム アップルウォッチ カバー アップルウォッチ ケース アップルウォッチ 磁石 アップルウォッチ 買取 アップルウォッチ 中古 アップルウォッチ 二重巻き アップルウォッチ 太い バンド アップルウォッチ 細い バンド"
+ },
+ "e-kurashi:10051591": {
+  "first_seen": "2026-10-04T12:01:45",
+  "themes": [
+   {
+    "date": "2026-10-04",
+    "slot": "noon",
+    "theme": "お買い物マラソン（10月予想）（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "e-kurashi:10051591",
+  "name": "【P15倍 10/9 9:59迄】 除湿機 衣類乾燥除湿機 コンプレッサー式 3.8L/日 除湿目安10畳 小型 コンパクト 節電 省エネ 部屋干し タイマー YDC-J03(W) 除湿器 除湿乾燥機 衣類乾燥 部屋干し 湿気対策 おしゃれ山善 YAMAZEN 【送料無料】",
+  "price": 13800,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pui9o.72d3y639.g00pui9o.72d3zc91/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-kurashi%2Fs7h85%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-kurashi%2Fi%2F10051591%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00pui9o.72d3y639.g00pui9o.72d3zc91/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-kurashi%2Fs7h85%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/e-kurashi/cabinet/main-img/020/main-s7h85.jpg?_ex=600x600",
+  "shop_name": "くらしのeショップ",
+  "review_count": 251,
+  "review_average": 4.26,
+  "affiliate_rate": 2.0,
+  "point_rate": 15,
+  "catchcopy": "確かな除湿力。1.7L大容量タンク搭載コンパクト除湿機 送料無料",
+  "genre_id": "204546",
+  "score": 15.98,
+  "last_seen": "2026-10-04T12:01:45",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/e-kurashi/cabinet/main-img/020/main-s7h85.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/e-kurashi/cabinet/pc_sub/093/s7h85-01.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/e-kurashi/cabinet/pc_sub/094/dehumidifier-01.jpg?_ex=600x600"
+  ],
+  "caption": "山善 YAMAZEN 除湿機 衣類乾燥除湿機 コンプレッサー式 3.8L/日 除湿目安10畳 小型 ミニタイプ コンパクト 節電 省エネ 部屋干し タイマー YDC-J03(W) 本体サイズ 幅25.3×奥行18.5×高さ34cm　重量6.6kg 商品説明 ●電源：AC100V(50Hz/60Hz)●消費電力(50/60Hz)：110/120W●除湿能力(50/60Hz)：1日3.0L/3.8L●除湿面積の目安(50/60Hz)：(集合住宅)8/10畳、(プレハブ住宅)6/7畳、(木造)4/5畳●水タンク容量：約1.7L●電源コード長さ：約1.6m●風量：2段階●切タイマー：1-8時間(1時間単位)●12時間オートオフ機能搭載●送風ルーバーは手動で90度まで角度調節可能●湿度設定は40-70％の範囲から5％単位で細かく設定できます●湿度表示範囲：35％〜81％●排水用ホースを取り付けて連続排水可能●チャイルドロック搭載●減光機能：おやすみボタンに触れると、おやすみランプが点灯し、操作部とランプが減光します。●メーカー保証1年付き【ご使用の前に知っておいていただきたいこと】本商品は、コンプレッサー式除湿機の設計上、湿度が40％以下のとき・室温が5℃未満のときは動作しません。室温が20℃以下のときは、コンプレッサーの動きが断続的になります. 商品補足説明 YAMAZEN ヤマゼン 山善 通販 除湿機 除湿器 除湿 衣類乾燥 湿気 梅雨 つゆ 部屋干し 室内干し 洗濯物 乾燥 おしゃれ 湿り 脱衣所 乾燥機 乾燥 省エネ カビ 結露 対策 静音 静か 大容量 秋雨 雨天 キャスター付き 持ち運び 結露 洗濯乾燥 リビング 図書室 会議室 倉庫 事務所 倉 蔵 図書館 家庭用 業務用除湿機 業務用除湿器 パワフル 強力 オフィス 大広間 ホワイト色 白色 S7H85 202605_"
+ },
+ "bruno-official:10000325": {
+  "first_seen": "2026-10-04T12:01:45",
+  "themes": [
+   {
+    "date": "2026-10-04",
+    "slot": "noon",
+    "theme": "お買い物マラソン（10月予想）（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "bruno-official:10000325",
+  "name": "★公式限定特典あり★【10%OFF】【BRUNO 公式】 ホットプレート 鍋 ブルーノ コンパクト プレート2種 セラミックコート鍋 一人用 焼肉 おしゃれ 最大250℃ 無段階調整 BOE021 brunoメッセージカード 対応 引っ越し祝い 入学祝い",
+  "price": 14850,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tf8to.72d3yc3e.g00tf8to.72d3z032/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbruno-official%2F1702748%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbruno-official%2Fi%2F10000325%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00tf8to.72d3yc3e.g00tf8to.72d3z032/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbruno-official%2F1702748%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/bruno-official/cabinet/item/2026_2/1702748_main12.jpg?_ex=600x600",
+  "shop_name": "BRUNOブルーノ公式楽天市場店",
+  "review_count": 1166,
+  "review_average": 4.74,
+  "affiliate_rate": 2.0,
+  "point_rate": 10,
+  "catchcopy": "【シリーズ累計出荷台数360万台突破】※2024年9月30日時点 おしゃれなデザインでコンパクトサイズ。3プレート付きで料理の幅が広がり、最大250℃まで対応。洗いやすく、お手入れ簡単。",
+  "genre_id": "212377",
+  "score": 15.92,
+  "last_seen": "2026-10-04T12:01:45",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/bruno-official/cabinet/item/2026_2/1702748_main12.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/bruno-official/cabinet/item/2026_2/1702748_page8_02.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/bruno-official/cabinet/item/2024_2/2024_3/ruikei2_chp01.jpg?_ex=600x600"
+  ],
+  "caption": "SPEC商品仕様・成分 サイズW--mm×H--mm×D--mmコンパクトホットプレート：W375mm×H140mm×D235mmセラミックコート鍋：W405mm×H70mm×D242mm パッケージサイズW--mm×H--mm×D--mmコンパクトホットプレート：W276mm×H180mm×D410mmセラミックコート鍋：W410mm×H90mm×D276mm 素材・成分本体：スチール/フェノール樹脂、プレート：アルミニウム合金(内面ふっ素樹脂塗膜加工)セラミックコート鍋：アルミダイキャスト、フェノール樹脂、ステンレススチール 生産国中国 型番BOE021-SET-NABE 機能定格消費電力：1200W、プレート取り替え式、温度調節（65℃〜250℃）、安全装置（サーモスタット/温度ヒューズ）、フッ素樹脂コート(プレート)、内側表面セラミックコート(セラミックコート鍋) 電源AC100V 付属品平面プレート、たこ焼きプレート、セラミックコート鍋、木べら、マグネット式脱着電源コード 備考※【コンパクトホットプレート】には平面プレートとたこ焼きプレートが付属しています。 商品補足説明キッチン家電 コンパクト 一人用 家族用 食卓 料理 ご飯 新生活 家族 母の日 父の日 敬老の日 ギフト プレゼント 贈り物 お礼 お返し 内祝い 引き出物 結婚祝い 出産祝い 新築祝い 引っ越し祝い 誕生日 お誕生日 誕生日祝い 記念日 家飲み 宅飲み 一人暮らし ひとり暮らし パーティー パーティー用 ホームパーティー 年末 年始 年末年始 お歳暮 お中元 お正月 クリスマス Xmas Christmas 忘年会 新年会 嬉しい カラフル 焼肉 おしゃれ お手入れ簡単 すき焼き しゅうまい レシピ たこ焼き プレート 調理家電 シンプル 炒め物 蒸し野菜 挨拶 おすすめ 電気 アヒージョ 【"
+ },
+ "mywineclub:10019396": {
+  "first_seen": "2026-10-04T12:01:45",
+  "themes": [
+   {
+    "date": "2026-10-04",
+    "slot": "noon",
+    "theme": "お買い物マラソン（10月予想）（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "mywineclub:10019396",
+  "name": "【送料無料】3大銘醸地入り!世界の選りすぐり赤・白・スパークリングワイン飲み比べ12本セット 第36弾 【9000435】 | 金賞 飲み比べ ワイン ワインセット ミックス wine wainn ボルドー フランス イタリア スペイン お買い得 ギフト",
+  "price": 7980,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qikdo.72d3yf0a.g00qikdo.72d3z747/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmywineclub%2Fworldmix12%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmywineclub%2Fi%2F10019396%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00qikdo.72d3yf0a.g00qikdo.72d3z747/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmywineclub%2Fworldmix12%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/mywineclub/cabinet/shohin42/9000435.jpg?_ex=600x600",
+  "shop_name": "MyWineClub（マイワインクラブ）",
+  "review_count": 442,
+  "review_average": 4.54,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "3大銘醸地入り!世界の赤・白・スパークリングワイン12本セット!",
+  "genre_id": "200164",
+  "score": 15.74,
+  "last_seen": "2026-10-04T12:01:45",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/mywineclub/cabinet/shohin42/9000435.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/mywineclub/cabinet/shohin42/9000434_520_01.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/mywineclub/cabinet/shohin40/7779113_520_02.jpg?_ex=600x600"
+  ],
+  "caption": "＜フランス＞●ロベール・ルドゥー・ルージュ（IGP Oc／赤・FB）☆70ミリオンズデギュスタトゥール金賞[グルナッシュ80％、シラー10％、カリニャン10％]●ベル・アリュール・ブリュット（白・辛口・発泡）☆ジルベール＆ガイヤール・ワインガイド金賞[アイレン100％]＜イタリア＞●コンテント・ヴィーノ・ロッソ（赤・MB）☆ジルベール＆ガイヤール・ワインガイド金賞[シラーズ、サンジョヴェーゼ]●ヴィト・ヴィーノ・ロッソ（赤・FB）☆ジルベール＆ガイヤール・ワインガイド金賞[サンジョヴェーゼ50％、メルロー30％、カベルネ・ソーヴィニヨン20％]＜スペイン＞●フライレティーヨ・ガルナッチャ（赤・MB）☆ジルベール＆ガイヤール・ワインガイド金賞[ガルナッチャ]●カスティージョ・デ・アナ・マカベオ（DOバレンシア／白・辛口）☆ジルベール＆ガイヤール・ワインガイド金賞☆70ミリオンズデギュスタトゥール金賞[マカベオ]●フライレティーヨ・ヴェルデホ（白・辛口）☆ジルベール＆ガイヤール・ワインガイド金賞[ヴェルデホ]＜チリ＞●パブロ・ゴンザレス・ソーヴィニヨン・ブラン（白・辛口）☆アメリカ・アワード金賞☆ロンドン・アワード金賞[ソーヴィニヨン・ブラン]●セロ・ブラヴォ・ソーヴィニヨン・ブラン（白・辛口）[ソーヴィニヨン・ブラン]＜スロヴェニア＞●ヴィラブリッチ・メルロー（カコヴォストノ・ヴィノZGP／赤・FB）[メルロー100％]＜ポルトガル＞●レナサー・レッド（赤・MB）☆70ミリオンズデギュスタトゥール金賞☆ジルベール＆ガイヤール・ワインガイド金賞[ティンタ・ロリズ、トゥリガ・フランカ]＜オーストラリア＞●ペニー・レーン・スパークリング（白・辛口・発泡）☆サクラアワード金賞[コロンバール、シャルドネ]※一部スクリューキャップを使用。※ラベルのデザイン・色が変更になる場合がございます"
  }
 }
