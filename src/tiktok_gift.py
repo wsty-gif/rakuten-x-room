@@ -6,6 +6,8 @@ X / Threads / ROOM / Instagram は従来どおり（ランキング＋行事）�
   - 行事（クリスマス・母の日など type=gift）が近いときは、その行事を優先する
 選んだ商品は data/topics.json に kind="gift" として保存し、ブログにも特集ページを作る
 （TikTok の「商品はプロフィールのリンクから」の受け皿）。
+TikTok に載せる商品は ROOM に出した物に限るため、選定はその日の最初の投稿（朝）で行い、
+ROOM の追加リストに入れる。夜の TikTok スライドはその7点で作る。
 """
 from __future__ import annotations
 
@@ -196,7 +198,16 @@ def save_gift_topic(theme: dict[str, Any], items: list[dict[str, Any]]) -> str:
     old = topics.get(slug) or {}
     topics[slug] = {"slug": slug, "kind": "gift", "title": title, "keyword": theme["keywords"][0],
                     "who": theme["who"], "budget": theme["budget"], "persona": "20s_woman", "months": [],
-                    "items": items, "updated": now_iso, "first_seen": old.get("first_seen", now_iso)}
+                    "items": items, "updated": now_iso, "first_seen": old.get("first_seen", now_iso),
+                    # 夜の TikTok スライドが同じテーマ（タイトル・ハッシュタグ・一言目）で作れるように残す
+                    "theme": {k: theme[k] for k in ("key", "who", "title", "tags", "hook", "budget", "event") if k in theme}}
     TOPICS_FILE.parent.mkdir(exist_ok=True)
     TOPICS_FILE.write_text(json.dumps(topics, ensure_ascii=False, indent=1), encoding="utf-8")
     return slug
+
+
+def gift_room_comment(item: dict[str, Any], theme: dict[str, Any]) -> str:
+    """ギフト企画の商品を ROOM に載せるときのコメント（改行なしの1段落）。"""
+    who = theme.get("event") or theme["who"]
+    return (f"{who}へのプレゼント候補。予算{budget_text(int(theme['budget']))}以内で、レビューの良い物から選びました。"
+            f"レビュー{int(item.get('review_count', 0)):,}件で★{item.get('review_average')}。{int(item['price']):,}円。")

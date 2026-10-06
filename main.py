@@ -80,6 +80,12 @@ def cmd_plan(args, s: Settings):
     return theme, cands, x_cands, client, history
 
 
+def room_item_fields(p: Product) -> dict:
+    """ROOM に出した商品を、あとで TikTok スライドに使えるよう履歴へ残す項目。"""
+    return {"image_url": p.image_url, "image_urls": list(p.image_urls or [p.image_url]), "shop_name": p.shop_name,
+            "review_count": p.review_count, "review_average": p.review_average, "genre_id": p.genre_id}
+
+
 def room_flow(cands, theme, s: Settings, history: list, posted: list, live: bool, presale=False) -> None:
     """ROOM に追加する商品を選び、コメントを付けて、通知とリストを出す。live=False なら表示のみ。"""
     from src.room_comment import collection_suggestions, room_comment
@@ -100,7 +106,7 @@ def room_flow(cands, theme, s: Settings, history: list, posted: list, live: bool
             "slot": "presale" if presale else theme.slot,
             "theme": theme.title, "persona": theme.persona.key, "item_code": p.item_code,
             "item_name": p.name[:80], "price": p.price, "item_url": p.item_url,
-            "affiliate_rate": p.affiliate_rate, "text": c, "room_done": False,
+            "affiliate_rate": p.affiliate_rate, "text": c, "room_done": False, **room_item_fields(p),
         })
     save_history(history)
     cols = collection_suggestions(picks, theme)
@@ -161,7 +167,7 @@ def cmd_run(args, s: Settings):
                 "item_code": p.item_code, "item_name": p.name[:80], "price": p.price,
                 "item_url": p.item_url, "affiliate_rate": p.affiliate_rate,
                 "text": text, "tweet_id": tweet_id, "threads_id": threads_id, "room_done": False,
-                "image": getattr(poster, "last_had_image", False),
+                "image": getattr(poster, "last_had_image", False), **room_item_fields(p),
             })
     # ブログ用データは本番投稿時のみ蓄積する（dry-run で書くと GitHub 側の記録と競合するため）
     if poster:
@@ -171,6 +177,51 @@ def cmd_run(args, s: Settings):
         save_history(history)
     # ROOM: X に出した商品を先頭に、ROOM 基準で複数点を選んで通知する
     room_flow(cands, theme, s, history, [pst["product"] for pst in posts], live=poster is not None)
+    # TikTok のギフト企画（7点）も、その日の最初の投稿で ROOM リストに入れる（TikTok には ROOM に出した物だけ載せる）
+    gift_room_flow(client, theme.slot, s, history, live=poster is not None)
+
+
+def gift_room_flow(client, slot: str, s: Settings, history: list, live: bool) -> None:
+    """今日の TikTok ギフト企画（誰に・予算いくら）の商品を楽天から選び、ROOM の追加リストと通知に出す。1日1回。
+    夜の reel-build はこの商品でスライドを作る。TIKTOK_MODE=ranking のときは何もしない。"""
+    if (os.environ.get("TIKTOK_MODE") or "gift").strip() == "ranking":
+        return
+    today = datetime.now().strftime("%Y-%m-%d")
+    if any(h.get("tiktok_gift") and h.get("date", "")[:10] == today for h in history):
+        return
+    from dataclasses import fields
+    from src.notify import notify_room_picks
+    from src.tiktok_gift import budget_text, fetch_gift_items, gift_room_comment, pick_theme, save_gift_topic
+    gift = pick_theme()
+    try:
+        items = fetch_gift_items(client, gift, s, n=7)
+    except Exception as e:
+        print(f"  [warn] ギフト企画の検索に失敗: {e}")
+        return
+    if len(items) < 3:
+        print(f"  [warn] ギフト企画の商品が足りません（{len(items)}点）。今夜の TikTok は ROOM に出した商品から作ります")
+        return
+    label = f"TikTok用ギフト企画｜{gift.get('event') or gift['who']}へ・予算{budget_text(gift['budget'])}"
+    keys = {f.name for f in fields(Product)}
+    picks = [(Product(**{k: v for k, v in d.items() if k in keys}), gift_room_comment(d, gift)) for d in items]
+    print("\n" + "-" * 50 + f"\n[ROOM] {label} {len(picks)} 件（今夜の TikTok に載せる）")
+    for i, (p, c) in enumerate(picks, 1):
+        print(f" {i}. {p.price:>6,}円 ★{p.review_average} ({p.review_count:,}) | {p.name[:40]}\n    → {c}")
+    if not live:
+        print("[dry-run] 通知・履歴・リストは書き出しません。")
+        return
+    slug = save_gift_topic(gift, items)
+    stamp = datetime.now().isoformat(timespec="seconds")
+    for p, c in picks:
+        history.append({
+            "date": stamp, "kind": "room", "slot": slot, "theme": label, "persona": "20s_woman",
+            "item_code": p.item_code, "item_name": p.name[:80], "price": p.price, "item_url": p.item_url,
+            "affiliate_rate": p.affiliate_rate, "text": c, "room_done": False, "tiktok_gift": slug, **room_item_fields(p),
+        })
+    save_history(history)
+    path = write_room_todo(picks, label + "（今夜のTikTokに載せる）")
+    print(f"[ROOM] ギフト企画を追加しました → 特集 topics/{slug}.html / {path}")
+    notify_room_picks(picks, label + "（今夜のTikTokに載せる。夜までにROOMへ）")
 
 
 def cmd_presale(args, s: Settings):
@@ -369,8 +420,29 @@ def cmd_instagram(args, s: Settings):
         save_history(history)
 
 
+def room_listed_items(history: list[dict], store: dict, today: str, s: Settings, days: int = 30) -> list[dict]:
+    """今日を含む直近 days 日に ROOM リストへ出した商品（X 投稿分を含む）。新しい順、1商品1件。
+    画像があり、スライドの「レビュー4.2以上・50件以上」を満たす物だけ。listed = ROOM に出した日。"""
+    cutoff = (datetime.strptime(today, "%Y-%m-%d") - timedelta(days=days)).strftime("%Y-%m-%d")
+    out, seen = [], set()
+    for h in sorted(history, key=lambda h: h.get("date", ""), reverse=True):
+        code, day = h.get("item_code"), h.get("date", "")[:10]
+        if not code or code in seen or (h.get("kind") or "product") not in ("product", "room") or not (cutoff <= day <= today):
+            continue
+        d = {"item_code": code, "name": h.get("item_name", ""), "price": h.get("price", 0), "item_url": h.get("item_url", "")}
+        d.update({k: h[k] for k in ("image_url", "image_urls", "shop_name", "review_count", "review_average", "genre_id") if h.get(k)})
+        d.update(store.get(code) or {})
+        if not d.get("image_url") or int(d.get("review_count", 0) or 0) < s.min_review_count \
+                or float(d.get("review_average", 0) or 0) < s.min_review_average:
+            continue
+        seen.add(code)
+        d["listed"] = day
+        out.append(d)
+    return out
+
+
 def cmd_reel_build(args, s: Settings):
-    """今日の商品から TikTok フォトモード用スライド一式と、同じ構成の動画（Instagram リール用）を作る。ブログ公開の前に実行する。
+    """今日まで（今日を含む）に ROOM へ出した商品から TikTok フォトモード用スライド一式と、同じ構成の動画（Instagram リール用）を作る。ブログ公開の前に実行する。
     出力: docs/reels/YYYY-MM-DD/01.jpg…（スライド）, YYYY-MM-DD_slides.zip, YYYY-MM-DD.mp4, YYYY-MM-DD.json（投稿文）"""
     from src.reel_video import build_reel, find_bgm
     from src.site_store import load_site_items
@@ -381,54 +453,36 @@ def cmd_reel_build(args, s: Settings):
     store = load_site_items()
 
     NL = chr(10)
+    # TikTok に載せるのは「今日まで（今日を含む）に ROOM リストへ出した商品」だけ。今日の分を優先する
+    pool = room_listed_items(history, store, today, s)
     picks: list[dict] = []
     gift = None
     theme_tag = "#楽天購入品"
-    if (os.environ.get("TIKTOK_MODE") or "gift").strip() != "ranking":
-        # ---- ギフト企画（TikTok 専用）: 誰に・予算いくら を日替わりで決めて楽天から7点 ----
-        from src.rakuten_client import RakutenClient
-        from src.tiktok_gift import budget_text, fetch_gift_items, pick_theme, save_gift_topic
-        gift = pick_theme()
-        try:
-            picks = fetch_gift_items(RakutenClient(s), gift, s, n=7)
-        except Exception as e:
-            print(f"  [warn] ギフト検索に失敗: {e}")
-            picks = []
-        if len(picks) >= 3:
-            slug = save_gift_topic(gift, picks)
-            print(f"[gift] {gift.get('event') or gift['who']} / 予算{budget_text(gift['budget'])} / {len(picks)}点 → 特集 topics/{slug}.html")
+    gift_codes = [h["item_code"] for h in history if h.get("tiktok_gift") and h.get("date", "")[:10] == today]
+    if gift_codes:
+        # ---- ギフト企画（TikTok 専用）: 朝に ROOM リストへ入れた7点 ----
+        from src.tiktok_gift import budget_text
+        slug = next(h["tiktok_gift"] for h in history if h.get("tiktok_gift") and h.get("date", "")[:10] == today)
+        gift = (load_topics().get(slug) or {}).get("theme")
+        by_code = {x["item_code"]: x for x in pool}
+        picks = [by_code[c] for c in dict.fromkeys(gift_codes) if c in by_code]
+        if gift and len(picks) >= 3:
+            print(f"[gift] {gift.get('event') or gift['who']} / 予算{budget_text(gift['budget'])} / {len(picks)}点（今日 ROOM に出した物）")
         else:
-            print(f"  [warn] ギフト企画の商品が足りないため、売れ筋に切り替えます（{len(picks)}点）")
-            gift = None
+            print(f"  [warn] ギフト企画の商品が足りないため、ROOM に出した売れ筋に切り替えます（{len(picks)}点）")
+            gift, picks = None, []
 
     event_topic = None
     if gift is None:
-        # ---- 従来: 今日X/ROOMに出した物 → 直近の特集の行事 → サイトの新着 ----
-        seen, cands = set(), []
-        def add(code, extra=None):
-            if not code or code in seen:
-                return
-            it = store.get(code)
-            if not it or not it.get("image_url"):
-                return
-            seen.add(code)
-            d = dict(it)
-            if extra:
-                d.update(extra)
-            cands.append(d)
-        for h in history:
-            if h.get("date", "")[:10] == today and (h.get("kind") or "product") in ("product", "room"):
-                add(h.get("item_code"))
+        # ---- ROOM に出した物から、レビューの強い順に店を散らして7点（今日の分が先）。行事の特集と3点以上重なれば行事タイトル ----
         for t in sorted(load_topics().values(), key=lambda x: x.get("start", "9999")):
             if t.get("kind") == "event" and t.get("start", "") >= today:
                 event_topic = t
-                for x in t["items"][:6]:
-                    if x.get("item_code") not in seen and x.get("image_url"):
-                        seen.add(x["item_code"]); cands.append(dict(x))
                 break
-        for it in sorted(store.values(), key=lambda x: x.get("last_seen", ""), reverse=True)[:40]:
-            add(it.get("item_code"))
-        cands.sort(key=lambda x: -(float(x.get("review_average", 0) or 0) * (int(x.get("review_count", 0) or 0) ** 0.5)))
+        event_codes = {x.get("item_code") for x in (event_topic or {}).get("items", [])}
+        def strength(x):
+            return float(x.get("review_average", 0) or 0) * (int(x.get("review_count", 0) or 0) ** 0.5)
+        cands = sorted(pool, key=lambda x: (x["listed"] != today, x["item_code"] not in event_codes, -strength(x)))
         shops = set()
         for it in cands:
             if it.get("shop_name") in shops:
@@ -437,8 +491,10 @@ def cmd_reel_build(args, s: Settings):
             picks.append(it)
             if len(picks) >= 7:
                 break
+        if sum(1 for x in picks if x["item_code"] in event_codes) < 3:
+            event_topic = None
     if len(picks) < 3:
-        print(f"スライド用の商品が足りません（{len(picks)}点）。")
+        print(f"スライド用の商品が足りません（ROOM に出した商品から {len(picks)}点）。")
         return
 
     # ---- タイトル（参考: 「＼予算2万円／ 特別な日にもらって嬉しかったギフト 7選」）----
@@ -448,7 +504,7 @@ def cmd_reel_build(args, s: Settings):
         title, theme_tag = f"{gift['title']}{NL}{n}選", " ".join(gift["tags"][:3])
     else:
         maxp = max(int(x["price"]) for x in picks)
-        budget = next(b for b in (3000, 5000, 10000, 20000, 30000, 50000, 100000) if maxp <= b)
+        budget = next((b for b in (3000, 5000, 10000, 20000, 30000, 50000) if maxp <= b), 100000)
         budget_txt = f"{budget // 10000}万円" if budget >= 10000 else f"{budget:,}円"
         if event_topic and event_topic.get("event_type") == "gift":
             title, theme_tag = f"{event_topic['title']}にもらって{NL}嬉しかった 人気ギフト{NL}{n}選", f"#{event_topic['title']}"
