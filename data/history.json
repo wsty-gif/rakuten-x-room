@@ -5639,7 +5639,8 @@
   "shop_name": "骨取り魚の飯田商店",
   "review_count": 37858,
   "review_average": 4.78,
-  "genre_id": "304578"
+  "genre_id": "304578",
+  "instagram_story_id": "18114137936025559"
  },
  {
   "date": "2026-10-07T07:01:47",
@@ -5935,5 +5936,153 @@
   "review_count": 6275,
   "review_average": 4.4,
   "genre_id": "564895"
+ },
+ {
+  "date": "2026-10-07T12:01:41",
+  "slot": "noon",
+  "theme": "お買い物マラソン（10月予想）（開催中） × 20代男性（ガジェット・一人暮らし）",
+  "persona": "20s_man",
+  "item_code": "officetrust:10000181",
+  "item_name": "コピー用紙 A4 5000枚(500枚×10冊)ペーパーワン（PAPER ONE） 高白色 カーボンニュートラル プロデジ高品質 保存箱仕様 PEFC認証 用紙",
+  "price": 3899,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00u1i9o.72d3y514.g00u1i9o.72d3z249/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fofficetrust%2F014000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fofficetrust%2Fi%2F10000181%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 2.0,
+  "text": "#PR セール中にまとめ買いしてる人が多いやつ\nコピー用紙 A4 5000枚 ペーパーワン\n★4.74・レビュー4,067件\n3,899円（P3倍で実質3,782円）\n#お買い物マラソン\n▶ROOMはプロフから",
+  "tweet_id": "2107667554290581918",
+  "threads_id": "18144293533586267",
+  "room_done": false,
+  "image": true,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/officetrust/cabinet/paper/paper01/014000_1n8.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/officetrust/cabinet/paper/paper01/014000_1n8.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/officetrust/cabinet/paper/paper01/014000_2.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/officetrust/cabinet/paper/paper01/014000_3.jpg?_ex=600x600"
+  ],
+  "shop_name": "オフィストラスト",
+  "review_count": 4067,
+  "review_average": 4.74,
+  "genre_id": "303145",
+  "instagram_id": "17883787332514181",
+  "instagram_story_id": "17973999587940561"
+ },
+ {
+  "date": "2026-10-07T12:01:41",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "お買い物マラソン（10月予想）（開催中） × 20代男性（ガジェット・一人暮らし）",
+  "persona": "20s_man",
+  "item_code": "mogoog:10000034",
+  "item_name": "【お買い物マラソン期間中P2倍】魅惑のきなこ大豆[405g](135g×3袋) ギフト 和菓子 お菓子 1000円ポッキリ送料無料 プレゼント きな粉 どこに売",
+  "price": 1000,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00trsto.72d3y782.g00trsto.72d3z4e4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmogoog%2Fknkdz-435%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmogoog%2Fi%2F10000034%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "お買い物マラソン中に狙いたい1つ。一人暮らしの部屋に1つあると便利。甘い風味で気分転換に、気軽なプレゼントに喜ばれます。タンパク質がたっぷりで、女性に嬉しいイソフラボンも満点。レビュー5,409件で★4.81。ポイント2倍で実質980円、送料無料。在庫が動きやすいので早めに。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/mogoog/cabinet/08301095/knkdz-3-01s.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/mogoog/cabinet/08301095/knkdz-3-01s.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/mogoog/cabinet/08301095/knkdz2026t1.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/mogoog/cabinet/08301095/knkdz2026t2.jpg?_ex=600x600"
+  ],
+  "shop_name": "もぐーぐ。",
+  "review_count": 5409,
+  "review_average": 4.81,
+  "genre_id": "112683"
+ },
+ {
+  "date": "2026-10-07T12:01:41",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "お買い物マラソン（10月予想）（開催中） × 20代男性（ガジェット・一人暮らし）",
+  "persona": "20s_man",
+  "item_code": "limited2nd:10003187",
+  "item_name": "スウェット プルオーバー パーカー メンズ 裏起毛 無地 スエット パーカ くすみカラー ニュアンスカラー 秋 冬 長袖 3Lサイズ追加 【RQ-326】 送料",
+  "price": 1698,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qo6wo.72d3y95a.g00qo6wo.72d3z841/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flimited2nd%2Frq-318-mpk%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flimited2nd%2Fi%2F10003187%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "お買い物マラソン中に狙いたい1つ。レビューを見て買う人が多いやつ。ご要望の多かった3Lサイズを新たに追加。柔らかな肌触りでとても暖かな裏起毛スウェット素材を使用したプルオーバーパーカです。レビュー348件で★4.36。送料無料。在庫が動きやすいので早めに。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/limited2nd/cabinet/top/rq-326.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/limited2nd/cabinet/top/rq-326.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/limited2nd/cabinet/img34/rq326-2025-s1.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/limited2nd/cabinet/img34/rq326-2025-s2.jpg?_ex=600x600"
+  ],
+  "shop_name": "LIMITED 2ND",
+  "review_count": 348,
+  "review_average": 4.36,
+  "genre_id": "502530"
+ },
+ {
+  "date": "2026-10-07T12:01:41",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "お買い物マラソン（10月予想）（開催中） × 20代男性（ガジェット・一人暮らし）",
+  "persona": "20s_man",
+  "item_code": "anker:10000963",
+  "item_name": "【期間限定セール実施中 10/9まで】Anker PowerLine III Flow USB-C & USB-C ケーブル / USB-C & ライトニングケ",
+  "price": 1290,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rr09o.72d3y980.g00rr09o.72d3z79c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa855%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10000963%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 2.0,
+  "text": "お買い物マラソン中に狙いたい1つ。一人暮らしの部屋に1つあると便利。肌に優しい使い心地をお楽しみいただけます。巻いたりまとめたりしても癖がつきにくいため、いつでもスマートにご使用いただけます。レビュー2,878件で★4.72。10/9まで。在庫が動きやすいので早めに。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/deal/202610m1/a855_sale.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/deal/202610m1/a855_sale.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/store-design/common/common_soy.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_gold/anker/for_create_new_product/cable/A855/A855_1.jpg?_ex=600x600"
+  ],
+  "shop_name": "アンカー・ダイレクト楽天市場店",
+  "review_count": 2878,
+  "review_average": 4.72,
+  "genre_id": "564278"
+ },
+ {
+  "date": "2026-10-07T12:01:41",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "お買い物マラソン（10月予想）（開催中） × 20代男性（ガジェット・一人暮らし）",
+  "persona": "20s_man",
+  "item_code": "nicoselection:10000211",
+  "item_name": "【9日まで限定480円OFFクーポン利用で2,000円〜】ランキング入賞370冠 充電不要 どこでも吸着 スマホスタンド マグネット 車載ホルダー スマホホルダ",
+  "price": 2480,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00ul72o.72d3yf4a.g00ul72o.72d3za67/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnicoselection%2Fmid-2025019%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnicoselection%2Fi%2F10000211%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 2.0,
+  "text": "お買い物マラソン中に狙いたい1つ。レビューを見て買う人が多いやつ。運転中でも片手で簡単に角度を変えられ、ナビ画面の切り替えや動画視聴も快適に行えます。ついにワイヤレス充電可能タイプ登場。レビュー6,083件で★4.46。9日まで。在庫が動きやすいので早めに。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/nicoselection/cabinet/imgrc0088543093.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/nicoselection/cabinet/imgrc0088543093.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/nicoselection/cabinet/imgrc0102007094.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/nicoselection/cabinet/imgrc0096139948.jpg?_ex=600x600"
+  ],
+  "shop_name": "nicoselection",
+  "review_count": 6083,
+  "review_average": 4.46,
+  "genre_id": "560283"
+ },
+ {
+  "date": "2026-10-07T12:01:41",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "お買い物マラソン（10月予想）（開催中） × 20代男性（ガジェット・一人暮らし）",
+  "persona": "20s_man",
+  "item_code": "besthouse:10000067",
+  "item_name": "楽天1位【 2本目半額クーポン】iphone 充電 ケーブル iphone 充電器 typec ケーブルライトニング ケーブル iphone 充電コード Lig",
+  "price": 1000,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00u6bro.72d3yd21.g00u6bro.72d3zfea/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbesthouse%2Fot-c%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbesthouse%2Fi%2F10000067%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 2.0,
+  "text": "お買い物マラソン中に狙いたい1つ。一人暮らしの部屋に1つあると便利。楽天ランキング1位、レビュー11,952件で★4.61。半額。在庫が動きやすいので早めに。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/besthouse/cabinet/10078867/10473986/imgrc0126968445.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/besthouse/cabinet/10078867/10473986/imgrc0126968445.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/besthouse/cabinet/10268761/20231112b.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/besthouse/cabinet/10268761/imgrc0131771330.jpg?_ex=600x600"
+  ],
+  "shop_name": "OKUTA ダイレクト楽天市場店",
+  "review_count": 11952,
+  "review_average": 4.61,
+  "genre_id": "564278"
  }
 ]

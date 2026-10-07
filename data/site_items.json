@@ -2559,6 +2559,13 @@
     "theme": "楽天スーパーSALE（9月）（開催中） × 20代男性（ガジェット・一人暮らし）",
     "persona": "20s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-10-07",
+    "slot": "noon",
+    "theme": "お買い物マラソン（10月予想）（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "shirtshouse:10000321",
@@ -2568,16 +2575,22 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00qvfko.72d3y442.g00qvfko.72d3z09f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshirtshouse%2Fat101%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/shirtshouse/cabinet/syouhin8/at101-2-test11.jpg?_ex=600x600",
   "shop_name": "アトリエ365 -ワイシャツ＆通勤服-",
-  "review_count": 12587,
+  "review_count": 12602,
   "review_average": 4.32,
   "affiliate_rate": 4.0,
-  "point_rate": 5,
+  "point_rate": 1,
   "catchcopy": "年間ランキング受賞 5枚 SET ワイシャツ yシャツ カッターシャツ ノンアイロン ストレッチ ニットシャツ 長袖 メンズ 大きいサイズ 就活 ノーアイロン 3L 4L 5L ct01 ct03 ct04 父の日",
   "genre_id": "206363",
-  "score": 18.46,
-  "last_seen": "2026-09-06T16:19:14",
+  "score": 17.36,
+  "last_seen": "2026-10-07T12:01:41",
   "posted_text": "#PR コスパで選ぶなら結論これ\nワイシャツ 長袖 メンズ 5枚 セット\n★4.32・レビュー12,587件\n7,640円（P5倍で実質7,258円）\n#楽天購入品 #ガジェット\n▶ROOMはプロフから",
-  "posted_at": "2026-09-06T16:19:14"
+  "posted_at": "2026-09-06T16:19:14",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/shirtshouse/cabinet/syouhin8/at101-2-test11.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/shirtshouse/cabinet/syouhin/at101/at101-24ss-2.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/shirtshouse/cabinet/syouhin/at101/at101-24ss-3-2.jpg?_ex=600x600"
+  ],
+  "caption": "商品説明 型番 at101 特徴 ワイシャツランキング連続No,1取得 レビュー件数11,000件以上! 販売総数118万枚以上！ ビジネスマンの為のワイシャツ1週間セットです。 月曜から金曜まで、ワイシャツの ビジネスコーディネートで迷わないように、 合わせやすい形と、色、柄を考えて組み合わせ。 当店最強のワイシャツローテーションとなります。 ワイシャツの改良には、常にお客様の声を反映。 毎日のアイロン掛けが大変というお声から、 ノーアイロン仕様に。 着心地が固いというお声から、ストレッチ仕様に。 衿裏の汚れが気になるというお声から、 衿裏をデザイン生地に変更 生地の素材、襟、袖元のデザイン等は年に数回改良。 サイズのフィット感に関しても微調整を継続しています。 このノーアイロンストレッチワイシャツ5枚組は、基本的に、合わせやすい スタンダードな定番デザインで構成されていますが、 一部流行も取り入れるスタイルとなっているため、 リピートするお客様が多くいらっしゃいます。 発売からすでに118万枚を販売！ とにかく実績ありの、自慢のワイシャツです。 素材 ポリエステル100% デザイン 5枚セット×5種類※モニターの発色の具合によって実際のものと色が異なる場合がございます。※編み柄によりストレッチ性には差があります サイズ ノーマルモデル S/M/L/LL/3L/4L/5L ポケット あり カフス カフスボタン非対応 伸縮性/ストレッチ 程よい伸縮あり アイロン不要 ノーアイロン仕様 備考 楽天メンズファッションの中で年間ランキング上位の人気商品です。 生産国 ミャンマー※商品・生産時期により異なる場合がございます。 キーワード ・製品: ワイシャツ ノーアイロン Yシャツ カッターシャツ ビジネスシャツ ・セット数: 5枚 ・袖丈: 長袖 長袖シャツ ・性別: メンズ 紳"
  },
  "r-aoki:10000523": {
   "first_seen": "2026-09-06T16:19:14",
@@ -6133,10 +6146,17 @@
     "theme": "今売れている物 × 20代男性（ガジェット・一人暮らし）",
     "persona": "20s_man",
     "event_type": "baseline"
+   },
+   {
+    "date": "2026-10-07",
+    "slot": "noon",
+    "theme": "お買い物マラソン（10月予想）（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "lucida:10030018",
-  "name": "Dickies 874 ディッキーズ オリジナル ワークパンツ チノパン レングス 29/30/32 ウエスト28-36 パンツ ズボン メンズ 大きいサイズ 作業着 DICKIES ボトム ボトムス ボトムズ ズボン 父の日 バレンタイン",
+  "name": "＼店内、マラソンSALE開催中／ Dickies 874 ディッキーズ オリジナル ワークパンツ チノパン レングス 29/30/32 ウエスト28-36 パンツ ズボン メンズ 大きいサイズ 作業着 DICKIES ボトム ボトムス ボトムズ ズボン 父の日 バレンタイン",
   "price": 4999,
   "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rivvo.72d3yf20.g00rivvo.72d3zdc5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flucida%2Fdik-9%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flucida%2Fi%2F10030018%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00rivvo.72d3yf20.g00rivvo.72d3zdc5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flucida%2Fdik-9%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
@@ -6148,8 +6168,8 @@
   "point_rate": 1,
   "catchcopy": "Dickies ディッキーズ 874 ズボン メンズ 大きいサイズ おしゃれ ファッション アメカジ カジュアル 長ズボン 作業着 作業服 Original Work Pant MENS",
   "genre_id": "558846",
-  "score": 14.8,
-  "last_seen": "2026-09-29T20:16:27",
+  "score": 15.7,
+  "last_seen": "2026-10-07T12:01:41",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/lucida/cabinet/allsingle2024_3/dik-9rak.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/lucida/cabinet/upsix202305-02/dik-9_1.jpg?_ex=600x600",
@@ -10878,6 +10898,13 @@
     "theme": "お買い物マラソン（10月予想）（開催中） × 20代男性（ガジェット・一人暮らし）",
     "persona": "20s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-10-07",
+    "slot": "noon",
+    "theme": "お買い物マラソン（10月予想）（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "keitai:10814347",
@@ -10894,7 +10921,7 @@
   "catchcopy": "iFace 傷に強い 強化ガラス 耐衝撃 クリアケース 背面で遊べる ストラップホール付 iPhone18Pro iPhone18ProMax iPhone17 iPhone17e iPhone17Pro iPhone17ProMax iPhone16 iPhone15",
   "genre_id": "560271",
   "score": 15.1,
-  "last_seen": "2026-10-06T20:16:41",
+  "last_seen": "2026-10-07T12:01:41",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/keitai/cabinet/event/img/2025/41-979_cpn2506.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/keitai/cabinet/item/41_12/41-979_1.jpg?_ex=600x600",
@@ -12389,6 +12416,13 @@
     "theme": "お買い物マラソン（10月予想）（開催中） × 20代男性（ガジェット・一人暮らし）",
     "persona": "20s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-10-07",
+    "slot": "noon",
+    "theme": "お買い物マラソン（10月予想）（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "anker:10001908",
@@ -12405,7 +12439,7 @@
   "catchcopy": "Power Bank モバイルバッテリー 10000mAh 最大22.5W出力 USB-C & USB-C ケーブル付属 ディスプレイ搭載 USB PD PowerIQ搭載 PSE技術基準適合 iPhone 15 Android iPad その他各種機器 防災",
   "genre_id": "564277",
   "score": 15.37,
-  "last_seen": "2026-10-06T20:16:41",
+  "last_seen": "2026-10-07T12:01:41",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/tmb/a1/a1257_normal.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/images/09779934/a1257011_2.jpg?_ex=600x600",
@@ -14304,6 +14338,13 @@
     "theme": "お買い物マラソン（10月予想）（開催中） × 20代男性（ガジェット・一人暮らし）",
     "persona": "20s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-10-07",
+    "slot": "noon",
+    "theme": "お買い物マラソン（10月予想）（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "nippon-shinyaku-shop:10000215",
@@ -14320,7 +14361,7 @@
   "catchcopy": "WINZONE WHEY PROTEIN驚きの溶けやすさ！”創立107年の力”製薬会社発で満足度90%以上 ストロベリー バナナ 抹茶 チョコ マンゴー パイン バニラ ミルクティー カフェオレ",
   "genre_id": "567617",
   "score": 14.83,
-  "last_seen": "2026-10-06T20:16:41",
+  "last_seen": "2026-10-07T12:01:41",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/nippon-shinyaku-shop/cabinet/cf/12340474/4510e_260917.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/nippon-shinyaku-shop/cabinet/cf/cf_banner/261004_4510e-otoku.jpg?_ex=600x600",
@@ -16291,6 +16332,13 @@
     "theme": "お買い物マラソン（10月予想）（開催中） × 20代男性（ガジェット・一人暮らし）",
     "persona": "20s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-10-07",
+    "slot": "noon",
+    "theme": "お買い物マラソン（10月予想）（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "shizuka-will-:10000416",
@@ -16307,7 +16355,7 @@
   "catchcopy": "365日製品保証 枠をセットしてフィルムを置いて簡単貼り付け ! 累計300万枚販売の iPhone18pro ガラスフィルム iPhone18proMax iPhone 18 17 17e 16e 16 15 promax 保護フィルム 液晶保護",
   "genre_id": "560278",
   "score": 15.42,
-  "last_seen": "2026-10-06T20:16:41",
+  "last_seen": "2026-10-07T12:01:41",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/shizuka-will-/cabinet/top/iphone01_10off/ip8gl_01.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/shizuka-will-/cabinet/09171238/09171239/09179913/imgrc0118090396.jpg?_ex=600x600",
@@ -18557,6 +18605,13 @@
     "theme": "お買い物マラソン（10月予想）（開催中） × 20代男性（ガジェット・一人暮らし）",
     "persona": "20s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-10-07",
+    "slot": "noon",
+    "theme": "お買い物マラソン（10月予想）（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "realstyle4u:10002388",
@@ -18573,7 +18628,7 @@
   "catchcopy": "プロテイン おいしい ホエイプロテイン 粉 粉末 ダイエット トレーニング 置き換え 筋トレ 飲みやすい 溶けやすい 部活 ジュニア向け 美容サポート 美味しい",
   "genre_id": "567617",
   "score": 15.75,
-  "last_seen": "2026-10-06T20:16:41",
+  "last_seen": "2026-10-07T12:01:41",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/realstyle4u/cabinet/shouhin/blp-s_line.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/realstyle4u/cabinet/supplement/wpc/05769275/imgrc0093974192.jpg?_ex=600x600",
@@ -18587,6 +18642,13 @@
    {
     "date": "2026-10-06",
     "slot": "night",
+    "theme": "お買い物マラソン（10月予想）（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "sale"
+   },
+   {
+    "date": "2026-10-07",
+    "slot": "noon",
     "theme": "お買い物マラソン（10月予想）（開催中） × 20代男性（ガジェット・一人暮らし）",
     "persona": "20s_man",
     "event_type": "sale"
@@ -18606,7 +18668,7 @@
   "catchcopy": "【レビューで次回のSDカード500円OFF】【SDカード 128GBセット】スマホの容量不足で悩むママへ。子供の思い出を消さなくてOK！専用アプリ不要でiPhone6s~18対応。1年保証＆日本語取説付。",
   "genre_id": "408453",
   "score": 15.26,
-  "last_seen": "2026-10-06T20:16:41",
+  "last_seen": "2026-10-07T12:01:41",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/starfocus/cabinet/sm/rakuten_sale/ifd-128/ifd-128_020off.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/starfocus/cabinet/sp/s-cardreader/cardreader_slide-02-.jpg?_ex=600x600",
@@ -18620,6 +18682,13 @@
    {
     "date": "2026-10-06",
     "slot": "night",
+    "theme": "お買い物マラソン（10月予想）（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "sale"
+   },
+   {
+    "date": "2026-10-07",
+    "slot": "noon",
     "theme": "お買い物マラソン（10月予想）（開催中） × 20代男性（ガジェット・一人暮らし）",
     "persona": "20s_man",
     "event_type": "sale"
@@ -18639,7 +18708,7 @@
   "catchcopy": "綿100%だから長持ちで肌触りが良く、天然素材で敏感肌にもオススメ。10オンスの適度な厚み。スウェットパンツ スウェット メンズ レディース",
   "genre_id": "558846",
   "score": 14.99,
-  "last_seen": "2026-10-06T20:16:41",
+  "last_seen": "2026-10-07T12:01:41",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/vanilla-vague/cabinet/images/thumb02/ladpants030-001.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_gold/vanilla-vague/images/thumb/henpin-thum740.jpg?_ex=600x600",
@@ -18653,6 +18722,13 @@
    {
     "date": "2026-10-06",
     "slot": "night",
+    "theme": "お買い物マラソン（10月予想）（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "sale"
+   },
+   {
+    "date": "2026-10-07",
+    "slot": "noon",
     "theme": "お買い物マラソン（10月予想）（開催中） × 20代男性（ガジェット・一人暮らし）",
     "persona": "20s_man",
     "event_type": "sale"
@@ -18672,7 +18748,7 @@
   "catchcopy": "",
   "genre_id": "211492",
   "score": 14.96,
-  "last_seen": "2026-10-06T20:16:41",
+  "last_seen": "2026-10-07T12:01:41",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/hikaritv/cabinet/plala/171/00000/1710000097_k.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/hikaritv/cabinet/plala/171/00000/1710000097_d_01.jpg?_ex=600x600",
@@ -18877,5 +18953,73 @@
    "https://thumbnail.image.rakuten.co.jp/@0_mall/sanwa-junkei/cabinet/12651688/imgrc0122597562.jpg?_ex=600x600"
   ],
   "caption": "名古屋コーチンのコクと旨味が詰まった、ふっくら柔らか食感がこだわりのつくね 名古屋コーチンを使用した、ふっくらジューシーな加熱調理済みつくねです。 鍋やスープに入れると鶏のだしが出ておいしさアップ！ 焼いたり電子レンジ調理でそのまま食べてもおいしい万能つくねです。 ・使いやすい加熱調理済み 火の通りの心配が要らない加熱調理済みです。 温めるだけでお召し上がりいただけます。 ・味付け済みで手軽に使える 味が付いているので、温めてそのままお弁当のおかずやおつまみにもぴったり！ ・名古屋コーチンを使用 名古屋コーチン入りで、鶏のコクと旨味を感じられます。 他のつくねとはひと味違うおいしさです。 ・通販限定の大容量 1キロサイズの大容量は通販限定です。 毎日様々な料理にたっぷりお使いいただけます。 商品名 三和の純鶏名古屋コーチン入りつくね 内容量 三和の純鶏名古屋コーチン入りつくね＝1kg、2kg 三和の純鶏名古屋コーチン入り鶏つくね野菜和え（銀あん柚子仕立て・金胡麻仕立て）＝180g 原材料名 ＜三和の純鶏名古屋コーチン入りつくね＞ 鶏肉(国産)、鶏皮(国産)、玉ねぎ(国産)、鶏こにく、パン粉、粒状大豆たん白、脱脂粉乳、馬鈴薯でん粉、砂糖、還元水あめ、食塩、揚げ油(植物油脂)、チキンブイヨン、しょうがパウダー/調味料(アミノ酸等)、トレハロース、カゼインNa、ターメリック色素、(一部に小麦・乳成分・大豆・鶏肉を含む) ＜鶏つくね野菜和え 銀あん柚子仕立て＞ 鶏つくね〔鶏肉（国産）、鶏皮（国産）、玉ねぎ、鶏こにく、その他〕（国内製造）、調味液（醤油、異性化液糖、かつお節エキス、かつおだし、その他）、れんこん（ベトナム産）、たけのこ、きぬさや、柚子果皮（国産）/増粘剤（加工でんぷん）、調味料（アミノ酸等）、トレハロース、香料、カゼインNa、酸味料、ターメリック色素、（一部に小麦・乳"
+ },
+ "officetrust:10000181": {
+  "first_seen": "2026-10-07T12:01:41",
+  "themes": [
+   {
+    "date": "2026-10-07",
+    "slot": "noon",
+    "theme": "お買い物マラソン（10月予想）（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "officetrust:10000181",
+  "name": "コピー用紙 A4 5000枚(500枚×10冊)ペーパーワン（PAPER ONE） 高白色 カーボンニュートラル プロデジ高品質 保存箱仕様 PEFC認証 用紙 OA用紙 印刷用紙 無地《商品到着後、レビュー書いて次回使えるクーポンプレゼント》『送料無料（一部地域除く）』",
+  "price": 3899,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00u1i9o.72d3y514.g00u1i9o.72d3z249/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fofficetrust%2F014000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fofficetrust%2Fi%2F10000181%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00u1i9o.72d3y514.g00u1i9o.72d3z249/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fofficetrust%2F014000%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/officetrust/cabinet/paper/paper01/014000_1n8.jpg?_ex=600x600",
+  "shop_name": "オフィストラスト",
+  "review_count": 4067,
+  "review_average": 4.74,
+  "affiliate_rate": 2.0,
+  "point_rate": 3,
+  "catchcopy": "『お届け先の氏名に必ず法人名を記載ください』高速及び大量コピー用に設計された高品質コピー用紙。",
+  "genre_id": "303145",
+  "score": 18.58,
+  "last_seen": "2026-10-07T12:01:41",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/officetrust/cabinet/paper/paper01/014000_1n8.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/officetrust/cabinet/paper/paper01/014000_2.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/officetrust/cabinet/paper/paper01/014000_3.jpg?_ex=600x600"
+  ],
+  "caption": "【必ずお読みください】お届け先の氏名に必ず法人名・屋号を記載ください。なお個人のお客様でもお届け先の氏名が法人名であればご注文いただけます。誤ってお届け先の氏名を個人名でご注文いただいた場合は、キャンセルさせていただきますのでご了承ください。ペーパーワンは、世界的にも認知度の高いPEFC認証材を原料として生産されています。PEFC(Programme for the Endorsement of Forest Certification)とは、国際的な森林認証制度です。メーカーであるAPRIL社は、持続可能な森林管理プログラム(Ver-2.0)の環境方針に基づいて森林管理を行っています。ペーパーワンが選ばれる理由「ProDigi技術の特徴」●鮮やかな色ProDigi(TM) HD 印刷技術では色の鮮やかさを約34％向上させ、シャープなインク使用をするため、他の用紙に比べてインクが定着しやすくなります。(メーカー調べ)●はっきりとした線ProDigi(TM) HD 印刷技術では、インクのにじみを最大23％削減し、文字や画像をシャープに、線の凹凸を少なく再現できます。その結果、黒色は約17％濃く映えます。(メーカー調べ)●インクの速乾性ProDigi(TM) HD 印刷技術により、インクの速乾性に優れているため、印刷後のインクの乾きが早く、印刷文字などのインクの滲みを回避できます。●インクの消費を節約ProDigi(TM) HD 印刷技術では、インクの使用量を約18％削減します。(メーカー調べ)■商品詳細メーカー名：APRILシリーズ名：ペーパーワンサイズ：A4坪量：67g/平方メートル白色度：92％紙厚：約90μm※PCEF認証、ProDigi技術を採用購入単位：1箱（500枚×10冊）配送種別：在庫品※リニューアルに伴いパッケージや商品名等が予告なく変更される場合がございま",
+  "posted_text": "#PR セール中にまとめ買いしてる人が多いやつ\nコピー用紙 A4 5000枚 ペーパーワン\n★4.74・レビュー4,067件\n3,899円（P3倍で実質3,782円）\n#お買い物マラソン\n▶ROOMはプロフから",
+  "posted_at": "2026-10-07T12:01:41"
+ },
+ "anker:10000963": {
+  "first_seen": "2026-10-07T12:01:41",
+  "themes": [
+   {
+    "date": "2026-10-07",
+    "slot": "noon",
+    "theme": "お買い物マラソン（10月予想）（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "anker:10000963",
+  "name": "【期間限定セール実施中 10/9まで】Anker PowerLine III Flow USB-C & USB-C ケーブル / USB-C & ライトニングケーブル Anker絡まないケーブル 結束バンド付き USB PD対応 シリコン素材採用 iPhone Galaxy iPad Pro MacBook Pro/Air 各種対応 0.9m/1.8m",
+  "price": 1290,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rr09o.72d3y980.g00rr09o.72d3z79c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa855%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10000963%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00rr09o.72d3y980.g00rr09o.72d3z79c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa855%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/deal/202610m1/a855_sale.jpg?_ex=600x600",
+  "shop_name": "アンカー・ダイレクト楽天市場店",
+  "review_count": 2878,
+  "review_average": 4.72,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "最大24ヶ月保証",
+  "genre_id": "564278",
+  "score": 14.8,
+  "last_seen": "2026-10-07T12:01:41",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/deal/202610m1/a855_sale.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/store-design/common/common_soy.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_gold/anker/for_create_new_product/cable/A855/A855_1.jpg?_ex=600x600"
+  ],
+  "caption": "Anker PowerLine III Flow USBケーブル シリコン素材の採用により高耐久ながらも、絡まらないやわらかさを実現したUSBケーブル かつてない柔軟性 ケーブル内部の銅線をグラフェンで覆い、外装にシリコン素材を使用した3層構造を採用し、従来のケーブルにはないやわらかさを実現しました。肌に優しい使い心地をお楽しみいただけます。 絡まず、ストレスフリー 束ねてバッグやポケットに入れたり、モバイルバッテリー等の携帯用充電器に巻き付けて持ち運んだりしても絡みにくく、出し入れもスムーズです。巻いたりまとめたりしても癖がつきにくいため、いつでもスマートにご使用いただけます。 優れた耐久性 約25,000回の折り曲げにも耐える優れた耐久性を実現しているため、ケーブル内部のワイヤーを断線から保護し、安心して充電することができます。 豊富なカラーバリエーション Anker PowerLine FlowケーブルはUSB-C & USB-C ケーブル7種類 / ライトニングケーブル8種類のカラーバリエーションを取り揃えています。お好みのカラーをお選びください。 急速充電 ノートPCやタブレット端末、スマートフォン等に急速充電が可能です。 ※充電器は別売りです。 ※USB-C & USB-C ケーブルは最大240W出力、USB-C & ライトニング ケーブルは最大18W出力に対応しています。 幅広い対応機種 Anker PowerLine III Flow USB-C & USB-C ケーブルは、USB Power Delivery対応ノートPCやタブレット端末、スマートフォン等の幅広い機器に利用できます。※一部フルスピードの充電ができない機器もあります。 対応機種（USB-C & USB-Cケーブル） ・急速充電対応 ノートPC MacBook Pro (M1、2020)/Ma"
  }
 }

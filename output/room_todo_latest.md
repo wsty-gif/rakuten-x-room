@@ -77,3 +77,40 @@
    - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00s4g9o.72d3y538.g00s4g9o.72d3z08c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frainbowshoji%2Fq9pro%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frainbowshoji%2Fi%2F10002227%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
    - コメント: お母さんへのプレゼント候補。予算1万円以内で、レビューの良い物から選びました。レビュー6,275件で★4.4。3,690円。
 
+## 12:01 お買い物マラソン（10月予想）（開催中） × 20代男性（ガジェット・一人暮らし）
+
+1. **コピー用紙 A4 5000枚(500枚×10冊)ペーパーワン（PAPER ONE） 高白色 カーボンニュートラル プロデ**
+   - 価格: 3,899円 / ★4.74（4,067件） / 料率 2.0% / P3倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00u1i9o.72d3y514.g00u1i9o.72d3z249/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fofficetrust%2F014000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fofficetrust%2Fi%2F10000181%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: お買い物マラソン中に狙いたい1つ。コスパで選ぶならこれ。ペーパーワンは、世界的にも認知度の高いPEFC認証材を原料として生産されています。レビュー4,067件で★4.74。ポイント3倍で実質3,782円、送料無料。配送日も一緒に確認を。
+
+2. **【お買い物マラソン期間中P2倍】魅惑のきなこ大豆[405g](135g×3袋) ギフト 和菓子 お菓子 1000円ポッキ**
+   - 価格: 1,000円 / ★4.81（5,409件） / 料率 4.0% / P2倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00trsto.72d3y782.g00trsto.72d3z4e4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmogoog%2Fknkdz-435%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmogoog%2Fi%2F10000034%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: お買い物マラソン中に狙いたい1つ。一人暮らしの部屋に1つあると便利。甘い風味で気分転換に、気軽なプレゼントに喜ばれます。タンパク質がたっぷりで、女性に嬉しいイソフラボンも満点。レビュー5,409件で★4.81。ポイント2倍で実質980円、送料無料。在庫が動きやすいので早めに。
+
+3. **スウェット プルオーバー パーカー メンズ 裏起毛 無地 スエット パーカ くすみカラー ニュアンスカラー 秋 冬 長袖**
+   - 価格: 1,698円 / ★4.36（348件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qo6wo.72d3y95a.g00qo6wo.72d3z841/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flimited2nd%2Frq-318-mpk%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flimited2nd%2Fi%2F10003187%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: お買い物マラソン中に狙いたい1つ。レビューを見て買う人が多いやつ。ご要望の多かった3Lサイズを新たに追加。柔らかな肌触りでとても暖かな裏起毛スウェット素材を使用したプルオーバーパーカです。レビュー348件で★4.36。送料無料。在庫が動きやすいので早めに。
+
+4. **【期間限定セール実施中 10/9まで】Anker PowerLine III Flow USB-C & USB-C ケー**
+   - 価格: 1,290円 / ★4.72（2,878件） / 料率 2.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00rr09o.72d3y980.g00rr09o.72d3z79c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa855%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10000963%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: お買い物マラソン中に狙いたい1つ。一人暮らしの部屋に1つあると便利。肌に優しい使い心地をお楽しみいただけます。巻いたりまとめたりしても癖がつきにくいため、いつでもスマートにご使用いただけます。レビュー2,878件で★4.72。10/9まで。在庫が動きやすいので早めに。
+
+5. **【9日まで限定480円OFFクーポン利用で2,000円〜】ランキング入賞370冠 充電不要 どこでも吸着 スマホスタンド**
+   - 価格: 2,480円 / ★4.46（6,083件） / 料率 2.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00ul72o.72d3yf4a.g00ul72o.72d3za67/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnicoselection%2Fmid-2025019%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnicoselection%2Fi%2F10000211%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: お買い物マラソン中に狙いたい1つ。レビューを見て買う人が多いやつ。運転中でも片手で簡単に角度を変えられ、ナビ画面の切り替えや動画視聴も快適に行えます。ついにワイヤレス充電可能タイプ登場。レビュー6,083件で★4.46。9日まで。在庫が動きやすいので早めに。
+
+6. **楽天1位【 2本目半額クーポン】iphone 充電 ケーブル iphone 充電器 typec ケーブルライトニング ケ**
+   - 価格: 1,000円 / ★4.61（11,952件） / 料率 2.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00u6bro.72d3yd21.g00u6bro.72d3zfea/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbesthouse%2Fot-c%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbesthouse%2Fi%2F10000067%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: お買い物マラソン中に狙いたい1つ。一人暮らしの部屋に1つあると便利。楽天ランキング1位、レビュー11,952件で★4.61。半額。在庫が動きやすいので早めに。
+
+### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
+
+- **お買い物マラソンで買うもの**: コピー用紙 A4 5000枚 ペーパーワン / 魅惑のきなこ大豆 ギフト 和菓子 お菓子 / スウェット プルオーバー パーカー メンズ / Anker III Flow USB-C / ランキング入賞370冠 充電不要 / 楽天1位 iphone 充電 ケーブル
+- **20代男性のリピート候補**: コピー用紙 A4 5000枚 ペーパーワン / 魅惑のきなこ大豆 ギフト 和菓子 お菓子 / スウェット プルオーバー パーカー メンズ / Anker III Flow USB-C / ランキング入賞370冠 充電不要 / 楽天1位 iphone 充電 ケーブル
+
