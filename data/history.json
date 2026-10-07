@@ -6084,5 +6084,16 @@
   "review_count": 11952,
   "review_average": 4.61,
   "genre_id": "564278"
+ },
+ {
+  "date": "2026-10-07T18:31:35",
+  "slot": "evening",
+  "kind": "engage",
+  "engage_key": "poll4",
+  "theme": "反応投稿（poll）",
+  "persona": "all",
+  "text": "【お買い物マラソン 開催中】\n楽天で「リピート買い」してるものある？",
+  "tweet_id": "2107765683027362126",
+  "threads_id": "18498371284097922"
  }
 ]
