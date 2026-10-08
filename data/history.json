@@ -6721,5 +6721,16 @@
   "review_count": 2377,
   "review_average": 4.42,
   "genre_id": "501915"
+ },
+ {
+  "date": "2026-10-08T18:31:27",
+  "slot": "evening",
+  "kind": "engage",
+  "engage_key": "tip4",
+  "theme": "反応投稿（tip）",
+  "persona": "all",
+  "text": "【楽天の小ネタ】\n商品名に「訳あり」とある食品は、味は同じで形やサイズが不揃いなだけのことが多いです。\n家で食べる分なら狙い目です。",
+  "tweet_id": "2108128040220086703",
+  "threads_id": "18174416515456598"
  }
 ]
