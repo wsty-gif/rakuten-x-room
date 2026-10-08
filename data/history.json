@@ -6122,7 +6122,7 @@
   "review_average": 4.74,
   "genre_id": "212377",
   "instagram_id": "18411884455087805",
-  "instagram_story_error": "Instagram 公開失敗 400: {\"error\":{\"message\":\"The requested resource does not exist\",\"type\":\"OAuthException\",\"code\":24,\"error_subcode\":2207006,\"is_transient\":false,\"error_user_title\":\"Media Not Found\",\"err"
+  "instagram_story_id": "18109552067176595"
  },
  {
   "date": "2026-10-07T20:16:19",
@@ -6276,7 +6276,8 @@
   "shop_name": "骨取り魚の飯田商店",
   "review_count": 5525,
   "review_average": 4.8,
-  "genre_id": "207774"
+  "genre_id": "207774",
+  "instagram_story_id": "17959627311228031"
  },
  {
   "date": "2026-10-08T07:01:46",
@@ -6572,5 +6573,153 @@
   "review_count": 497,
   "review_average": 4.63,
   "genre_id": "410732"
+ },
+ {
+  "date": "2026-10-08T12:01:40",
+  "slot": "noon",
+  "theme": "お買い物マラソン（10月予想）（開催中） × 30代男性（健康・効率化・家電）",
+  "persona": "30s_man",
+  "item_code": "canpanera:10000145",
+  "item_name": "日本野鳥の会 バードウォッチング長靴 メンズ レディース 雨靴 野鳥の会 レインブーツ 収納袋付き 完全防水 軽量 収納 折り畳み 滑りにくい ロング WBSJ",
+  "price": 6880,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00r4jvo.72d3ydbb.g00r4jvo.72d3z68b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcanpanera%2Fn05001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcanpanera%2Fi%2F10000145%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "#PR セール価格は期間中だけ。迷うなら今\n日本野鳥の会 バードウォッチング長靴 メンズ\n★4.58・レビュー10,230件\n6,880円（P11倍で実質6,123円）\n#お買い物マラソン\n▶ROOMはプロフから",
+  "tweet_id": "2108029932211159433",
+  "threads_id": "18129369910833825",
+  "room_done": false,
+  "image": true,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/canpanera/cabinet/item154/item_n05001_0.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/canpanera/cabinet/item154/item_n05001_0.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/canpanera/cabinet/item153/item_n05001_3.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/canpanera/cabinet/item153/item_n05001_4.jpg?_ex=600x600"
+  ],
+  "shop_name": "OutdoorStyle サンデーマウンテン",
+  "review_count": 10230,
+  "review_average": 4.58,
+  "genre_id": "302384",
+  "instagram_id": "18486406048105273",
+  "instagram_story_id": "18123500110748912"
+ },
+ {
+  "date": "2026-10-08T12:01:40",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "お買い物マラソン（10月予想）（開催中） × 30代男性（健康・効率化・家電）",
+  "persona": "30s_man",
+  "item_code": "e-kurashi:10001337",
+  "item_name": "【P20倍 10/9 9:59迄】 ホットカーペット フローリング調 1畳 1.5畳 2畳 3畳 ホットカーペット本体 電気カーペット YZD-101FL YZ",
+  "price": 12800,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pui9o.72d3y639.g00pui9o.72d3zc91/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-kurashi%2F1440626%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-kurashi%2Fi%2F10001337%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 2.0,
+  "text": "お買い物マラソン中に狙いたい1つ。毎日使うものほど良い物を、の代表。レビュー3,346件で★4.24。10/99:59まで、ポイント20倍で実質10,240円、送料無料。在庫が動きやすいので早めに。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/e-kurashi/cabinet/main-img/021/main-xaaut.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/e-kurashi/cabinet/main-img/021/main-xaaut.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/e-kurashi/cabinet/pc_sub/083/2023w_d_brand.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/e-kurashi/cabinet/pc_sub/102/xaaut-01.jpg?_ex=600x600"
+  ],
+  "shop_name": "くらしのeショップ",
+  "review_count": 3346,
+  "review_average": 4.24,
+  "genre_id": "208390"
+ },
+ {
+  "date": "2026-10-08T12:01:40",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "お買い物マラソン（10月予想）（開催中） × 30代男性（健康・効率化・家電）",
+  "persona": "30s_man",
+  "item_code": "roomy:10018139",
+  "item_name": "【特典＋36種類レシピ付】レコルト スープメーカー 豆乳メーカー スープ 全自動 豆乳機 自動調理 ポタージュメーカー ミキサー ブレンダー 保温 豆乳 おかゆ",
+  "price": 19800,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qb0lo.72d3y6eb.g00qb0lo.72d3z421/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Froomy%2Fwin26feb09a01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Froomy%2Fi%2F10018139%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 2.0,
+  "text": "お買い物マラソン中に狙いたい1つ。スペック比較して残ったやつ。レビュー565件で★4.74。ポイント10倍で実質17,820円。配送日も一緒に確認を。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/roomy/cabinet/500cart_all/500cart_11g/sp-8/win2006-to010-1_gt03.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/roomy/cabinet/500cart_all/500cart_11g/sp-8/win2006-to010-1_gt03.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/roomy/cabinet/500cart_all/500cart_pr/260902_mo_gdpre.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/roomy/cabinet/500cart_all/500cart_ca2_7/win2006-to010-1_sz01.jpg?_ex=600x600"
+  ],
+  "shop_name": "インテリアショップ roomy",
+  "review_count": 565,
+  "review_average": 4.74,
+  "genre_id": "565076"
+ },
+ {
+  "date": "2026-10-08T12:01:40",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "お買い物マラソン（10月予想）（開催中） × 30代男性（健康・効率化・家電）",
+  "persona": "30s_man",
+  "item_code": "travel-depart:10000706",
+  "item_name": "＼国内品質検査クリア／ LUSEEQ バランスドーム 半円 半球 47cm 60cm 半円型バランスボール 子供 大人 室内遊び 体幹トレーニング バランスボー",
+  "price": 4680,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00slbbo.72d3y242.g00slbbo.72d3z6c2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftravel-depart%2Frs0001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftravel-depart%2Fi%2F10000706%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "お買い物マラソン中に狙いたい1つ。時短になる系。空気を抜けばコンパクトに収納できます。伸縮チューブを使えば、上半身を動かすエクササイズにも活用できます。レビュー772件で★4.59。4,680円。配送日も一緒に確認を。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/travel-depart/cabinet/thumbnail001/gift1006.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/travel-depart/cabinet/thumbnail001/gift1006.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/travel-depart/cabinet/tj/r-img_rr/1/rs0001.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/travel-depart/cabinet/kidsitem/rs0001/wrapping-1006.jpg?_ex=600x600"
+  ],
+  "shop_name": "リバーブ　セレクト",
+  "review_count": 772,
+  "review_average": 4.59,
+  "genre_id": "204697"
+ },
+ {
+  "date": "2026-10-08T12:01:40",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "お買い物マラソン（10月予想）（開催中） × 30代男性（健康・効率化・家電）",
+  "persona": "30s_man",
+  "item_code": "besthouse:10000080",
+  "item_name": "楽天1位【2本目半額クーポン】iphone 充電 ケーブル 充電ケーブル usb-c usb type-c ケーブル typecケーブル android 充電コ",
+  "price": 1000,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00u6bro.72d3yd21.g00u6bro.72d3zfea/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbesthouse%2Fot-c07%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbesthouse%2Fi%2F10000080%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 2.0,
+  "text": "お買い物マラソン中に狙いたい1つ。時短になる系。楽天ランキング1位、レビュー2,797件で★4.68。半額、送料無料。気になる人はお気に入り登録を。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/besthouse/cabinet/10078867/10282583/imgrc0133063518.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/besthouse/cabinet/10078867/10282583/imgrc0133063518.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/besthouse/cabinet/10268761/20231112b.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/besthouse/cabinet/10268761/imgrc0120869268.jpg?_ex=600x600"
+  ],
+  "shop_name": "OKUTA ダイレクト楽天市場店",
+  "review_count": 2797,
+  "review_average": 4.68,
+  "genre_id": "565187"
+ },
+ {
+  "date": "2026-10-08T12:01:40",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "お買い物マラソン（10月予想）（開催中） × 30代男性（健康・効率化・家電）",
+  "persona": "30s_man",
+  "item_code": "longlife-global:10000378",
+  "item_name": "＼MAX20％OFFクーポン！めざましテレビで紹介／★楽天1位★折りたたみ椅子 アウトドアチェア キャンプ 椅子 イス コンパクト 折りたたみチェア 軽量 軽い",
+  "price": 1780,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tsoqo.72d3y927.g00tsoqo.72d3z46e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flonglife-global%2Foi240407%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flonglife-global%2Fi%2F10000378%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "お買い物マラソン中に狙いたい1つ。スペック比較して残ったやつ。楽天ランキング1位、レビュー2,377件で★4.42。20%OFF。配送日も一緒に確認を。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/longlife-global/cabinet/08273308/imgrc0111993581.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/longlife-global/cabinet/08273308/imgrc0111993581.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/longlife-global/cabinet/biiino/award/oi24045c85c706b0.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/longlife-global/cabinet/imgrc0117415307.jpg?_ex=600x600"
+  ],
+  "shop_name": "L広場　楽天市場店",
+  "review_count": 2377,
+  "review_average": 4.42,
+  "genre_id": "501915"
  }
 ]

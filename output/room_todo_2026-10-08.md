@@ -77,3 +77,40 @@
    - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qgsno.72d3y525.g00qgsno.72d3z41e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-de-mer%2F10000204-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-de-mer%2Fi%2F10000241%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
    - コメント: お父さんへのプレゼント候補。予算1万円以内で、レビューの良い物から選びました。レビュー497件で★4.63。4,850円。
 
+## 12:01 お買い物マラソン（10月予想）（開催中） × 30代男性（健康・効率化・家電）
+
+1. **日本野鳥の会 バードウォッチング長靴 メンズ レディース 雨靴 野鳥の会 レインブーツ 収納袋付き 完全防水 軽量 収納**
+   - 価格: 6,880円 / ★4.58（10,230件） / 料率 4.0% / P11倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00r4jvo.72d3ydbb.g00r4jvo.72d3z68b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcanpanera%2Fn05001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcanpanera%2Fi%2F10000145%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: お買い物マラソン中に狙いたい1つ。時短になる系。レビュー10,230件で★4.58。ポイント11倍で実質6,123円、送料無料。在庫が動きやすいので早めに。
+
+2. **【P20倍 10/9 9:59迄】 ホットカーペット フローリング調 1畳 1.5畳 2畳 3畳 ホットカーペット本体 **
+   - 価格: 12,800円 / ★4.24（3,346件） / 料率 2.0% / P20倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00pui9o.72d3y639.g00pui9o.72d3zc91/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-kurashi%2F1440626%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-kurashi%2Fi%2F10001337%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: お買い物マラソン中に狙いたい1つ。毎日使うものほど良い物を、の代表。レビュー3,346件で★4.24。10/99:59まで、ポイント20倍で実質10,240円、送料無料。在庫が動きやすいので早めに。
+
+3. **【特典＋36種類レシピ付】レコルト スープメーカー 豆乳メーカー スープ 全自動 豆乳機 自動調理 ポタージュメーカー **
+   - 価格: 19,800円 / ★4.74（565件） / 料率 2.0% / P10倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qb0lo.72d3y6eb.g00qb0lo.72d3z421/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Froomy%2Fwin26feb09a01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Froomy%2Fi%2F10018139%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: お買い物マラソン中に狙いたい1つ。スペック比較して残ったやつ。レビュー565件で★4.74。ポイント10倍で実質17,820円。配送日も一緒に確認を。
+
+4. **＼国内品質検査クリア／ LUSEEQ バランスドーム 半円 半球 47cm 60cm 半円型バランスボール 子供 大人 **
+   - 価格: 4,680円 / ★4.59（772件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00slbbo.72d3y242.g00slbbo.72d3z6c2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftravel-depart%2Frs0001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftravel-depart%2Fi%2F10000706%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: お買い物マラソン中に狙いたい1つ。時短になる系。空気を抜けばコンパクトに収納できます。伸縮チューブを使えば、上半身を動かすエクササイズにも活用できます。レビュー772件で★4.59。4,680円。配送日も一緒に確認を。
+
+5. **楽天1位【2本目半額クーポン】iphone 充電 ケーブル 充電ケーブル usb-c usb type-c ケーブル t**
+   - 価格: 1,000円 / ★4.68（2,797件） / 料率 2.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00u6bro.72d3yd21.g00u6bro.72d3zfea/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbesthouse%2Fot-c07%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbesthouse%2Fi%2F10000080%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: お買い物マラソン中に狙いたい1つ。時短になる系。楽天ランキング1位、レビュー2,797件で★4.68。半額、送料無料。気になる人はお気に入り登録を。
+
+6. **＼MAX20％OFFクーポン！めざましテレビで紹介／★楽天1位★折りたたみ椅子 アウトドアチェア キャンプ 椅子 イス **
+   - 価格: 1,780円 / ★4.42（2,377件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00tsoqo.72d3y927.g00tsoqo.72d3z46e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flonglife-global%2Foi240407%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flonglife-global%2Fi%2F10000378%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: お買い物マラソン中に狙いたい1つ。スペック比較して残ったやつ。楽天ランキング1位、レビュー2,377件で★4.42。20%OFF。配送日も一緒に確認を。
+
+### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
+
+- **お買い物マラソンで買うもの**: 日本野鳥の会 バードウォッチング長靴 メンズ / ホットカーペット フローリング調 1畳 / レコルト スープメーカー 豆乳メーカー / 国内品質検査クリア LUSEEQ / 楽天1位 iphone 充電 ケーブル / 楽天1位 折りたたみ椅子 アウトドアチェア
+- **30代男性のリピート候補**: 日本野鳥の会 バードウォッチング長靴 メンズ / ホットカーペット フローリング調 1畳 / レコルト スープメーカー 豆乳メーカー / 国内品質検査クリア LUSEEQ / 楽天1位 iphone 充電 ケーブル / 楽天1位 折りたたみ椅子 アウトドアチェア
+

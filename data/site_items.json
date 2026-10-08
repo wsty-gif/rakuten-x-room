@@ -1635,6 +1635,13 @@
     "theme": "楽天スーパーSALE（9月）（開催中） × 30代男性（健康・効率化・家電）",
     "persona": "30s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-10-08",
+    "slot": "noon",
+    "theme": "お買い物マラソン（10月予想）（開催中） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "canpanera:10000145",
@@ -1644,16 +1651,22 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00r4jvo.72d3ydbb.g00r4jvo.72d3z68b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcanpanera%2Fn05001%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/canpanera/cabinet/item154/item_n05001_0.jpg?_ex=600x600",
   "shop_name": "OutdoorStyle サンデーマウンテン",
-  "review_count": 10213,
+  "review_count": 10230,
   "review_average": 4.58,
   "affiliate_rate": 4.0,
   "point_rate": 11,
   "catchcopy": "＜2025 春夏＞レビューで500円クーポン！送料無料 ポイントアップ 最短当日発送【正規品】ブラウン グリーン グレー ダークブラウン【EE】",
   "genre_id": "302384",
-  "score": 20.35,
-  "last_seen": "2026-09-07T16:33:40",
-  "posted_text": "#PR セール価格は期間中だけ。迷うなら今\n日本野鳥の会 バードウォッチング長靴 メンズ\n★4.58・レビュー10,213件\n6,880円（P11倍で実質6,123円）\n#楽天購入品 #QOL向上\n▶ROOMはプロフから",
-  "posted_at": "2026-09-07T16:33:40"
+  "score": 20.45,
+  "last_seen": "2026-10-08T12:01:40",
+  "posted_text": "#PR セール価格は期間中だけ。迷うなら今\n日本野鳥の会 バードウォッチング長靴 メンズ\n★4.58・レビュー10,230件\n6,880円（P11倍で実質6,123円）\n#お買い物マラソン\n▶ROOMはプロフから",
+  "posted_at": "2026-10-08T12:01:40",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/canpanera/cabinet/item154/item_n05001_0.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/canpanera/cabinet/item153/item_n05001_3.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/canpanera/cabinet/item153/item_n05001_4.jpg?_ex=600x600"
+  ],
+  "caption": "当店をよくご利用いただくシーン アクティビティ アウトドア / キャンプ / バーベキュー / BBQ / 焚き火 / ピクニック / 登山 / ハイキング / トレッキング / ランニング / トレラン / トレーニング / ヨガ / スポーツ / 自転車 / マウンテンバイク / MTB / バイクパッキング / ツーリング / 車中泊 / バンライフ / 釣り / フィッシング / ウォーターアクティビティ / 海水浴 / 川遊び / カヤック / SUP / ラフティング / 旅行 / トラベル / 海外旅行 ライフスタイル キャンプ用品 / アウトドア用品 / 山 / 川 / 海 / ビーチ / レジャー / 車中泊グッズ / キャンピングカー / 防災セット / 防災用品 / 来客用 / ホームパーティー / ピクニック / トラベル用品 / 機内持ち込み / 野外 / 屋内 / 屋外 / インテリア / 省スペース / 北欧風 / インダストリアル / 韓国風 / カフェ風 / ウッドデッキ / グランピング / べランピング / 庭キャンプ / おうちキャンプ / おうちカフェ / 在宅 / テレワーク / ビジネス ギフト・プレゼント プレゼント / Present / ギフト / Gift / 贈り物 / 贈りもの / 贈物 / 贈呈品 / 贈呈 / 贈答品 / 贈答 / ラッピング / ギフトセット / セット / 誕生日 / 誕生日プレゼント / 出産祝い / 出産内祝い / 内祝い / 結婚 / 結婚式 / 結婚祝い / 結婚内祝い / 結婚記念 / 引き出物 / 引出物 / 開店祝い / 開店 / 周年記念 / 周年祝い / 地鎮祭 / 成人 / 成人祝い / 成人式 / 新成人 / 卒業 / 卒業祝い / 入学祝い / 就職祝い / 新入社員 "
  },
  "mstore:10022287": {
   "first_seen": "2026-09-06T04:02:03",
@@ -2073,6 +2086,13 @@
     "theme": "お買い物マラソン（10月予想）（開催中） × 30代男性（健康・効率化・家電）",
     "persona": "30s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-10-08",
+    "slot": "noon",
+    "theme": "お買い物マラソン（10月予想）（開催中） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "roomy:10018139",
@@ -2088,8 +2108,8 @@
   "point_rate": 10,
   "catchcopy": "「 自動調理ポット 」に大容量サイズ登場。スープは800mL、ジュースは1Lまで調理でき7つの調理モードを搭載。なめらかポタージュ、食べるスープ、濾さずに飲める豆乳など簡単に時短調理。",
   "genre_id": "565076",
-  "score": 17.55,
-  "last_seen": "2026-10-07T20:16:19",
+  "score": 18.05,
+  "last_seen": "2026-10-08T12:01:40",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/roomy/cabinet/500cart_all/500cart_11g/sp-8/win2006-to010-1_gt03.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/roomy/cabinet/500cart_all/500cart_pr/260902_mo_gdpre.jpg?_ex=600x600",
@@ -6227,6 +6247,13 @@
     "theme": "お買い物マラソン（10月予想）（2日後） × 20代男性（ガジェット・一人暮らし）",
     "persona": "20s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-10-08",
+    "slot": "noon",
+    "theme": "お買い物マラソン（10月予想）（開催中） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "etre:10026945",
@@ -6236,14 +6263,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00pztmo.72d3y860.g00pztmo.72d3zf0e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fetre%2F1180435%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/etre/cabinet/itemimage35/imgrc0101269078.jpg?_ex=600x600",
   "shop_name": "イートレンド楽天市場店",
-  "review_count": 1552,
+  "review_count": 1553,
   "review_average": 4.51,
   "affiliate_rate": 2.0,
-  "point_rate": 1,
+  "point_rate": 5,
   "catchcopy": "",
   "genre_id": "211492",
-  "score": 14.67,
-  "last_seen": "2026-10-02T12:01:43",
+  "score": 14.77,
+  "last_seen": "2026-10-08T12:01:40",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/etre/cabinet/itemimage35/imgrc0101269078.jpg?_ex=600x600"
   ],
@@ -11107,6 +11134,13 @@
     "theme": "お買い物マラソン（9月）（開催中） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-10-08",
+    "slot": "noon",
+    "theme": "お買い物マラソン（10月予想）（開催中） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "beautypark2017:10005029",
@@ -11116,14 +11150,20 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00sqjgo.72d3y194.g00sqjgo.72d3z7f5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbeautypark2017%2Frecolte-pot-l%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/beautypark2017/cabinet/kaden/recolte/pot/imgrc0157768450.jpg?_ex=600x600",
   "shop_name": "BEAUTY PARK 楽天市場店",
-  "review_count": 232,
-  "review_average": 4.78,
+  "review_count": 255,
+  "review_average": 4.75,
   "affiliate_rate": 2.0,
   "point_rate": 10,
   "catchcopy": "材料を入れたらおまかせでおなじみの“自動調理ポット”に待望のラージサイズが登場！たっぷり容量の800mlでも省スペースで置けるシンプルなデザイン。",
   "genre_id": "565076",
-  "score": 17.49,
-  "last_seen": "2026-09-23T21:10:45"
+  "score": 17.26,
+  "last_seen": "2026-10-08T12:01:40",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/beautypark2017/cabinet/kaden/recolte/pot/imgrc0157768450.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/beautypark2017/cabinet/kaden/recolte/imgrc0155571243.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/beautypark2017/cabinet/kaden/recolte/pot/imgrc0156189784.jpg?_ex=600x600"
+  ],
+  "caption": "■ 商品名recolte レコルト 自動調理ポット ラージ クリームホワイト/ナチュラルブラック RSY-3■ 商品説明材料を入れたらおまかせでおなじみの“自動調理ポット”に待望のラージサイズが登場！ 7つのモードに合わせて撹拌と加熱がプログラミングされた自動調理ポットラージ。 「裏ごしいらずのなめらか絶品ポタージュスープやペースト」、「具材の食感を残したミネストローネなどのスープ」、「食材の形を残して煮込む“たべる”スープ」、「生米から作れるおかゆ」、「濾さずに飲める手作り豆乳」、などの料理が、食材を入れてボタンを押すだけで作れます。 加熱をしないで撹拌だけを行う「ジュース/CLEAN」モードや、80℃まで温めてキープする「保温/あたため」モードも搭載。 【製品特長】 ●たっぷり容量の800mlでも省スペースで置けるシンプルなデザイン。 外観はシンプルなポットのようなデザイン。容量はMIN400〜MAX800ml(※ジュースは1,000mlまで)で、約2〜6人分に対応。「シルキーBLDCモーター」採用で、調理に合わせた6段階の回転数＆すっきり軽量コンパクト。キッチンでも収まり良く収納できます。 ●調理開始時間を予約できるタイマー機能付き！ 豆乳やアーモンドミルクなどの浸水時間が必要なメニューにもってこい、前日にセットして翌朝できたてを楽しめます。 冬の朝なら気軽におかゆや豆乳で温活も。 ※食材の傷みなど安全性を考慮して豆乳モードとおかゆモードのみタイマー機能が使えます。 ●調理完了時間がわかるディスプレイ表示。 初期調理のプロセスが完了後、残りの調理時間をカウントダウンで表示します。※ジュース/CLEANは完了までの時間。 （保温/あたためは動作開始から30分までカウントアップで表示します。） ●お手入れ簡単。専用のクリーニングブラシも付属。 水で薄めた中性洗剤を入れて「"
  },
  "salonmoon:10000013": {
   "first_seen": "2026-09-22T21:23:53",
@@ -11209,6 +11249,13 @@
     "theme": "お買い物マラソン（10月予想）（開催中） × 30代男性（健康・効率化・家電）",
     "persona": "30s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-10-08",
+    "slot": "noon",
+    "theme": "お買い物マラソン（10月予想）（開催中） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "travel-depart:10000706",
@@ -11225,7 +11272,7 @@
   "catchcopy": "遊びながら体幹・バランス感覚を育てる！親子で楽しめるおうち遊び・室内運動に。キッズから大人まで運動不足解消・エクササイズ・フィットネスにもおすすめ レビュー記載で2年保証♪",
   "genre_id": "204697",
   "score": 15.95,
-  "last_seen": "2026-10-07T20:16:19",
+  "last_seen": "2026-10-08T12:01:40",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/travel-depart/cabinet/thumbnail001/gift1006.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/travel-depart/cabinet/tj/r-img_rr/1/rs0001.jpg?_ex=600x600",
@@ -13427,6 +13474,13 @@
     "theme": "お買い物マラソン（10月予想）（開催中） × 30代男性（健康・効率化・家電）",
     "persona": "30s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-10-08",
+    "slot": "noon",
+    "theme": "お買い物マラソン（10月予想）（開催中） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "vesync:10000001",
@@ -13442,8 +13496,8 @@
   "point_rate": 1,
   "catchcopy": "大容量 電気フライヤー エアフライヤー　エアーフライヤー コンパクト ギフト　家庭用　低カロリー　健康　ダイエット　お手入れ簡単　時短料理　操作簡単",
   "genre_id": "564331",
-  "score": 15.51,
-  "last_seen": "2026-10-07T20:16:19",
+  "score": 15.41,
+  "last_seen": "2026-10-08T12:01:40",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/vesync/cabinet/09152443/09653695/imgrc0092744404.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/vesync/cabinet/09152443/09653695/11241926/imgrc0089893356.jpg?_ex=600x600",
@@ -16967,6 +17021,13 @@
     "theme": "お買い物マラソン（10月予想）（1日後） × 30代男性（健康・効率化・家電）",
     "persona": "30s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-10-08",
+    "slot": "noon",
+    "theme": "お買い物マラソン（10月予想）（開催中） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "maxshare:10061566",
@@ -16976,14 +17037,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00prbao.72d3y0ce.g00prbao.72d3z208/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaxshare%2Fa20801%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/maxshare/cabinet/master/1st2/a20801.jpg?_ex=600x600",
   "shop_name": "マックスシェアー　maxshare",
-  "review_count": 835,
+  "review_count": 842,
   "review_average": 4.5,
   "affiliate_rate": 4.0,
   "point_rate": 1,
   "catchcopy": "【選べる枕付き】約70秒で膨らむ！エアーマットのようなコンパクト収納と、ウレタンマット並みの寝心地を両立。選べる接触冷感リバーシブルでオールシーズン快適な極厚10cmキャンプマット",
   "genre_id": "501931",
-  "score": 15.63,
-  "last_seen": "2026-10-03T12:01:43",
+  "score": 15.14,
+  "last_seen": "2026-10-08T12:01:40",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/maxshare/cabinet/master/1st2/a20801.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/maxshare/cabinet/rn/a20801-awd.jpg?_ex=600x600",
@@ -19209,6 +19270,13 @@
     "theme": "お買い物マラソン（10月予想）（開催中） × 30代男性（健康・効率化・家電）",
     "persona": "30s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-10-08",
+    "slot": "noon",
+    "theme": "お買い物マラソン（10月予想）（開催中） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "nanobig:10000898",
@@ -19225,7 +19293,7 @@
   "catchcopy": "重たい掃除機さようなら！吸引力だけじゃない！orage 高性能 サイクロン式コードレスクリーナー おすすめ ギフト",
   "genre_id": "565105",
   "score": 15.43,
-  "last_seen": "2026-10-07T20:16:19",
+  "last_seen": "2026-10-08T12:01:40",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/nanobig/cabinet/02988222/oragerr11/oragerr11_main.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/nanobig/cabinet/02988222/oragerr11/rr11_sub101.jpg?_ex=600x600",
@@ -19239,6 +19307,13 @@
    {
     "date": "2026-10-07",
     "slot": "night",
+    "theme": "お買い物マラソン（10月予想）（開催中） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
+   },
+   {
+    "date": "2026-10-08",
+    "slot": "noon",
     "theme": "お買い物マラソン（10月予想）（開催中） × 30代男性（健康・効率化・家電）",
     "persona": "30s_man",
     "event_type": "sale"
@@ -19258,7 +19333,7 @@
   "catchcopy": "【正規品】「訳アリ」品でお得に、6個セット PFAS (PFOS/PFOA) 除去",
   "genre_id": "212491",
   "score": 15.35,
-  "last_seen": "2026-10-07T20:16:19",
+  "last_seen": "2026-10-08T12:01:40",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/brita/cabinet/thum/thumb_01/maxtraplus-6-w.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/brita/cabinet/itempage/common/wakeari.jpg?_ex=600x600",
@@ -19272,6 +19347,13 @@
    {
     "date": "2026-10-07",
     "slot": "night",
+    "theme": "お買い物マラソン（10月予想）（開催中） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
+   },
+   {
+    "date": "2026-10-08",
+    "slot": "noon",
     "theme": "お買い物マラソン（10月予想）（開催中） × 30代男性（健康・効率化・家電）",
     "persona": "30s_man",
     "event_type": "sale"
@@ -19291,7 +19373,7 @@
   "catchcopy": "30日間返金保証 / 5年間商品保証【 ルネサンス 公式 全品送料無料 】エアロモード 切替搭載 有酸素運動ウォーキング 美脚 美尻 ツイスト 木目長ステッパー 120分連続使用",
   "genre_id": "204690",
   "score": 15.34,
-  "last_seen": "2026-10-07T20:16:19",
+  "last_seen": "2026-10-08T12:01:40",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/hf-rns/cabinet/marathon-thumbnail/sp-600-640b-wd.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/hf-rns/cabinet/oasis-goods/e-steper-suza/spter-suza-renew021a.jpg?_ex=600x600",
@@ -19463,5 +19545,71 @@
    "https://thumbnail.image.rakuten.co.jp/@0_mall/znewmark/cabinet/10602446/10754021/1.jpg?_ex=600x600"
   ],
   "caption": "商品のご紹介 本体のみ・セット内容ベッドインベッド本体×1個 ベビー枕×1 肩ベルト×2 日本語取扱説明書×1 本体の商品サイズ本体の商品の全長(広げた時)：83.0cm 商品の横幅(広げた時)：45.0cm 商品の深さ(広げた時)：15.0cm 折り畳み時の全長：45.0cm 折り畳み時の横幅：38.0cm 折り畳み時の厚み：20.0cm 本体の商品の重量：1.7kg（充填量がたっぷり） 選べる2色ホワイト ライトグレー 素　材中：100%コットン充填 発送方式圧縮梱包 ※ご注意：圧縮梱包でしわの原因になってしまうので、洗濯で伸ばすことができます。お手間になってしまい大変恐縮なのですが、何卒ご理解のほどよろしくお願いいたします。 保証期間 本製品は、お買い上げ日から6ヶ月のメーカー保証付です。検品、品質には万全を期しておりますが、万が一初期不良が発生した場合は、当店が責任をもって交換、返品対応をさせて頂きます。 ご不明点がございましたら、遠慮なくご連絡を頂きますようお願い申し上げます。 配送時間帯 午前中・14時-16時・16時-18時・18時-21時 別途送料※沖縄県・離島は別途送料お見積もり場合がございます。予めご了承ください。 【最新改良版： 防水加工 タイプ！・内側に 防水 加工 が施されている】 2026年の最新の 赤ちゃん ベッドインベッド 持ち運び は登場！お客様の声を参考させていただき、撥水素材ではなく、より肌に 優しい 素材を選んでいます。柔らかい コットン100% の表地、裏面だけには 防水加工 が施されてる ベビーベッド ベッドインベッド から、ちゃんと防水してくれます。表面で100%コットンで吸水し、裏面で水気をしっかりガード。 夜間の吐き戻しやおもらしなど、ベッドインベッド の底部 マットレス にまで染み込むのが防止。 【ベビーベッド も ハンズ"
+ },
+ "e-kurashi:10001337": {
+  "first_seen": "2026-10-08T12:01:40",
+  "themes": [
+   {
+    "date": "2026-10-08",
+    "slot": "noon",
+    "theme": "お買い物マラソン（10月予想）（開催中） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "e-kurashi:10001337",
+  "name": "【P20倍 10/9 9:59迄】 ホットカーペット フローリング調 1畳 1.5畳 2畳 3畳 ホットカーペット本体 電気カーペット YZD-101FL YZD-151FL YZD-201FL YZD-301FL 節電 床暖房カーペット 一畳 山善 YAMAZEN 【送料無料】 1002P",
+  "price": 12800,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pui9o.72d3y639.g00pui9o.72d3zc91/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-kurashi%2F1440626%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-kurashi%2Fi%2F10001337%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00pui9o.72d3y639.g00pui9o.72d3zc91/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-kurashi%2F1440626%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/e-kurashi/cabinet/main-img/021/main-xaaut.jpg?_ex=600x600",
+  "shop_name": "くらしのeショップ",
+  "review_count": 3346,
+  "review_average": 4.24,
+  "affiliate_rate": 2.0,
+  "point_rate": 20,
+  "catchcopy": "お手入れ簡単♪表面防水加工 かんたん床暖房 送料無料",
+  "genre_id": "208390",
+  "score": 16.31,
+  "last_seen": "2026-10-08T12:01:40",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/e-kurashi/cabinet/main-img/021/main-xaaut.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/e-kurashi/cabinet/pc_sub/083/2023w_d_brand.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/e-kurashi/cabinet/pc_sub/102/xaaut-01.jpg?_ex=600x600"
+  ],
+  "caption": "山善 YAMAZEN ホットカーペット フローリング調 1畳 1.5畳 2畳 3畳 ホットカーペット本体 電気カーペット YZD-101FL YZD-151FL YZD-201FL YZD-301FL 本体サイズ 1畳：タテ170×ヨコ85cm1.5畳：タテ170×ヨコ120cm2畳：タテ170×ヨコ170cm3畳：タテ230×ヨコ185cm 商品説明 ●電源：AC100V (50Hz/60Hz)●表面温度：約36度(目盛3)、約45度(目盛5)●コード長さ：約1.2m●ダニ退治機能：高温でダニを退治裏面●裏面すべり止め加工●表面防水：表面防水でお手入れ簡単(※コントローラー部、カーペットの周り(マチ)は、防水ではありません)●フローリング調のビニールを貼り付けた仕様となります●メーカー保証1年付き【1畳タイプ】●消費電力：200W●消費電力量(1時間あたり)：約100Wh(目盛3)、約160Wh(目盛5)●電気代目安(1時間あたり)：約3.1円/h※目盛3時、約5.0円/h※目盛5時※電気料金目安単価31円/kWhを基に算出●左右面切替機能はありません※こちらの商品は2026年8月に型番変更をしておりますそれに伴い一部仕様が変更されております・型番：YZC-109FL→YZD-101FL・サイズ：176×85cm→170×85cm・コントローラー部の色が黒に変更しております【1.5畳タイプ(ラグサイズ)】●消費電力：400W●消費電力量(1時間あたり)：約180Wh(目盛3)、約260Wh(目盛5)●電気代目安(1時間あたり)：約5.6円/h※目盛3時、約8.1円/h※目盛5時※電気料金目安単価31円/kWhを基に算出●暖房面切替：全面・左・右と暖房面を切りかえることが可能●切り忘れ自動OFF：約6時間後に自動的に通電が切れる安心機能※こちらの商品は2026年8月に型番変"
+ },
+ "tfi-shop:10000005": {
+  "first_seen": "2026-10-08T12:01:40",
+  "themes": [
+   {
+    "date": "2026-10-08",
+    "slot": "noon",
+    "theme": "お買い物マラソン（10月予想）（開催中） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "tfi-shop:10000005",
+  "name": "洗濯機かさ上げ台 防振・防音 ゴムマット 洗濯機 かさ上げ かさあげ 台 かさ上げ台 置き台 洗濯機置き台 台座 TFi-9045 ドラム式/縦型対応 高さ調整 洗濯機かさあげ かさあげ台 嵩上げ キズ凹み防止 振動防止 防振 防音 騒音対策 あしあげ隊 タツフト 【楽天ランキング1位】",
+  "price": 5500,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00u3gfo.72d3y7d7.g00u3gfo.72d3z083/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftfi-shop%2Ftfi-9045%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftfi-shop%2Fi%2F10000005%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00u3gfo.72d3y7d7.g00u3gfo.72d3z083/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftfi-shop%2Ftfi-9045%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/tfi-shop/cabinet/yec/tfi-9045/260324_9045_s01.jpg?_ex=600x600",
+  "shop_name": "タツフトTFiショップ",
+  "review_count": 2892,
+  "review_average": 4.58,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "シリーズ累計220万セット突破の洗濯機用かさあげ台！家電量販店や配送業者もオススメ 100％ゴムでしっかりふんばる！敷くだけで45mmかさあげ かさ増し台",
+  "genre_id": "211876",
+  "score": 15.28,
+  "last_seen": "2026-10-08T12:01:40",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/tfi-shop/cabinet/yec/tfi-9045/260324_9045_s01.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/tfi-shop/cabinet/yec/tfi-9045/9045s_01.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/tfi-shop/cabinet/yec/tfi-9045/9045s_02.jpg?_ex=600x600"
+  ],
+  "caption": "メーカー希望小売価格はメーカーサイトに基づいて掲載しています洗濯機かさ上げ台 防振・防音ゴムマット TFi-9045 ドラム式/縦型対応 置き台 洗濯機 かさあげ 高さ調整 洗濯機かさあげ 嵩上げ キズ凹み防止 振動防止 防振 あしあげ隊 タツフト 台 足 白 騒音対策 洗濯パン 洗濯機下 掃除 引っ越し 引越し シリーズ累計220万セット突破の洗濯機用かさあげ台！家電量販店や配送業者からもオススメされています。100％ゴムでしっかりふんばる！敷くだけで45mmのかさあげ可能。 【あしあげ隊が選ばれる理由とは？】 ●ゴム100％だから20〜40％の振動削減効果！ ●耐荷重500kgで安定感が違う！ ●ゴム100％だからできる2段重ね！【洗濯機の振動防止対策に】100％ゴム製のため、床に伝わる洗濯機の振動を20~40%削減します。【安心の耐荷重】ドラム式洗濯機に洗濯物や水が加わると、総重量が150kgになることも！TFi-9045は耐荷重500kgなので、ドラム式を長期間乗せても安心です。【2段重ねで高さ調整が可能】本体同士を重ねることで45mm/90mmの高さ調整が可能です。設置環境などに応じてお選びください。【洗濯機下の掃除が楽になる！】高さを上げることで汚れやすい洗濯機下の掃除がしやすくなります。【洗濯物が取り出しやすい！】縦型洗濯機・ドラム式洗濯機、どちらでも高さを調整することで洗濯物を取り出しやすくなります。【排水ホースのスペース確保、排水詰まりエラーへの対処】高さを出すことで排水ホースのスペース確保が可能に。真下排水や排水溝高圧洗浄の対策として！【フローリングにも安心して使える素材】ゴム製品特有の臭いや色移りがあまりないゴム素材を使用しています。お掃除ロボット用に家具や家電をかさ上げするためにもお使いいただけます。引越し/家電買い替えのタイミングに！新生活/一人暮"
  }
 }
