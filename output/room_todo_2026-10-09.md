@@ -77,3 +77,40 @@
    - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00q3a7o.72d3yd94.g00q3a7o.72d3z1c6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmiyoshi-ya%2Fmg-01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmiyoshi-ya%2Fi%2F10008679%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
    - コメント: 祖父母へのプレゼント候補。予算3,000円以内で、レビューの良い物から選びました。レビュー85件で★4.6。2,000円。
 
+## 12:01 お買い物マラソン（10月予想）（開催中） × 40代男性（家族・晩酌・車）
+
+1. **【39%OFF!11,550円 → 7,045円!】スパークリングワイン セット 辛口 ワインセット 泡 白 ロゼ ギフ**
+   - 価格: 7,045円 / ★4.82（2,682件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00plfso.72d3yea7.g00plfso.72d3zea9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkbwine%2F1rs-set1620%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkbwine%2Fi%2F10027838%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: お買い物マラソン中に狙いたい1つ。週末のお楽しみ用に。レビュー2,682件で★4.82。39%OFF、送料無料。配送日も一緒に確認を。
+
+2. **国産 雑穀米「三十雑穀」タマチャンショップの30雑穀米 1000円ポッキリ 送料無料 1日30品目の栄養を実現 もち麦 **
+   - 価格: 1,000円 / ★4.5（82,822件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00pwf8o.72d3yb9c.g00pwf8o.72d3z481/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkyunan%2F20grain%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkyunan%2Fi%2F10000248%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: お買い物マラソン中に狙いたい1つ。家族みんなで使える定番。というイメージできたが、全然美味しかったです。この雑穀米にしてからは、栄養を食べている感じがして他に変えられなくなりました。レビュー82,822件で★4.5。送料無料。配送日も一緒に確認を。
+
+3. **アサヒ スーパードライ 缶(500ml*24本入)【2shdrk】【アサヒ スーパードライ】[アサヒビール/ビール/スー**
+   - 価格: 5,998円 / ★4.53（881件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00rzxdo.72d3yc84.g00rzxdo.72d3z91d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsoukaidrink%2F4901004006806%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsoukaidrink%2Fi%2F10006624%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: お買い物マラソン中に狙いたい1つ。まとめ買い向き。レビュー881件で★4.53。5,998円。気になる人はお気に入り登録を。
+
+4. **楽天1位 焼酎ハイボール 350ml 48本ドライ レモン チューハイ 送料無料 詰め合わせ お好きな タカラ よりどり**
+   - 価格: 6,338円 / ★4.86（3,713件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qo2ro.72d3yc8a.g00qo2ro.72d3z424/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flikaman%2Fyo-2-takaracu%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flikaman%2Fi%2F10024333%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: お買い物マラソン中に狙いたい1つ。家族みんなで使える定番。楽天ランキング1位、レビュー3,713件で★4.86。送料無料。配送日も一緒に確認を。
+
+5. **【10/9 1時59分までお得なクーポン配布中】 ＼ 高品質 高コスパ ／ 冷蔵庫 マット 冷蔵庫マット 冷蔵庫下マット**
+   - 価格: 3,180円 / ★4.67（16,429件） / 料率 2.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00sw2co.72d3yb9c.g00sw2co.72d3zbf8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-kit%2Fek-kbmr01mcl%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-kit%2Fi%2F10042595%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: お買い物マラソン中に狙いたい1つ。家族みんなで使える定番。厚さ2mmの安心設計。ガラス同等の透明度。レビュー16,429件で★4.67。送料無料。在庫が動きやすいので早めに。
+
+6. **＼10%OFFクーポン→2232円／【楽天1位 300冠達成】シガーソケット 延長 充電器 巻き取り リール式 USB **
+   - 価格: 2,480円 / ★4.57（3,943件） / 料率 2.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00tf8uo.72d3y7bd.g00tf8uo.72d3z658/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flohas1%2Fph-ptsx6-gm%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flohas1%2Fi%2F10011400%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: お買い物マラソン中に狙いたい1つ。週末のお楽しみ用に。どんな角度でもお好みに合わせて調整できるため、最適な位置での充電や使用が可能です。出張、自走、家族、グループ、団体旅行など、さまざまなシーンで活用できます。楽天ランキング1位、レビュー3,943件で★4.57。10%OFF。気になる人はお気に入り登録を。
+
+### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
+
+- **お買い物マラソンで買うもの**: スパークリングワイン セット 辛口 / 国産 / アサヒ スーパードライ / 楽天1位 焼酎ハイボール 350ml / 高品質 高コスパ 冷蔵庫 マット / シガーソケット 延長 充電器 巻き取り
+- **40代男性のリピート候補**: スパークリングワイン セット 辛口 / 国産 / アサヒ スーパードライ / 楽天1位 焼酎ハイボール 350ml / 高品質 高コスパ 冷蔵庫 マット / シガーソケット 延長 充電器 巻き取り
+

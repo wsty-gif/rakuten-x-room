@@ -6913,7 +6913,8 @@
   "shop_name": "アトリエ365 -ワイシャツ＆通勤服-",
   "review_count": 12605,
   "review_average": 4.32,
-  "genre_id": "206363"
+  "genre_id": "206363",
+  "instagram_story_id": "18209772805370176"
  },
  {
   "date": "2026-10-09T07:10:01",
@@ -7209,5 +7210,153 @@
   "review_count": 85,
   "review_average": 4.6,
   "genre_id": "101888"
+ },
+ {
+  "date": "2026-10-09T12:01:42",
+  "slot": "noon",
+  "theme": "お買い物マラソン（10月予想）（開催中） × 40代男性（家族・晩酌・車）",
+  "persona": "40s_man",
+  "item_code": "kbwine:10027838",
+  "item_name": "【39%OFF!11,550円 → 7,045円!】スパークリングワイン セット 辛口 ワインセット 泡 白 ロゼ ギフト 箱 京橋ワイン 京橋わいん 9本 7",
+  "price": 7045,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00plfso.72d3yea7.g00plfso.72d3zea9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkbwine%2F1rs-set1620%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkbwine%2Fi%2F10027838%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "#PR セール価格は期間中だけ。迷うなら今\nスパークリングワイン セット 辛口\n★4.82・レビュー2,682件\n39%OFF｜7,045円・送料無料\n#お買い物マラソン\n▶ROOMはプロフから",
+  "tweet_id": "2108392331036545479",
+  "threads_id": "18106473563195676",
+  "room_done": false,
+  "image": true,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/kbwine/cabinet/sale_ad/set1620-151-39p.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/kbwine/cabinet/sale_ad/set1620-151-39p.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/kbwine/cabinet/sale_ad_sub/set1620_sub_39p_n.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/kbwine/cabinet/bottle1/eva5547-set.jpg?_ex=600x600"
+  ],
+  "shop_name": "京橋ワイン",
+  "review_count": 2682,
+  "review_average": 4.82,
+  "genre_id": "567664",
+  "instagram_id": "18150983662555914",
+  "instagram_story_id": "18240735235315931"
+ },
+ {
+  "date": "2026-10-09T12:01:42",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "お買い物マラソン（10月予想）（開催中） × 40代男性（家族・晩酌・車）",
+  "persona": "40s_man",
+  "item_code": "kyunan:10000248",
+  "item_name": "国産 雑穀米「三十雑穀」タマチャンショップの30雑穀米 1000円ポッキリ 送料無料 1日30品目の栄養を実現 もち麦 国産 大麦 丁寧な暮らし タマチャンショ",
+  "price": 1000,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pwf8o.72d3yb9c.g00pwf8o.72d3z481/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkyunan%2F20grain%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkyunan%2Fi%2F10000248%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "お買い物マラソン中に狙いたい1つ。家族みんなで使える定番。というイメージできたが、全然美味しかったです。この雑穀米にしてからは、栄養を食べている感じがして他に変えられなくなりました。レビュー82,822件で★4.5。送料無料。配送日も一緒に確認を。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/kyunan/cabinet/zakkokuspecial/sannjyukokumai/imgrc0098196195.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/kyunan/cabinet/zakkokuspecial/sannjyukokumai/imgrc0098196195.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/kyunan/cabinet/zakkokuspecial/sannjyukokumai/30grain_2409tm1.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/kyunan/cabinet/zakkokuspecial/sannjyukokumai/zakkoku-25autumn-tm.jpg?_ex=600x600"
+  ],
+  "shop_name": "タマチャンショップ",
+  "review_count": 82822,
+  "review_average": 4.5,
+  "genre_id": "564077"
+ },
+ {
+  "date": "2026-10-09T12:01:42",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "お買い物マラソン（10月予想）（開催中） × 40代男性（家族・晩酌・車）",
+  "persona": "40s_man",
+  "item_code": "soukaidrink:10006624",
+  "item_name": "アサヒ スーパードライ 缶(500ml*24本入)【2shdrk】【アサヒ スーパードライ】[アサヒビール/ビール/スーパードライ]",
+  "price": 5998,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rzxdo.72d3yc84.g00rzxdo.72d3z91d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsoukaidrink%2F4901004006806%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsoukaidrink%2Fi%2F10006624%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "お買い物マラソン中に狙いたい1つ。まとめ買い向き。レビュー881件で★4.53。5,998円。気になる人はお気に入り登録を。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/soukaidrink/cabinet/806/4901004006806.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/soukaidrink/cabinet/806/4901004006806.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/soukaidrink/cabinet/806/4901004006806-2.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/soukaidrink/cabinet/806/4901004006806-3.jpg?_ex=600x600"
+  ],
+  "shop_name": "楽天24 ドリンク館",
+  "review_count": 881,
+  "review_average": 4.53,
+  "genre_id": "110626"
+ },
+ {
+  "date": "2026-10-09T12:01:42",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "お買い物マラソン（10月予想）（開催中） × 40代男性（家族・晩酌・車）",
+  "persona": "40s_man",
+  "item_code": "likaman:10024333",
+  "item_name": "楽天1位 焼酎ハイボール 350ml 48本ドライ レモン チューハイ 送料無料 詰め合わせ お好きな タカラ よりどり 選べる 2ケース缶チューハイ 宝 宝酒",
+  "price": 6338,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qo2ro.72d3yc8a.g00qo2ro.72d3z424/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flikaman%2Fyo-2-takaracu%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flikaman%2Fi%2F10024333%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "お買い物マラソン中に狙いたい1つ。家族みんなで使える定番。楽天ランキング1位、レビュー3,713件で★4.86。送料無料。配送日も一緒に確認を。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/likaman/cabinet/rakuten69/yo-2-takaracu.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/likaman/cabinet/rakuten69/yo-2-takaracu.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/likaman/cabinet/rakuten78/saikyohaiso_500.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/likaman/cabinet/rakuten66/yo-2-takaracu-500.jpg?_ex=600x600"
+  ],
+  "shop_name": "お酒の専門店　リカマン楽天市場店",
+  "review_count": 3713,
+  "review_average": 4.86,
+  "genre_id": "565952"
+ },
+ {
+  "date": "2026-10-09T12:01:42",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "お買い物マラソン（10月予想）（開催中） × 40代男性（家族・晩酌・車）",
+  "persona": "40s_man",
+  "item_code": "e-kit:10042595",
+  "item_name": "【10/9 1時59分までお得なクーポン配布中】 ＼ 高品質 高コスパ ／ 冷蔵庫 マット 冷蔵庫マット 冷蔵庫下マット クリア 透明 床暖房 キズ 凹み 防止",
+  "price": 3180,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00sw2co.72d3yb9c.g00sw2co.72d3zbf8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-kit%2Fek-kbmr01mcl%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-kit%2Fi%2F10042595%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 2.0,
+  "text": "お買い物マラソン中に狙いたい1つ。家族みんなで使える定番。厚さ2mmの安心設計。ガラス同等の透明度。レビュー16,429件で★4.67。送料無料。在庫が動きやすいので早めに。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/e-kit/cabinet/description/ek-kbmr01mcl/ek-kbmr01_1.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/e-kit/cabinet/description/ek-kbmr01mcl/ek-kbmr01_1.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/e-kit/cabinet/description/ek-kbmr01cl/ek-kbmr01cl_b2.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/e-kit/cabinet/description/ek-kbmr01cl/ek-kbmr01cl_a4.jpg?_ex=600x600"
+  ],
+  "shop_name": "e-kit（いーきっと）",
+  "review_count": 16429,
+  "review_average": 4.67,
+  "genre_id": "101766"
+ },
+ {
+  "date": "2026-10-09T12:01:42",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "お買い物マラソン（10月予想）（開催中） × 40代男性（家族・晩酌・車）",
+  "persona": "40s_man",
+  "item_code": "lohas1:10011400",
+  "item_name": "＼10%OFFクーポン→2232円／【楽天1位 300冠達成】シガーソケット 延長 充電器 巻き取り リール式 USB Type-C Lightning PD急",
+  "price": 2480,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tf8uo.72d3y7bd.g00tf8uo.72d3z658/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flohas1%2Fph-ptsx6-gm%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flohas1%2Fi%2F10011400%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 2.0,
+  "text": "お買い物マラソン中に狙いたい1つ。週末のお楽しみ用に。どんな角度でもお好みに合わせて調整できるため、最適な位置での充電や使用が可能です。出張、自走、家族、グループ、団体旅行など、さまざまなシーンで活用できます。楽天ランキング1位、レビュー3,943件で★4.57。10%OFF。気になる人はお気に入り登録を。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/lohas1/cabinet/3to4-cr/c7-d1/d1-3type.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/lohas1/cabinet/3to4-cr/c7-d1/d1-3type.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/lohas1/cabinet/10463166/10803904/rangking2.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/lohas1/cabinet/10457452/11250563/sj-c1_01.jpg?_ex=600x600"
+  ],
+  "shop_name": "LOHASTEN",
+  "review_count": 3943,
+  "review_average": 4.57,
+  "genre_id": "563735"
  }
 ]
