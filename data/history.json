@@ -8043,5 +8043,16 @@
   "review_count": 3686,
   "review_average": 4.58,
   "genre_id": "501098"
+ },
+ {
+  "date": "2026-10-10T18:31:28",
+  "slot": "evening",
+  "kind": "engage",
+  "engage_key": "poll5",
+  "theme": "反応投稿（poll）",
+  "persona": "all",
+  "text": "【5と0のつく日】\nセールで買って後悔したことある？",
+  "tweet_id": "2108852820229443601",
+  "threads_id": "18120414245067771"
  }
 ]
