@@ -82,3 +82,45 @@
    - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00r887o.72d3y2f0.g00r887o.72d3zec1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhotokudo%2Fapd008%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhotokudo%2Fi%2F10000112%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
    - コメント: 友達へのプレゼント候補。予算5,000円以内で、レビューの良い物から選びました。レビュー1,371件で★4.73。2,200円。
 
+## 12:01 お買い物マラソン（10月予想）（開催中） × 30代女性（暮らし・時短・コスパ）
+
+1. **【1種類を選べる】パンパース オムツ さらさらケア パンツ(1セット)【パンパース】[さらさらケア]**
+   - 価格: 4,950円 / ★4.82（9,070件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00pzd4o.72d3yfe6.g00pzd4o.72d3zc1c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetbaby%2F404313%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnetbaby%2Fi%2F10028658%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。忙しい平日の味方。(2)オムツの足ぐりから片手を通し赤ちゃんの足を持って片方ずつオムツに通します。(3)オムツを上まで引き上げ、ウェスト・足回りを整えます。レビュー9,070件で★4.82。4,950円。気になる人はお気に入り登録を。
+
+2. **［ 密閉 米びつシリーズ タワー ］ 山崎実業 tower 米びつ 5kg 10kg 20kg 計量カップ付 米櫃 シン**
+   - 価格: 2,970円 / ★4.66（3,429件） / 料率 3.0% / P5倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qb0lo.72d3y6eb.g00qb0lo.72d3z421/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Froomy%2Fymz17feb24h17%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Froomy%2Fi%2F10015281%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。毎日の家事がちょっとラクになるやつ。フタやパッキンは外して洗えるので清潔に使い続けられます。透明フタで残量がひと目で分かり、横開きタイプだから詰め替えもラク。レビュー3,429件で★4.66。ポイント5倍で実質2,821円。在庫が動きやすいので早めに。
+
+3. **[今だけ10%クーポン] [レビュー11000件超え／高評価4.59点] 毛布 シングル 140×200cm ブランケッ**
+   - 価格: 1,399円 / ★4.59（11,447件） / 料率 3.0% / P10倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qqpqo.72d3y802.g00qqpqo.72d3z677/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdondon%2Fmf-003%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdondon%2Fi%2F10001586%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。忙しい平日の味方。ぬくもり続くマイクロファイバーマイクロファイバーでも最上位のフランネルを使用。高い繊維密度で熱をキープします。レビュー11,447件で★4.59。ポイント10倍で実質1,259円。気になる人はお気に入り登録を。
+
+4. **【別注カラー・限定セットあり！】iwaki イワキ 26年新色 耐熱ガラス保存容器 7点セット パックアンドレンジ パッ**
+   - 価格: 3,899円 / ★4.79（1,421件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00so8do.72d3yfab.g00so8do.72d3z0ce/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frcmdki%2Fnf-pc-prn7%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frcmdki%2Fi%2F10404976%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。毎日の家事がちょっとラクになるやつ。残り物の量に合わせてサイズを選んで、上手に収納。大きいサイズの上に小さいサイズを乗せて、スタッキング収納も出来ます。レビュー1,421件で★4.79。送料無料。配送日も一緒に確認を。
+
+5. **＼50％OFFクーポン！10/1〜10/12／sakuraku キッチンマット L型 「透明 L字 拭ける 255 27**
+   - 価格: 6,980円 / ★4.54（5,480件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qx1go.72d3yce0.g00qx1go.72d3zf77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkurashi-zakka%2Fktn-101%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkurashi-zakka%2Fi%2F10002344%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。買い置きしておくと安心なもの。レビュー5,480件で★4.54。50%OFF。在庫が動きやすいので早めに。
+
+6. **［ 奥行伸縮排気口カバー タワー 60cmコンロ用 / 75cmコンロ用 ］山崎実業 公式 tower 排気口 カバー **
+   - 価格: 3,300円 / ★4.66（4,389件） / 料率 3.0% / P5倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qb0lo.72d3y6eb.g00qb0lo.72d3z421/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Froomy%2Fymz23aug23h06%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Froomy%2Fi%2F10015516%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。忙しい平日の味方。本体は丸洗いOKでお手入れ簡単。台所に馴染むシンプルなフラットタイプで、カバーの上は調味料や鍋の一時置きにも。レビュー4,389件で★4.66。ポイント5倍で実質3,135円。配送日も一緒に確認を。
+
+7. **最安値に挑戦!! ☆再生紙トイレット12RW☆108mm幅トイレットペーパー ダブル1ロール：27.5m 96ロール入り**
+   - 価格: 3,200円 / ★4.58（3,686件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00r7hco.72d3y97a.g00r7hco.72d3zb78/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcoming%2Fjun1kyuhinrolls-recycle12rw%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcoming%2Fi%2F10000440%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。買い置きしておくと安心なもの。◇◎◇トイレットペーパー(計96ロール入)◇◎◇災害備え/備蓄/大容量。レビュー3,686件で★4.58。送料無料。セール中に補充しておくと安心です。
+
+### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
+
+- **お買い物マラソンで買うもの**: パンパース オムツ さらさらケア パンツ / 山崎実業 tower 米びつ 5kg / 毛布 シングル 140×200cm / iwaki イワキ 26年新色 / 1〜10 12 sakuraku / 山崎実業 公式 tower 排気口 カバー / 最安値に挑戦!! 再生紙トイレット12RW
+- **30代女性のリピート候補**: パンパース オムツ さらさらケア パンツ / 山崎実業 tower 米びつ 5kg / 毛布 シングル 140×200cm / iwaki イワキ 26年新色 / 1〜10 12 sakuraku / 山崎実業 公式 tower 排気口 カバー / 最安値に挑戦!! 再生紙トイレット12RW
+
