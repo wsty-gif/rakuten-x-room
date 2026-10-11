@@ -1,200 +1,68 @@
-# 楽天ROOMに追加する商品（2026-10-11）
+# 楽天ROOMに追加する商品（2026-10-12）
 
 手順: 商品URLを開く → 共有 → 「ROOMに投稿」 → コメントを貼って投稿。
 夜の分は20時までに入れておくと、購買ピーク（21〜24時）に乗ります。
 
-## 07:01 お買い物マラソン（10月予想）（開催中） × 20代女性（自分磨き・プチプラ・映え）
+## 07:01 秋の衣替え（開催中） × 30代女性（暮らし・時短・コスパ）
 
-1. **【公式】アルティム8∞ ベストセラーキット / ブライト クレンジングオイル キット | シュウウエムラクレンジング ク**
-   - 価格: 13,200円 / ★4.84（35,428件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00tl4no.72d3yc14.g00tl4no.72d3ze52/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshuuemura%2Fshu30001jp%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshuuemura%2Fi%2F10000018%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: お買い物マラソン中に狙いたい1つ。自分へのご褒美にちょうどいい価格。楽天ランキング1位、レビュー35,428件で★4.84。送料無料。配送日も一緒に確認を。
+1. **【1種類を選べる】マミーポコパンツ 大きめで長〜く使える オムツ M L BIG(3個)【マミーポコパンツ】**
+   - 価格: 5,721円 / ★4.79（8,806件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00pzd4o.72d3yfe6.g00pzd4o.72d3zc1c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetbaby%2F404272%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnetbaby%2Fi%2F10028506%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 買い置きしておくと安心なもの。レビュー8,806件で★4.79。5,721円。
 
-2. **【韓コス祭り20%】【2+1】ガラクナイアシン3.0エッセンス【manyo公式】美容液 導入美容液 エッセンス 美容液 **
-   - 価格: 2,860円 / ★4.52（2,428件） / 料率 4.0% / P10倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00tdwjo.72d3y9ce.g00tdwjo.72d3zf9b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmanyo-official%2Fma01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmanyo-official%2Fi%2F10000027%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: お買い物マラソン中に狙いたい1つ。SNSで見かけて気になってたやつ。レビュー2,428件で★4.52。ポイント10倍で実質2,574円、送料無料。在庫が動きやすいので早めに。
+2. **【2枚組】 スクールシャツ 女子 長袖 制服 シャツ 学生 中学生 高校生 学生シャツ 学生服 ワイシャツ シャツ ブラ**
+   - 価格: 3,180円 / ★4.49（170件） / 料率 4.0% / P5倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qvfko.72d3y442.g00qvfko.72d3z09f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshirtshouse%2Fat-ch-sre-1834-2fix%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshirtshouse%2Fi%2F10008082%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 忙しい平日の味方。ほぼノーアイロンで着れるのでアイロン掛けもラクラク。汚れが落ちやすく、乾きやすいため、毎日洗えて清潔感を保てます。レビュー170件で★4.49。ポイント5倍で実質3,021円。
 
-3. **【15％OFFクーポン 10/10 0:00 - 10/13 23:59限定】SHIRORU（シロル）公式 クリスタルホ**
-   - 価格: 3,960円 / ★4.49（3,064件） / 料率 4.0% / P10倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00uafio.72d3ycc9.g00uafio.72d3ze5a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshiroru%2F10000000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshiroru%2Fi%2F10000000%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: お買い物マラソン中に狙いたい1つ。SNSで見かけて気になってたやつ。普段の洗顔では届かない毛穴の奥まで泡が届き、黒ずみやブツブツをキャッチ。レビュー3,064件で★4.49。15%OFF、ポイント10倍で実質3,564円。配送日も一緒に確認を。
+3. **【50％OFFクーポン対象 10/04 20:00～10/11 23:59】 【公式】アディダス adidas 返品可 **
+   - 価格: 8,800円 / ★4.68（458件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00r74jo.72d3yffa.g00r74jo.72d3zb93/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fadidas%2Ffy9840%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fadidas%2Fi%2F10204437%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 毎日の家事がちょっとラクになるやつ。クラシックなコートシューズは、いつの時代にも必要とされる。このシューズを履いて、自分の未来を創り出そう。レビュー458件で★4.68。50%OFF、送料無料。
 
-4. **ヘマチン シャンプー トリートメント 美容室専売 ダメージ補修 髪質改善専門 500ml LAFONTE ラフォンテ く**
-   - 価格: 3,300円 / ★4.59（335件） / 料率 4.0% / P20倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00ug6wo.72d3y539.g00ug6wo.72d3z189/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flafonte%2F10000100%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flafonte%2Fi%2F10000021%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: お買い物マラソン中に狙いたい1つ。自分へのご褒美にちょうどいい価格。レビュー335件で★4.59。ポイント20倍で実質2,640円。配送日も一緒に確認を。
-
-5. **|【Zoff 福袋2027 】〈12月上旬頃から順次発送〉ゾフ店舗で使える10,000円のメガネ券・調光レンズクーポン付**
-   - 価格: 6,600円 / ★4.38（1,042件） / 料率 4.0% / P10倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00s2yho.72d3ya91.g00s2yho.72d3z963/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fzoff%2Flucky_bag_ec%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fzoff%2Fi%2F10004562%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: お買い物マラソン中に狙いたい1つ。自分へのご褒美にちょうどいい価格。レビュー1,042件で★4.38。ポイント10倍で実質5,940円。気になる人はお気に入り登録を。
-
-6. **【期間限定】49%OFFクーポン有！10/8 10:00 ~ 10/11 09:59まで！【公式】オルナオーガニック シ**
-   - 価格: 8,520円 / ★4.7（601件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00t45po.72d3yc1b.g00t45po.72d3ze3e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsurunishi%2Fmanual-smooth4set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsurunishi%2Fi%2F10001212%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: お買い物マラソン中に狙いたい1つ。プチプラで探してる人に。美容室専売品・サロン専売品クオリティ優しい使い心地のアミノ酸系シャンプー。MadeinJAPAN企画、商品作り、販売全てが日本製。レビュー601件で★4.7。49%OFF（10/1109:59まで）、送料無料。配送日も一緒に確認を。
+4. **2026モデル ドット再入荷済 正規商品 [スブ] SUBU サンダル スリッポン おしゃれ 外履き スリッパ 起毛 暖**
+   - 価格: 5,280円 / ★4.64（433件） / 料率 4.0% / P2倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00rl07o.72d3ya64.g00rl07o.72d3z55a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstyleism%2Fsubu-2019%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fstyleism%2Fi%2F10002505%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 忙しい平日の味方。寒い季節でも素足で履けることを想定し、履き心地や保温性を追及。凸凹（でこぼこ）シリーズが新登場。レビュー433件で★4.64。ポイント2倍で実質5,174円。
 
 ### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
 
-- **お買い物マラソンで買うもの**: アルティム8∞ ベストセラーキット ブライト / ガラクナイアシン3.0エッセンス 美容液 / SHIRORU 公式 クリスタルホイップ / ヘマチン シャンプー トリートメント / 在庫なくなり次第販売終了 LISA / 10:00 10 11 09:59まで！
-- **20代女性のリピート候補**: アルティム8∞ ベストセラーキット ブライト / ガラクナイアシン3.0エッセンス 美容液 / SHIRORU 公式 クリスタルホイップ / ヘマチン シャンプー トリートメント / 在庫なくなり次第販売終了 LISA / 10:00 10 11 09:59まで！
+- **30代女性のリピート候補**: マミーポコパンツ 大きめで長〜く使える / スクールシャツ 女子 長袖 制服 シャツ / アディダス adidas 返品可 / 2026モデル ドット再入荷済 正規商品
 
-## 07:02 TikTok用ギフト企画｜彼氏へ・予算1万円（今夜のTikTokに載せる）
+## 07:02 TikTok用ギフト企画｜彼女へ・予算1万円（今夜のTikTokに載せる）
 
-1. **【本日10%OFFクーポン】【43%OFF】【TVドラマ使用】ビジネスバッグ トートバッグ メンズ ビジネストート トー**
-   - 価格: 9,900円 / ★4.51（3,788件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00rj6oo.72d3y1dd.g00rj6oo.72d3z23f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-goldmen%2Fb-gb607%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-goldmen%2Fi%2F10000227%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 彼氏へのプレゼント候補。予算1万円以内で、レビューの良い物から選びました。レビュー3,788件で★4.51。9,900円。
+1. **着る毛布 ルームウェア レディース メンズ フリーサイズ もこもこ モコモコ かわいい 可愛い おしゃれ 着るブランケッ**
+   - 価格: 3,999円 / ★4.5（7,740件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qqpqo.72d3y802.g00qqpqo.72d3z677/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdondon%2Fss-02-mf-001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdondon%2Fi%2F10001891%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 彼女へのプレゼント候補。予算1万円以内で、レビューの良い物から選びました。レビュー7,740件で★4.5。3,999円。
 
-2. **＼10日23:59まで10%OFF／ 二つ折り財布 メンズ 本革 コンパクト 薄い 小銭入れ 使いやすい カードがたくさ**
-   - 価格: 9,800円 / ★4.71（1,176件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00tyh8o.72d3yd5a.g00tyh8o.72d3z24a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbrizel%2F6001-102%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbrizel%2Fi%2F10000001%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 彼氏へのプレゼント候補。予算1万円以内で、レビューの良い物から選びました。レビュー1,176件で★4.71。9,800円。
+2. **長財布 本革 財布 革財布 メンズ プレゼント 革 レザー 牛革 メンズ長財布 ラムレザー 男性 高級感 ラム ラウンド**
+   - 価格: 6,980円 / ★4.34（7,294件） / 料率 4.0% / P10倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00rwe0o.72d3yedb.g00rwe0o.72d3z250/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fu-stream%2Fpg-guiw001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fu-stream%2Fi%2F10001068%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 彼女へのプレゼント候補。予算1万円以内で、レビューの良い物から選びました。レビュー7,294件で★4.34。6,980円。
 
-3. **【700円クーポン★10％ポイント】スマートウォッチ Bluetooth通話 レディース 歩数計 腕時計 心拍計 睡眠計**
-   - 価格: 5,990円 / ★4.55（615件） / 料率 2.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00u2ero.72d3y0d0.g00u2ero.72d3zb2b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fairsaki%2Fid206%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fairsaki%2Fi%2F10000015%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 彼氏へのプレゼント候補。予算1万円以内で、レビューの良い物から選びました。レビュー615件で★4.55。5,990円。
+3. **【楽天1位】ネックレス レディース シルバー 925 ピンクゴールド プラチナ ゴールド 華奢 細い 20代 30代 4**
+   - 価格: 7,998円 / ★4.52（3,836件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00sm95o.72d3y9b3.g00sm95o.72d3z585/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frei-shop%2Fn0007%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frei-shop%2Fi%2F10000007%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 彼女へのプレゼント候補。予算1万円以内で、レビューの良い物から選びました。レビュー3,836件で★4.52。7,998円。
 
-4. **【ノベルティ付き】 ベルト メンズ カジュアル 本革 ビジネス Color biz カラービズ レザー ピンタイプ ブラ**
-   - 価格: 4,290円 / ★4.52（580件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00pzxko.72d3y0a1.g00pzxko.72d3z5da/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faskashop%2F10031574%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faskashop%2Fi%2F10031574%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 彼氏へのプレゼント候補。予算1万円以内で、レビューの良い物から選びました。レビュー580件で★4.52。4,290円。
+4. **【選べるショルダー】【動画あり】リュック レディース ナイロンリュック 軽量 レザー ナイロン バッグ 大人 背面ファス**
+   - 価格: 6,380円 / ★4.55（2,705件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qcjvo.72d3yee0.g00qcjvo.72d3z097/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faccessoriesgrace%2Fbag-110%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faccessoriesgrace%2Fi%2F10012031%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 彼女へのプレゼント候補。予算1万円以内で、レビューの良い物から選びました。レビュー2,705件で★4.55。6,380円。
 
-5. **【楽天1位★クーポンで3,580円！】ドライヤー 速乾 大風量 2億マイナスイオン 軽量 静音 1年保証 高速ドライヤー**
-   - 価格: 5,980円 / ★4.49（8,656件） / 料率 2.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00u8azo.72d3y174.g00u8azo.72d3z65e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmikirona%2Fs-sd-l88%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmikirona%2Fi%2F10000085%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 彼氏へのプレゼント候補。予算1万円以内で、レビューの良い物から選びました。レビュー8,656件で★4.49。5,980円。
+5. **18金 ボールピアス 5サイズ×3カラー 金属アレルギー対応 日本製 K18ポスト K18 18K ゴールド シルバー **
+   - 価格: 5,170円 / ★4.74（1,155件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00tw4oo.72d3y445.g00tw4oo.72d3z2c5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flokumi%2Fjk-2_3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flokumi%2Fi%2F10000997%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 彼女へのプレゼント候補。予算1万円以内で、レビューの良い物から選びました。レビュー1,155件で★4.74。5,170円。
 
-6. **ニューエラ キャップ NEW ERA CAP ワークキャップ メンズ レディース 帽子 無地 シンプル ベーシック 黒 **
-   - 価格: 4,950円 / ★4.62（2,640件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00q3hlo.72d3yed7.g00q3hlo.72d3z381/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fonspotz%2Fm01-etcwm%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fonspotz%2Fi%2F10023020%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 彼氏へのプレゼント候補。予算1万円以内で、レビューの良い物から選びました。レビュー2,640件で★4.62。4,950円。
+6. **【国内正規品/ショッパー無料】 シャネル ハンドクリーム CHANEL ラ クレーム マン デニム ドゥ—ス リッシュ **
+   - 価格: 9,980円 / ★4.77（732件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00rs0co.72d3y1a1.g00rs0co.72d3z4b7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frush-mall%2Fchanel-030%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frush-mall%2Fi%2F10012650%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 彼女へのプレゼント候補。予算1万円以内で、レビューの良い物から選びました。レビュー732件で★4.77。9,980円。
 
-7. **[BSファイン] 温かいのに暑くない レッグウォーマー BA0110（両足分1足組）【公式】｜足首ウォーマー 足元 ふく**
-   - 価格: 3,850円 / ★4.61（2,307件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00s1xmo.72d3y516.g00s1xmo.72d3z0e5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbsfine%2Flegwarmer%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbsfine%2Fi%2F10000000%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 彼氏へのプレゼント候補。予算1万円以内で、レビューの良い物から選びました。レビュー2,307件で★4.61。3,850円。
-
-## 12:01 お買い物マラソン（10月予想）（開催中） × 子育て世帯のママ・パパ
-
-1. **お試し送料無料2,490円～ 骨取りサバ切身 1kg 無塩or有塩が選べる♪骨とり 骨なし 鯖 さば 冷凍食品 お中元 **
-   - 価格: 2,490円 / ★4.51（19,802件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00r77to.72d3y343.g00r77to.72d3zf2a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkouragumi%2F201175%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkouragumi%2Fi%2F10001520%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: お買い物マラソン中に狙いたい1つ。子どもがいる家で助かった系。とろけるような上質の脂がたっぷり。とろけるような上質の脂がたっぷり冷たく澄んだ北欧の海で育った極上トロさばをご紹介。レビュー19,802件で★4.51。送料無料。配送日も一緒に確認を。
-
-2. **ママ&キッズ (Mama&Kids)【公式】 ベビー ミルキーローション お得用サイズ 380ml ベビーローション ボ**
-   - 価格: 5,170円 / ★4.77（3,799件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qwzfo.72d3y30c.g00qwzfo.72d3z74d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnaturavie%2F4530025008096%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnaturavie%2Fi%2F10000289%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: お買い物マラソン中に狙いたい1つ。子どもがいる家で助かった系。乾燥しやすい赤ちゃん肌をしっとりぷるぷるに乾燥しやすい赤ちゃんの肌には、毎日の。赤ちゃんの肌を守る胎脂と羊水に着目し、独自の保湿成分を配合。レビュー3,799件で★4.77。5,170円。気になる人はお気に入り登録を。
-
-3. **【 初回限定 】1000円ポッキリ 送料無料 人気No.1 コーヒー 200g 2種 飲み比べ とびだすブレンド & キ**
-   - 価格: 1,000円 / ★4.67（4,943件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00tweso.72d3y2f0.g00tweso.72d3z4e8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftobidasu-baisenjo%2Ftbb-set-01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftobidasu-baisenjo%2Fi%2F10000020%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: お買い物マラソン中に狙いたい1つ。まとめ買いしておくと楽になるもの。すっきりとしたやさしい味わいの中にほんのりと甘みもあり、女性を中心に喜ばれています。レビュー4,943件で★4.67。送料無料。セール中に補充しておくと安心です。
-
-4. **【10/4～9★抽選で2人に1人最大100%ポイントバック★要エントリー】【公式】美味いもの市 ねこぶだし 450ml **
-   - 価格: 2,340円 / ★4.68（9,989件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00psg7o.72d3y9f3.g00psg7o.72d3z6d2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fisa%2F200310%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fisa%2Fi%2F10001664%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: お買い物マラソン中に狙いたい1つ。子どもがいる家で助かった系。卵かけご飯は特にお薦めです。あの梅沢冨美男さんも大絶賛。レビュー9,989件で★4.68。2,340円。気になる人はお気に入り登録を。
-
-5. **はちみつ 蜂蜜 選べる お試しセット 90g×5個 送料無料 エコパック リフィル エコ サステナブル 詰め替え 国産、**
-   - 価格: 1,998円 / ★4.77（2,779件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00pvspo.72d3y768.g00pvspo.72d3ze70/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkanohachi%2Fprivate_trial_1880_40%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkanohachi%2Fi%2F10001112%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: お買い物マラソン中に狙いたい1つ。まとめ買いしておくと楽になるもの。レビュー2,779件で★4.77。送料無料。在庫が動きやすいので早めに。
-
-6. **【安全で機能的、洗練されたデザイン】 ベッドガード 赤ちゃん 転落防止 クッション ハイタイプ 形状キープ 100/15**
-   - 価格: 4,380円 / ★4.48（2,458件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qikno.72d3ybf6.g00qikno.72d3z7bd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F4cal%2Fbh-cover-002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F4cal%2Fi%2F10012168%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: お買い物マラソン中に狙いたい1つ。ママ友の間でよく話題になるやつ。取り付けは簡単で、洗濯可能なカバーで常に清潔を保つことができます。月齢に合わせたご使用が可能です。楽天ランキング1位、レビュー2,458件で★4.48。4,380円。気になる人はお気に入り登録を。
-
-### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
-
-- **お買い物マラソンで買うもの**: 骨取りサバ切身 1kg 無塩or有塩が選べる / ママ&キッズ ベビー ミルキーローション / 人気No.1 コーヒー 200g 2種 / 美味いもの市 ねこぶだし 450ml / はちみつ 蜂蜜 選べる お試しセット / ベッドガード 赤ちゃん 転落防止 クッション
-- **子育て世帯のママ・パパのリピート候補**: 骨取りサバ切身 1kg 無塩or有塩が選べる / ママ&キッズ ベビー ミルキーローション / 人気No.1 コーヒー 200g 2種 / 美味いもの市 ねこぶだし 450ml / はちみつ 蜂蜜 選べる お試しセット / ベッドガード 赤ちゃん 転落防止 クッション
-
-## 19:31 お買い物マラソン（10月予想）（開催中） × 20代男性（ガジェット・一人暮らし）（20時セール前）
-
-1. **【先着順レビュー投稿で500円OFF+14日20時~ポイント15倍】グロング クレアチン モノハイドレート パウダー 2**
-   - 価格: 1,780円 / ★4.55（735件） / 料率 4.0% / P15倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00tokao.72d3yaf8.g00tokao.72d3zf4e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgrong%2Fgrong-481%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgrong%2Fi%2F10000130%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: セール今日まで。買い忘れがないか最終チェック。コスパで選ぶならこれ。こちらの商品は現在パッケージの変更を随時行っております。レビュー735件で★4.55。11日まで、ポイント15倍で実質1,513円。セール中に補充しておくと安心です。
-
-2. **メガネ くもり止め クロス 曇らない マスク メガネクロス くもりどめ ドライタイプ くもり止めクロス めがね 曇り止め**
-   - 価格: 1,000円 / ★4.51（3,967件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00u4jto.72d3y60b.g00u4jto.72d3z011/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcole%2Fanti-fog-01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcole%2Fi%2F10000051%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: セール今日まで。買い忘れがないか最終チェック。コスパで選ぶならこれ。コンパクトに持ち運べる1枚ずつ入っているため、専用収納袋に入れて、持ち運びに便利。高品質な天然素材セーム革しっとりとした質感でとても柔らかいです。レビュー3,967件で★4.51。送料無料。セール中に補充しておくと安心です。
-
-3. **国産小麦粉100% 無香料 粉屋のパンケーキミックス 200g 4袋セット 親子 卵不使用でも 美味しい ホットケーキ **
-   - 価格: 1,725円 / ★4.81（2,202件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qddpo.72d3y9fe.g00qddpo.72d3z47c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkodawari-konaya%2Fpancakemix800g%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkodawari-konaya%2Fi%2F10000443%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: セール今日まで。買い忘れがないか最終チェック。一人暮らしの部屋に1つあると便利。シンプルな配合なのでアレンジ次第で色々なお菓子にご使用いただけます。ふっくらと膨らみ、素朴で優しい味わいです。楽天ランキング1位、レビュー2,202件で★4.81。送料無料。セール中に補充しておくと安心です。
-
-4. **アキュビューオアシス 2~8箱セット ( コンタクトレンズ 2week コンタクト 2週間使い捨て 2ウィーク ジョンソ**
-   - 価格: 4,980円 / ★4.67（407件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00rz7bo.72d3y03d.g00rz7bo.72d3ze7d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fearth-contact%2Faoas-02%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fearth-contact%2Fi%2F10000694%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: セール今日まで。買い忘れがないか最終チェック。レビューを見て買う人が多いやつ。瞳の健康のために酸素たっぷり。その原因のひとつが、まばたきをするたびに起きるレンズとまぶたの摩擦でした。レビュー407件で★4.67。4,980円。配送日も一緒に確認を。
-
-5. **【クーポンで最安2180円】「年間ランキング受賞」「楽天1位」モバイルバッテリー 半固体電池 大容量 20800mAh **
-   - 価格: 2,980円 / ★4.45（8,771件） / 料率 2.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00uab6o.72d3ye97.g00uab6o.72d3z823/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhitidear%2Fq8-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhitidear%2Fi%2F10000115%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: セール今日まで。買い忘れがないか最終チェック。レビューを見て買う人が多いやつ。楽天ランキング1位、レビュー8,771件で★4.45。送料無料。セール中に補充しておくと安心です。
-
-6. **【10/10~10/11 20％OFF】【マイクロSDカード 128GBセット】SDカードリーダー iPhone18 対**
-   - 価格: 8,980円 / ★4.46（2,119件） / 料率 2.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00ruz0o.72d3ycf9.g00ruz0o.72d3z98e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstarfocus%2Fs-ifd-m32-%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fstarfocus%2Fi%2F10002405%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: セール今日まで。買い忘れがないか最終チェック。一人暮らしの部屋に1つあると便利。お子様の写真や動画も簡単にバックアップできます。クラウド・メール・LINEの容量制限を気にせず高速転送・最大2TBの大容量対応。レビュー2,119件で★4.46。20%OFF。セール中に補充しておくと安心です。
-
-7. **訳あり おためし 【国産養殖わかめ】 カットわかめ 肉厚 送料無料 買い回り 買い周り 買いまわり【ワカメ わかめ 海藻**
-   - 価格: 3,000円 / ★4.6（275件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00sv7bo.72d3y018.g00sv7bo.72d3z7c9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-iki%2F1000012%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-iki%2Fi%2F10000081%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: セール今日まで。買い忘れがないか最終チェック。一人暮らしの部屋に1つあると便利。お味噌汁などの汁物には戻さずそのまま入れるだけ。お味噌汁などに使用する際は戻さずそのまま入れて軽く混ぜてもらうと戻ります。レビュー275件で★4.6。送料無料。配送日も一緒に確認を。
-
-8. **＼先着50%OFFクーポン！14日 20時〜／ 【楽天999冠】 抗菌99.9％ プレイマット ベビーマット ベビー 赤**
-   - 価格: 9,800円 / ★4.49（3,267件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00ugvgo.72d3yd94.g00ugvgo.72d3zc31/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsoyott-camp%2Fppm-pvc140200%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsoyott-camp%2Fi%2F10000016%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: セール今日まで。買い忘れがないか最終チェック。一人暮らしの部屋に1つあると便利。そんな日々の幸せをかたちに。popomiは、皆さんと一緒に子育てをするベビー・キッズ用品の総合ブランドです。レビュー3,267件で★4.49。50%OFF。在庫が動きやすいので早めに。
-
-### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
-
-- **お買い物マラソンで買うもの**: グロング クレアチン モノハイドレート / メガネ くもり止め クロス 曇らない マスク / 無香料 粉屋のパンケーキミックス 200g / アキュビューオアシス 2~8箱セット 近視 / 【クーポンで最安2180円】「年間ランキング / SDカードリーダー 対応 2TB 写真 動画 / 訳あり おためし カットわかめ 肉厚 / 20時〜 プレイマット ベビーマット ベビー
-- **20代男性のリピート候補**: グロング クレアチン モノハイドレート / メガネ くもり止め クロス 曇らない マスク / 無香料 粉屋のパンケーキミックス 200g / アキュビューオアシス 2~8箱セット 近視 / 【クーポンで最安2180円】「年間ランキング / SDカードリーダー 対応 2TB 写真 動画 / 訳あり おためし カットわかめ 肉厚 / 20時〜 プレイマット ベビーマット ベビー
-
-## 20:16 お買い物マラソン（10月予想）（開催中） × 子育て世帯のママ・パパ
-
-1. **【公式】エスメラルダ 1位獲得 新生児 から使える ベビー枕 赤ちゃん枕 ドーナツ枕 絶壁防止 枕 新生児 枕 向き癖防**
-   - 価格: 9,985円 / ★4.52（12,038件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qoaxo.72d3yacf.g00qoaxo.72d3z6fc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbaby-alice%2Fesm-makura09%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbaby-alice%2Fi%2F10006664%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: お買い物マラソン中に狙いたい1つ。子どもがいる家で助かった系。レビュー12,038件で★4.52。9,985円。在庫が動きやすいので早めに。
-
-2. **【1種類を選べる】マミーポコ パンツ ドラえもん M L BIG BIG大(3個セット)【マミーポコパンツ】**
-   - 価格: 5,385円 / ★4.84（464件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00pzd4o.72d3yfe6.g00pzd4o.72d3zc1c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetbaby%2F405333%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnetbaby%2Fi%2F10045239%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: お買い物マラソン中に狙いたい1つ。ママ友の間でよく話題になるやつ。マミーポコパンツ/マミーポコパンツドラえもんMLBIGBIG大。レビュー464件で★4.84。5,385円。配送日も一緒に確認を。
-
-3. **【26周年祭50%ポイントバック】送料無料 豚ひれ肉のやわらか ローストポーク 2本 セット 肉 柔らか お歳暮 ギフト**
-   - 価格: 5,880円 / ★4.7（169件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00plfko.72d3y3a3.g00plfko.72d3z16c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyonekyu%2F46844%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyonekyu%2Fi%2F10002855%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: お買い物マラソン中に狙いたい1つ。子どもがいる家で助かった系。レビュー169件で★4.7。送料無料。配送日も一緒に確認を。
-
-4. **＼先着50%OFFクーポン！14日 20時〜／ 【楽天999冠】 正規品 吐き戻し防止 授乳クッション カバー ロトトク**
-   - 価格: 5,280円 / ★4.5（785件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00ugvgo.72d3yd94.g00ugvgo.72d3zc31/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsoyott-camp%2Frtt-quilt%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsoyott-camp%2Fi%2F10000040%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: お買い物マラソン中に狙いたい1つ。子どもがいる家で助かった系。おしゃれで可愛いデザインが大人気。韓国初の吐き戻し防止のロトトクッションを開発。レビュー785件で★4.5。50%OFF。配送日も一緒に確認を。
-
-5. **【新米1袋2,300円～】令和8年産 コシヒカリ 岡山県産 精米 無洗米 送料無料**
-   - 価格: 2,750円 / ★4.43（141件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00sb32o.72d3y267.g00sb32o.72d3z267/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fokaman%2F10000003%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fokaman%2Fi%2F10000003%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: お買い物マラソン中に狙いたい1つ。子どもがいる家で助かった系。無洗米も選べるようになりました。精米(白米)と無洗米がお選びいただけます。レビュー141件で★4.43。送料無料。気になる人はお気に入り登録を。
-
-6. **【楽天30冠】【特許取得済・静音タイプ】 BabyGoo 赤ちゃん を起こさない ベッドガード ベッドフェンス 転落防止**
-   - 価格: 4,880円 / ★4.3（4,389件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00tosto.72d3y614.g00tosto.72d3z069/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvalueprice%2Fbedguard2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fvalueprice%2Fi%2F10000056%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: お買い物マラソン中に狙いたい1つ。まとめ買いしておくと楽になるもの。静音タイプがついに登場。確かな管理体制の下で作られる安心の品質です。レビュー4,389件で★4.3。4,880円。在庫が動きやすいので早めに。
-
-### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
-
-- **お買い物マラソンで買うもの**: エスメラルダ 1位獲得 新生児 から使える / マミーポコ パンツ ドラえもん BIG / 豚ひれ肉のやわらか ローストポーク 2本 / 20時〜 正規品 吐き戻し防止 / 令和8年産 コシヒカリ 岡山県産 精米 / BabyGoo 赤ちゃん を起こさない
-- **子育て世帯のママ・パパのリピート候補**: エスメラルダ 1位獲得 新生児 から使える / マミーポコ パンツ ドラえもん BIG / 豚ひれ肉のやわらか ローストポーク 2本 / 20時〜 正規品 吐き戻し防止 / 令和8年産 コシヒカリ 岡山県産 精米 / BabyGoo 赤ちゃん を起こさない
+7. **＼公式限定2年保証／ リング 指輪 ダニエルウェリントン DW Classic Ring Rose gold アクセサリ**
+   - 価格: 8,030円 / ★4.69（907件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00t90go.72d3y0da.g00t90go.72d3zc5b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdanielwellington%2F182%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdanielwellington%2Fi%2F10002014%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 彼女へのプレゼント候補。予算1万円以内で、レビューの良い物から選びました。レビュー907件で★4.69。8,030円。
 
