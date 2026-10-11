@@ -77,3 +77,40 @@
    - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00s1xmo.72d3y516.g00s1xmo.72d3z0e5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbsfine%2Flegwarmer%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbsfine%2Fi%2F10000000%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
    - コメント: 彼氏へのプレゼント候補。予算1万円以内で、レビューの良い物から選びました。レビュー2,307件で★4.61。3,850円。
 
+## 12:01 お買い物マラソン（10月予想）（開催中） × 子育て世帯のママ・パパ
+
+1. **お試し送料無料2,490円～ 骨取りサバ切身 1kg 無塩or有塩が選べる♪骨とり 骨なし 鯖 さば 冷凍食品 お中元 **
+   - 価格: 2,490円 / ★4.51（19,802件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00r77to.72d3y343.g00r77to.72d3zf2a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkouragumi%2F201175%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkouragumi%2Fi%2F10001520%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: お買い物マラソン中に狙いたい1つ。子どもがいる家で助かった系。とろけるような上質の脂がたっぷり。とろけるような上質の脂がたっぷり冷たく澄んだ北欧の海で育った極上トロさばをご紹介。レビュー19,802件で★4.51。送料無料。配送日も一緒に確認を。
+
+2. **ママ&キッズ (Mama&Kids)【公式】 ベビー ミルキーローション お得用サイズ 380ml ベビーローション ボ**
+   - 価格: 5,170円 / ★4.77（3,799件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qwzfo.72d3y30c.g00qwzfo.72d3z74d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnaturavie%2F4530025008096%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnaturavie%2Fi%2F10000289%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: お買い物マラソン中に狙いたい1つ。子どもがいる家で助かった系。乾燥しやすい赤ちゃん肌をしっとりぷるぷるに乾燥しやすい赤ちゃんの肌には、毎日の。赤ちゃんの肌を守る胎脂と羊水に着目し、独自の保湿成分を配合。レビュー3,799件で★4.77。5,170円。気になる人はお気に入り登録を。
+
+3. **【 初回限定 】1000円ポッキリ 送料無料 人気No.1 コーヒー 200g 2種 飲み比べ とびだすブレンド & キ**
+   - 価格: 1,000円 / ★4.67（4,943件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00tweso.72d3y2f0.g00tweso.72d3z4e8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftobidasu-baisenjo%2Ftbb-set-01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftobidasu-baisenjo%2Fi%2F10000020%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: お買い物マラソン中に狙いたい1つ。まとめ買いしておくと楽になるもの。すっきりとしたやさしい味わいの中にほんのりと甘みもあり、女性を中心に喜ばれています。レビュー4,943件で★4.67。送料無料。セール中に補充しておくと安心です。
+
+4. **【10/4～9★抽選で2人に1人最大100%ポイントバック★要エントリー】【公式】美味いもの市 ねこぶだし 450ml **
+   - 価格: 2,340円 / ★4.68（9,989件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00psg7o.72d3y9f3.g00psg7o.72d3z6d2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fisa%2F200310%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fisa%2Fi%2F10001664%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: お買い物マラソン中に狙いたい1つ。子どもがいる家で助かった系。卵かけご飯は特にお薦めです。あの梅沢冨美男さんも大絶賛。レビュー9,989件で★4.68。2,340円。気になる人はお気に入り登録を。
+
+5. **はちみつ 蜂蜜 選べる お試しセット 90g×5個 送料無料 エコパック リフィル エコ サステナブル 詰め替え 国産、**
+   - 価格: 1,998円 / ★4.77（2,779件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00pvspo.72d3y768.g00pvspo.72d3ze70/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkanohachi%2Fprivate_trial_1880_40%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkanohachi%2Fi%2F10001112%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: お買い物マラソン中に狙いたい1つ。まとめ買いしておくと楽になるもの。レビュー2,779件で★4.77。送料無料。在庫が動きやすいので早めに。
+
+6. **【安全で機能的、洗練されたデザイン】 ベッドガード 赤ちゃん 転落防止 クッション ハイタイプ 形状キープ 100/15**
+   - 価格: 4,380円 / ★4.48（2,458件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qikno.72d3ybf6.g00qikno.72d3z7bd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F4cal%2Fbh-cover-002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F4cal%2Fi%2F10012168%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: お買い物マラソン中に狙いたい1つ。ママ友の間でよく話題になるやつ。取り付けは簡単で、洗濯可能なカバーで常に清潔を保つことができます。月齢に合わせたご使用が可能です。楽天ランキング1位、レビュー2,458件で★4.48。4,380円。気になる人はお気に入り登録を。
+
+### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
+
+- **お買い物マラソンで買うもの**: 骨取りサバ切身 1kg 無塩or有塩が選べる / ママ&キッズ ベビー ミルキーローション / 人気No.1 コーヒー 200g 2種 / 美味いもの市 ねこぶだし 450ml / はちみつ 蜂蜜 選べる お試しセット / ベッドガード 赤ちゃん 転落防止 クッション
+- **子育て世帯のママ・パパのリピート候補**: 骨取りサバ切身 1kg 無塩or有塩が選べる / ママ&キッズ ベビー ミルキーローション / 人気No.1 コーヒー 200g 2種 / 美味いもの市 ねこぶだし 450ml / はちみつ 蜂蜜 選べる お試しセット / ベッドガード 赤ちゃん 転落防止 クッション
+
