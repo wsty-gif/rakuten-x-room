@@ -8896,5 +8896,16 @@
   "review_count": 2458,
   "review_average": 4.48,
   "genre_id": "213961"
+ },
+ {
+  "date": "2026-10-11T18:31:23",
+  "slot": "evening",
+  "kind": "engage",
+  "engage_key": "poll0",
+  "theme": "反応投稿（poll）",
+  "persona": "all",
+  "text": "【お買い物マラソン 開催中】\n楽天のセール、何から見ますか？",
+  "tweet_id": "2109215186968342657",
+  "threads_id": "18132728614676082"
  }
 ]
