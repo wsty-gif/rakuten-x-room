@@ -66,3 +66,29 @@
    - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00t90go.72d3y0da.g00t90go.72d3zc5b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdanielwellington%2F182%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdanielwellington%2Fi%2F10002014%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
    - コメント: 彼女へのプレゼント候補。予算1万円以内で、レビューの良い物から選びました。レビュー907件で★4.69。8,030円。
 
+## 12:01 秋の衣替え（開催中） × 30代女性（暮らし・時短・コスパ）
+
+1. **【予約：10月中旬納期】ニットスカート スカート レディース ボトムス 柄 送料無料・メール便不可**
+   - 価格: 5,940円 / ★4.35（513件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qllxo.72d3y0f6.g00qllxo.72d3z222/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fantiqua-a%2Fpa-02413%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fantiqua-a%2Fi%2F10016753%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 毎日の家事がちょっとラクになるやつ。≪SIZE≫フリーサイズ。裾に向かって少し広がるAラインシルエット。レビュー513件で★4.35。送料無料。
+
+2. **【予約：10月中旬納期】アシメブルゾン ブルゾン レディース アウター トップス 送料無料・再入荷 (500)メール便可**
+   - 価格: 5,940円 / ★4.69（36件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qllxo.72d3y0f6.g00qllxo.72d3z222/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fantiqua-a%2Fzk-00131%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fantiqua-a%2Fi%2F10026210%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 忙しい平日の味方。斜めファスナーでこなれ感たっぷり。≪SIZE≫フリーサイズ。レビュー36件で★4.69。送料無料。
+
+3. **【MAX1,000円OFFクーポン】【新タイプ発売】選べるデザインマウンテンパーカー ☆ マウンテンパーカー 軽撥水 パ**
+   - 価格: 4,990円 / ★4.4（423件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00q501o.72d3ycb0.g00q501o.72d3zff7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpierrot%2Fn2301-073702%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpierrot%2Fi%2F10015772%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 買い置きしておくと安心なもの。ウエストを絞ることでメリハリが生まれ、シルエットを自分好みに調整できます。急な天候の変化にも対応できる安心感と、大人に似合うカジュアルなシルエットが魅力。レビュー423件で★4.4。送料無料。
+
+4. **高評価★4.39/2,374件超【公式】【7年連続 1位受賞商品】【土日も発送】サイズ展開 S - 5XL 着るだけで美**
+   - 価格: 5,280円 / ★4.39（2,551件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00t6n3o.72d3y786.g00t6n3o.72d3zfae/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnatuse-shop%2Fss006-50-2980%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnatuse-shop%2Fi%2F10000000%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 買い置きしておくと安心なもの。綺麗なシルエットのオールインワンワイドパンツドレスです。オールインワンなのに、ほっそり魅せるウエストライン。楽天ランキング1位、レビュー2,551件で★4.39。5,280円。
+
+### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
+
+- **30代女性のリピート候補**: ニットスカート スカート レディース / アシメブルゾン ブルゾン レディース / 選べるデザインマウンテンパーカー / 高評価 4.39 2,374件超 サイズ展開
+
