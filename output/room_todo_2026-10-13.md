@@ -66,3 +66,29 @@
    - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00u441o.72d3ycf0.g00u441o.72d3za2c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgiftyshop%2Fi27-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgiftyshop%2Fi%2F10000272%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
    - コメント: 大切な人へのプレゼント候補。予算2万円以内で、レビューの良い物から選びました。レビュー82件で★4.82。7,980円。
 
+## 12:01 秋の衣替え（開催中） × 30代女性（暮らし・時短・コスパ）
+
+1. **＼クーポンで11,980円／【365日即日発送】【49%OFF】 喪服 レディース 洗える ブラックフォーマル ロング丈**
+   - 価格: 12,980円 / ★4.6（1,889件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qckho.72d3y335.g00qckho.72d3zb89/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsutekitaiken%2F210006%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsutekitaiken%2Fi%2F10000204%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 毎日の家事がちょっとラクになるやつ。また、ハンカチやちょっとした小物の収納に便利なポケット付きです。ジャケットは、それぞれ印象の違う4デザインからお選びいただけます。レビュー1,889件で★4.6。49%OFF。
+
+2. **【50円OFFクーポン】【送料無料】ワンデーアキュビューディファインモイスト（近視用） 30枚入り 2箱セット 1日使い**
+   - 価格: 5,820円 / ★4.58（2,387件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00ry9lo.72d3ya9b.g00ry9lo.72d3z25b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffashionlens%2F1daydf-ms-2p%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffashionlens%2Fi%2F10000191%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 毎日の家事がちょっとラクになるやつ。レビュー2,387件で★4.58。10/2115:59まで、送料無料。
+
+3. **限定P10倍★サイズ交換無料★送料無料 スリッポン スニーカー レディース メンズ【つま先まで あったかファー！】ボア **
+   - 価格: 2,790円 / ★4.3（550件） / 料率 4.0% / P10倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00r1l9o.72d3ya6b.g00r1l9o.72d3z7d2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkutsuhoridashi%2Ffkl024%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkutsuhoridashi%2Fi%2F10004070%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 忙しい平日の味方。キーワード：大きいサイズ寒い季節に大人気。ふわふわあったかファースリッポンシューズ。レビュー550件で★4.3。ポイント10倍で実質2,511円、送料無料。
+
+4. **秋のコーデ買いをおトクに！最大2900円OFF 美人スクイーズ ニット レディース 長袖 選べるネック 美シルエット 無**
+   - 価格: 2,970円 / ★4.2（1,134件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qllxo.72d3y0f6.g00qllxo.72d3z222/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fantiqua-a%2Fna-00411%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fantiqua-a%2Fi%2F10025076%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 忙しい平日の味方。厚すぎず薄すぎない程よい厚みで、ロングシーズン快適に着用できます。着るだけで心ときめく。レビュー1,134件で★4.2。2,970円。
+
+### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
+
+- **30代女性のリピート候補**: 喪服 レディース 洗える ブラックフォーマル / ワンデーアキュビューディファインモイスト / サイズ交換無料 スリッポン スニーカー / 美人スクイーズ ニット レディース 長袖
+
