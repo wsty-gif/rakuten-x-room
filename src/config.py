@@ -142,6 +142,8 @@ class Settings:
     x_access_token: str = field(default_factory=lambda: _env("X_ACCESS_TOKEN"))
     x_access_token_secret: str = field(default_factory=lambda: _env("X_ACCESS_TOKEN_SECRET"))
     x_attach_image: bool = field(default_factory=lambda: _env("X_ATTACH_IMAGE", "1") == "1")
+    # X への投稿は停止中（API が従量課金のため）。再開するときだけ X_ENABLED=1 にする
+    x_enabled: bool = field(default_factory=lambda: _env("X_ENABLED", "0") == "1")
 
     threads_access_token: str = field(default_factory=lambda: _env("THREADS_ACCESS_TOKEN"))
     threads_user_id: str = field(default_factory=lambda: _env("THREADS_USER_ID"))
@@ -172,7 +174,7 @@ class Settings:
     room_no_repeat_days: int = field(default_factory=lambda: _env_int("ROOM_NO_REPEAT_DAYS", 60))
 
     def x_ready(self) -> bool:
-        return all([self.x_api_key, self.x_api_secret, self.x_access_token, self.x_access_token_secret])
+        return self.x_enabled and all([self.x_api_key, self.x_api_secret, self.x_access_token, self.x_access_token_secret])
 
     def instagram_ready(self) -> bool:
         return bool(self.instagram_access_token) or (DATA_DIR / "instagram_token.json").exists()

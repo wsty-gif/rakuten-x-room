@@ -31,10 +31,6 @@ jobs:
       RAKUTEN_ACCESS_KEY: ${{ secrets.RAKUTEN_ACCESS_KEY }}
       RAKUTEN_AFFILIATE_ID: ${{ secrets.RAKUTEN_AFFILIATE_ID }}
       ROOM_URL: ${{ secrets.ROOM_URL }}
-      X_API_KEY: ${{ secrets.X_API_KEY }}
-      X_API_SECRET: ${{ secrets.X_API_SECRET }}
-      X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
-      X_ACCESS_TOKEN_SECRET: ${{ secrets.X_ACCESS_TOKEN_SECRET }}
       THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
       THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
       THREADS_LINK_URL: ${{ vars.THREADS_LINK_URL }}
@@ -70,10 +66,6 @@ jobs:
       - name: Install Japanese font
         if: steps.slot.outputs.slot != 'none'
         run: sudo apt-get install -y -qq fonts-noto-cjk >/dev/null
-
-      - name: Check X credentials (no post)
-        if: steps.slot.outputs.slot != 'none'
-        run: python diag_x.py
 
       - name: Check Threads credentials (no post)
         if: steps.slot.outputs.slot != 'none'
@@ -115,7 +107,6 @@ jobs:
           GSC_VERIFICATION: ${{ vars.GSC_VERIFICATION || secrets.GSC_VERIFICATION }}
           PINTEREST_VERIFICATION: ${{ vars.PINTEREST_VERIFICATION || secrets.PINTEREST_VERIFICATION }}
           # ブログに載せる各SNSのプロフィールURL（未設定なら build_site.py の既定値）
-          X_PROFILE_URL: ${{ vars.X_PROFILE_URL }}
           THREADS_PROFILE_URL: ${{ vars.THREADS_PROFILE_URL }}
           INSTAGRAM_PROFILE_URL: ${{ vars.INSTAGRAM_PROFILE_URL }}
           PINTEREST_PROFILE_URL: ${{ vars.PINTEREST_PROFILE_URL }}

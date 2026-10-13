@@ -122,12 +122,12 @@ def cmd_run(args, s: Settings):
         print("候補がありません。フィルタ（MIN_REVIEW_COUNT 等）を緩めてください。")
         return
     posts = build_posts(x_cands or cands, theme, s, s.posts_per_run)
+    # X は停止中（X_ENABLED=1 のときだけ投稿）。X が無くても Threads・履歴・ROOM・ブログ・Instagram は本番どおり動かす
+    live = not args.dry_run
     poster = None
     threads = None
-    if not args.dry_run:
-        if not s.x_ready():
-            print("\nX APIのキーが未設定なので --dry-run と同じ動作にします。")
-        else:
+    if live:
+        if s.x_ready():
             from src.x_poster import XPoster
             poster = XPoster(s)
         if s.threads_ready():
@@ -135,7 +135,7 @@ def cmd_run(args, s: Settings):
                 from src.threads_poster import ThreadsPoster
                 threads = ThreadsPoster(s)
             except Exception as e:
-                print(f"  [warn] Threads 初期化失敗（Xのみ投稿します）: {e}")
+                print(f"  [warn] Threads 初期化失敗: {e}")
 
     for pst in posts:
         p = pst["product"]
@@ -160,7 +160,7 @@ def cmd_run(args, s: Settings):
                 print(f"[Threads 投稿完了] id={threads_id}")
             except Exception as e:
                 print(f"  [warn] Threads 投稿失敗: {e}")
-        if poster:
+        if live:
             history.append({
                 "date": datetime.now().isoformat(timespec="seconds"),
                 "slot": theme.slot, "theme": theme.title, "persona": theme.persona.key,
@@ -170,15 +170,14 @@ def cmd_run(args, s: Settings):
                 "image": getattr(poster, "last_had_image", False), **room_item_fields(p),
             })
     # ブログ用データは本番投稿時のみ蓄積する（dry-run で書くと GitHub 側の記録と競合するため）
-    if poster:
+    if live:
         from src.site_store import save_site_items
         save_site_items(cands, theme, posts)
-    if poster:
         save_history(history)
-    # ROOM: X に出した商品を先頭に、ROOM 基準で複数点を選んで通知する
-    room_flow(cands, theme, s, history, [pst["product"] for pst in posts], live=poster is not None)
+    # ROOM: SNS に出した商品を先頭に、ROOM 基準で複数点を選んで通知する
+    room_flow(cands, theme, s, history, [pst["product"] for pst in posts], live=live)
     # TikTok のギフト企画（7点）も、その日の最初の投稿で ROOM リストに入れる（TikTok には ROOM に出した物だけ載せる）
-    gift_room_flow(client, theme.slot, s, history, live=poster is not None)
+    gift_room_flow(client, theme.slot, s, history, live=live)
 
 
 def gift_room_flow(client, slot: str, s: Settings, history: list, live: bool) -> None:
@@ -262,12 +261,14 @@ def cmd_engage(args, s: Settings):
     print(post["text"])
     if post.get("poll_options"):
         print("[投票] " + " / ".join(post["poll_options"]))
-    if args.dry_run or not s.x_ready():
+    if args.dry_run or not (s.x_ready() or s.threads_ready()):
         print("\n[dry-run] 投稿しません。")
         return
-    from src.x_poster import XPoster
-    tweet_id = XPoster(s).post(post["text"], None, post.get("poll_options"))
-    print(f"[X 投稿完了] https://x.com/i/web/status/{tweet_id}")
+    tweet_id = ""
+    if s.x_ready():
+        from src.x_poster import XPoster
+        tweet_id = XPoster(s).post(post["text"], None, post.get("poll_options"))
+        print(f"[X 投稿完了] https://x.com/i/web/status/{tweet_id}")
     threads_id = ""
     if s.threads_ready():
         try:
