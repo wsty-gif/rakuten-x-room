@@ -1,120 +1,68 @@
-# 楽天ROOMに追加する商品（2026-10-13）
+# 楽天ROOMに追加する商品（2026-10-14）
 
 手順: 商品URLを開く → 共有 → 「ROOMに投稿」 → コメントを貼って投稿。
 夜の分は20時までに入れておくと、購買ピーク（21〜24時）に乗ります。
 
-## 07:01 秋の衣替え（開催中） × 20代女性（自分磨き・プチプラ・映え）
+## 07:01 秋の衣替え（開催中） × 30代女性（暮らし・時短・コスパ）
 
-1. **スカート ひざ丈 秋冬 タイトスカート レディース タイト 骨格ウェーブ 骨格ストレートオールシーズン きれいめ オフィ**
-   - 価格: 5,980円 / ★4.55（192件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00txh5o.72d3y28c.g00txh5o.72d3z1c0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fseouldays%2F66381911%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fseouldays%2Fi%2F10000251%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: SNSで見かけて気になってたやつ。商品説明に記載がない小物類は付属いたしません。レビュー192件で★4.55。5,980円。
+1. **＼リリース記念☆20％OFFクーポン／【特別送料無料！】パンツ 裏ボア 防風 スキニー S/M/L/LL 丈が選べる レ**
+   - 価格: 4,990円 / ★4.24（5,549件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00pqeco.72d3ye1f.g00pqeco.72d3z907/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-zakkamania%2F33678-1800958%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-zakkamania%2Fi%2F10083447%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 忙しい平日の味方。レビュー5,549件で★4.24。20%OFF、送料無料。
 
-2. **【SALE／45%OFF】GeeRA 【U.S.POLO.ASSN.】フード刺しゅう裏起毛パーカー ジーラ トップス パ**
-   - 価格: 4,840円 / ★4.53（80件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00rf71o.72d3ydf4.g00rf71o.72d3z645/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstylife%2Fpx2153%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fstylife%2Fi%2F15231036%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: プチプラで探してる人に。フードの刺繍が特別感たっぷりの裏起毛スウェットパーカー。トレンド感たっぷりのショート丈も新登場。レビュー80件で★4.53。45%OFF、送料無料。
+2. **2026年モデル登場！【選べる特典付】正規品 サンダル 外履き 中履き 内履き ルームシューズ スリッパスブ パーマネン**
+   - 価格: 5,280円 / ★4.81（91件） / 料率 4.0% / P10倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00pzd8o.72d3yd94.g00pzd8o.72d3z72a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fplywood%2F13579038%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fplywood%2Fi%2F10021280%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 買い置きしておくと安心なもの。市販の防水スプレーをご使用の上、着用することをおすすめします。レビュー91件で★4.81。ポイント10倍で実質4,752円、送料無料。
 
-3. **「50％OFF！2点購入クーポンで」ハイネックブラウス レディース トップス ブラウス 長袖 スタンドカラー ギャザー入**
-   - 価格: 3,390円 / ★4.21（868件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00rxhko.72d3yd9c.g00rxhko.72d3z6c8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmountaingoat%2Fto-l918%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmountaingoat%2Fi%2F10010135%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 自分へのご褒美にちょうどいい価格。レビュー868件で★4.21。50%OFF。
+3. **【送料無料】【楽天ランキング1位／累計販売数70000枚突破！】《新色無地ブラウン追加》選べる2丈・接触冷感アソート柄ワ**
+   - 価格: 4,620円 / ★4.34（285件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00punqo.72d3y0ee.g00punqo.72d3z3c6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fblueeast%2F8-1760%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fblueeast%2Fi%2F10011167%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 忙しい平日の味方。また、形やサイズに多少の誤差が生じます。サイズの測り方はコチラです。楽天ランキング1位、レビュー285件で★4.34。送料無料。
 
-4. **【公式】 カラコン フェリアモ ワンデー 度あり 30枚 (10枚3箱) feliamo【1箱分無料】まいやん 白石麻衣**
-   - 価格: 3,520円 / ★4.75（7,075件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00svqgo.72d3yf0c.g00svqgo.72d3zf3d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flilyanna%2Ffeliamo-1day%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flilyanna%2Fi%2F10000057%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 自分へのご褒美にちょうどいい価格。レビュー7,075件で★4.75。3,520円。
-
-### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
-
-- **20代女性のリピート候補**: スカート ひざ丈 秋冬 タイトスカート / GeeRA フード刺しゅう裏起毛パーカー / レディース トップス ブラウス 長袖 / カラコン フェリアモ ワンデー 度あり
-
-## 07:02 TikTok用ギフト企画｜大切な人へ・予算2万円（今夜のTikTokに載せる）
-
-1. **【箔レザー】ミニ財布 レディース 本革 ゴールド お札を折らない ミニウォレット かわいい 小さい財布 財布 二つ折り **
-   - 価格: 11,330円 / ★4.62（3,098件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00tfl7o.72d3y78b.g00tfl7o.72d3z373/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkyoden%2Fkcti0005%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkyoden%2Fi%2F10000006%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 大切な人へのプレゼント候補。予算2万円以内で、レビューの良い物から選びました。レビュー3,098件で★4.62。11,330円。
-
-2. **【20%OFFクーポン】【TVで紹介 楽天1位】ネックレス レディース オープン ハート k18 18金 プラチナ 仕上**
-   - 価格: 11,000円 / ★4.68（2,367件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00rfwgo.72d3y5d6.g00rfwgo.72d3zd60/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fclementiadecor%2Fn0019%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fclementiadecor%2Fi%2F10000087%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 大切な人へのプレゼント候補。予算2万円以内で、レビューの良い物から選びました。レビュー2,367件で★4.68。11,000円。
-
-3. **【ランキング1位】 ペアリング リング 指輪 名入れ 金属アレルギー対応 メッセージリング 結婚記念日 偶数サイズ ペア**
-   - 価格: 7,800円 / ★4.56（2,145件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qvm5o.72d3y1c7.g00qvm5o.72d3z631/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-lamoreeterno%2Fsr2-048%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-lamoreeterno%2Fi%2F10001503%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 大切な人へのプレゼント候補。予算2万円以内で、レビューの良い物から選びました。レビュー2,145件で★4.56。7,800円。
-
-4. **【累計販売本数17000本突破!!】【プレゼント 定番】セイコー 腕時計 SEIKO 時計 セイコー時計 セイコー腕時計**
-   - 価格: 13,200円 / ★4.46（1,757件） / 料率 2.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qw3wo.72d3y893.g00qw3wo.72d3ze48/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhstyle%2Fseikow-015%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhstyle%2Fi%2F10035017%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 大切な人へのプレゼント候補。予算2万円以内で、レビューの良い物から選びました。レビュー1,757件で★4.46。13,200円。
-
-5. **＼MAX40%OFFセール／ ＼公式限定2年保証／ ブレスレット レディース ダニエルウェリントン daniel wel**
-   - 価格: 10,972円 / ★4.68（554件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00t90go.72d3y0da.g00t90go.72d3zc5b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdanielwellington%2F022%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdanielwellington%2Fi%2F10001819%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 大切な人へのプレゼント候補。予算2万円以内で、レビューの良い物から選びました。レビュー554件で★4.68。10,972円。
-
-6. **【10%OFF】【祝★楽天1位】 揺れる ピアス レディース 大粒 プラチナ ピンクゴールド イエローゴールド 加工 ブ**
-   - 価格: 17,820円 / ★4.52（842件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00pwz0o.72d3y8f2.g00pwz0o.72d3z151/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffromny%2Fe096%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffromny%2Fi%2F10000216%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 大切な人へのプレゼント候補。予算2万円以内で、レビューの良い物から選びました。レビュー842件で★4.52。17,820円。
-
-7. **★2個セットで1000円お得★ 【子育て感謝状 アクリル i27】結婚 結婚式 子育て 感謝状 写真入り サプライズ ウ**
-   - 価格: 7,980円 / ★4.82（82件） / 料率 3.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00u441o.72d3ycf0.g00u441o.72d3za2c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgiftyshop%2Fi27-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgiftyshop%2Fi%2F10000272%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 大切な人へのプレゼント候補。予算2万円以内で、レビューの良い物から選びました。レビュー82件で★4.82。7,980円。
-
-## 12:01 秋の衣替え（開催中） × 30代女性（暮らし・時短・コスパ）
-
-1. **＼クーポンで11,980円／【365日即日発送】【49%OFF】 喪服 レディース 洗える ブラックフォーマル ロング丈**
-   - 価格: 12,980円 / ★4.6（1,889件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qckho.72d3y335.g00qckho.72d3zb89/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsutekitaiken%2F210006%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsutekitaiken%2Fi%2F10000204%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 毎日の家事がちょっとラクになるやつ。また、ハンカチやちょっとした小物の収納に便利なポケット付きです。ジャケットは、それぞれ印象の違う4デザインからお選びいただけます。レビュー1,889件で★4.6。49%OFF。
-
-2. **【50円OFFクーポン】【送料無料】ワンデーアキュビューディファインモイスト（近視用） 30枚入り 2箱セット 1日使い**
-   - 価格: 5,820円 / ★4.58（2,387件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00ry9lo.72d3ya9b.g00ry9lo.72d3z25b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffashionlens%2F1daydf-ms-2p%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffashionlens%2Fi%2F10000191%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 毎日の家事がちょっとラクになるやつ。レビュー2,387件で★4.58。10/2115:59まで、送料無料。
-
-3. **限定P10倍★サイズ交換無料★送料無料 スリッポン スニーカー レディース メンズ【つま先まで あったかファー！】ボア **
-   - 価格: 2,790円 / ★4.3（550件） / 料率 4.0% / P10倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00r1l9o.72d3ya6b.g00r1l9o.72d3z7d2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkutsuhoridashi%2Ffkl024%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkutsuhoridashi%2Fi%2F10004070%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 忙しい平日の味方。キーワード：大きいサイズ寒い季節に大人気。ふわふわあったかファースリッポンシューズ。レビュー550件で★4.3。ポイント10倍で実質2,511円、送料無料。
-
-4. **秋のコーデ買いをおトクに！最大2900円OFF 美人スクイーズ ニット レディース 長袖 選べるネック 美シルエット 無**
-   - 価格: 2,970円 / ★4.2（1,134件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qllxo.72d3y0f6.g00qllxo.72d3z222/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fantiqua-a%2Fna-00411%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fantiqua-a%2Fi%2F10025076%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 忙しい平日の味方。厚すぎず薄すぎない程よい厚みで、ロングシーズン快適に着用できます。着るだけで心ときめく。レビュー1,134件で★4.2。2,970円。
+4. **【20時〜全品60％OFF！クーポンで】 【楽天1位】裏起毛レギンス レディース あったかパンツ 裏起毛 微起毛 ボア **
+   - 価格: 4,580円 / ★4.33（81件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qxtho.72d3y102.g00qxtho.72d3zac7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshiny-mart%2Fb429%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshiny-mart%2Fi%2F10012977%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 買い置きしておくと安心なもの。MLXLブラックグレーベージュ。楽天ランキング1位、レビュー81件で★4.33。60%OFF、送料無料。
 
 ### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
 
-- **30代女性のリピート候補**: 喪服 レディース 洗える ブラックフォーマル / ワンデーアキュビューディファインモイスト / サイズ交換無料 スリッポン スニーカー / 美人スクイーズ ニット レディース 長袖
+- **30代女性のリピート候補**: リリース記念 パンツ 裏ボア 防風 スキニー / 2026年モデル登場！ 正規品 サンダル / 選べる2丈・接触冷感アソート柄ワンピース / 裏起毛レギンス レディース あったかパンツ
 
-## 20:16 今売れている物 × 子育て世帯のママ・パパ
+## 07:02 TikTok用ギフト企画｜お母さんへ・予算5,000円（今夜のTikTokに載せる）
 
-1. **【秋のおでかけキャンペーン】＼最大700円OFF／11日0:00～13日23:59まで★楽天1位★子育てベストアイテム大**
-   - 価格: 11,900円 / ★4.56（5,382件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00u2zco.72d3yef7.g00u2zco.72d3zefc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frealize-store2020%2Fpomulu%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frealize-store2020%2Fi%2F10000009%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 子どもがいる家で助かった系。軽いのに収納力バツグン。どんなスタイリングにも合わせやすい、おしゃれでシンプルなデザイン。楽天ランキング1位、レビュー5,382件で★4.56。11,900円。
+1. **秋ギフト ワッフル ケーキ 10個 | お菓子 洋菓子 詰め合わせ ギフト 個包装 ワッフルケーキ スイーツ 冷凍 お取**
+   - 価格: 3,000円 / ★4.56（7,002件） / 料率 4.0% / P10倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00pq4wo.72d3ya5c.g00pq4wo.72d3ze9c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frl-waffle%2Fw0010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frl-waffle%2Fi%2F10000033%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: お母さんへのプレゼント候補。予算5,000円以内で、レビューの良い物から選びました。レビュー7,002件で★4.56。3,000円。
 
-2. **【価格挑戦 10kg 3,780円】令和7年産 国内産 ほほえみ米 5kg / 10kg お米 米 送料無料 白米 おい**
-   - 価格: 2,270円 / ★4.43（1,869件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00u98go.72d3y965.g00u98go.72d3z84a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fricetanaka%2Fr-005%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fricetanaka%2Fi%2F10000004%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: まとめ買いしておくと楽になるもの。こどもたちにお腹いっぱい食べてもらいたいという思いから開発されました。食べ盛りの子がいるご家庭、節約したい方、質より量をお求めの方などにおすすめです。レビュー1,869件で★4.43。送料無料。
+2. **【公式】 シートマスク ザキュア エッセンスマスク 【 選べる 10種類 100枚セット】[ 美容液23g 全種コラーゲ**
+   - 価格: 3,700円 / ★4.72（3,683件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qecio.72d3y125.g00qecio.72d3zfc4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fapm24%2Fcure-mask-100%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fapm24%2Fi%2F10002365%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: お母さんへのプレゼント候補。予算5,000円以内で、レビューの良い物から選びました。レビュー3,683件で★4.72。3,700円。
 
-3. **楽天ランキング受賞 お米 10kg 送料無料 家計応援まんぷく米 5kg×2袋 安い 米 10キロ コメ 白米**
-   - 価格: 3,580円 / ★4.28（13,994件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00q08ho.72d3y7b6.g00q08ho.72d3z63f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fokomeabe%2F10000076%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fokomeabe%2Fi%2F10000076%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: ママ友の間でよく話題になるやつ。安心安全でリーズナブルなまんぷく米で、日本中をお腹いっぱいの笑顔にしたい。(2)割れてしまった米が多く含まれています。レビュー13,994件で★4.28。送料無料。
+3. **クーポンで最安2,680円~！★2025年楽天年間1位受賞★【新色登場】スマートウォッチ 通話機能付 1.96インチ大画**
+   - 価格: 2,980円 / ★4.4（39,139件） / 料率 2.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00ty4no.72d3ye2a.g00ty4no.72d3z692/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fenterb%2Fnexmate-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fenterb%2Fi%2F10000100%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: お母さんへのプレゼント候補。予算5,000円以内で、レビューの良い物から選びました。レビュー39,139件で★4.4。2,980円。
 
-4. **【早割10%OFF】おせち 2027 おせち料理 和洋中おせち 絢爛鳳凰 (けんらんほうおう) 8寸 3段重 52品入 **
-   - 価格: 15,980円 / ★4.39（1,416件） / 料率 4.0% / P10倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00q8n1o.72d3y205.g00q8n1o.72d3z45f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftokatsu-foods%2Fyorokobi2013%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftokatsu-foods%2Fi%2F10000209%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: まとめ買いしておくと楽になるもの。おすすめおせちすべてのおせちへ。レビュー1,416件で★4.39。10%OFF、ポイント10倍で実質14,382円、送料無料。
+4. **ウルオイートプレミアム モイスチャーハンドマスク P36枚【両手18回分】日本製 エビス ebis ハンドクリーム 以上**
+   - 価格: 2,640円 / ★4.42（795件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qjhio.72d3y00c.g00qjhio.72d3z0a0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmotebeauty%2Fsa-ebi-ms-u-00007%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmotebeauty%2Fi%2F10052743%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: お母さんへのプレゼント候補。予算5,000円以内で、レビューの良い物から選びました。レビュー795件で★4.42。2,640円。
 
-### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
+5. **【楽天1位】王様の足枕 レディース （スキンケア加工のカバーが付いた女性向け足枕） 日本製 足用まくら 足置き枕 足の枕**
+   - 価格: 4,500円 / ★4.62（221件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00px5io.72d3y4ae.g00px5io.72d3z3f4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Foyasumi%2F104-000132-20%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Foyasumi%2Fi%2F10166803%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: お母さんへのプレゼント候補。予算5,000円以内で、レビューの良い物から選びました。レビュー221件で★4.62。4,500円。
 
-- **子育て世帯のママ・パパのリピート候補**: 11日0:00～13日23:59まで / 令和7年産 国内産 ほほえみ米 5kg / 楽天ランキング受賞 お米 10kg / おせち 2027 おせち料理 和洋中おせち
+6. **誕生日ギフト ミニブーケ 花束 4色から選べる ミニ花束 花束 お祝い 花束 ブーケ プチギフト ギフト 可愛い 誕生日**
+   - 価格: 3,300円 / ★4.59（182件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00pzdeo.72d3yd4b.g00pzdeo.72d3zdb4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fla-floraison%2F10000911%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fla-floraison%2Fi%2F10000911%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: お母さんへのプレゼント候補。予算5,000円以内で、レビューの良い物から選びました。レビュー182件で★4.59。3,300円。
+
+7. **誕生日 プレゼント 【今治ストール＆小豆島オリーブソックス＆今治ミニタオルギフト】日本製 今治ガーゼマフラー 靴下 ソッ**
+   - 価格: 3,200円 / ★4.7（116件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qu5yo.72d3y833.g00qu5yo.72d3zc34/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F5sense%2Fgift-201805%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F5sense%2Fi%2F10000570%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: お母さんへのプレゼント候補。予算5,000円以内で、レビューの良い物から選びました。レビュー116件で★4.7。3,200円。
 
