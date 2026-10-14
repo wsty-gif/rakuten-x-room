@@ -10615,5 +10615,16 @@
   "review_count": 494,
   "review_average": 4.61,
   "genre_id": "303736"
+ },
+ {
+  "date": "2026-10-14T18:31:05",
+  "slot": "evening",
+  "kind": "engage",
+  "engage_key": "poll3",
+  "theme": "反応投稿（poll）",
+  "persona": "all",
+  "text": "5と0のつく日、意識して買ってる？",
+  "tweet_id": "",
+  "threads_id": "18139359928722554"
  }
 ]
