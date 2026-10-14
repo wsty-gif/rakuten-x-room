@@ -66,3 +66,29 @@
    - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qu5yo.72d3y833.g00qu5yo.72d3zc34/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F5sense%2Fgift-201805%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F5sense%2Fi%2F10000570%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
    - コメント: お母さんへのプレゼント候補。予算5,000円以内で、レビューの良い物から選びました。レビュー116件で★4.7。3,200円。
 
+## 12:01 秋の衣替え（開催中） × 30代女性（暮らし・時短・コスパ）
+
+1. **【46%OFF】【365日即日発送】 フォーマル ワンピース レディース ロング きれいめ セレモニー ストレッチ 洗え**
+   - 価格: 7,980円 / ★4.61（795件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qckho.72d3y335.g00qckho.72d3zb89/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsutekitaiken%2F240207%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsutekitaiken%2Fi%2F10001518%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 毎日の家事がちょっとラクになるやつ。上品でシンプルなフォルムをベースに、印象の異なる3つのデザインをご用意しました。長時間の着用でも快適さをキープし、毎日を軽やかに過ごせる一枚です。レビュー795件で★4.61。46%OFF。
+
+2. **【予約】10月中旬発送＼5,489円→早割10％OFF 4,829円／ エコ ダウン ジャケット レディース アウター **
+   - 価格: 4,829円 / ★4.52（96件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qreqo.72d3y086.g00qreqo.72d3zad7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frelax-casual-meirire%2F3123-943-39405003%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frelax-casual-meirire%2Fi%2F10005496%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 忙しい平日の味方。レビュー96件で★4.52。10%OFF、送料無料。
+
+3. **【14日20時までクーポンで3997円】 『着映えるレース』 トップス レディース ブラウス チュニック トレンド 30**
+   - 価格: 4,999円 / ★4.52（459件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00ugdso.72d3y82a.g00ugdso.72d3zdc5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fredial%2Fra58566%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fredial%2Fi%2F10000080%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 買い置きしておくと安心なもの。レビュー459件で★4.52。14日20時まで、送料無料。
+
+4. **【★楽天1位】セーラー服 ハロウィン コスプレ 仮装 3点セット 長袖 なんちゃって 制服 学生服 ハロウィン 衣装 レ**
+   - 価格: 3,980円 / ★4.61（494件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00t9kpo.72d3ydee.g00t9kpo.72d3z8a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fharu2ns%2Fsn100091%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fharu2ns%2Fi%2F10000642%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 忙しい平日の味方。参考サイズ手動測定、多少の誤差があります。楽天ランキング1位、レビュー494件で★4.61。3,980円。
+
+### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
+
+- **30代女性のリピート候補**: フォーマル ワンピース レディース ロング / 10月中旬発送 エコ ダウン ジャケット / 『着映えるレース』 トップス レディース / セーラー服 ハロウィン コスプレ 仮装
+
