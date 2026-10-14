@@ -92,3 +92,29 @@
 
 - **30代女性のリピート候補**: フォーマル ワンピース レディース ロング / 10月中旬発送 エコ ダウン ジャケット / 『着映えるレース』 トップス レディース / セーラー服 ハロウィン コスプレ 仮装
 
+## 20:16 今売れている物 × 20代男性（ガジェット・一人暮らし）
+
+1. **コロ脚 中が透けない 壁付き チェスト スリム/ワイド 幅34/54 奥行41.5/41.7 高さ66.1/86.1/1**
+   - 価格: 4,999円 / ★4.42（6,729件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00pui9o.72d3y639.g00pui9o.72d3zc91/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-kurashi%2Fs1u57%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-kurashi%2Fi%2F10048736%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: レビューを見て買う人が多いやつ。カラーも変更します。固定脚→コロ付きの脚となります。レビュー6,729件で★4.42。送料無料。
+
+2. **ボシュロム　メダリスト ワンデープラス　1箱30枚入 6箱　処方箋不要（90枚パック×2箱セットと同じ数量）**
+   - 価格: 5,704円 / ★4.66（15,681件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00s0sgo.72d3y74c.g00s0sgo.72d3z5d0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fotsuyocontactlens%2Fmedalist_1day_plus_a2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fotsuyocontactlens%2Fi%2F10000008%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: レビューを見て買う人が多いやつ。視力と勘違いをされる方がいらっしゃいますが、視力で度数を判断することが出来ません。楽天ランキング1位、レビュー15,681件で★4.66。5,704円。
+
+3. **【楽天1位受賞】リンべル カタログギフト 送料無料 ギフト 贈答 内祝い お礼 お祝い 御祝い 母の日 父の日 お中元 **
+   - 価格: 4,400円 / ★4.7（358件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qtf7o.72d3y9fc.g00qtf7o.72d3zcfb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fringbellshop%2Fippan_plus040%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fringbellshop%2Fi%2F10000055%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: レビューを見て買う人が多いやつ。楽天ランキング1位、レビュー358件で★4.7。送料無料。
+
+4. **オリオンビール Tシャツ 正規品 半袖 ホワイト ブラック ピンク ブルー イエロ ーパープル グッズ 白 黒 青 水色**
+   - 価格: 2,419円 / ★4.72（69件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00sw5vo.72d3ya50.g00sw5vo.72d3z45e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fokiaji%2F10000621%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fokiaji%2Fi%2F10000621%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 一人暮らしの部屋に1つあると便利。小さいサイズから大きいサイズまでご用意しました・正規ライセンス品です。沖縄ご当地Tシャツです。レビュー69件で★4.72。送料無料。
+
+### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
+
+- **20代男性のリピート候補**: コロ脚 中が透けない 壁付き チェスト / ボシュロム メダリスト ワンデープラス / リンべル カタログギフト ギフト 贈答 / オリオンビール Tシャツ 正規品 半袖
+
