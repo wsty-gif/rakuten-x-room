@@ -10759,7 +10759,8 @@
   "shop_name": "ABC-MART楽天市場店",
   "review_count": 1231,
   "review_average": 4.61,
-  "genre_id": "206878"
+  "genre_id": "206878",
+  "instagram_story_id": "18135281443647779"
  },
  {
   "date": "2026-10-15T07:01:50",
@@ -11031,5 +11032,129 @@
   "review_count": 3545,
   "review_average": 4.53,
   "genre_id": "208375"
+ },
+ {
+  "date": "2026-10-15T12:01:48",
+  "slot": "noon",
+  "theme": "秋の衣替え（開催中） × 30代女性（暮らし・時短・コスパ）",
+  "persona": "30s_woman",
+  "item_code": "ajinomoto:10000623",
+  "item_name": "味の素「クノール 贅沢野菜」2026 今夏採れたてヌーヴォーコーン 北海道スイートコーン 15袋入｜ AJINOMOTO カップスープ コーンスープ 朝食 昼食",
+  "price": 4244,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tnaso.72d3ycbf.g00tnaso.72d3zaf7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fajinomoto%2Fnb98%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fajinomoto%2Fi%2F10000623%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "#PR 家事、あと10分短くしたい人へ\n味の素「クノール 贅沢野菜」2026\n★4.56・レビュー310件\n4,244円（P10倍で実質3,819円）\n使ってる人いたら感想ください\n#楽天購入品\n▶ROOMはプロフから",
+  "tweet_id": "",
+  "threads_id": "17951308860277109",
+  "room_done": false,
+  "image": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/ajinomoto/cabinet/prd/65/r4901001980765_2026.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/ajinomoto/cabinet/prd/65/r4901001980765_2026.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/ajinomoto/cabinet/prd/65/z4901001980765_26.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/ajinomoto/cabinet/prd/65/z4901001980765_26_2n.jpg?_ex=600x600"
+  ],
+  "shop_name": "味の素グループ公式ショップ",
+  "review_count": 310,
+  "review_average": 4.56,
+  "genre_id": "100276",
+  "instagram_id": "17903559849657056",
+  "instagram_story_id": "18080046515377843"
+ },
+ {
+  "date": "2026-10-15T12:01:49",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "秋の衣替え（開催中） × 30代女性（暮らし・時短・コスパ）",
+  "persona": "30s_woman",
+  "item_code": "forc-wear:10000637",
+  "item_name": "【マラソン開始限定！最大30％OFFクーポン 15日23:59迄】キーネック スナップボタン カーディガン ニットカーディガン 柔らか 羽織 長袖 重ね着 マッ",
+  "price": 5940,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00u4zuo.72d3y04f.g00u4zuo.72d3z896/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fforc-wear%2F902091%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fforc-wear%2Fi%2F10000637%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。買い置きしておくと安心なもの。レビュー52件で★4.58。30%OFF。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/forc-wear/cabinet/202409/902091/902091_01.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/forc-wear/cabinet/202409/902091/902091_01.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/forc-wear/cabinet/202409/902091/902091_02.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/forc-wear/cabinet/202409/902091/902091_03.jpg?_ex=600x600"
+  ],
+  "shop_name": "for／c（フォーシー）",
+  "review_count": 52,
+  "review_average": 4.58,
+  "genre_id": "403871"
+ },
+ {
+  "date": "2026-10-15T12:01:49",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "秋の衣替え（開催中） × 30代女性（暮らし・時短・コスパ）",
+  "persona": "30s_woman",
+  "item_code": "kharis:10005255",
+  "item_name": "【10/15　10時〜24H限定：最安1枚960円！2枚購入クーポンで】 Tシャツ 長袖 ロンT 白 レディース ベーシック 定番 無地 フレンチスリーブ 定番",
+  "price": 1260,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00sys1o.72d3yfae.g00sys1o.72d3zefc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkharis%2Ftp2308-3754%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkharis%2Fi%2F10005255%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。忙しい平日の味方。シンプルだからこそ、毎日の何を着よう。レビュー5,373件で★4.3。1,260円。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/kharis/cabinet/2026/13829947/3754-main-260903-k.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/kharis/cabinet/2026/13829947/3754-main-260903-k.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/kharis/cabinet/2026/13156508/3754-01-260421.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/kharis/cabinet/2026/13689348/3754-rv-260826.jpg?_ex=600x600"
+  ],
+  "shop_name": "KHARISカリス楽天市場店",
+  "review_count": 5373,
+  "review_average": 4.3,
+  "genre_id": "303656"
+ },
+ {
+  "date": "2026-10-15T12:01:49",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "秋の衣替え（開催中） × 30代女性（暮らし・時短・コスパ）",
+  "persona": "30s_woman",
+  "item_code": "forc-wear:10000442",
+  "item_name": "【マラソン 20％OFFクーポン 21日9:59迄】【yuki×for/cコラボ】速乾 UVカット ダブルポケット シャツ レディース シワになりにくい リサイ",
+  "price": 4950,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00u4zuo.72d3y04f.g00u4zuo.72d3z896/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fforc-wear%2F905046%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fforc-wear%2Fi%2F10000442%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。買い置きしておくと安心なもの。サッとたためて持ち運びにも便利です。速乾UVカットダブルポケットシャツ大人の抜け感シャツに新色が登場。レビュー586件で★4.22。20%OFF。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/forc-wear/cabinet/202403/905046/905046-sum.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/forc-wear/cabinet/202403/905046/905046-sum.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/forc-wear/cabinet/202403/905046/905046-2.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/forc-wear/cabinet/202403/905046/905046-3.jpg?_ex=600x600"
+  ],
+  "shop_name": "for／c（フォーシー）",
+  "review_count": 586,
+  "review_average": 4.22,
+  "genre_id": "206471"
+ },
+ {
+  "date": "2026-10-15T12:01:49",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "秋の衣替え（開催中） × 30代女性（暮らし・時短・コスパ）",
+  "persona": "30s_woman",
+  "item_code": "ashblond:10005135",
+  "item_name": "＼クーポンご利用で7,180円〜／〜53%OFF スーツ レディース セットアップ 大きいサイズ ビジネス 洗える ストレッチ パンツスーツ ロング 秋 冬 3",
+  "price": 7480,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pvtko.72d3y819.g00pvtko.72d3z538/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fashblond%2Fj5012%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fashblond%2Fi%2F10005135%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。忙しい平日の味方。ビジネススーツの定番として、飽きのこないきれいめデザイン。レビュー2,818件で★4.23。53%OFF。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/ashblond/cabinet/item-mob/j5012-mob-a.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/ashblond/cabinet/item-mob/j5012-mob-a.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/ashblond/cabinet/j-web2/j5012-a2-1002.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/ashblond/cabinet/j-web2/j5012-p1-0928f.jpg?_ex=600x600"
+  ],
+  "shop_name": "アッドルージュ",
+  "review_count": 2818,
+  "review_average": 4.23,
+  "genre_id": "110724"
  }
 ]

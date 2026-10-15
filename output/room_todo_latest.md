@@ -71,3 +71,34 @@
    - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00ujoeo.72d3ycf2.g00ujoeo.72d3z310/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgmy-japan%2Fs-sqt1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgmy-japan%2Fi%2F10000041%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
    - コメント: お父さんへのプレゼント候補。予算5,000円以内で、レビューの良い物から選びました。レビュー3,545件で★4.53。2,580円。
 
+## 12:01 秋の衣替え（開催中） × 30代女性（暮らし・時短・コスパ）
+
+1. **味の素「クノール 贅沢野菜」2026 今夏採れたてヌーヴォーコーン 北海道スイートコーン 15袋入｜ AJINOMOTO**
+   - 価格: 4,244円 / ★4.56（310件） / 料率 4.0% / P10倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00tnaso.72d3ycbf.g00tnaso.72d3zaf7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fajinomoto%2Fnb98%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fajinomoto%2Fi%2F10000623%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。買い置きしておくと安心なもの。レビュー310件で★4.56。ポイント10倍で実質3,819円。
+
+2. **【マラソン開始限定！最大30％OFFクーポン 15日23:59迄】キーネック スナップボタン カーディガン ニットカーデ**
+   - 価格: 5,940円 / ★4.58（52件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00u4zuo.72d3y04f.g00u4zuo.72d3z896/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fforc-wear%2F902091%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fforc-wear%2Fi%2F10000637%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。買い置きしておくと安心なもの。レビュー52件で★4.58。30%OFF。
+
+3. **【10/15　10時〜24H限定：最安1枚960円！2枚購入クーポンで】 Tシャツ 長袖 ロンT 白 レディース ベーシ**
+   - 価格: 1,260円 / ★4.3（5,373件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00sys1o.72d3yfae.g00sys1o.72d3zefc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkharis%2Ftp2308-3754%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkharis%2Fi%2F10005255%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。忙しい平日の味方。シンプルだからこそ、毎日の何を着よう。レビュー5,373件で★4.3。1,260円。
+
+4. **【マラソン 20％OFFクーポン 21日9:59迄】【yuki×for/cコラボ】速乾 UVカット ダブルポケット シャ**
+   - 価格: 4,950円 / ★4.22（586件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00u4zuo.72d3y04f.g00u4zuo.72d3z896/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fforc-wear%2F905046%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fforc-wear%2Fi%2F10000442%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。買い置きしておくと安心なもの。サッとたためて持ち運びにも便利です。速乾UVカットダブルポケットシャツ大人の抜け感シャツに新色が登場。レビュー586件で★4.22。20%OFF。
+
+5. **＼クーポンご利用で7,180円〜／〜53%OFF スーツ レディース セットアップ 大きいサイズ ビジネス 洗える スト**
+   - 価格: 7,480円 / ★4.23（2,818件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00pvtko.72d3y819.g00pvtko.72d3z538/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fashblond%2Fj5012%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fashblond%2Fi%2F10005135%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。忙しい平日の味方。ビジネススーツの定番として、飽きのこないきれいめデザイン。レビュー2,818件で★4.23。53%OFF。
+
+### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
+
+- **30代女性のリピート候補**: 味の素「クノール 贅沢野菜」2026 / キーネック スナップボタン カーディガン / Tシャツ 長袖 ロンT レディース / 速乾 UVカット ダブルポケット シャツ / スーツ レディース セットアップ
+
