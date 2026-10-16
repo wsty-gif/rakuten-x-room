@@ -66,3 +66,29 @@
    - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00st6lo.72d3ya1b.g00st6lo.72d3z52d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanshin-kaigo%2F10000003%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanshin-kaigo%2Fi%2F10000005%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
    - コメント: 祖父母へのプレゼント候補。予算5,000円以内で、レビューの良い物から選びました。レビュー185件で★4.74。3,040円。
 
+## 12:01 秋の衣替え（開催中） × 30代女性（暮らし・時短・コスパ）
+
+1. **カラコン ワンデー【もれなく1箱無料】1箱あたり1,144円 ReVIA 1day COLOR 1箱 10枚 入/3箱合**
+   - 価格: 3,432円 / ★4.72（30,492件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qssmo.72d3y41a.g00qssmo.72d3z9ac/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcandymagic%2Frv-100%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcandymagic%2Fi%2F10000575%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 毎日の家事がちょっとラクになるやつ。レビュー30,492件で★4.72。送料無料。
+
+2. **【今だけ20％OFFクーポン】10/17(土)1:59迄SALE ※花柄対象外《ラクシアスリープ》ナイトブラワンピース **
+   - 価格: 7,390円 / ★4.58（4,871件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qztso.72d3yaf8.g00qztso.72d3za3d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftu-hacci%2F8816%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftu-hacci%2Fi%2F10005079%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 忙しい平日の味方。上品なレースデザインはそのままに、胸元を高く谷間が見。レビュー4,871件で★4.58。20%OFF（10/171:59まで）、送料無料。
+
+3. **【特別価格！】 タフT ロンT レディース トップス 無地 長袖 綿100 Tシャツ ボートネック カットソー バスクT**
+   - 価格: 2,673円 / ★4.31（2,047件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qllxo.72d3y0f6.g00qllxo.72d3z222/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fantiqua-a%2Fza-00024w%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fantiqua-a%2Fi%2F10018839%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 忙しい平日の味方。形状はシンプルながらもゆとりがあり、1枚でも重ね着にも対応可能。着るだけで心ときめく。レビュー2,047件で★4.31。送料無料。
+
+4. **【跳べる30％OFFクーポン使用で5,880円】【累計180万足突破】 跳べるパンプス 痛くない 走れる 歩きやすい オ**
+   - 価格: 8,400円 / ★4.46（823件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00t0o9o.72d3y2f3.g00t0o9o.72d3z62f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwakaru%2Fr3210%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwakaru%2Fi%2F10003719%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 忙しい平日の味方。華奢なビットモチーフやフラット過ぎないヒールできちんと感のある印象に。レビュー823件で★4.46。30%OFF、送料無料。
+
+### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
+
+- **30代女性のリピート候補**: カラコン ワンデー ReVIA 1day / 10 17 花柄対象外 ナイトブラワンピース / タフT ロンT レディース トップス 無地 / 跳べるパンプス 痛くない 走れる 歩きやすい
+
