@@ -11876,5 +11876,113 @@
   "text": "セールのたびに必ず買うもの、ありますか？\nうちは米と炭酸水が定番になりつつあります。",
   "tweet_id": "",
   "threads_id": "18097860299549784"
+ },
+ {
+  "date": "2026-10-16T20:16:26",
+  "slot": "night",
+  "theme": "今売れている物 × 40代男性（家族・晩酌・車）",
+  "persona": "40s_man",
+  "item_code": "gryps-:10014738",
+  "item_name": "【10年保証】【日本未発売】CASIO STANDARD MEN カシオ スタンダード MQ-24 腕時計 時計 ブランド メンズ レディース キッズ 子供 男",
+  "price": 2050,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rb8ho.72d3y0f2.g00rb8ho.72d3zc56/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgryps-%2Fs-mq24%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgryps-%2Fi%2F10014738%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 2.0,
+  "text": "#PR 家族みんなが使ってる定番\nCASIO STANDARD MEN カシオ\n★4.71・レビュー17,509件\n2,050円・送料無料\n使ってる人いたら感想ください\n#楽天購入品\n▶ROOMはプロフから",
+  "tweet_id": "",
+  "threads_id": "17938416261392688",
+  "room_done": false,
+  "image": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/gryps-/cabinet/series/mq-24_1.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/gryps-/cabinet/series/mq-24_1.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/gryps-/cabinet/series/mq-24_2.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/gryps-/cabinet/series/mq-24_3.jpg?_ex=600x600"
+  ],
+  "shop_name": "つきのとけいてん",
+  "review_count": 17509,
+  "review_average": 4.71,
+  "genre_id": "301981",
+  "instagram_id": "18099143789552810",
+  "instagram_story_error": "Instagram 公開失敗 400: {\"error\":{\"message\":\"The requested resource does not exist\",\"type\":\"OAuthException\",\"code\":24,\"error_subcode\":2207006,\"is_transient\":false,\"error_user_title\":\"Media Not Found\",\"err"
+ },
+ {
+  "date": "2026-10-16T20:16:27",
+  "kind": "room",
+  "slot": "night",
+  "theme": "今売れている物 × 40代男性（家族・晩酌・車）",
+  "persona": "40s_man",
+  "item_code": "zakkashop-kokokara:10000000",
+  "item_name": "＼本日P10倍&2点目35%OFFクーポン／【 シリーズ12入荷】【楽天1位】アップルウォッチ カバー apple watch se 8 7 ケース 防水 45",
+  "price": 1000,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00uex5o.72d3yb97.g00uex5o.72d3z712/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fzakkashop-kokokara%2Fcompass1675914162%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fzakkashop-kokokara%2Fi%2F10000000%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 2.0,
+  "text": "週末のお楽しみ用に。楽天ランキング1位、レビュー7,025件で★4.51。35%OFF、ポイント10倍で実質900円。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/zakkashop-kokokara/cabinet/09727917/compass1732015942.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/zakkashop-kokokara/cabinet/09727917/compass1732015942.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/zakkashop-kokokara/cabinet/09727917/compass1786330791.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/zakkashop-kokokara/cabinet/compass1720873748.jpg?_ex=600x600"
+  ],
+  "shop_name": "雑貨のお店ココカラ 楽天市場店",
+  "review_count": 7025,
+  "review_average": 4.51,
+  "genre_id": "302181"
+ },
+ {
+  "date": "2026-10-16T20:16:27",
+  "kind": "room",
+  "slot": "night",
+  "theme": "今売れている物 × 40代男性（家族・晩酌・車）",
+  "persona": "40s_man",
+  "item_code": "annnara:10000108",
+  "item_name": "＼P11倍限定＋最大半額有！／アップルウォッチ バンド Apple Watch マグネット シリコン Apple Watch ベルト Series12 11 1",
+  "price": 1580,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00uhfao.72d3y84e.g00uhfao.72d3zc7e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fannnara%2Fbd1-qcx%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fannnara%2Fi%2F10000108%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 2.0,
+  "text": "まとめ買い向き。特徴内蔵マグネットにより、簡単に長さ調整が可能。軽量で耐久性に優れ、長時間でも快適に装着できます。レビュー2,463件で★4.56。半額、ポイント11倍で実質1,406円。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/annnara/cabinet/09971386/11282153/bd1qcx.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/annnara/cabinet/09971386/11282153/bd1qcx.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/annnara/cabinet/09971386/11282153/bd1qcxxt3.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/annnara/cabinet/09971386/11282153/bd1-b03-sv1.jpg?_ex=600x600"
+  ],
+  "shop_name": "AnNara",
+  "review_count": 2463,
+  "review_average": 4.56,
+  "genre_id": "302145"
+ },
+ {
+  "date": "2026-10-16T20:16:27",
+  "kind": "room",
+  "slot": "night",
+  "theme": "今売れている物 × 40代男性（家族・晩酌・車）",
+  "persona": "40s_man",
+  "item_code": "sawaicoffee-tea:10001136",
+  "item_name": "澤井珈琲｜送料無料 コーヒー コーヒー豆 コーヒー粉 珈琲豆 豆のまま \"グルメ大賞9度受賞の1番選ばれるコーヒーセット\" 1kg 2kg 3kg 抱えきれない",
+  "price": 2788,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00powbo.72d3y10c.g00powbo.72d3zfbe/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsawaicoffee-tea%2Fac-sale-1960%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsawaicoffee-tea%2Fi%2F10001136%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "家族みんなで使える定番。また、コクと香りのバランスが良く、そのまま飲んでも美味しくいただけます。たっぷりな量で、コストパフォーマンスも抜群です。レビュー50,310件で★4.7。ポイント2倍で実質2,732円、送料無料。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/sawaicoffee-tea/cabinet/thum/ff26/ac-sale-1960_01.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/sawaicoffee-tea/cabinet/thum/ff26/ac-sale-1960_01.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/sawaicoffee-tea/cabinet/sptop/mth/261016mth_cp_02.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/sawaicoffee-tea/cabinet/sptop/mth/261014mth_1440_1440.jpg?_ex=600x600"
+  ],
+  "shop_name": "澤井珈琲Beans＆Leaf",
+  "review_count": 50310,
+  "review_average": 4.7,
+  "genre_id": "201402"
+ },
+ {
+  "date": "2026-10-16T20:24:14",
+  "kind": "tiktok",
+  "slot": "night",
+  "theme": "TikTokスライド",
+  "persona": "all",
+  "text": "おじいちゃん・おばあちゃんへのプレゼント🎁\n予算5,000円で、レビュー評価4.2以上のものだけ7つ🎁\n\n① フランクネス｜写真入り プレゼント 敬老の日 孫から 名入れ ¥4,000\n② フラワーギフト花on｜花 プレゼント 誕生日 生花 バスケット ¥3,780\n③ レッグウォーマー｜ダウン ロング 足元 あったかグッズ メンズ ¥3,080\n④ シニア｜婦人服 日本製 レディース 70代 8"
  }
 ]

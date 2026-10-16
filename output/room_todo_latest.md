@@ -92,3 +92,29 @@
 
 - **30代女性のリピート候補**: カラコン ワンデー ReVIA 1day / 10 17 花柄対象外 ナイトブラワンピース / タフT ロンT レディース トップス 無地 / 跳べるパンプス 痛くない 走れる 歩きやすい
 
+## 20:16 今売れている物 × 40代男性（家族・晩酌・車）
+
+1. **【10年保証】【日本未発売】CASIO STANDARD MEN カシオ スタンダード MQ-24 腕時計 時計 ブラン**
+   - 価格: 2,050円 / ★4.71（17,509件） / 料率 2.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00rb8ho.72d3y0f2.g00rb8ho.72d3zc56/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgryps-%2Fs-mq24%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgryps-%2Fi%2F10014738%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: まとめ買い向き。すべての特徴を高い次元でクリアーしています。ラウンド型ケースとストレートなベルトの組み合わせにも無駄がありません。レビュー17,509件で★4.71。送料無料。
+
+2. **＼本日P10倍&2点目35%OFFクーポン／【 シリーズ12入荷】【楽天1位】アップルウォッチ カバー apple wa**
+   - 価格: 1,000円 / ★4.51（7,025件） / 料率 2.0% / P10倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00uex5o.72d3yb97.g00uex5o.72d3z712/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fzakkashop-kokokara%2Fcompass1675914162%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fzakkashop-kokokara%2Fi%2F10000000%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 週末のお楽しみ用に。楽天ランキング1位、レビュー7,025件で★4.51。35%OFF、ポイント10倍で実質900円。
+
+3. **＼P11倍限定＋最大半額有！／アップルウォッチ バンド Apple Watch マグネット シリコン Apple Wat**
+   - 価格: 1,580円 / ★4.56（2,463件） / 料率 2.0% / P11倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00uhfao.72d3y84e.g00uhfao.72d3zc7e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fannnara%2Fbd1-qcx%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fannnara%2Fi%2F10000108%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: まとめ買い向き。特徴内蔵マグネットにより、簡単に長さ調整が可能。軽量で耐久性に優れ、長時間でも快適に装着できます。レビュー2,463件で★4.56。半額、ポイント11倍で実質1,406円。
+
+4. **澤井珈琲｜送料無料 コーヒー コーヒー豆 コーヒー粉 珈琲豆 豆のまま "グルメ大賞9度受賞の1番選ばれるコーヒーセット**
+   - 価格: 2,788円 / ★4.7（50,310件） / 料率 4.0% / P2倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00powbo.72d3y10c.g00powbo.72d3zfbe/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsawaicoffee-tea%2Fac-sale-1960%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsawaicoffee-tea%2Fi%2F10001136%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 家族みんなで使える定番。また、コクと香りのバランスが良く、そのまま飲んでも美味しくいただけます。たっぷりな量で、コストパフォーマンスも抜群です。レビュー50,310件で★4.7。ポイント2倍で実質2,732円、送料無料。
+
+### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
+
+- **40代男性のリピート候補**: CASIO STANDARD MEN カシオ / アップルウォッチ カバー apple / アップルウォッチ バンド Apple / 澤井珈琲 コーヒー コーヒー豆 コーヒー粉
+
