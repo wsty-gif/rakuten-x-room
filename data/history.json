@@ -12358,5 +12358,16 @@
   "review_count": 429,
   "review_average": 4.49,
   "genre_id": "110724"
+ },
+ {
+  "date": "2026-10-17T18:31:10",
+  "slot": "evening",
+  "kind": "engage",
+  "engage_key": "poll6",
+  "theme": "反応投稿（poll）",
+  "persona": "all",
+  "text": "楽天のお買い物、スマホ？PC？",
+  "tweet_id": "",
+  "threads_id": "18116744957059389"
  }
 ]
