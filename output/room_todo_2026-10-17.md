@@ -66,3 +66,29 @@
    - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00rfcvo.72d3y0fe.g00rfcvo.72d3ze35/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpetitecloset%2F8779-12%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpetitecloset%2Fi%2F10000266%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
    - コメント: 友達へのプレゼント候補。予算3,000円以内で、レビューの良い物から選びました。レビュー2,377件で★4.6。1,800円。
 
+## 12:01 秋の衣替え（開催中） × 30代女性（暮らし・時短・コスパ）
+
+1. **【1種類を選べる】メリーズ エアスルー パンツ 梱販販売用(3袋入×1箱)【メリーズ】[おむつ オムツ 紙おむつ 紙オム**
+   - 価格: 6,460円 / ★4.83（4,092件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00pzd4o.72d3yfe6.g00pzd4o.72d3zc1c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetbaby%2F404758%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnetbaby%2Fi%2F10035957%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 忙しい平日の味方。ムレがスル〜ットリプル安心設計でモレ0へ。赤ちゃんのおしっこの量には個人差があります。レビュー4,092件で★4.83。6,460円。
+
+2. **【感謝の40%OFF！】ショーコラ23周年記念BOX(送料無料)[11/9着迄] バニラビーンズ ショーコラ プレゼント**
+   - 価格: 4,490円 / ★4.69（599件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00pjsxo.72d3y81c.g00pjsxo.72d3z305/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvanilla%2Fch-ps-k-6%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fvanilla%2Fi%2F10003321%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 忙しい平日の味方。レビュー599件で★4.69。40%OFF（11/9まで）、送料無料。
+
+3. **ナイキ（NIKE）（レディース）スニーカー エアマックス エクシー ブラック CD5432-003 スポーツ カジュアル**
+   - 価格: 6,990円 / ★4.26（211件） / 料率 4.0% / P10倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00radho.72d3yeea.g00radho.72d3zd7c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsupersportsxebio%2F107271160011%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsupersportsxebio%2Fi%2F10667345%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 忙しい平日の味方。アイコニックなデザインを現代的にアレンジ。レビュー211件で★4.26。ポイント10倍で実質6,291円。
+
+4. **＼15％OFFクーポン配布中／《サイズ交換無料》スーツ レディース パンツスーツ パンツ セットアップ 洗える 7分袖 **
+   - 価格: 7,900円 / ★4.49（429件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00t155o.72d3yb9d.g00t155o.72d3zc32/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnissen-rla%2Fzzy4g20c0080%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnissen-rla%2Fi%2F10003316%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 毎日の家事がちょっとラクになるやつ。仕立てサイズとは、実際に商品を測った時のサイズのことです。ウエストサイズはゴムを縮めた状態での表示となります。レビュー429件で★4.49。15%OFF。
+
+### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
+
+- **30代女性のリピート候補**: メリーズ エアスルー パンツ 梱販販売用 / ショーコラ23周年記念BOX バニラビーンズ / ナイキ スニーカー エアマックス エクシー / スーツ レディース パンツスーツ パンツ
+
