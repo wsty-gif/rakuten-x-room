@@ -66,3 +66,29 @@
    - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00t1cyo.72d3yce0.g00t1cyo.72d3z999/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fr-aoki%2F2312001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fr-aoki%2Fi%2F10000523%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
    - コメント: 彼氏へのプレゼント候補。予算2万円以内で、レビューの良い物から選びました。レビュー1,724件で★4.45。7,990円。
 
+## 12:01 秋の衣替え（開催中） × 30代女性（暮らし・時短・コスパ）
+
+1. **コンタクトレンズ ワンデー 近視 遠視 選べる【2箱4箱】 TeAmo CLEAR 1DAY UV 低含水 高含水 ティ**
+   - 価格: 1,986円 / ★4.56（15,084件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00ram0o.72d3ycc4.g00ram0o.72d3z469/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fteamo%2Fpure_clear_1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fteamo%2Fi%2F10001200%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 買い置きしておくと安心なもの。瞳に合わせて選べる2種類の含水率。まとめ買いでよりお得に商品をお求めいただけます。レビュー15,084件で★4.56。送料無料。
+
+2. **＼10/22まで 超目玉 セール 4,499円⇒ 60%OFF 1,799円 ／ 【 楽天ジャンル1位獲得 】《java**
+   - 価格: 1,799円 / ★4.47（1,041件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qat4o.72d3y4ac.g00qat4o.72d3z933/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fclassical%2Fjv1160002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fclassical%2Fi%2F10015857%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 買い置きしておくと安心なもの。商品説明しなやかで、心地のいい肌触りがクセになる。シンプルだけじゃない、ダンボールニットプルオーバー。レビュー1,041件で★4.47。60%OFF（10/22まで）。
+
+3. **【タイムセール20％OFF】返品交換不可 【メール便可】 日本製 綿100％ Tシャツ 七分袖 無地 レディース カット**
+   - 価格: 2,816円 / ★4.48（1,471件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00r81yo.72d3y784.g00r81yo.72d3zce3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-ecoloco%2Fe2023%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-ecoloco%2Fi%2F10002984%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 忙しい平日の味方。さらりとした優しい肌ざわりです。程よいゆとりと七分丈のラグラン袖で動きやすい。レビュー1,471件で★4.48。20%OFF。
+
+4. **【交換無料イベント】 送料無料 パンプス ぺたんこ 2way スクエアトゥ バブーシュ 痛くない 歩きやすい 走れる 楽**
+   - 価格: 3,799円 / ★4.33（538件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00pqgeo.72d3y43d.g00pqgeo.72d3zdf6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Foutletshoes%2F11289%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Foutletshoes%2Fi%2F10016805%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 忙しい平日の味方。レビュー538件で★4.33。送料無料。
+
+### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
+
+- **30代女性のリピート候補**: コンタクトレンズ ワンデー 近視 遠視 / 10 22まで 超目玉 トップス レディース / 返品交換不可 日本製 Tシャツ 七分袖 無地 / パンプス ぺたんこ 2way スクエアトゥ
+
