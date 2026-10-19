@@ -92,3 +92,29 @@
 
 - **30代女性のリピート候補**: 喪服 レディース ロング ブラックフォーマル / キャミソール カップ付き ベロア 特許取得 / プリーツ風ハイネックニットトップス / スーツ レディース セットアップ 結婚式
 
+## 20:16 今売れている物 × 30代男性（健康・効率化・家電）
+
+1. **COSORI DCモーター搭載 ノンフライヤー 6L 大容量 95%オイルカット 最高230℃まで 360°熱風循環 ヘ**
+   - 価格: 19,980円 / ★4.75（814件） / 料率 2.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00u8ebo.72d3ycfc.g00u8ebo.72d3z9b4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvesync%2Fkaapafcsnjp0106y%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fvesync%2Fi%2F10000022%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 時短になる系。コンパクトで収納しやすく、キッチンに置いてもインテリアとして映えます。はじめてのかたでも簡単に使えるシンプルな操作で、ストレスフリーな調理を実現します。レビュー814件で★4.75。19,980円。
+
+2. **【P10倍 10/19 9:59迄】 2026年モデル 傘みたいに広げるだけ パッとサッとサンシェード キューブ フルク**
+   - 価格: 8,490円 / ★4.27（886件） / 料率 4.0% / P10倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00pui9o.72d3y639.g00pui9o.72d3zc91/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-kurashi%2F42577%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-kurashi%2Fi%2F10030558%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 時短になる系。レビュー886件で★4.27。10/199:59まで、ポイント10倍で実質7,641円、送料無料。
+
+3. **【交換往復送料無料】ミズノ MIZUNO 野球 ユニフォームパンツ ジュニア 選べる3タイプ 練習着 レギュラー ショー**
+   - 価格: 3,598円 / ★4.77（5,363件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00puy0o.72d3yfe1.g00puy0o.72d3zfcf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbbtown%2Fmiz-pan-jr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbbtown%2Fi%2F10086465%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: スペック比較して残ったやつ。こすり洗いを少なくできるから、日頃の洗濯も時短に。丈夫で、さらにストレッチ性もUP。レビュー5,363件で★4.77。送料無料。
+
+4. **【交換往復送料無料】 野球 ZETT ゼット ジュニア用 ユニフォームパンツ 練習着パンツ レギュラー ショートフィット**
+   - 価格: 2,799円 / ★4.72（1,166件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00puy0o.72d3yfe1.g00puy0o.72d3zfcf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbbtown%2Fbu2282p-bu2282cp%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbbtown%2Fi%2F10189698%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: スペック比較して残ったやつ。タテヨコにバランスよく伸び動きやすい。防汚加工により、強固な汚れも洗濯で落ちやすい。レビュー1,166件で★4.72。送料無料。
+
+### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
+
+- **30代男性のリピート候補**: COSORI DCモーター搭載 / 2026年モデル 傘みたいに広げるだけ / ミズノ MIZUNO 野球 / 野球 ZETT ゼット ジュニア用
+
