@@ -66,3 +66,29 @@
    - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00ts6xo.72d3yebe.g00ts6xo.72d3z7d1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwavewave%2Fwave002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwavewave%2Fi%2F10000010%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
    - コメント: 彼女へのプレゼント候補。予算2万円以内で、レビューの良い物から選びました。レビュー2,718件で★4.58。13,200円。
 
+## 12:01 秋の衣替え（開催中） × 30代女性（暮らし・時短・コスパ）
+
+1. **＼今だけ9,900円／【58%off〜】喪服 レディース ロング ブラックフォーマル 前明きオールシーズン アンサンブル**
+   - 価格: 9,900円 / ★4.76（371件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00rhlao.72d3y542.g00rhlao.72d3zeff/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftulip-minoya%2Fm452-453%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftulip-minoya%2Fi%2F10000643%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 買い置きしておくと安心なもの。レビュー371件で★4.76。58%OFF。
+
+2. **【最大1000円クーポン】 【26秋冬商品】 キャミソール カップ付き ベロア 特許取得 ブラトップ 育乳 盛れる 締め**
+   - 価格: 3,990円 / ★4.8（44件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00rqlzo.72d3y57d.g00rqlzo.72d3z1ea/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbambi-water%2Fcupin_vc%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbambi-water%2Fi%2F10000169%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 忙しい平日の味方。2：前傾姿勢のまま、脇の部分を持ち、背肉・脇肉をカップに入れ込みます。3：身体を起こしバストを引き上げ、あふれたお肉を脇からカップに寄せます。レビュー44件で★4.8。送料無料。
+
+3. **【10/18　50%OFF！2点購入クーポンで】プリーツ風ハイネックニットトップス レディース ニット トップス 長袖 **
+   - 価格: 4,690円 / ★4.26（178件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00rxhko.72d3yd9c.g00rxhko.72d3z6c8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmountaingoat%2Fto-k009-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmountaingoat%2Fi%2F10013448%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 忙しい平日の味方。立体感のある袖で差をつける。上品さと華やかさを兼ね備えた大人ニット。レビュー178件で★4.26。50%OFF。
+
+4. **＼クーポンご利用で7,191円／【53%OFF】スーツ レディース セットアップ 結婚式 お呼ばれ パンツスーツ セレモ**
+   - 価格: 7,990円 / ★4.49（882件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00pvtko.72d3y819.g00pvtko.72d3z538/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fashblond%2Ft5306%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fashblond%2Fi%2F10005424%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 買い置きしておくと安心なもの。カジュアル過ぎないストレッチ素材でありながら、軽量なのでストレスレスな着心地。伸縮自在なストレッチ素材の上下セット。レビュー882件で★4.49。53%OFF。
+
+### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
+
+- **30代女性のリピート候補**: 喪服 レディース ロング ブラックフォーマル / キャミソール カップ付き ベロア 特許取得 / プリーツ風ハイネックニットトップス / スーツ レディース セットアップ 結婚式
+
