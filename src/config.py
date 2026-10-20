@@ -144,6 +144,8 @@ class Settings:
     x_attach_image: bool = field(default_factory=lambda: _env("X_ATTACH_IMAGE", "1") == "1")
     # X への投稿は停止中（API が従量課金のため）。再開するときだけ X_ENABLED=1 にする
     x_enabled: bool = field(default_factory=lambda: _env("X_ENABLED", "0") == "1")
+    # TikTok 用の通知（スライド保存の通知・ギフト企画の ROOM 追加通知）は停止中。再開するときだけ TIKTOK_NOTIFY=1
+    tiktok_notify: bool = field(default_factory=lambda: _env("TIKTOK_NOTIFY", "0") == "1")
 
     threads_access_token: str = field(default_factory=lambda: _env("THREADS_ACCESS_TOKEN"))
     threads_user_id: str = field(default_factory=lambda: _env("THREADS_USER_ID"))
@@ -163,15 +165,13 @@ class Settings:
     anthropic_api_key: str = field(default_factory=lambda: _env("ANTHROPIC_API_KEY"))
 
     posts_per_run: int = field(default_factory=lambda: _env_int("POSTS_PER_RUN", 1))
-    no_repeat_days: int = field(default_factory=lambda: _env_int("NO_REPEAT_DAYS", 30))
     min_price: int = field(default_factory=lambda: _env_int("MIN_PRICE", 1500))
     max_price: int = field(default_factory=lambda: _env_int("MAX_PRICE", 20000))
     min_review_count: int = field(default_factory=lambda: _env_int("MIN_REVIEW_COUNT", 50))
     min_review_average: float = field(default_factory=lambda: _env_float("MIN_REVIEW_AVERAGE", 4.2))
 
-    # ROOM 用: 1回の実行でROOMに送る商品数（セール日は自動で増える）、同じ商品を再送しない日数
+    # ROOM 用: 1回の実行でROOMに送る商品数（セール日は自動で増える）。一度出した商品は期間に関係なく再送しない
     room_picks_per_run: int = field(default_factory=lambda: _env_int("ROOM_PICKS_PER_RUN", 4))
-    room_no_repeat_days: int = field(default_factory=lambda: _env_int("ROOM_NO_REPEAT_DAYS", 60))
 
     def x_ready(self) -> bool:
         return self.x_enabled and all([self.x_api_key, self.x_api_secret, self.x_access_token, self.x_access_token_secret])

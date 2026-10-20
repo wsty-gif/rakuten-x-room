@@ -2,7 +2,7 @@
 from __future__ import annotations
 
 import math
-from datetime import date, datetime, timedelta
+import re
 from typing import Any
 
 from .config import Settings
@@ -10,17 +10,28 @@ from .rakuten_client import Product, RakutenClient
 from .trend_engine import Theme
 
 
-def _recent_codes(history: list[dict[str, Any]], days: int) -> set[str]:
-    cutoff = date.today() - timedelta(days=days)
-    out = set()
+def name_key(name: str) -> str:
+    """同じ商品かどうかを見分けるための商品名の要約。宣伝文句（【】や＼／、★…★）と記号を落とした先頭16文字。
+    店やサイズ違いで商品コードが変わっても、同じ商品なら同じ値になる。"""
+    n = re.sub(r"【.*?】|\[.*?\]|［.*?］|＼.*?／|★.*?★|<.*?>|＜.*?＞|《.*?》|≪.*?≫", "", name)
+    n = re.sub(r"[\s　!-/:-@\[-`{-~、。・！？＼／★☆♪％]+", "", n)
+    return n[:16]
+
+
+def posted_keys(history: list[dict[str, Any]]) -> tuple[set[str], set[str]]:
+    """これまでに SNS・ROOM リストに出した商品（期間の制限なし）。(商品コード, 商品名の要約)"""
+    codes, names = set(), set()
     for h in history:
-        try:
-            d = datetime.strptime(h["date"][:10], "%Y-%m-%d").date()
-        except Exception:
-            continue
-        if d >= cutoff:
-            out.add(h.get("item_code", ""))
-    return out
+        if h.get("item_code"):
+            codes.add(h["item_code"])
+            if len(name_key(h.get("item_name", ""))) >= 8:
+                names.add(name_key(h["item_name"]))
+    return codes, names
+
+
+def already_posted(p: Product, keys: tuple[set[str], set[str]]) -> bool:
+    codes, names = keys
+    return p.item_code in codes or name_key(p.name) in names
 
 
 def _bad_name(name: str) -> bool:
@@ -118,10 +129,11 @@ def gather_candidates(client, theme: Theme, s: Settings,
         except Exception as e:
             print(f"  [warn] search {kw}: {e}")
 
-    recent = _recent_codes(history, s.no_repeat_days)
+    # 一度でも出した商品は二度と出さない（同じ商品の別ショップ・別サイズも商品名で弾く）
+    posted = posted_keys(history)
     out = []
     for p in pool.values():
-        if p.item_code in recent or _bad_name(p.name):
+        if already_posted(p, posted) or _bad_name(p.name):
             continue
         if not (s.min_price <= p.price <= s.max_price):
             continue
@@ -133,12 +145,14 @@ def gather_candidates(client, theme: Theme, s: Settings,
 
     # 同じショップばかりにならないよう1ショップ2件まで
     seen_shop: dict[str, int] = {}
+    seen_name: set[str] = set()
     final = []
     for p in out:
         n = seen_shop.get(p.shop_name, 0)
-        if n >= 2:
+        if n >= 2 or name_key(p.name) in seen_name:
             continue
         seen_shop[p.shop_name] = n + 1
+        seen_name.add(name_key(p.name))
         final.append(p)
         if len(final) >= limit:
             break

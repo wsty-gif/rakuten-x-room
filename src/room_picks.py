@@ -11,11 +11,12 @@ from __future__ import annotations
 
 import re
 from dataclasses import replace
-from datetime import date, datetime, timedelta
+from datetime import date
 from typing import Any
 
 from .config import Settings
 from .rakuten_client import Product
+from .selector import already_posted, name_key, posted_keys
 from .trend_engine import Theme
 from .writer import extract_deal
 
@@ -38,21 +39,6 @@ ROOM_GENRE_BOOST = {
 ROOM_WORDS = ["送料無料", "訳あり", "まとめ買い", "大容量", "詰め合わせ", "セット", "お試し", "ギフト", "名入れ",
               "おむつ", "米", "kg", "洗剤", "トイレットペーパー", "水", "炭酸水", "コーヒー", "冷凍", "レトルト",
               "収納", "時短", "韓国", "プチプラ", "ランキング1位"]
-
-
-def _recent_room_codes(history: list[dict[str, Any]], days: int) -> set[str]:
-    cutoff = date.today() - timedelta(days=days)
-    out = set()
-    for h in history:
-        if h.get("kind") not in ("room", None) and h.get("kind") != "product":
-            continue
-        try:
-            d = datetime.strptime(h["date"][:10], "%Y-%m-%d").date()
-        except Exception:
-            continue
-        if d >= cutoff and h.get("item_code"):
-            out.add(h["item_code"])
-    return out
 
 
 def room_score(p: Product, theme: Theme, today: date) -> float:
@@ -110,7 +96,7 @@ def pick_for_room(cands: list[Product], theme: Theme, s: Settings, history: list
     """ROOM に送る商品を選ぶ。X に投稿した商品を先頭に、残りを ROOM 基準で埋める。"""
     today = today or date.today()
     n = room_pick_count(theme, s, today, presale)
-    recent = _recent_room_codes(history, s.room_no_repeat_days)
+    posted_before = posted_keys(history)  # 一度でも ROOM・SNS に出した商品は二度と出さない
     out: list[Product] = []
     seen: set[str] = set()
     for p in posted:
@@ -119,7 +105,7 @@ def pick_for_room(cands: list[Product], theme: Theme, s: Settings, history: list
             seen.add(p.item_code)
     scored = []
     for p in cands:
-        if p.item_code in seen or p.item_code in recent:
+        if p.item_code in seen or already_posted(p, posted_before) or name_key(p.name) in {name_key(x.name) for x in out}:
             continue
         scored.append((room_score(p, theme, today), p))
     scored.sort(key=lambda x: -x[0])

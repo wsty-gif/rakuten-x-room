@@ -182,8 +182,8 @@ def cmd_run(args, s: Settings):
 
 def gift_room_flow(client, slot: str, s: Settings, history: list, live: bool) -> None:
     """今日の TikTok ギフト企画（誰に・予算いくら）の商品を楽天から選び、ROOM の追加リストと通知に出す。1日1回。
-    夜の reel-build はこの商品でスライドを作る。TIKTOK_MODE=ranking のときは何もしない。"""
-    if (os.environ.get("TIKTOK_MODE") or "gift").strip() == "ranking":
+    夜の reel-build はこの商品でスライドを作る。TIKTOK_NOTIFY=1 でないとき・TIKTOK_MODE=ranking のときは何もしない。"""
+    if not s.tiktok_notify or (os.environ.get("TIKTOK_MODE") or "gift").strip() == "ranking":
         return
     today = datetime.now().strftime("%Y-%m-%d")
     if any(h.get("tiktok_gift") and h.get("date", "")[:10] == today for h in history):
@@ -320,7 +320,7 @@ def cmd_instagram(args, s: Settings):
     # TikTok 用スライド（画像一式）: 公開されたら通知する（1日1回）
     slides_zip = ROOT / "docs" / "reels" / f"{today}_slides.zip"
     slides_notified = any(h.get("kind") == "tiktok" and h.get("date", "")[:10] == today for h in history)
-    slides_todo = slides_zip.exists() and not slides_notified
+    slides_todo = s.tiktok_notify and slides_zip.exists() and not slides_notified
     if not todo and not story_todo and not reel_todo and not slides_todo:
         print("Instagram に投稿する対象がありません。")
         return
