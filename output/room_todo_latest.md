@@ -71,3 +71,34 @@
    - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00rkhqo.72d3y097.g00rkhqo.72d3z3ff/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjewelrycastle%2Fbr633r-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjewelrycastle%2Fi%2F10000907%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
    - コメント: 大切な人へのプレゼント候補。予算3万円以内で、レビューの良い物から選びました。レビュー569件で★4.69。22,000円。
 
+## 12:01 秋の衣替え（開催中） × 30代女性（暮らし・時短・コスパ）
+
+1. **【アップグレードして登場！】オン On Cloud 6 クラウド 6 レディース スニーカー シューズ カジュアル ロー**
+   - 価格: 19,800円 / ★4.7（575件） / 料率 4.0% / P10倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00pm3zo.72d3y008.g00pm3zo.72d3z464/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsportsmario2%2Fe02on19000w%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsportsmario2%2Fi%2F10198675%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。買い置きしておくと安心なもの。進化したフォルムアイコニックなルックはそのままに、履き心地は一段とアップ。さらに快適になった履き心地で、朝から夜までアクティブに過ごせます。レビュー575件で★4.7。ポイント10倍で実質17,820円。
+
+2. **送料無料 パンプス 痛くない 歩きやすい 走れるパンプス 楽 エアスイート ポインテッドトゥパンプス ぺたんこ フラット**
+   - 価格: 3,199円 / ★4.4（883件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00pqgeo.72d3y43d.g00pqgeo.72d3zdf6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Foutletshoes%2F11014%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Foutletshoes%2Fi%2F10014272%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。毎日の家事がちょっとラクになるやつ。レビュー883件で★4.4。送料無料。
+
+3. **【メール便可】日本製 綿100％ カットソー レディース Tシャツ／着後レビューでクーポン☆ カジュアル シンプル ラグ**
+   - 価格: 3,520円 / ★4.38（836件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00r81yo.72d3y784.g00r81yo.72d3zce3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-ecoloco%2Fe1928%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-ecoloco%2Fi%2F10003859%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。毎日の家事がちょっとラクになるやつ。さらりとした優しい肌ざわりです。程よいゆとりとラグラン袖で動きやすい。レビュー836件で★4.38。3,520円。
+
+4. **【POINT最大10倍】ニット セーター メンズ ケーブルニット◆マルチネックフィッシャーマンニット◆メンズニット メン**
+   - 価格: 3,495円 / ★4.31（6,290件） / 料率 4.0% / P7倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qbh6o.72d3y869.g00qbh6o.72d3z39f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjiggys-shop%2Fr-2-1355%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjiggys-shop%2Fi%2F10013117%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。毎日の家事がちょっとラクになるやつ。レビュー6,290件で★4.31。ポイント7倍で実質3,250円、送料無料。
+
+5. **【送料無料】CONVERSE コンバース トラックジャケット メンズ レディース おしゃれ ジャージ ヴィンテージ ビン**
+   - 価格: 5,478円 / ★4.79（34件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00pq71o.72d3y49b.g00pq71o.72d3z77f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsilver-bullet%2F4173-9521%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsilver-bullet%2Fi%2F10074397%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。毎日の家事がちょっとラクになるやつ。シンプルな中にも洒落感があり、羽織るだけでこなれた雰囲気が完成します。柔らかな肌触りと軽やかな着心地で、日常使いにぴったり。レビュー34件で★4.79。送料無料。
+
+### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
+
+- **30代女性のリピート候補**: オン On Cloud クラウド レディース / パンプス 痛くない 歩きやすい / 日本製 カットソー レディース Tシャツ / ニット セーター メンズ ケーブルニット / CONVERSE コンバース
+
