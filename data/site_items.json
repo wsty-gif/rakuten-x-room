@@ -14603,6 +14603,13 @@
     "theme": "今売れている物 × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "baseline"
+   },
+   {
+    "date": "2026-10-22",
+    "slot": "morning",
+    "theme": "今売れている物 × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "baseline"
    }
   ],
   "item_code": "vesync:10000001",
@@ -14612,14 +14619,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00u8ebo.72d3ycfc.g00u8ebo.72d3z9b4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvesync%2Fkaapafcsnjp0062%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/vesync/cabinet/09152443/09653695/imgrc0092744404.jpg?_ex=600x600",
   "shop_name": "Vesync公式　楽天市場店",
-  "review_count": 1232,
+  "review_count": 1235,
   "review_average": 4.68,
   "affiliate_rate": 2.0,
   "point_rate": 1,
   "catchcopy": "大容量 電気フライヤー エアフライヤー　エアーフライヤー コンパクト ギフト　家庭用　低カロリー　健康　ダイエット　お手入れ簡単　時短料理　操作簡単",
   "genre_id": "564331",
-  "score": 14.33,
-  "last_seen": "2026-10-21T12:01:38",
+  "score": 13.63,
+  "last_seen": "2026-10-22T07:01:43",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/vesync/cabinet/09152443/09653695/imgrc0092744404.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/vesync/cabinet/09152443/09653695/11241926/imgrc0089893356.jpg?_ex=600x600",
@@ -20363,6 +20370,13 @@
     "theme": "お買い物マラソン（10月予想）（開催中） × 20代男性（ガジェット・一人暮らし）",
     "persona": "20s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-10-22",
+    "slot": "morning",
+    "theme": "今売れている物 × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "baseline"
    }
   ],
   "item_code": "hikaritv:10236638",
@@ -20372,14 +20386,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00t2ngo.72d3y44f.g00t2ngo.72d3z2dc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhikaritv%2F1710000097%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/hikaritv/cabinet/plala/171/00000/1710000097_k.jpg?_ex=600x600",
   "shop_name": "ひかりTVショッピング　楽天市場店",
-  "review_count": 135,
+  "review_count": 141,
   "review_average": 4.67,
   "affiliate_rate": 2.0,
-  "point_rate": 5,
+  "point_rate": 1,
   "catchcopy": "",
   "genre_id": "211492",
-  "score": 14.96,
-  "last_seen": "2026-10-07T12:01:41",
+  "score": 12.59,
+  "last_seen": "2026-10-22T07:01:43",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/hikaritv/cabinet/plala/171/00000/1710000097_k.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/hikaritv/cabinet/plala/171/00000/1710000097_d_01.jpg?_ex=600x600",
@@ -28835,6 +28849,13 @@
     "theme": "寒さ対策・冬支度（開催中） × 20代女性（自分磨き・プチプラ・映え）",
     "persona": "20s_woman",
     "event_type": "season"
+   },
+   {
+    "date": "2026-10-22",
+    "slot": "morning",
+    "theme": "今売れている物 × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "baseline"
    }
   ],
   "item_code": "oralb-braun:10000051",
@@ -28851,12 +28872,311 @@
   "catchcopy": "【シンプルなワンボタン】iOシリーズの磨き心地を、手軽に体験",
   "genre_id": "208522",
   "score": 14.37,
-  "last_seen": "2026-10-21T20:24:52",
+  "last_seen": "2026-10-22T07:01:43",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/oralb-braun/cabinet/event/261010/eb-pro2000.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/oralb-braun/cabinet/event/261010/sl_kv-1.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/oralb-braun/cabinet/item/warranty/warranty_flick_2y.jpg?_ex=600x600"
   ],
   "caption": "ブランド名 ブラウン　オーラルB メーカー名 P&Gジャパン合同会社 型番 4987176264220 内容 ・電動歯ブラシ本体 ・ブラシヘッド　1本 ・充電器 区分 電動歯ブラシ　本体、ブラシヘッド、付属品 製造国 【本体】ドイツ 販売履歴 ・〜2024/01/29/10:00 販売終了 D5015132XBKN D5015132XPKN プロ 2000 ・〜2024/02/01/18:00〜 販売開始 D5015132XBKN D5015132XPKN プロ 2000(OUTLET) ・〜2024/04/30/18:00 販売終了 D5015132XBKN D5015132XPKN プロ 2000(OUTLET) ・〜2025/05/01/18:00〜 販売開始 4987176264220 iO2ホワイト 広告文責 株式会社いつも　0120-647-032 電動ハブラシ 電動歯ブラシ Braun オーラルB oral-b 歯ブラシ はぶらし iO ブラシヘッド 歯ブラシセット オーラルケア はみがき 電動 ホワイトニング プレゼント 男性 プレゼント 女性 誕生日プレゼント 男性 ギフト 家族 夫 プレゼント 誕生日 父親 誕生日 プレゼント プレゼント 父 デンタルケア トゥース 歯茎 歯垢 歯垢除去 歯石 除去 歯石・歯垢対策 誕生日 母 プレゼント 母親 誕生日プレゼント全商品対象エントリーでポイント+9倍10/20 0:00～10/21 23:59エントリーはこちら ＞＞ こちらはオーラルB・PRO2000の後継機「io2ホワイト」の商品ページです。"
+ },
+ "cloud-nine:10000109": {
+  "first_seen": "2026-10-22T07:01:43",
+  "themes": [
+   {
+    "date": "2026-10-22",
+    "slot": "morning",
+    "theme": "今売れている物 × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "baseline"
+   }
+  ],
+  "item_code": "cloud-nine:10000109",
+  "name": "【即納】高評価★4.55 ＼楽天ランキング1位＆6冠受賞／正規品／ プリンター キャノン プリンター 複合機 コピー機 WiFi接続 簡単設定 セットアップ用純正インク付属 プリント 印刷 コピー スキャン スマホ対応 プリンター 家庭用 コピー機 コンパクト プリンタ TS3730",
+  "price": 12480,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tvyoo.72d3y4c0.g00tvyoo.72d3z4a8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcloud-nine%2F2593-000164%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcloud-nine%2Fi%2F10000109%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00tvyoo.72d3y4c0.g00tvyoo.72d3z4a8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcloud-nine%2F2593-000164%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/cloud-nine/cabinet/13851896/imgrc0119447744.jpg?_ex=600x600",
+  "shop_name": "CLOUD NINE",
+  "review_count": 2901,
+  "review_average": 4.55,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "【Wi-Fi接続に対応したコンパクト多機能プリンター】 【この1台でプリント、コピー、スキャンが可能です】 【さらにスマホの写真、文書もスマホから直接プリントできます】",
+  "genre_id": "110093",
+  "score": 16.29,
+  "last_seen": "2026-10-22T07:01:43",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/cloud-nine/cabinet/13851896/imgrc0119447744.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/cloud-nine/cabinet/07796242/imgrc0097364443.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/cloud-nine/cabinet/09718801/imgrc0091429621.jpg?_ex=600x600"
+  ],
+  "caption": "【検索ワード】 キャノン プリンター ts3730 キャノンプリンター ts3730 プリンター キャノン ts3730 canon プリンター ts3730 プリンター canon ts3730 pixus ts3730 プリンター 複合機 プリンター複合機 コピー機 インクジェットプリンター キャノン インクジェット複合機 キャノン プリンタ ts3730 ぷりんたー コピー機 家庭用 プリンター 家庭用 印刷機 家庭用 プリンター 機 スマホ プリンター プリンター 人気ランキング カラープリンター プリンター スマホ対応 写真プリンター 写真用プリンタ スマホ対応 コピー スマホ用プリンター スマホプリンター プリンター スキャン機能付き printer 年賀状 プリンター パソコン不要 年賀状 プリンター コンパクト 年賀状 プリンター スマホ 年賀状 印刷 スキャン スキャナー プリンター コンパクト キャノンプリンター 複合機 キャノン プリンター ts3730 キャノンプリンター ts3730 キャノン プリンター ts3530 キャノン プリンター ts3330",
+  "posted_text": "#PR 毎日使うものほど良い物を\n高評価 4.55\n★4.55・レビュー2,901件・楽天ランキング1位\n12,480円\n#楽天購入品\n▶ROOMはプロフから",
+  "posted_at": "2026-10-22T07:01:43"
+ },
+ "rcmdse:16154599": {
+  "first_seen": "2026-10-22T07:01:43",
+  "themes": [
+   {
+    "date": "2026-10-22",
+    "slot": "morning",
+    "theme": "今売れている物 × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "baseline"
+   }
+  ],
+  "item_code": "rcmdse:16154599",
+  "name": "シュレッダー A4 家庭用 クロスカット 静音 ホッチキス カード可 6枚細断 コンパクト 電動 同時細断 事務 パーソナルシュレッダー simplus シンプラス SP-SRD01【送料無料】【メーカー1年保証】【レビュー報告でメンテナンスシート】",
+  "price": 3999,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00ramco.72d3y441.g00ramco.72d3z90e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frcmdse%2Foa-4589668468804%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frcmdse%2Fi%2F16154599%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00ramco.72d3y441.g00ramco.72d3z90e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frcmdse%2Foa-4589668468804%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/rcmdse/cabinet/oa01/oa-4589668468804.jpg?_ex=600x600",
+  "shop_name": "リコメン堂生活館",
+  "review_count": 570,
+  "review_average": 4.32,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "【送料無料】 自動 細断 セキュリティ 大容量 小型 個人情報 在宅勤務 書類 家庭用シュレッダー オフィス用品 リモートワーク simplus シンプラス SP-SRD01",
+  "genre_id": "303156",
+  "score": 13.74,
+  "last_seen": "2026-10-22T07:01:43",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/rcmdse/cabinet/oa01/oa-4589668468804.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/rcmdse/cabinet/oa01/oa-4589668468804_1.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/rcmdse/cabinet/oa01/oa-4589668468804_2.jpg?_ex=600x600"
+  ],
+  "caption": "型番：SP-SRD01JANコード：4571678540434 (ホワイト)4571678540441 (ブラック)商品サイズ：31.5cm×16cm×34.3cm重さ：約3.2kg消費電力：230W電源コード：1.6m紙投入口（長さ）：220mm連続使用時間：約5〜6分間（25分休憩後）最大同時細断枚数：6枚(最大8枚)※最大8枚同時細断可能ですが、継続的に8枚細断を行いますと機械に負荷がかかり、連続使用時間が短くなります。細断速度（m/分）：2.5m/分細断サイズ（mm）：4mm×30mm（セキュリティーレベル：P4）静音DB数：約62db容量：約12L（A4用紙約130枚）加熱保護サーマルプロテクター：〇ダストボックススイッチ：〇オートリバース機能：〇逆転/停止/自動/正転：〇crossカット：〇確認窓：〇ポチキス/クリップ対応：〇カード細断：〇保証期間：1年間ページ修正日：2024/11/14ページ修正点・定格5枚⇒定格6枚(最大8枚)・ダストボックス容量8L⇒12L・連続使用時間2分⇒5分〜6分【送料について】北海道、沖縄、離島は送料を頂きます。メーカー希望小売価格はメーカーサイトに基づいて掲載していますおすすめシュレッダーはこちらシュレッダー 最大8枚同時細断超静音シュレッダー 最大4枚同時細断業務用シュレッダー 70枚自動細断simplus 電動シュレッダー最大8枚同時細断6枚同時細断70枚自動細断150枚自動細断"
+ },
+ "superdeal:10004833": {
+  "first_seen": "2026-10-22T07:01:43",
+  "themes": [
+   {
+    "date": "2026-10-22",
+    "slot": "morning",
+    "theme": "今売れている物 × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "baseline"
+   }
+  ],
+  "item_code": "superdeal:10004833",
+  "name": "シャープ プラズマクラスタードライヤー IB-RP7-W ホワイト系サテンホワイト 速乾 美髪 時短 シンプル プラズマクラスター イオン IB-NP7 の後継",
+  "price": 9980,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00t81xo.72d3y7aa.g00t81xo.72d3z9b1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuperdeal%2F14167ibrp72408%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuperdeal%2Fi%2F10004833%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00t81xo.72d3y7aa.g00t81xo.72d3z9b1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuperdeal%2F14167ibrp72408%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/superdeal/cabinet/09061004/11661997/12341666/imgrc0332810205.jpg?_ex=600x600",
+  "shop_name": "楽天スーパーDEALSHOP",
+  "review_count": 509,
+  "review_average": 4.49,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "プラズマクラスターで髪を守る。髪を根元から乾かし、髪が受ける熱ダメージも抑える。",
+  "genre_id": "502792",
+  "score": 13.68,
+  "last_seen": "2026-10-22T07:01:43",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/superdeal/cabinet/09061004/11661997/12341666/imgrc0332810205.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/superdeal/cabinet/yamada/2024/11138225/4974019241562-00.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/superdeal/cabinet/yamada/2024/11138225/4974019241562-3.jpg?_ex=600x600"
+  ],
+  "caption": "【商品紹介】 ■熱くないのに早く乾く シャープ独自の速乾エアロフォルムとアマツバメの翼に倣ったファン形状で、大量の速い風を地肌に届け、髪を根元から乾かします。髪が受ける熱ダメージも抑えます。 ■3種類の風パターンで快適なヘアドライ 【TURBO】 洗髪後は、まずはTURBO運転でヘアドライ。大量の速い温風で、髪を根元から乾かします。 【SET】 髪が乾き始めたら、穏やかな温風が吹き出るSET運転で髪を整えます。 【COLD】 仕上げは冷風が吹き出るCOLD運転で。キューティクルを引き締めてスタイリングした髪を長持ちさせる効果があり、うるおいを感じる仕上がりになります。 ■プラズマクラスターで髪がうるおう プラズマクラスターによる水分子コートで、手ざわりのいい、しっとりしなやかな髪に。その効果が朝から夕方まで、約8時間続きます。しっとりうるおいが浸透することで、髪の弾力性（コシ）がアップ。しなやかな髪へと導きます。 ■プラズマクラスターで髪を守る ブラッシングすると、髪はプラスに、ブラシはマイナスに帯電します。プラズマクラスターはプラスとマイナス、2つのイオンだから、髪とブラシ、それぞれの静電気を抑えて髪のダメージを抑制。キューティクルをまもって、サラサラな髪に仕上げます。 商品名 シャープ プラズマクラスタードライヤー IB-RP7-W ホワイト系サテンホワイト 速乾 美髪 時短 シンプル プラズマクラスター イオン 型番 IB-RP7-W メーカー(ブランド) シャープ　SHARP JANコード 4974019241562 電源 100V 50-60Hz 共用 主な付属品 セット用ノズル、ユニット清掃ブラシ、取扱説明書（保証書付） 商品寸法 高さ209×幅84×奥行243mm（付属品除く）、電源コード約1.7m 本体質量 約535g（付属品除く） 保証期間 1年 楽天DE"
+ },
+ "r-kojima:10883070": {
+  "first_seen": "2026-10-22T07:01:43",
+  "themes": [
+   {
+    "date": "2026-10-22",
+    "slot": "morning",
+    "theme": "今売れている物 × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "baseline"
+   }
+  ],
+  "item_code": "r-kojima:10883070",
+  "name": "キングジム　ラベルライター｢テプラ｣PRO(テープ幅:18mmまで)　SR170",
+  "price": 6980,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00r8mvo.72d3y948.g00r8mvo.72d3zefe/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fr-kojima%2F4971660774425%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fr-kojima%2Fi%2F10883070%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00r8mvo.72d3y948.g00r8mvo.72d3zefe/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fr-kojima%2F4971660774425%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/r-kojima/cabinet/n0000000236/4971660774425_1.jpg?_ex=600x600",
+  "shop_name": "コジマ楽天市場店",
+  "review_count": 92,
+  "review_average": 4.73,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "",
+  "genre_id": "408751",
+  "score": 13.49,
+  "last_seen": "2026-10-22T07:01:43",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/r-kojima/cabinet/n0000000236/4971660774425_1.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/r-kojima/cabinet/n0000000236/4971660774425_2.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/r-kojima/cabinet/n0000000972/4971660774425_3.jpg?_ex=600x600"
+  ],
+  "caption": "【商品解説】●手軽に使えるエントリーモデル。暮らしを楽しむ機能が増えました！●従来機に比べ、最大印刷可能幅は9．0mmから13．5mmに拡大。●4〜18mmテープに対応。18mmテープでは最大6行印刷が可能。●「お名前タグ」が簡単に作製できるデザインフォームを新搭載。●iOSアプリ「ピッとコード」印刷機能を新搭載。※iOS9．0以降のiPhone及びiPad　touchに対応。（iPad、Androidには非対応）※無料専用アプリ●「ピットコード」を使えば、写真や動画をひも付けて登録できる二次元コードを、簡単に印刷する事ができます。●「ゴシック体」「明朝体」に加え、「てがき」を新搭載。●どこでも使える2WAY電源（ACアダプタは同梱。乾電池は別売）●豊富な記号や絵文字、外枠（72種）、表組（4種）を搭載。●オートカッターで手間いらず。●新たに「たて書き」印刷も可能になりました。【スペック】●型式：SR170（SR170）●JANコード：4971660774425印刷方式：熱転写式最大印字高：13.5mm（使用テープ幅：18mm)本体サイズ(H×W×D) mm：約58×183×219mm最大印字行数：6行本体重量：約580g（乾電池・テープ除く）付属品：ACアダプタ（AC0615J）、試用PROテープカートリッジ、保証書（箱の側面に添付）、SR170取扱説明書表示画面：6文字×2行使用テープ幅：4・6・9・12・18mm書体：3書体内蔵文字数：学習機能付き熟語変換文字、JIS第1／2965文字、JIS第2／1121文字、かな・英数字・記号等拡大印刷：無鏡像印刷：有メモリー登録：文章メモリー：約90文字この商品は宅配便でお届けする商品です出荷可能日から最短日時でお届けします。※出荷完了次第メールをお送りします。配送サービス提供エリアを調べることができます「エリア検索」をクリック"
+ },
+ "d-shop1one:10239877": {
+  "first_seen": "2026-10-22T07:01:43",
+  "themes": [
+   {
+    "date": "2026-10-22",
+    "slot": "morning",
+    "theme": "今売れている物 × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "baseline"
+   }
+  ],
+  "item_code": "d-shop1one:10239877",
+  "name": "◆最大3000円CP＋P3倍！！10/20◆バッファロー 無線LANルーター Wi-Fi6対応 2401+573Mbps WSR-3000AX4P/DBK ブラック BUFFALO【転送不可】",
+  "price": 9880,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rtgfo.72d3y922.g00rtgfo.72d3z3d4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-shop1one%2F4981254070482%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-shop1one%2Fi%2F10239877%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00rtgfo.72d3y922.g00rtgfo.72d3z3d4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-shop1one%2F4981254070482%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/d-shop1one/cabinet/poin2/4981254070482.jpg?_ex=600x600",
+  "shop_name": "ディーショップワン",
+  "review_count": 79,
+  "review_average": 4.65,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "BUFFALO WSR-3000AX4P/DBK Wi-Fi6対応 2401+573Mbps 無線LANルーター ブラック バッファロー",
+  "genre_id": "506591",
+  "score": 13.45,
+  "last_seen": "2026-10-22T07:01:43",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/d-shop1one/cabinet/poin2/4981254070482.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/d-shop1one/cabinet/image07/4981254070482.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/d-shop1one/cabinet/image11/4981254070482_100.jpg?_ex=600x600"
+  ],
+  "caption": "PSマークの種類：PSE 届出事業者名：バッファロー株式会社 注目キーワード おすすめ 接続方法 中継器 価格 小型 有線接続 繋ぎ方 アクセスポイント ケーブル 置き場所 一人暮らし セキュリティ 高速 マンション 戸建て 2階建て 家庭用 コンセント テレビ 接続 法人向け ホテル用 通信速度"
+ },
+ "logicool:10000682": {
+  "first_seen": "2026-10-22T07:01:43",
+  "themes": [
+   {
+    "date": "2026-10-22",
+    "slot": "morning",
+    "theme": "今売れている物 × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "baseline"
+   }
+  ],
+  "item_code": "logicool:10000682",
+  "name": "【SALE】 ロジクール ワイヤレスマウス トラックボール ERGO M575SP 無線 静音 Bluetooth & Logi Bolt トラックボールマウス ワイヤレス マウス windows mac iPad M575SPda 国内正規品 1年間無償保証",
+  "price": 7310,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdo.72d3ydaf.g00tpxdo.72d3zb54/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fm575spd%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000682%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdo.72d3ydaf.g00tpxdo.72d3zb54/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fm575spd%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/mice/m575spd/m575spd_s_r.jpg?_ex=600x600",
+  "shop_name": "ロジクール 公式ストア",
+  "review_count": 326,
+  "review_average": 4.51,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "人気のトラックボールマウスが静音モデルになって登場！",
+  "genre_id": "565170",
+  "score": 13.25,
+  "last_seen": "2026-10-22T07:01:43",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/mice/m575spd/m575spd_s_r.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/mice/m575spd/m575spd_2_.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/mice/m575spd/m575spd_3.jpg?_ex=600x600"
+  ],
+  "caption": "商品詳細 ブランドLogicool (ロジクール) 商品管理番号M575SPda 本体サイズ134 x 100 x 48 mm 145g 使用電池単三形乾電池 x 1本 対応OS[Bluetooth Low Energy]Windows 10 以降、macOS 11 以降、iPadOS 14 以降、ChromeOS、Linux[Logi Bolt USBレシーバー]Windows 10 以降、macOS 11 以降、ChromeOS、Linux 接続方式Bluetooth Low EnergyまたはLogi Bolt レシーバー 発売日2024年9月19日 Rakutenランキング受賞歴デイリーランキング1位パソコン・周辺機器 > マウス・キーボード・入力機器2025年6月3日(火)更新 (集計日：2025年6月2日) 人気のトラックボールマウスM575がアップデート、M575SPとして新登場！ M575SPは、前モデルと比較しクリック音のノイズを80％削減、接続方式もBluetooth＆UnifyingからBluetooth＆LogiBoltとなり、接続の信頼性と安定性がさらに向上しました。従来の魅力はそのままに、利便性がより進化したM575SPをぜひお楽しみください。 M575SPは以下のモデルをご用意しています。 ・M575SPda：オンライン限定モデル／ブラック／保証期間1年間 ・M575SPGR：通常モデル／グラファイト／保証期間2年間 ・M575SPOW：通常モデル／オフホワイト／保証期間2年間 ※カラーおよび保証期間以外の機能はすべて同じとなります。 ※オンライン限定モデルのパッケージはクラフト箱となります。 エルゴノミックマウス M575SPは、Logitech International本社のスイスにある「LOGI エルゴ・ラボ」にて、人間工学の視点から仕"
+ },
+ "logicool:10000275": {
+  "first_seen": "2026-10-22T07:01:43",
+  "themes": [
+   {
+    "date": "2026-10-22",
+    "slot": "morning",
+    "theme": "今売れている物 × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "baseline"
+   }
+  ],
+  "item_code": "logicool:10000275",
+  "name": "【SALE】 ロジクール ワイヤレスマウス M220 無線 マウス 静音 小型 左右対称 ワイヤレス windows mac chrome M220CG M220OW M220RO 国内正規品 3年間無償保証",
+  "price": 1420,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdo.72d3ydaf.g00tpxdo.72d3zb54/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fm220gr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000275%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdo.72d3ydaf.g00tpxdo.72d3zb54/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fm220gr%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/expl/mice/m220gr/m220gr_s_.jpg?_ex=600x600",
+  "shop_name": "ロジクール 公式ストア",
+  "review_count": 1842,
+  "review_average": 4.58,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "クリック音を従来マウスの90%以上軽減 静音ワイヤレスマウス",
+  "genre_id": "565170",
+  "score": 12.69,
+  "last_seen": "2026-10-22T07:01:43",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/expl/mice/m220gr/m220gr_s_.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/mice/m220gr/m220gr_2_r.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/mice/m220gr/m220gr_3_r.jpg?_ex=600x600"
+  ],
+  "caption": "商品詳細ブランドLogicool (ロジクール)商品管理番号M220GR本体サイズ60 x 99 x 39mm 75.2g使用電池単三形乾電池 x 1本対応OSWindows 7、Windows RT、Windows 8、Windows 10 以降、Mac OS X 10.5 以降、Chrome OS無線方式アドバンス2.4GHzテクノロジー接続I/FUSBカラーグレー・オフホワイト・ローズRakutenランキング受賞歴デイリーランキング1位パソコン・周辺機器 &gt; マウス・キーボード・入力機器 &gt; マウス2022年4月17日(日)更新 (集計日：2022年4月16日)M220は、左右対称のシンプルなデザインで、クリック音を従来マウスの90%以上軽減した静音ワイヤレスマウスです。クリック感覚はそのままで、音だけを軽減。静かな場所でもクリック音を気にすることなく使用できます。接続はUSBに対応し、USBポートに挿すだけで簡単に使い始められます。ロジクール独自のアドバンス2.4GHzテクノロジーで最大10m離れた場所でも使用可能。また、接続が混雑したワイヤレス環境でも、干渉やデータ欠落を気にせず使用できます。約18ヶ月*の長電池寿命と3年間の長期保証も魅力のワイヤレスマウスです。（*使用環境・状況により異なります） 【仕様】 センサー方式：オプティカル 解像度：1000dpi 総ボタン数：3（チルト機能含む） スクロールホイール：有 チルト機能：無 ※本製品は日本国内で購入された国内正規品に限り、保証期間内において保証の対象となります。 ※Logitech製品は日本国内での保証の対象外となります。 ※本製品にはUSBレシーバーが同梱されています。レシーバーの紛失を防ぐため、ご使用前にパッケージ内（マウス本体内を含む）をご確認ください。 メーカー希望小売価格はメーカーサ"
+ },
+ "yamada-denki:10429411": {
+  "first_seen": "2026-10-22T07:01:43",
+  "themes": [
+   {
+    "date": "2026-10-22",
+    "slot": "morning",
+    "theme": "今売れている物 × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "baseline"
+   }
+  ],
+  "item_code": "yamada-denki:10429411",
+  "name": "インク エプソン 純正 カートリッジ インクカートリッジ MUG-4CL インクカートリッジ カラリオ インク",
+  "price": 4227,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00t3jpo.72d3y05f.g00t3jpo.72d3zc0f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamada-denki%2F4209461013%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyamada-denki%2Fi%2F10429411%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00t3jpo.72d3y05f.g00t3jpo.72d3zc0f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamada-denki%2F4209461013%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/yamada-denki/cabinet/a07000289/4209461013.jpg?_ex=600x600",
+  "shop_name": "ヤマダ電機　楽天市場店",
+  "review_count": 228,
+  "review_average": 4.59,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "",
+  "genre_id": "502185",
+  "score": 12.66,
+  "last_seen": "2026-10-22T07:01:43",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/yamada-denki/cabinet/a07000289/4209461013.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/yamada-denki/cabinet/a07000384/4209461013_1.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/yamada-denki/cabinet/a07000384/4209461013_2.jpg?_ex=600x600"
+  ],
+  "caption": "エプソン MUG-4CL インクカートリッジ カラリオ 発売日：2019年8月1日●インクカートリッジ　4色パック　（マグカップ）"
+ },
+ "norton:10000038": {
+  "first_seen": "2026-10-22T07:01:43",
+  "themes": [
+   {
+    "date": "2026-10-22",
+    "slot": "morning",
+    "theme": "今売れている物 × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "baseline"
+   }
+  ],
+  "item_code": "norton:10000038",
+  "name": "ノートン 360 デラックス 3台 3年版 ダウンロード 送料無料 iOS windows mac norton セキュリティソフト ノートン360 セキュリティ スマホ ウイルス対策 pc iphone ipad タブレット パソコン",
+  "price": 15480,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00u4dgo.72d3y669.g00u4dgo.72d3zafb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnorton%2F21435759%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnorton%2Fi%2F10000038%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00u4dgo.72d3y669.g00u4dgo.72d3zafb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnorton%2F21435759%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/norton/cabinet/08738151/13252211/n360_deluxe_3-3.jpg?_ex=600x600",
+  "shop_name": "ノートン公式ストア 楽天市場店",
+  "review_count": 463,
+  "review_average": 4.35,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "権威ある第三者評価機関のテスト*で保護力最優秀賞を6回受賞。",
+  "genre_id": "408565",
+  "score": 12.6,
+  "last_seen": "2026-10-22T07:01:43",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/norton/cabinet/08738151/13252211/n360_deluxe_3-3.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_gold/norton/tj/r-img/rr/5/21435759.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/norton/cabinet/08738151/08815088/1m_21435759.jpg?_ex=600x600"
+  ],
+  "caption": "*AV-TEST Award 2021 *AV-TEST 「BEST PROTECTION AWARD」 2015, 2016, 2017, 2018, 2019,2020,2021 AV-TESTは、年間を通じて高度な攻撃に対するエンドポイントセキュリティソリューションの防御性能を評価する第三者評価機関です。 商品名 ノートン 360 デラックス 3台 3年版 関連キーワード norton ノートン セキュリティソフト ノートン360 デラックス norton 360 ウイルス対策ソフト ノートンストア 対応OS mac / Windows / iOS / Android デバイスの数 3台まで 機能 ・ ウイルス マルウェア スパイウェア ランサムウェア から保護 ・ ノートン セキュア VPN ・ ファイアウォール　（Mac, Windows） ・ ダークウェブモニタリング ・ パスワード管理 ・ Web カメラへの不正アクセスをブロック （Windowsのみ） ・ クラウドバックアップ （Windowsのみ） ・ 保護者機能 ・ スクールタイム 関連ワード: マック 安心 法人 ケータイ 複数 保証 ネットワーク ダウンロード版 imac アンチウイルス ノートパソコン windows7 windows10 microsoft macbook apple watch"
  }
 }
