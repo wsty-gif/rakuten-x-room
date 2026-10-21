@@ -55,3 +55,29 @@
 
 - **40代男性のリピート候補**: スチーム加湿器 GLASS グラス / 洗濯機かさ上げ台 防振・防音 ゴムマット / アドブルーAdBlue 高品位尿素水 / スマホホルダー ナノゲル吸着×真空吸盤
 
+## 20:16 寒さ対策・冬支度（開催中） × 20代女性（自分磨き・プチプラ・映え）
+
+1. **【SHISEIDO 公式】アルティミューン パワライジング セラム | SHISEIDO 資生堂 シセイドウ | 美容液**
+   - 価格: 9,900円 / ★4.74（1,775件） / 料率 4.0% / P5倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00umpto.72d3yfc6.g00umpto.72d3zddc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbrandshiseido%2Futm0005%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbrandshiseido%2Fi%2F10000124%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: プチプラで探してる人に。ディスペンサー2回押し分を手にとり、顔全体にていねいに均一になじませます。レビュー1,775件で★4.74。ポイント5倍で実質9,405円。
+
+2. **累計90万セット突破 固綿入り敷き布団で寝心地UP 布団セット 洗える 増量 抗菌 防臭 防カビ ほこりが出にくい シン**
+   - 価格: 4,999円 / ★4.28（16,225件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00ppglo.72d3y3f0.g00ppglo.72d3z552/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftansu%2F7519000100%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftansu%2Fi%2F10011910%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: SNSで見かけて気になってたやつ。マットレス付き布団セットはこちら敷くだけカンタン湿気対策。ご一緒に除湿シートはいかがですか。レビュー16,225件で★4.28。4,999円。
+
+3. **【楽天1位常連】シーリングライト4.5畳 6畳 8畳 10畳12畳 14畳 調光調色 LED リモコン付き ledシーリ**
+   - 価格: 1,080円 / ★4.59（8,031件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00ulo9o.72d3y101.g00ulo9o.72d3zda4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmeikou-corp%2Fsl24%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmeikou-corp%2Fi%2F10000058%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 自分へのご褒美にちょうどいい価格。優れた演色性自然な雰囲気を演出でき、物の色や人の肌など、美しく見えます。楽天ランキング1位、レビュー8,031件で★4.59。1,080円。
+
+4. **【公式】ピテラ パワー デュオ/ ピテラ ベスト コレクション トライアルキット/ ピテラ ユース エッセンシャル セッ**
+   - 価格: 12,650円 / ★4.44（4,390件） / 料率 4.0% / P20倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00siy3o.72d3yb85.g00siy3o.72d3zce2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsk-ii%2Fftk%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsk-ii%2Fi%2F10003015%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: SNSで見かけて気になってたやつ。そのまま使用を続けると症状が悪化することがあります。レビュー4,390件で★4.44。ポイント20倍で実質10,120円、送料無料。
+
+### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
+
+- **20代女性のリピート候補**: アルティミューン パワライジング セラム / 累計90万セット突破 布団セット 洗える / シーリングライト4.5畳 6畳 8畳 / ピテラ パワー デュオ ピテラ ベスト
+
