@@ -10272,23 +10272,30 @@
     "theme": "お買い物マラソン（10月予想）（開催中） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-10-21",
+    "slot": "noon",
+    "theme": "今売れている物 × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "baseline"
    }
   ],
   "item_code": "jesimaik:10000033",
-  "name": "＼11,800円~相当！抽選でP最大100％バック&P10倍返還／JESIMAIK ジェスマイク バイク インカム H6 聴きトーク機能 QIK-MESH 最大6人同時通話 通信距離1600m 通信自動復帰 Bluetooth5.2 超スリムスピーカー Hi-Fi高音質 ノイズキャンセ 通信機器 日本語音声案内",
+  "name": "＼11,800円~相当！ポイント10倍返還／JESIMAIK ジェスマイク バイク インカム H6 聴きトーク機能 QIK-MESH 最大6人同時通話 通信距離1600m 通信自動復帰 Bluetooth5.2 超スリムスピーカー Hi-Fi高音質 ノイズキャンセ 通信機器 日本語音声案内",
   "price": 12980,
   "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00uugso.72d3y29c.g00uugso.72d3zbe8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjesimaik%2Fh6%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjesimaik%2Fi%2F10000033%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00uugso.72d3y29c.g00uugso.72d3zbe8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjesimaik%2Fh6%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/jesimaik/cabinet/12722309/imgrc0157906543.jpg?_ex=600x600",
   "shop_name": "JESIMAIK 公式楽天市場店",
-  "review_count": 511,
+  "review_count": 529,
   "review_average": 4.59,
   "affiliate_rate": 2.0,
   "point_rate": 10,
   "catchcopy": "【相京雅行推薦】次世代MESH2.0で障害物に強い6人同時通話！磁気マウント採用で1秒装着。聴きトークで音楽やナビを聴きながら会話可能。7重ノイキャンでクリアな音声で通話可能。",
   "genre_id": "510528",
-  "score": 16.73,
-  "last_seen": "2026-10-09T12:01:42",
+  "score": 14.16,
+  "last_seen": "2026-10-21T12:01:38",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/jesimaik/cabinet/12722309/imgrc0157906543.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/jesimaik/cabinet/12722309/12722444/imgrc0152387304.jpg?_ex=600x600",
@@ -14403,6 +14410,13 @@
     "theme": "今売れている物 × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "baseline"
+   },
+   {
+    "date": "2026-10-21",
+    "slot": "noon",
+    "theme": "今売れている物 × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "baseline"
    }
   ],
   "item_code": "wwpc:10064892",
@@ -14412,14 +14426,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00pt32o.72d3ya19.g00pt32o.72d3z295/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwwpc%2F3182550901215%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/wwpc/cabinet/215/3182550901215.jpg?_ex=600x600",
   "shop_name": "楽天24 どうぶつ医療館",
-  "review_count": 2823,
+  "review_count": 2861,
   "review_average": 4.66,
   "affiliate_rate": 4.0,
   "point_rate": 1,
   "catchcopy": "ロイヤルカナン療法食 / ロイヤルカナン 猫用 ユリナリーS／O オルファクトリーライト",
   "genre_id": "404149",
-  "score": 16.11,
-  "last_seen": "2026-10-01T12:01:44",
+  "score": 14.62,
+  "last_seen": "2026-10-21T12:01:38",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/wwpc/cabinet/215/3182550901215.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/wwpc/cabinet/215/3182550901215-2.jpg?_ex=600x600",
@@ -14560,6 +14574,13 @@
     "theme": "寒さ対策・冬支度（開催中） × 30代男性（健康・効率化・家電）",
     "persona": "30s_man",
     "event_type": "season"
+   },
+   {
+    "date": "2026-10-21",
+    "slot": "noon",
+    "theme": "今売れている物 × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "baseline"
    }
   ],
   "item_code": "vesync:10000001",
@@ -14576,7 +14597,7 @@
   "catchcopy": "大容量 電気フライヤー エアフライヤー　エアーフライヤー コンパクト ギフト　家庭用　低カロリー　健康　ダイエット　お手入れ簡単　時短料理　操作簡単",
   "genre_id": "564331",
   "score": 14.33,
-  "last_seen": "2026-10-21T07:01:55",
+  "last_seen": "2026-10-21T12:01:38",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/vesync/cabinet/09152443/09653695/imgrc0092744404.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/vesync/cabinet/09152443/09653695/11241926/imgrc0089893356.jpg?_ex=600x600",
@@ -18258,6 +18279,13 @@
     "theme": "寒さ対策・冬支度（開催中） × 30代男性（健康・効率化・家電）",
     "persona": "30s_man",
     "event_type": "season"
+   },
+   {
+    "date": "2026-10-21",
+    "slot": "noon",
+    "theme": "今売れている物 × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "baseline"
    }
   ],
   "item_code": "nene777:10000018",
@@ -18274,7 +18302,7 @@
   "catchcopy": "業界革新！掃除機 コードレス【楽天12連冠達成！吸引力完全進化】グリーンLED×110Kpa超吸引で「見えない汚れ」も完全制圧自立式&次世代LED液晶ディスプレイ3年間保証",
   "genre_id": "565105",
   "score": 14.72,
-  "last_seen": "2026-10-21T07:01:55",
+  "last_seen": "2026-10-21T12:01:38",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/nene777/cabinet/compass1791356890.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/nene777/cabinet/compass1791195726.jpg?_ex=600x600",
@@ -20750,23 +20778,30 @@
     "theme": "お買い物マラソン（10月予想）（開催中） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-10-21",
+    "slot": "noon",
+    "theme": "今売れている物 × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "baseline"
    }
   ],
   "item_code": "nanobig:10000898",
-  "name": "2026新モデル【2年保証】掃除機 コードレス掃除機 Orage史上 超高性能 RR11 軽量 人気 1位 自立 自走式 スティック クリーナー サイクロン 強力吸引 充電式 掃除機 ジェネリック家電 布団クリーナー",
-  "price": 11250,
+  "name": "【クーポンで2000円オフ】2026新モデル【2年保証】掃除機 コードレス掃除機 Orage史上 超高性能 RR11 軽量 人気 1位 自立 自走式 スティック クリーナー サイクロン 強力吸引 充電式 掃除機 ジェネリック家電 布団クリーナー",
+  "price": 13500,
   "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rdz2o.72d3ya08.g00rdz2o.72d3z4b9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnanobig%2Fcleaner-cordless-rr11%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnanobig%2Fi%2F10000898%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00rdz2o.72d3ya08.g00rdz2o.72d3z4b9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnanobig%2Fcleaner-cordless-rr11%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/nanobig/cabinet/02988222/oragerr11/oragerr11_main.jpg?_ex=600x600",
   "shop_name": "ナノビッグ楽天市場店",
-  "review_count": 3674,
+  "review_count": 3729,
   "review_average": 4.51,
   "affiliate_rate": 2.0,
   "point_rate": 1,
   "catchcopy": "重たい掃除機さようなら！吸引力だけじゃない！orage 高性能 サイクロン式コードレスクリーナー おすすめ ギフト",
   "genre_id": "565105",
-  "score": 16.33,
-  "last_seen": "2026-10-09T12:01:42",
+  "score": 13.94,
+  "last_seen": "2026-10-21T12:01:38",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/nanobig/cabinet/02988222/oragerr11/oragerr11_main.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/nanobig/cabinet/02988222/oragerr11/rr11_sub101.jpg?_ex=600x600",
@@ -21103,6 +21138,13 @@
     "theme": "寒さ対策・冬支度（開催中） × 30代男性（健康・効率化・家電）",
     "persona": "30s_man",
     "event_type": "season"
+   },
+   {
+    "date": "2026-10-21",
+    "slot": "noon",
+    "theme": "今売れている物 × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "baseline"
    }
   ],
   "item_code": "tfi-shop:10000005",
@@ -21119,7 +21161,7 @@
   "catchcopy": "シリーズ累計220万セット突破の洗濯機用かさあげ台！家電量販店や配送業者もオススメ 100％ゴムでしっかりふんばる！敷くだけで45mmかさあげ かさ増し台",
   "genre_id": "211876",
   "score": 15.02,
-  "last_seen": "2026-10-21T07:01:55",
+  "last_seen": "2026-10-21T12:01:38",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/tfi-shop/cabinet/yec/tfi-9045/260324_9045_s01.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/tfi-shop/cabinet/yec/tfi-9045/9045s_01.jpg?_ex=600x600",
@@ -21289,23 +21331,30 @@
     "theme": "お買い物マラソン（10月予想）（開催中） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-10-21",
+    "slot": "noon",
+    "theme": "今売れている物 × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "baseline"
    }
   ],
   "item_code": "garagezero:10000002",
-  "name": "(期間限定特別価格/30本)ヒロバ・ゼロ 速乾 ブレーキ&パーツクリーナー 840ml 原液量588ml 逆さ噴射可能",
-  "price": 7700,
+  "name": "(30本)ヒロバ・ゼロ 速乾 ブレーキ&パーツクリーナー 840ml 原液量588ml 逆さ噴射可能",
+  "price": 8360,
   "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rx9wo.72d3y57e.g00rx9wo.72d3z6f7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgaragezero%2Fgse004%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgaragezero%2Fi%2F10000002%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00rx9wo.72d3y57e.g00rx9wo.72d3z6f7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgaragezero%2Fgse004%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/garagezero/cabinet/partscleaner/n_thum/gse004_v1.jpg?_ex=600x600",
   "shop_name": "ハンターゼロ 楽天市場店",
-  "review_count": 512,
-  "review_average": 4.79,
+  "review_count": 513,
+  "review_average": 4.78,
   "affiliate_rate": 2.0,
   "point_rate": 1,
   "catchcopy": "逆さ噴射可能、原液量630mlで強力洗浄＆強力噴射",
   "genre_id": "566789",
-  "score": 16.19,
-  "last_seen": "2026-10-10T07:01:42",
+  "score": 16.16,
+  "last_seen": "2026-10-21T12:01:38",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/garagezero/cabinet/partscleaner/n_thum/gse004_v1.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/garagezero/cabinet/partscleaner/gse004_hikaku01_v1.jpg?_ex=600x600",
@@ -27429,29 +27478,38 @@
     "theme": "寒さ対策・冬支度（開催中） × 30代男性（健康・効率化・家電）",
     "persona": "30s_man",
     "event_type": "season"
+   },
+   {
+    "date": "2026-10-21",
+    "slot": "noon",
+    "theme": "今売れている物 × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "baseline"
    }
   ],
   "item_code": "quads:10000095",
-  "name": "【QUADS公式】[12月上旬発送] スチーム加湿器 GLASS グラス ガラスポッド式 大容量 2.6L 上部給水 最大17畳 最大加湿650ml/h 抗菌 LEDライト 間接照明 2段階調整 クワッズ公式【メーカー保証付き】",
+  "name": "【QUADS公式】[12月中旬~発送] スチーム加湿器 GLASS グラス ガラスポッド式 大容量 2.6L 上部給水 最大17畳 最大加湿650ml/h 抗菌 LEDライト 間接照明 2段階調整 クワッズ公式【メーカー保証付き】",
   "price": 19800,
   "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00ugo6o.72d3y0a5.g00ugo6o.72d3zaf2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fquads%2Fqs549%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fquads%2Fi%2F10000095%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00ugo6o.72d3y0a5.g00ugo6o.72d3zaf2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fquads%2Fqs549%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
-  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/quads/cabinet/26aw/top_tmb/qs661_top_tmb_2.jpg?_ex=600x600",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/quads/cabinet/26aw/top_tmb/qs649_top_tmb_2.jpg?_ex=600x600",
   "shop_name": "QUADS公式楽天市場店",
-  "review_count": 475,
+  "review_count": 481,
   "review_average": 4.57,
   "affiliate_rate": 2.0,
   "point_rate": 1,
   "catchcopy": "【1年保証】ガラスポットスチーム式 加湿器 GLASS ハイパワー グラス LEDムードライト 間接照明 インテリア",
   "genre_id": "204549",
-  "score": 17.18,
-  "last_seen": "2026-10-21T07:01:55",
+  "score": 17.98,
+  "last_seen": "2026-10-21T12:01:38",
   "image_urls": [
-   "https://thumbnail.image.rakuten.co.jp/@0_mall/quads/cabinet/26aw/top_tmb/qs661_top_tmb_2.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/quads/cabinet/26aw/top_tmb/qs649_top_tmb_2.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/quads/cabinet/11559671/imgrc0133906954.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/quads/cabinet/26aw/qs661/tmb/qs661_tmb_01.jpg?_ex=600x600"
   ],
-  "caption": "メーカー希望小売価格はメーカーカタログに基づいて掲載しています 本体サイズ／重量 直径25×高さ32cm／約3.7kg 材質 PC、ABS、ガラス 電源 AC100V 50/60Hz 消費電力 強:500W、弱:240W 加湿方式 スチーム式 加湿量 強:約650ml/h、弱:約250ml/h 加湿量調節 2段階（強／弱） オフタイマー 2・4・6時間 水タンク容量 2.6L 連続運転時間 約3.5〜9時間 適用床面積（目安） 木造住宅（和室）:10畳／プレハブ住宅（洋室）:17畳 機能 LEDライト（電球色:2段階、昼光色:2段階）、チャイルドロック 安全装置 サーモスタット、温度ヒューズ、空焚き防止機能 コード長 約1.5m 1時間あたりの電気代 約15.5円（強:500W運転時） ※31円/1kWhで算出 ※モニターの発色により実際のものと色が異なる場合があります。 ※画像はイメージです。 検索キーワード QUADS スチーム加湿器 加熱式加湿器 清潔加湿器 ガラスポット加湿器 広い部屋 加湿器 丸洗いできる加湿器 フィルター不要 チャイルドロック 空焚き防止機能 LEDライト ムードライト おしゃれ 家電 インテリア 冬 乾燥対策 湿度ケア イルミネーションが美しいガラスポット式スチーム加湿器 ■清潔な蒸気のスチーム式！広いリビングでもしっかり加湿 スチーム式(加熱式)加湿器は、水を加熱して沸騰させるため加湿器内にカビや雑菌が繁殖しにくく、部屋の中を清潔に保ちやすいのが特徴です。 水分が短時間で多く放出されてスピーディーに加湿でき、広いスペースを加湿するのにも向いています。 また、高温の蒸気を室内に送り込むことで室温が上がり、寒い季節には加温とともに暖もとれるのが特徴です。 ■高耐久・高耐熱のガラスポット（約2.6L） ポットと同じ構造を採用する事でフィルターが無く"
+  "caption": "メーカー希望小売価格はメーカーカタログに基づいて掲載しています 本体サイズ／重量 直径25×高さ32cm／約3.7kg 材質 PC、ABS、ガラス 電源 AC100V 50/60Hz 消費電力 強:500W、弱:240W 加湿方式 スチーム式 加湿量 強:約650ml/h、弱:約250ml/h 加湿量調節 2段階（強／弱） オフタイマー 2・4・6時間 水タンク容量 2.6L 連続運転時間 約3.5〜9時間 適用床面積（目安） 木造住宅（和室）:10畳／プレハブ住宅（洋室）:17畳 機能 LEDライト（電球色:2段階、昼光色:2段階）、チャイルドロック 安全装置 サーモスタット、温度ヒューズ、空焚き防止機能 コード長 約1.5m 1時間あたりの電気代 約15.5円（強:500W運転時） ※31円/1kWhで算出 ※モニターの発色により実際のものと色が異なる場合があります。 ※画像はイメージです。 検索キーワード QUADS スチーム加湿器 加熱式加湿器 清潔加湿器 ガラスポット加湿器 広い部屋 加湿器 丸洗いできる加湿器 フィルター不要 チャイルドロック 空焚き防止機能 LEDライト ムードライト おしゃれ 家電 インテリア 冬 乾燥対策 湿度ケア イルミネーションが美しいガラスポット式スチーム加湿器 ■清潔な蒸気のスチーム式！広いリビングでもしっかり加湿 スチーム式(加熱式)加湿器は、水を加熱して沸騰させるため加湿器内にカビや雑菌が繁殖しにくく、部屋の中を清潔に保ちやすいのが特徴です。 水分が短時間で多く放出されてスピーディーに加湿でき、広いスペースを加湿するのにも向いています。 また、高温の蒸気を室内に送り込むことで室温が上がり、寒い季節には加温とともに暖もとれるのが特徴です。 ■高耐久・高耐熱のガラスポット（約2.6L） ポットと同じ構造を採用する事でフィルターが無く",
+  "posted_text": "#PR 週末の楽しみが1段上がる\nスチーム加湿器 GLASS グラス\n★4.57・レビュー481件\n19,800円\n#楽天購入品\n▶ROOMはプロフから",
+  "posted_at": "2026-10-21T12:01:38"
  },
  "dondon:10005072": {
   "first_seen": "2026-10-19T20:16:17",
@@ -28298,6 +28356,13 @@
     "theme": "寒さ対策・冬支度（開催中） × 30代男性（健康・効率化・家電）",
     "persona": "30s_man",
     "event_type": "season"
+   },
+   {
+    "date": "2026-10-21",
+    "slot": "noon",
+    "theme": "今売れている物 × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "baseline"
    }
   ],
   "item_code": "azusa:10000195",
@@ -28314,7 +28379,7 @@
   "catchcopy": "【2年保証★レビュー特典】ふわとろ電気毛布 Sサイズ Mサイズ Lサイズ 電気ひざ掛け 発熱毛布 肌触り良い ふわとろブランケット ポカポカ暖かい 静電気防止 電磁波カット 寒対策 四季通用",
   "genre_id": "208397",
   "score": 14.53,
-  "last_seen": "2026-10-21T07:01:55",
+  "last_seen": "2026-10-21T12:01:38",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/azusa/cabinet/x99/x99-main.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/azusa/cabinet/x99/x99-sp-2.jpg?_ex=600x600",
@@ -28387,5 +28452,104 @@
    "https://thumbnail.image.rakuten.co.jp/@0_mall/haoxie/cabinet/pillow-hotel/sm-hpd-oc2/smhpd-s02a.jpg?_ex=600x600"
   ],
   "caption": "サイズ 横幅 63cm×縦幅 43cm×厚み 20cm 素材/中材 ポリエステル100%(高品質マイクロファイバー) 素材/生地 ポリエステル100% 生産国 日本 洗濯 洗濯機可能(洗濯ネット使用) 保証 1年間の品質保証 特徴 至高の快眠をお届けする「最高級ホテル仕様まくら」。 日本製の高品質なマイクロファイバーを使用し、通気性抜群で型崩れしにくいデザインが特徴です。 お好みに合わせて中材を調整することで、高さの調整が可能。仰向け、横向き、うつ伏せなど、どんな寝姿勢にもフィットし、快適な眠りをサポートします。 さらに、抗菌・防臭加工を施しているため、清潔さと衛生面も安心。肩こりや首こり、ストレートネックの改善、頭痛の軽減を目指し、ぐっすりと安眠できる枕です。洗濯機で丸洗いができるので、お手入れも簡単。 まるで高級ホテルで過ごすような贅沢な睡眠体験を、自宅でお楽しみください。健康や美容、そして日々の仕事にも良い影響を与える快眠枕。カラーは5色からお選びいただけ、カバー2枚付きでお得。ぜひ、この至高の枕で極上の睡眠を手に入れましょう。 Point 1: 高さ調整可能 お好みに合わせて中材を追加・減少することで、高さを自由に調整可能。お客様一人ひとりに合った快適な睡眠ポジションを提供します。 Point 2: 高品質マイクロファイバー使用 柔らかくて耐久性のある高品質マイクロファイバーを採用。通気性が良く、型崩れしにくいため、長期間快適にお使いいただけます。 Point 3: 抗菌・防臭加工 特殊な抗菌・防臭加工により、長く清潔な状態を保ち、細菌や不快な臭いの発生を防止。衛生的で快適な睡眠環境を実現します。 Point 4: 丸洗いOKでお手入れ簡単 洗濯機で簡単に丸洗いできるので、手間なく清潔な枕をキープ。常に清潔で心地よい眠りをサポートします。 Point 5: 高級ホテ"
+ },
+ "garagezero:10001602": {
+  "first_seen": "2026-10-21T12:01:38",
+  "themes": [
+   {
+    "date": "2026-10-21",
+    "slot": "noon",
+    "theme": "今売れている物 × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "baseline"
+   }
+  ],
+  "item_code": "garagezero:10001602",
+  "name": "ハンターゼロ 車用 モーターオイル 20L ポリ容器/化学合成油/全合成油 [0W-20/SQ/RC/GF-7A]100％化学合成油 VHVI (グループ3) 自動車用エンジンオイル AQ3",
+  "price": 14960,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rx9wo.72d3y57e.g00rx9wo.72d3z6f7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgaragezero%2Fgzaq37%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgaragezero%2Fi%2F10001602%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00rx9wo.72d3y57e.g00rx9wo.72d3z6f7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgaragezero%2Fgzaq37%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/garagezero/cabinet/4tengineoil/gzaq37.jpg?_ex=600x600",
+  "shop_name": "ハンターゼロ 楽天市場店",
+  "review_count": 54,
+  "review_average": 4.7,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "4サイクルエンジンオイル/エンジンオイル",
+  "genre_id": "210018",
+  "score": 14.26,
+  "last_seen": "2026-10-21T12:01:38",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/garagezero/cabinet/4tengineoil/gzaq37.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/garagezero/cabinet/4tengineoil/spout_img.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/garagezero/cabinet/4tengineoil/carpoil-pop001.jpg?_ex=600x600"
+  ],
+  "caption": "省燃費性と優れた低温始動性を実現！ HUNTER ZERO AQ3 0W-20高性能 全合成油（VHVI）エンジンオイル 高品質なVHVI（グループIII）化学合成油をベースに開発された、0W-20指定車に最適な高性能エンジンオイルです。優れた低温始動性により、いつでもスムーズなエンジン始動を実現し、内部を素早く保護。さらに、長距離の高速走行からストップ＆ゴーの多い街乗りまで、あらゆる走行条件で高い省燃費性能とエンジン保護性能を両立するオールシーズンタイプです。 ★ ここがポイント！商品の特長 際立つ省燃費性能とエコカー対応 ハイブリッド車やアイドリングストップ車などの環境配慮型自動車にベストマッチ。エンジン内部の摩擦抵抗を減らし、オイル本来の優れた省燃費性能を長期間にわたり持続させます。 優れた低温始動性とタフな保護力 優れた低温流動性により、かけ始めからスムーズに回り、エンジンへの負担を軽減。また、長距離の高速走行をはじめとする高温・高負荷な環境でも強固な油膜をキープし、重要パーツを摩耗からタフに守ります。 車両指定があれば通常車にも幅広く対応 ハイブリッド車だけでなく、車両側が「0W-20」規格を指定しているガソリン車であれば、一般乗用車から軽自動車まで車種を問わず安心してお使いいただけます。 &#128202; 製品仕様（スペック） SAE規格：0W-20 API規格：SQ / RC 相当 ILSAC規格：GF-7A 相当 油種：化学合成油［全合成油］（グループIII VHVI） 動粘度：45.42（40℃）、8.51（100℃） 粘度指数 : 167 日本製 &#128736; ご確認・ご使用上の注意 1 適合車種・車両指定規格の確認（ガソリン車専用） 本製品はガソリンエンジン専用オイルです。ディーゼル車、および2輪車（バイク）にはご使用いただけません。 &#98"
+ },
+ "auc-tradingtrade:10003690": {
+  "first_seen": "2026-10-21T12:01:38",
+  "themes": [
+   {
+    "date": "2026-10-21",
+    "slot": "noon",
+    "theme": "今売れている物 × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "baseline"
+   }
+  ],
+  "item_code": "auc-tradingtrade:10003690",
+  "name": "2年保証 LEDヘッドライト / フォグランプ Mシリーズ Premium H4 Hi/Lo H1 H3 H3C H7 H8 H10 H11 H16 HB3 HB4 HIR2 H19 PSX24W PSX26W HID屋 車検対応 ハイロー LEDバルブ 明るい 12V 汎用 ライト 加工不要 ポン付け メッキ 鏡面 カスタム パーツ 車用",
+  "price": 10780,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00r7t5o.72d3y84a.g00r7t5o.72d3z63d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-tradingtrade%2Ftt007_0017i%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-tradingtrade%2Fi%2F10003690%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00r7t5o.72d3y84a.g00r7t5o.72d3z63d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-tradingtrade%2Ftt007_0017i%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-tradingtrade/cabinet/lh/tt007_0017i/000000000017-01-l.jpg?_ex=600x600",
+  "shop_name": "HID屋",
+  "review_count": 1241,
+  "review_average": 4.65,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "◎月間優良ショップ上位1%店舗14回受賞◎ 送料無料 60W HID級49600cdの圧倒的爆光 6500kホワイト光＆対向車も眩しくない配光 小型で簡単交換可能な高耐久ランプ",
+  "genre_id": "209944",
+  "score": 13.94,
+  "last_seen": "2026-10-21T12:01:38",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-tradingtrade/cabinet/lh/tt007_0017i/000000000017-01-l.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-tradingtrade/cabinet/lh/tt007_0017i/m_th_01.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-tradingtrade/cabinet/lh/tt007_0017i/m_th_02.jpg?_ex=600x600"
+  ],
+  "caption": "商品説明 HID並の光量と抜群の視認性。圧倒的な爆光と高い耐久性で抜群のコスパです。フォグランプとしても使用可能で、ヘッドライトと併用することで明るさが増して視認性が高まります。特注の明るいLEDを搭載しており、明るさと耐久性がありながら低価格化を実現し車検対応もしています。 仕様 商品名 LEDヘッドライト / フォグランプ Mシリーズ Premium カラー ホワイト（6500K）※車検対応 バルブ型式 H4 Hi/Lo H1 H3 H3C H7 H8 H10 H11 H16 HB3 HB4 HIR2 H19 PSX24W PSX26W 明るさ 片側1灯あたり49600cd（カンデラ） ※数値は車種やレンズ、取付の状態、バルブや測定器の種類によって変動します。 ※Mシリーズ Premium中1種類のバルブで測定しています。 ケルビン数 6500K（ホワイト）※車検対応 LEDチップ 特注のLEDチップを搭載 ボディ素材 高放熱アルミニウム合金 冷却ファン 高性能冷却ファン搭載（安定した明るさを長時間維持） 防水防塵 IP65 相当 消費電力 55W 電圧 12V 保証 2年保証 ※保証書が紛失しても安心の保証 ※注文番号をお伝えいただければ対応可能 付属品 LEDバルブ × 2 結束バンド × 2 取扱説明書（保証書） × 1 輸入車の注意点 当製品は国産車用です。輸入車のお客様は輸入車専用ワーニングキャンセラー内蔵のLEDをお選びください。 商品詳細はこちら＞＞ H4 ハイビームインジケーター不点灯防止ユニット ヘッドライトをH4 LEDヘットライトに交換し、ハイビームを利用すると、ごく限られた車種（ハイエース・ランクル系など）にハイビームインジケーターが点灯しない車種があります。 不点灯を解消したい時は、オプション販売のH4 LEDヘットライト専用のハイビームインジ"
+ },
+ "lifla:10000003": {
+  "first_seen": "2026-10-21T12:01:38",
+  "themes": [
+   {
+    "date": "2026-10-21",
+    "slot": "noon",
+    "theme": "今売れている物 × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "baseline"
+   }
+  ],
+  "item_code": "lifla:10000003",
+  "name": "【20L】アドブルーAdBlue 高品位尿素水（ノズル付属）",
+  "price": 3100,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tkc3o.72d3y8ba.g00tkc3o.72d3z19a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flifla%2F20l-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flifla%2Fi%2F10000003%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00tkc3o.72d3y8ba.g00tkc3o.72d3z19a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flifla%2F20l-1%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/lifla/cabinet/product/20l_new.jpg?_ex=600x600",
+  "shop_name": "LiFLA　楽天市場店",
+  "review_count": 197,
+  "review_average": 4.51,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "ノズル付属！本州・四国は全域送料無料！",
+  "genre_id": "101904",
+  "score": 13.92,
+  "last_seen": "2026-10-21T12:01:38",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/lifla/cabinet/product/20l_new.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/lifla/cabinet/common/package.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/lifla/cabinet/common/nozzle.jpg?_ex=600x600"
+  ],
+  "caption": "■厳しい世界基準をクリアした尿素SCRシステム専用の高品位尿素水。 ■ドイツ自動車工業会（VDA）の監査、検体検査を経て認証済 ***** 商品名：【20L】AdBlue アドブルー 高品位尿素水（ノズル付属） メーカー名：相原産業 商品重量「1個当たり」：約22.8 Kg（内容物含む） 商品の寸法（奥行き × 幅 × 高さ）「1個当たり」：約29.5cm x 約29.5 cmx 約29.5cm 素材：（外箱）段ボール製　（内袋）ポリエチレン製 適合車種：軽油SCR車両 ＜製品特徴＞ コンパクトなのでスペースをとらず、持ち運びや携帯性に優れています。長距離の運転時や緊急用として、車輌に搭載しておいたり、会社に保管しておくのにも最適です。 商品を開けて頂くと、中に専用ノズルが同梱されていますので、直接車輌タンクにも充填できます。また、使用後は外箱（段ボールは資源ゴミとして）と、内袋を分別し廃棄する事ができます。 ※廃棄方法は各自治体にご相談下さい。 ***** ＜取扱い上の注意＞ ・本製品は、眼及び皮膚に接触することで炎症を起こす恐れがあります。 ・眼に入らないようにしてください。 ・皮膚に触れない様にしてください。 ・取り扱いの際は、必要に応じて保護眼鏡及び保護手袋を着用してください。 ・本製品は、飲み物ではありません。間違って大量に飲み込んだ場合には、腹痛、嘔吐を起こす恐れがあります。 ・本製品は尿素SCRシステムを搭載したディーゼル車の排気ガス処理用製品です。 ・この用途以外には絶対に使用しないでください。 ・他の薬剤と混ぜ合わせたり、加熱したりしないでください。 ・開封後は速やかに使い切ってください。 ＜車両への注入＞ 車両のタンクへ注入する際は専用の容器をご使用の上、ゴミなどが入らない様に注意してください。 ＜保管方法＞ ・子供の手の届かないように注意して保管してく"
  }
 }

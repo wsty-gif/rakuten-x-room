@@ -29,3 +29,29 @@
 
 - **30代男性のリピート候補**: マットレス 高級 極厚 21cm プレミアム / 掛け布団 シングル 布団 / 楽天1位 まくら 日本製 極上の寝心地 高級 / マットレス 高反発 シングル
 
+## 12:01 今売れている物 × 40代男性（家族・晩酌・車）
+
+1. **【QUADS公式】[12月中旬~発送] スチーム加湿器 GLASS グラス ガラスポッド式 大容量 2.6L 上部給水 **
+   - 価格: 19,800円 / ★4.57（481件） / 料率 2.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00ugo6o.72d3y0a5.g00ugo6o.72d3zaf2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fquads%2Fqs549%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fquads%2Fi%2F10000095%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 家族みんなで使える定番。レビュー481件で★4.57。19,800円。
+
+2. **洗濯機かさ上げ台 防振・防音 ゴムマット 洗濯機 かさ上げ かさあげ 台 かさ上げ台 置き台 洗濯機置き台 台座 TFi**
+   - 価格: 5,500円 / ★4.59（2,918件） / 料率 2.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00u3gfo.72d3y7d7.g00u3gfo.72d3z083/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftfi-shop%2Ftfi-9045%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftfi-shop%2Fi%2F10000005%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 週末のお楽しみ用に。敷くだけで45mmのかさあげ可能。あしあげ隊が選ばれる理由とは。楽天ランキング1位、レビュー2,918件で★4.59。5,500円。
+
+3. **【20L】アドブルーAdBlue 高品位尿素水（ノズル付属）**
+   - 価格: 3,100円 / ★4.51（197件） / 料率 2.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00tkc3o.72d3y8ba.g00tkc3o.72d3z19a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flifla%2F20l-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flifla%2Fi%2F10000003%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 家族みんなで使える定番。厳しい世界基準をクリアした尿素SCRシステム専用の高品位尿素水。レビュー197件で★4.51。送料無料。
+
+4. **【SNS大人気商品ランキング第一位獲得 U-POWER公式】スマホホルダー 車 ナノゲル吸着×真空吸盤 W固定構造 ma**
+   - 価格: 2,380円 / ★4.28（1,053件） / 料率 2.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00tzbso.72d3y244.g00tzbso.72d3zb57/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjc-group%2Fr-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjc-group%2Fi%2F10000025%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 家族みんなで使える定番。W軸構造により、縦横・上下左右の角度調整が自由自在。あらゆる車種やスマホサイズに対応し、安心してご使用いただけます。レビュー1,053件で★4.28。2,380円。
+
+### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
+
+- **40代男性のリピート候補**: スチーム加湿器 GLASS グラス / 洗濯機かさ上げ台 防振・防音 ゴムマット / アドブルーAdBlue 高品位尿素水 / スマホホルダー ナノゲル吸着×真空吸盤
+
