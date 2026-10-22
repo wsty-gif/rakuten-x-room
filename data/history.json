@@ -14547,7 +14547,8 @@
   "shop_name": "CLOUD NINE",
   "review_count": 2901,
   "review_average": 4.55,
-  "genre_id": "110093"
+  "genre_id": "110093",
+  "instagram_story_id": "18180767548437802"
  },
  {
   "date": "2026-10-22T07:01:43",
@@ -14619,5 +14620,105 @@
   "review_count": 47,
   "review_average": 4.49,
   "genre_id": "303145"
+ },
+ {
+  "date": "2026-10-22T12:01:54",
+  "slot": "noon",
+  "theme": "寒さ対策・冬支度（開催中） × 30代女性（暮らし・時短・コスパ）",
+  "persona": "30s_woman",
+  "item_code": "keyuca:10035632",
+  "item_name": "【KEYUCA公式店】ケユカ KEYUCA両開きダストボックス LL（42L）ゴミ箱[両開き ペダル式 キャスター付き ポケット インテリア 無地 シンプル お",
+  "price": 5280,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00reylo.72d3y73d.g00reylo.72d3z0ff/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkeyuca%2F3300896%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkeyuca%2Fi%2F10035632%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 3.0,
+  "text": "#PR 買い替えるなら今日が一番安い\nケユカ KEYUCA両開きダストボックス｜45Lゴミ袋対応ゴミ箱に新色のグレーが登場！\n★4.39・レビュー2,419件\n5,280円\n#楽天購入品\n▶ROOMはプロフから",
+  "tweet_id": "",
+  "threads_id": "18108556967216806",
+  "room_done": false,
+  "image": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/keyuca/cabinet/46/3300896_2602.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/keyuca/cabinet/46/3300896_2602.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/keyuca/cabinet/46/3300896_1.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/keyuca/cabinet/thumb_rich/3300896-2.jpg?_ex=600x600"
+  ],
+  "shop_name": "KEYUCA",
+  "review_count": 2419,
+  "review_average": 4.39,
+  "genre_id": "215767",
+  "instagram_id": "18114215450168548",
+  "instagram_story_id": "18004030053009815"
+ },
+ {
+  "date": "2026-10-22T12:01:54",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "寒さ対策・冬支度（開催中） × 30代女性（暮らし・時短・コスパ）",
+  "persona": "30s_woman",
+  "item_code": "meikou-corp:10000058",
+  "item_name": "【楽天1位常連】シーリングライト4.5畳 6畳 8畳 10畳12畳 14畳 調光調色 LED リモコン付き ledシーリングライト 丸型 シーリングライト 6畳",
+  "price": 1080,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00ulo9o.72d3y101.g00ulo9o.72d3zda4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmeikou-corp%2Fsl24%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmeikou-corp%2Fi%2F10000058%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 3.0,
+  "text": "毎日の家事がちょっとラクになるやつ。優れた演色性自然な雰囲気を演出でき、物の色や人の肌など、美しく見えます。楽天ランキング1位、レビュー8,031件で★4.59。1,080円。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/meikou-corp/cabinet/10935767/imgrc0113991101.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/meikou-corp/cabinet/10935767/imgrc0113991101.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/meikou-corp/cabinet/10935767/sl24-002.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/meikou-corp/cabinet/10935767/imgrc0113970888.jpg?_ex=600x600"
+  ],
+  "shop_name": "メイコウライティング",
+  "review_count": 8031,
+  "review_average": 4.59,
+  "genre_id": "300444"
+ },
+ {
+  "date": "2026-10-22T12:01:54",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "寒さ対策・冬支度（開催中） × 30代女性（暮らし・時短・コスパ）",
+  "persona": "30s_woman",
+  "item_code": "pierrot:10014231",
+  "item_name": "【10/20(火)限定クーポン！】選べるネックテレコリブカットソー ☆ レディース ファッション カットソー トップス 長袖 リブ インナー オフィスカジュアル",
+  "price": 1990,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00q501o.72d3ycb0.g00q501o.72d3zff7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpierrot%2Fb2004-011442%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpierrot%2Fi%2F10014231%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "毎日の家事がちょっとラクになるやつ。前身ごろを2重に仕立てることで、一枚でも安心して着られる安心感にこだわりました。ネックラインが豊富で、骨格タイプに合わせてすっきりと着用いただけます。レビュー2,278件で★4.33。送料無料。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/pierrot/cabinet/img223/b2004-011442_1r.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/pierrot/cabinet/img223/b2004-011442_1r.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/pierrot/cabinet/img221/b2004-011442_3.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/pierrot/cabinet/img209/b2004-011442_i_1.jpg?_ex=600x600"
+  ],
+  "shop_name": "Pierrot【ピエロ】",
+  "review_count": 2278,
+  "review_average": 4.33,
+  "genre_id": "303656"
+ },
+ {
+  "date": "2026-10-22T12:01:54",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "寒さ対策・冬支度（開催中） × 30代女性（暮らし・時短・コスパ）",
+  "persona": "30s_woman",
+  "item_code": "model-bon:10009912",
+  "item_name": "コートハンガー スリム ハンガーラック パイプハンガー 幅37cm ポールハンガー おしゃれ シンプル 玄関 スチール キッズハンガー ポールスタンド 鞄掛け ",
+  "price": 5980,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qe32o.72d3y88a.g00qe32o.72d3z44f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmodel-bon%2Flra001145%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmodel-bon%2Fi%2F10009912%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 3.0,
+  "text": "忙しい平日の味方。レビュー1,351件で★4.41。5,980円。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/model-bon/cabinet/living-dining4/z100521p1401m.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/model-bon/cabinet/living-dining4/z100521p1401m.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/model-bon/cabinet/500images21/s220615tm1402.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/model-bon/cabinet/500images21/s220615tm1403.jpg?_ex=600x600"
+  ],
+  "shop_name": "MODEL（インテリア・雑貨）",
+  "review_count": 1351,
+  "review_average": 4.41,
+  "genre_id": "215694"
  }
 ]

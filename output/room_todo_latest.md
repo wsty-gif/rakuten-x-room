@@ -29,3 +29,29 @@
 
 - **30代男性のリピート候補**: 高評価 4.55 / シュレッダー A4 家庭用 クロスカット / ロジクール ワイヤレスマウス M220 無線 / ハイホワイト High White A4
 
+## 12:01 寒さ対策・冬支度（開催中） × 30代女性（暮らし・時短・コスパ）
+
+1. **【KEYUCA公式店】ケユカ KEYUCA両開きダストボックス LL（42L）ゴミ箱[両開き ペダル式 キャスター付き **
+   - 価格: 5,280円 / ★4.39（2,419件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00reylo.72d3y73d.g00reylo.72d3z0ff/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkeyuca%2F3300896%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkeyuca%2Fi%2F10035632%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 毎日の家事がちょっとラクになるやつ。静音設計で音がしない優しい機能を付けました。たっぷり42Lで無駄なくゴミ袋を使うことができます。レビュー2,419件で★4.39。5,280円。
+
+2. **【楽天1位常連】シーリングライト4.5畳 6畳 8畳 10畳12畳 14畳 調光調色 LED リモコン付き ledシーリ**
+   - 価格: 1,080円 / ★4.59（8,031件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00ulo9o.72d3y101.g00ulo9o.72d3zda4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmeikou-corp%2Fsl24%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmeikou-corp%2Fi%2F10000058%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 毎日の家事がちょっとラクになるやつ。優れた演色性自然な雰囲気を演出でき、物の色や人の肌など、美しく見えます。楽天ランキング1位、レビュー8,031件で★4.59。1,080円。
+
+3. **【10/20(火)限定クーポン！】選べるネックテレコリブカットソー ☆ レディース ファッション カットソー トップス **
+   - 価格: 1,990円 / ★4.33（2,278件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00q501o.72d3ycb0.g00q501o.72d3zff7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpierrot%2Fb2004-011442%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpierrot%2Fi%2F10014231%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 毎日の家事がちょっとラクになるやつ。前身ごろを2重に仕立てることで、一枚でも安心して着られる安心感にこだわりました。ネックラインが豊富で、骨格タイプに合わせてすっきりと着用いただけます。レビュー2,278件で★4.33。送料無料。
+
+4. **コートハンガー スリム ハンガーラック パイプハンガー 幅37cm ポールハンガー おしゃれ シンプル 玄関 スチール **
+   - 価格: 5,980円 / ★4.41（1,351件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qe32o.72d3y88a.g00qe32o.72d3z44f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmodel-bon%2Flra001145%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmodel-bon%2Fi%2F10009912%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 忙しい平日の味方。レビュー1,351件で★4.41。5,980円。
+
+### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
+
+- **30代女性のリピート候補**: ケユカ KEYUCA両開きダストボックス / シーリングライト4.5畳 6畳 8畳 / レディース ファッション カットソー / コートハンガー スリム ハンガーラック
+
