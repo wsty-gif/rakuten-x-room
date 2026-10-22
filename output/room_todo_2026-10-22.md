@@ -55,3 +55,29 @@
 
 - **30代女性のリピート候補**: ケユカ KEYUCA両開きダストボックス / シーリングライト4.5畳 6畳 8畳 / レディース ファッション カットソー / コートハンガー スリム ハンガーラック
 
+## 20:25 今売れている物 × 子育て世帯のママ・パパ
+
+1. **のりかえ三輪車 押し棒付き ヤトミ 股ベルト付き 背もたれ付き 4WAY バランスバイク キッズバイク 変身 三輪車 子**
+   - 価格: 7,920円 / ★4.58（2,656件） / 料率 3.0% / P5倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00pvv1o.72d3ya07.g00pvv1o.72d3zde7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbabytown%2Fnorikaedx%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbabytown%2Fi%2F10023178%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: まとめ買いしておくと楽になるもの。2022年4月26日入荷分から、ロゴが新しくなりました。ホワイト、モカグレージュは前後輪EVAとなります。レビュー2,656件で★4.58。ポイント5倍で実質7,524円。
+
+2. **＼1枚あたり16.6円～☆彡／【公式】 おむつ オムツ パンツ 3個セット 大容量 ゲンキ M 150枚 444枚 L **
+   - 価格: 2,480円 / ★4.46（2,726件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00t3zto.72d3y505.g00t3zto.72d3z9db/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Firisplaza-r%2F1925663%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Firisplaza-r%2Fi%2F10163793%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: ママ友の間でよく話題になるやつ。肌当たりがやわらかく、しっとりなめらか。2026年8月5日大容量タイプリニューアルしましたあんしん“Genki。レビュー2,726件で★4.46。2,480円。
+
+3. **BabySmile 電動鼻水吸引器 メルシーポット S-505 | 電動鼻水吸引器 鼻水吸引器 電動 鼻吸い器 鼻吸い **
+   - 価格: 7,980円 / ★4.67（8,685件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00px93o.72d3y92f.g00px93o.72d3z607/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fseastar%2F0000002336%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fseastar%2Fi%2F10061658%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 子どもがいる家で助かった系。レビュー8,685件で★4.67。7,980円。
+
+4. **【1種類を選べる】パンパース おやすみパンツ 夜用オムツ(4個)【パンパース】[おやすみパンツ]**
+   - 価格: 7,379円 / ★4.79（1,354件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00pzd4o.72d3yfe6.g00pzd4o.72d3zc1c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetbaby%2F404658%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnetbaby%2Fi%2F10029457%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: まとめ買いしておくと楽になるもの。おやすみパンツ/パンパース/パンパースおやすみパンツ夜用オムツ。レビュー1,354件で★4.79。7,379円。
+
+### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
+
+- **子育て世帯のママ・パパのリピート候補**: のりかえ三輪車 押し棒付き ヤトミ / おむつ オムツ パンツ 3個セット 大容量 / BabySmile 電動鼻水吸引器 / パンパース おやすみパンツ 夜用オムツ
+
