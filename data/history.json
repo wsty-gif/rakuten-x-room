@@ -14856,7 +14856,8 @@
   "shop_name": "Branchpoint ブランチポイント",
   "review_count": 690,
   "review_average": 4.77,
-  "genre_id": "205611"
+  "genre_id": "205611",
+  "instagram_story_id": "18160741189501817"
  },
  {
   "date": "2026-10-23T07:01:50",
@@ -14929,5 +14930,105 @@
   "review_count": 2735,
   "review_average": 4.41,
   "genre_id": "205678"
+ },
+ {
+  "date": "2026-10-23T12:13:42",
+  "slot": "noon",
+  "theme": "今売れている物 × 20代男性（ガジェット・一人暮らし）",
+  "persona": "20s_man",
+  "item_code": "kuwanoshinken:10000043",
+  "item_name": "日本製 作務衣 メンズ 久留米産 紬織 綿100% 父の日ギフト プレゼント 実用的 サムイ さむえ 大きいサイズ 3L,4Lまで 普段着 作業着 部屋着 ルー",
+  "price": 8470,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qd07o.72d3y2c3.g00qd07o.72d3z24d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkuwanoshinken%2F7500%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkuwanoshinken%2Fi%2F10000043%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "#PR コスパで選ぶなら結論これ\n日本製 作務衣 メンズ 久留米産 紬織\n★4.63・レビュー690件\n8,470円\n#楽天購入品\n▶ROOMはプロフから",
+  "tweet_id": "",
+  "threads_id": "18024186875928845",
+  "room_done": false,
+  "image": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/kuwanoshinken/cabinet/ef/item/7500_02_re.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/kuwanoshinken/cabinet/ef/item/7500_02_re.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/kuwanoshinken/cabinet/ef/item/7500_03.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/kuwanoshinken/cabinet/ef/item/7500_04.jpg?_ex=600x600"
+  ],
+  "shop_name": "綿の郷",
+  "review_count": 690,
+  "review_average": 4.63,
+  "genre_id": "206529",
+  "instagram_id": "18132079066890775",
+  "instagram_story_id": "18108176417193425"
+ },
+ {
+  "date": "2026-10-23T12:13:42",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "今売れている物 × 20代男性（ガジェット・一人暮らし）",
+  "persona": "20s_man",
+  "item_code": "geneless:10001280",
+  "item_name": "デニムパンツ メンズ ストレッチ ズボン デニム パンツ ジーンズ ジーパン スキニー レギュラー 伸縮 ジーンズ メンズパンツ スリム ジーパン 春 ブリーチ",
+  "price": 2998,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00slrwo.72d3y3b7.g00slrwo.72d3z3d7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgeneless%2F04-0077mz%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgeneless%2Fi%2F10001280%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "一人暮らしの部屋に1つあると便利。タグの表記はヌード寸の為、実寸サイズとは異なり。何卒ご理解をいただければ幸いでございます。レビュー1,136件で★4.41。2,998円。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/geneless/cabinet/shouhin01/04line/gft_01/04-0077n-000.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/geneless/cabinet/shouhin01/04line/gft_01/04-0077n-000.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/geneless/cabinet/shouhin01/04line/gft_01/04-0077n-001.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/geneless/cabinet/shouhin01/04line/gft_01/04-0077n-004.jpg?_ex=600x600"
+  ],
+  "shop_name": "メンズファッション【GENELESS】",
+  "review_count": 1136,
+  "review_average": 4.41,
+  "genre_id": "558846"
+ },
+ {
+  "date": "2026-10-23T12:13:42",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "今売れている物 × 20代男性（ガジェット・一人暮らし）",
+  "persona": "20s_man",
+  "item_code": "auc-free-style-wear:10004181",
+  "item_name": "チノパン メンズ ストレッチ ストレート 裾上げ済み 選べる股下68 股下73 股下78 Hanes ヘインズ チノパンツ ズボン パンツ 黒 ベージュ シニア",
+  "price": 3290,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rtcso.72d3yeb0.g00rtcso.72d3za6d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-free-style-wear%2F200136%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-free-style-wear%2Fi%2F10004181%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "レビューを見て買う人が多いやつ。一度履いたら手放せないと支持され続けて5万本。毎日履くものだからこそ、細。レビュー246件で★4.52。3,290円。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-free-style-wear/cabinet/pants1/06778545/6620-1.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-free-style-wear/cabinet/pants1/06778545/6620-1.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-free-style-wear/cabinet/pants1/pants6/6620-578.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-free-style-wear/cabinet/pants1/06778545/6620-1a.jpg?_ex=600x600"
+  ],
+  "shop_name": "FREE STYLE WEAR",
+  "review_count": 246,
+  "review_average": 4.52,
+  "genre_id": "558846"
+ },
+ {
+  "date": "2026-10-23T12:13:42",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "今売れている物 × 20代男性（ガジェット・一人暮らし）",
+  "persona": "20s_man",
+  "item_code": "tanakaseni-e-shop:10000680",
+  "item_name": "Tシャツ メンズ ビジネス 長袖 綿100% オフィス ドレスTシャツ ジャケットのインナー専用 ジャケットの下に着るTシャツ 襟高 裾リブ 洗える ロンt 無",
+  "price": 5500,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00t3y9o.72d3yf69.g00t3y9o.72d3z690/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftanakaseni-e-shop%2F35322%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftanakaseni-e-shop%2Fi%2F10000680%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "一人暮らしの部屋に1つあると便利。またカラーによっても個体差があり、多色買いの際には色によってサイズ感も異。さらっとなめらかな肌触りでストレッチ性があるため快適に着ていただけます。レビュー107件で★4.51。00%OFF。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/tanakaseni-e-shop/cabinet/products/urbansquare/13022040/35322_mall_top.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/tanakaseni-e-shop/cabinet/products/urbansquare/13022040/35322_mall_top.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/tanakaseni-e-shop/cabinet/products/urbansquare/13022040/35322_new_point1.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/tanakaseni-e-shop/cabinet/products/urbansquare/11181894/35322_point2.jpg?_ex=600x600"
+  ],
+  "shop_name": "URBAN SQUARE",
+  "review_count": 107,
+  "review_average": 4.51,
+  "genre_id": "551180"
  }
 ]

@@ -29,3 +29,29 @@
 
 - **20代女性のリピート候補**: NERUS 毛布 とにかく暖かい毛布 軽量 / 即発送 ペット ホットカーペット タイマー / もこもこ毛布 ふわとろ ブランケット / ロールスクリーン ロールカーテン 遮熱 断熱
 
+## 12:13 今売れている物 × 20代男性（ガジェット・一人暮らし）
+
+1. **日本製 作務衣 メンズ 久留米産 紬織 綿100% 父の日ギフト プレゼント 実用的 サムイ さむえ 大きいサイズ 3L**
+   - 価格: 8,470円 / ★4.63（690件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qd07o.72d3y2c3.g00qd07o.72d3z24d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkuwanoshinken%2F7500%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkuwanoshinken%2Fi%2F10000043%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 一人暮らしの部屋に1つあると便利。着物という分類から一般の家庭でも着用できる日常着へ対応できたのが久留米産の作務衣です。レビュー690件で★4.63。8,470円。
+
+2. **デニムパンツ メンズ ストレッチ ズボン デニム パンツ ジーンズ ジーパン スキニー レギュラー 伸縮 ジーンズ メン**
+   - 価格: 2,998円 / ★4.41（1,136件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00slrwo.72d3y3b7.g00slrwo.72d3z3d7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgeneless%2F04-0077mz%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgeneless%2Fi%2F10001280%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 一人暮らしの部屋に1つあると便利。タグの表記はヌード寸の為、実寸サイズとは異なり。何卒ご理解をいただければ幸いでございます。レビュー1,136件で★4.41。2,998円。
+
+3. **チノパン メンズ ストレッチ ストレート 裾上げ済み 選べる股下68 股下73 股下78 Hanes ヘインズ チノパン**
+   - 価格: 3,290円 / ★4.52（246件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00rtcso.72d3yeb0.g00rtcso.72d3za6d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-free-style-wear%2F200136%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-free-style-wear%2Fi%2F10004181%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: レビューを見て買う人が多いやつ。一度履いたら手放せないと支持され続けて5万本。毎日履くものだからこそ、細。レビュー246件で★4.52。3,290円。
+
+4. **Tシャツ メンズ ビジネス 長袖 綿100% オフィス ドレスTシャツ ジャケットのインナー専用 ジャケットの下に着るT**
+   - 価格: 5,500円 / ★4.51（107件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00t3y9o.72d3yf69.g00t3y9o.72d3z690/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftanakaseni-e-shop%2F35322%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftanakaseni-e-shop%2Fi%2F10000680%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 一人暮らしの部屋に1つあると便利。またカラーによっても個体差があり、多色買いの際には色によってサイズ感も異。さらっとなめらかな肌触りでストレッチ性があるため快適に着ていただけます。レビュー107件で★4.51。00%OFF。
+
+### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
+
+- **20代男性のリピート候補**: 日本製 作務衣 メンズ 久留米産 紬織 / デニムパンツ メンズ ストレッチ ズボン / チノパン メンズ ストレッチ ストレート / Tシャツ メンズ ビジネス 長袖 オフィス
+
