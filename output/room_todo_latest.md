@@ -1,83 +1,31 @@
-# 楽天ROOMに追加する商品（2026-10-23）
+# 楽天ROOMに追加する商品（2026-10-24）
 
 手順: 商品URLを開く → 共有 → 「ROOMに投稿」 → コメントを貼って投稿。
 夜の分は20時までに入れておくと、購買ピーク（21〜24時）に乗ります。
 
-## 07:01 寒さ対策・冬支度（開催中） × 20代女性（自分磨き・プチプラ・映え）
+## 07:01 今売れている物 × 30代女性（暮らし・時短・コスパ）
 
-1. **NERUS 毛布 [正規品] とにかく暖かい毛布 軽量 蓄熱 吸湿発熱 エアロゲル 毛布 厚手 宇宙服素材 毛布 シング**
-   - 価格: 5,980円 / ★4.77（690件） / 料率 3.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00u9h5o.72d3y88d.g00u9h5o.72d3z15e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ft-interior%2Fjst0031%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ft-interior%2Fi%2F10000211%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: SNSで見かけて気になってたやつ。レビュー690件で★4.77。5,980円。
+1. **10/24先着100名様【15%OFF】燕三条 訳あり 福袋 2027 選べる10点 セット IH対応 お得パック キッ**
+   - 価格: 6,600円 / ★4.78（405件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00ueqto.72d3ye2f.g00ueqto.72d3z499/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Futsuwa-shop2023%2Fh-240103%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Futsuwa-shop2023%2Fi%2F10000125%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 毎日の家事がちょっとラクになるやつ。蒸し目皿・ザルの取り扱いは終了しました。レビュー405件で★4.78。15%OFF。
 
-2. **15%OFF★即発送★ペット ホットカーペット タイマー 防水 ペットヒーター 猫 犬 ペット用ホットカーペット カバー**
-   - 価格: 3,980円 / ★4.54（1,053件） / 料率 4.0% / P15倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00u33jo.72d3y35b.g00u33jo.72d3zf6b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcozy-shop%2Flad171%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcozy-shop%2Fi%2F10000158%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: SNSで見かけて気になってたやつ。楽天ランキング1位、レビュー1,053件で★4.54。15%OFF、ポイント15倍で実質3,383円。
+2. **tower【 山崎実業 排気口カバー タワー フラットタイプ W60 W75 】サイズ ～60cm対応/～75cm対応 **
+   - 価格: 2,750円 / ★4.74（4,114件） / 料率 3.0% / P5倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qn4oo.72d3y9b3.g00qn4oo.72d3zec9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamayuu%2Fyj-5734%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyamayuu%2Fi%2F10019767%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 忙しい平日の味方。スライドさせない一本型なのでお掃除や移動の際など、より取り扱いが簡単です。排気口に置くだけ。レビュー4,114件で★4.74。ポイント5倍で実質2,612円、送料無料。
 
-3. **【クーポンで81％OFF】もこもこ毛布 ふわとろ ブランケット フランネル生地 洗濯機対応 軽量 マイクロファイバー 静**
-   - 価格: 7,889円 / ★4.48（789件） / 料率 3.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00sv25o.72d3y1b1.g00sv25o.72d3z9a1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Feunicedress%2Feuni-123%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Feunicedress%2Fi%2F10001863%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: プチプラで探してる人に。超極細繊維のマイクロファイバーを使用しており軽量ふわふわで寝心地抜群です。たっぷりボリュームの毛足により両面とも肌触りの良い毛布なっています。レビュー789件で★4.48。81%OFF。
+3. **ジョージ ジェンセン ダマスク エジプト ティータオル [ Georg Jensen Damask Egypt ] キッ**
+   - 価格: 1,900円 / ★4.73（8,377件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00pkggo.72d3y2dc.g00pkggo.72d3zd61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fscope%2Fgj-410400%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fscope%2Fi%2F10005932%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 忙しい平日の味方。僕はもう水切りカゴを使わないだろうし、欲しいと思うこともなさそうです。洗った食器をどうやって乾かしているのか。レビュー8,377件で★4.73。送料無料。
 
-4. **ロールスクリーン ロールカーテン 遮熱 断熱 遮光 つっぱり オーダー 間仕切り 目隠し めかくし 賃貸OK 電動 非遮**
-   - 価格: 1,900円 / ★4.41（2,735件） / 料率 3.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00rrcto.72d3ya35.g00rrcto.72d3zf7c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdiydiy%2Fscreen-023%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdiydiy%2Fi%2F10000571%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: プチプラで探してる人に。レビュー2,735件で★4.41。1,900円。
-
-### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
-
-- **20代女性のリピート候補**: NERUS 毛布 とにかく暖かい毛布 軽量 / 即発送 ペット ホットカーペット タイマー / もこもこ毛布 ふわとろ ブランケット / ロールスクリーン ロールカーテン 遮熱 断熱
-
-## 12:21 今売れている物 × 20代男性（ガジェット・一人暮らし）
-
-1. **iFace 公式 iphone 18Pro ケース 18ProMax iPhone17 ケース 17e 17Pro 17**
-   - 価格: 3,960円 / ★4.48（2,219件） / 料率 2.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00pj8xo.72d3yed7.g00pj8xo.72d3ze16/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkeitai%2F41-979%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkeitai%2Fi%2F10814347%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 一人暮らしの部屋に1つあると便利。レビュー2,219件で★4.48。3,960円。
-
-2. **デニムパンツ メンズ ストレッチ ズボン デニム パンツ ジーンズ ジーパン スキニー レギュラー 伸縮 ジーンズ メン**
-   - 価格: 2,998円 / ★4.41（1,136件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00slrwo.72d3y3b7.g00slrwo.72d3z3d7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgeneless%2F04-0077mz%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgeneless%2Fi%2F10001280%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 一人暮らしの部屋に1つあると便利。タグの表記はヌード寸の為、実寸サイズとは異なり。何卒ご理解をいただければ幸いでございます。レビュー1,136件で★4.41。2,998円。
-
-3. **Tシャツ メンズ ビジネス 長袖 綿100% オフィス ドレスTシャツ ジャケットのインナー専用 ジャケットの下に着るT**
-   - 価格: 5,500円 / ★4.51（107件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00t3y9o.72d3yf69.g00t3y9o.72d3z690/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftanakaseni-e-shop%2F35322%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftanakaseni-e-shop%2Fi%2F10000680%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 一人暮らしの部屋に1つあると便利。またカラーによっても個体差があり、多色買いの際には色によってサイズ感も異。さらっとなめらかな肌触りでストレッチ性があるため快適に着ていただけます。レビュー107件で★4.51。00%OFF。
-
-4. **【高評価★5】ランキング1位!!【ゴルフ専用雨具】 レインウェア 上下 メンズ ゴルフ 【耐水圧20,000mmで大雨で**
-   - 価格: 9,980円 / ★4.48（50件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00tsj1o.72d3y8e8.g00tsj1o.72d3z88b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbenque%2Fbe139-r181%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbenque%2Fi%2F10000558%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 一人暮らしの部屋に1つあると便利。日本人に合うサイズ感、品質、アフターサポートを最優先に日々取り組んでおります。上下セットでコスパも。楽天ランキング1位、レビュー50件で★4.48。9,980円。
+4. **＼L型タイプ新登場！／ 透明 撥水 拭ける キッチンマット 厚さ1.5mm 防カビ 防水 透明マット L字 L型 270**
+   - 価格: 1,980円 / ★4.62（4,857件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00tfbho.72d3yc85.g00tfbho.72d3z348/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnext-online%2F10000304%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnext-online%2Fi%2F10000215%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 忙しい平日の味方。シンプルな見た目だけでなく、実用性の高いキッチンマットに仕上がっています。他社製品や従来品よりも厚みを増しました。レビュー4,857件で★4.62。1,980円。
 
 ### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
 
-- **20代男性のリピート候補**: iFace 公式 iphone ケース / デニムパンツ メンズ ストレッチ ズボン / Tシャツ メンズ ビジネス 長袖 オフィス / ランキング1位!! レインウェア 上下
-
-## 20:16 寒さ対策・冬支度（開催中） × 30代男性（健康・効率化・家電）
-
-1. **【24日20時~5％引クーポン】 楽天1位＆12万台突破 選べる2タイプ ダイニングチェア 1脚 / 2脚セット / 4**
-   - 価格: 7,499円 / ★4.63（452件） / 料率 3.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00ppglo.72d3y3f0.g00ppglo.72d3z552/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftansu%2F83200002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftansu%2Fi%2F10055238%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 時短になる系。立ち座りしやすい回転タイプはこちらお掃除ロボット対応。楽天ランキング1位、レビュー452件で★4.63。7,499円。
-
-2. **【先着半額クーポン★24日20時~】 【30%OFFカラー限定】高反発 極厚 ラグ 防音 ラグマット はっ水 カーペット**
-   - 価格: 2,490円 / ★4.51（1,325件） / 料率 3.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00sma8o.72d3y877.g00sma8o.72d3z8fa/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frugly%2F701039%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frugly%2Fi%2F10004032%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 時短になる系。3種類の厚みから選べ、防音機能もあります。撥水加工が施されているため、こぼれた液体も簡単に拭き取れ、お手入れが楽々。レビュー1,325件で★4.51。30%OFF。
-
-3. **【2年保証】Lepro ledテープライト「5m/10m/15m/20m」 テープライト RGB 屋内用 明るさ調節 鮮**
-   - 価格: 2,580円 / ★4.4（177件） / 料率 3.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00u5r2o.72d3y67c.g00u5r2o.72d3z4de/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flepro%2Fpr410082-rgb-jp%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flepro%2Fi%2F10000037%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 毎日使うものほど良い物を、の代表。使用する場所や雰囲気に合わせて、20色から選べるのも嬉しいですね。6種類のカーラーDIYDIYKeyで、お好みのカラーを設定できます。レビュー177件で★4.4。2,580円。
-
-4. **【24日20時~5％引クーポン】 楽天1位 高反発 ラグ 厚手 【防音＆クッション性UP】 極厚 25mm フランネル **
-   - 価格: 3,499円 / ★4.63（3,636件） / 料率 3.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00ppglo.72d3y3f0.g00ppglo.72d3z552/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftansu%2F65010003%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftansu%2Fi%2F10049866%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: スペック比較して残ったやつ。洗える高反発ラグ高反発スロープラグストライプフランネルラグ足元の冷え対策に。まだまだあります。楽天ランキング1位、レビュー3,636件で★4.63。3,499円。
-
-### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
-
-- **30代男性のリピート候補**: 楽天1位＆12万台突破 選べる2タイプ / 高反発 極厚 ラグ 防音 ラグマット はっ水 / Lepro ledテープライト「5m 10m / 楽天1位 高反発 ラグ 厚手 極厚 25mm
+- **30代女性のリピート候補**: 10 24先着100名様 燕三条 訳あり / tower サイズ ～60cm対応 / ジョージ ジェンセン ダマスク エジプト / L型タイプ新登場！ 透明 撥水 拭ける
 
