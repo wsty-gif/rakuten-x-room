@@ -15030,5 +15030,16 @@
   "review_count": 50,
   "review_average": 4.48,
   "genre_id": "303524"
+ },
+ {
+  "date": "2026-10-23T18:31:19",
+  "slot": "evening",
+  "kind": "engage",
+  "engage_key": "q0",
+  "theme": "反応投稿（question）",
+  "persona": "all",
+  "text": "楽天で「これは買ってよかった」と胸を張って言えるもの、1つ教えてください。\n次の紹介の参考にします。",
+  "tweet_id": "",
+  "threads_id": "18097417457116031"
  }
 ]
