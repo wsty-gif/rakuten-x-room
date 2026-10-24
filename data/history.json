@@ -15166,7 +15166,8 @@
   "shop_name": "器　- Utsuwa -",
   "review_count": 405,
   "review_average": 4.78,
-  "genre_id": "101858"
+  "genre_id": "101858",
+  "instagram_story_id": "18127405615853028"
  },
  {
   "date": "2026-10-24T07:01:49",
@@ -15239,5 +15240,105 @@
   "review_count": 4857,
   "review_average": 4.62,
   "genre_id": "100636"
+ },
+ {
+  "date": "2026-10-24T12:01:44",
+  "slot": "noon",
+  "theme": "寒さ対策・冬支度（開催中） × 20代男性（ガジェット・一人暮らし）",
+  "persona": "20s_man",
+  "item_code": "maxshare:10060066",
+  "item_name": "【楽天1位】ゴミ箱 自動開閉 40L 50L 60L 臭わない 消臭 生ゴミ 人感センサー ステンレス ふた付き 両開き 中央開閉 45L 70L ゴミ袋対応 ",
+  "price": 8800,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00prbao.72d3y0ce.g00prbao.72d3z208/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaxshare%2Fa17962%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmaxshare%2Fi%2F10060066%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 3.0,
+  "text": "#PR 一人暮らしのQOLが1段上がる\nゴミ箱 自動開閉 40L 50L 60L\n★4.45・レビュー1,297件・楽天ランキング1位\n8,800円・送料無料\n使ってる人いたら感想ください\n#楽天購入品\n▶ROOMはプロフから",
+  "tweet_id": "",
+  "threads_id": "18593940106071066",
+  "room_done": false,
+  "image": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/maxshare/cabinet/master/1st2/a17962.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/maxshare/cabinet/master/1st2/a17962.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/maxshare/cabinet/rn/a17962-awd.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/maxshare/cabinet/master/2nd/02.jpg?_ex=600x600"
+  ],
+  "shop_name": "マックスシェアー　maxshare",
+  "review_count": 1297,
+  "review_average": 4.45,
+  "genre_id": "215767",
+  "instagram_id": "18108625541149551",
+  "instagram_story_id": "17886526767505713"
+ },
+ {
+  "date": "2026-10-24T12:01:44",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "寒さ対策・冬支度（開催中） × 20代男性（ガジェット・一人暮らし）",
+  "persona": "20s_man",
+  "item_code": "tansu:10045046",
+  "item_name": "【24日20時~5％引クーポン】 楽天1位 布団セット 中綿増量1.6kg 固綿入り 敷布団 掛け布団 洗える 抗菌 防臭 防カビ 収納ケース 掛布団 カバー付",
+  "price": 5999,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00ppglo.72d3y3f0.g00ppglo.72d3z552/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftansu%2F26700013%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftansu%2Fi%2F10045046%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 3.0,
+  "text": "一人暮らしの部屋に1つあると便利。ベッドにぴったりで使い勝手抜群。届いてすぐ使える寝具7点セット(S,SD)、9点セット(D)・敷布団がリニューアル。楽天ランキング1位、レビュー3,593件で★4.36。5,999円。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/tansu/cabinet/koukoku/26700013_10.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/tansu/cabinet/koukoku/26700013_10.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/tansu/cabinet/634/26700013_ruikei.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/tansu/cabinet/img12/26700013_spf1.jpg?_ex=600x600"
+  ],
+  "shop_name": "タンスのゲン Design the Future",
+  "review_count": 3593,
+  "review_average": 4.36,
+  "genre_id": "215613"
+ },
+ {
+  "date": "2026-10-24T12:01:44",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "寒さ対策・冬支度（開催中） × 20代男性（ガジェット・一人暮らし）",
+  "persona": "20s_man",
+  "item_code": "dondon:10001831",
+  "item_name": "[クーポンで6％OFF] [即日出荷] [レビュー3000件超え／高評価4.37点] マットレス シングル セミダブル ダブル ポケットコイルマットレス 厚さ2",
+  "price": 5980,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qqpqo.72d3y802.g00qqpqo.72d3z677/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdondon%2Fdbm-001-s%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdondon%2Fi%2F10001831%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 3.0,
+  "text": "一人暮らしの部屋に1つあると便利。レビュー3,181件で★4.37。5,980円。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/dondon/cabinet/rcm-002_4.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/dondon/cabinet/rcm-002_4.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/dondon/cabinet/item06/rcm-002_cart_point.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/dondon/cabinet/item06/rcm-002_cart_type.jpg?_ex=600x600"
+  ],
+  "shop_name": "モダンデコ",
+  "review_count": 3181,
+  "review_average": 4.37,
+  "genre_id": "508183"
+ },
+ {
+  "date": "2026-10-24T12:01:44",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "寒さ対策・冬支度（開催中） × 20代男性（ガジェット・一人暮らし）",
+  "persona": "20s_man",
+  "item_code": "irisplaza-r:10105908",
+  "item_name": "タイルカーペット 50×50 20枚 おしゃれ 防炎 ラグ 洗える 防音 難燃性 カーペット カーペットタイル フロアタイル 単位 TKP-PP50",
+  "price": 5980,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00t3zto.72d3y505.g00t3zto.72d3z9db/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Firisplaza-r%2F7147269-20%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Firisplaza-r%2Fi%2F10105908%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 3.0,
+  "text": "コスパで選ぶならこれ。レビュー170件で★4.35。5,980円。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/irisplaza-r/cabinet/7147269-20.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/irisplaza-r/cabinet/7147269-20.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/irisplaza-r/cabinet/11073544/13034817/imgrc0117854055.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/irisplaza-r/cabinet/11073544/13034817/imgrc0117854056.jpg?_ex=600x600"
+  ],
+  "shop_name": "アイリスオーヤマ公式 楽天市場店",
+  "review_count": 170,
+  "review_average": 4.35,
+  "genre_id": "215729"
  }
 ]
