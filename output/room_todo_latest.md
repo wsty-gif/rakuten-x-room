@@ -1,83 +1,36 @@
-# 楽天ROOMに追加する商品（2026-10-24）
+# 楽天ROOMに追加する商品（2026-10-25）
 
 手順: 商品URLを開く → 共有 → 「ROOMに投稿」 → コメントを貼って投稿。
 夜の分は20時までに入れておくと、購買ピーク（21〜24時）に乗ります。
 
-## 07:01 今売れている物 × 30代女性（暮らし・時短・コスパ）
+## 07:01 寒さ対策・冬支度（開催中） × 子育て世帯のママ・パパ
 
-1. **10/24先着100名様【15%OFF】燕三条 訳あり 福袋 2027 選べる10点 セット IH対応 お得パック キッ**
-   - 価格: 6,600円 / ★4.78（405件） / 料率 3.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00ueqto.72d3ye2f.g00ueqto.72d3z499/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Futsuwa-shop2023%2Fh-240103%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Futsuwa-shop2023%2Fi%2F10000125%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 毎日の家事がちょっとラクになるやつ。蒸し目皿・ザルの取り扱いは終了しました。レビュー405件で★4.78。15%OFF。
+1. **【先着半額クーポン★24日20時~】 楽天1位 ラグ ラグマット はっ水 洗える カーペット 低反発 厚手 極厚 オール**
+   - 価格: 3,990円 / ★4.57（8,724件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00sma8o.72d3y877.g00sma8o.72d3z8fa/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frugly%2F701089%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frugly%2Fi%2F10004030%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。まとめ買いしておくと楽になるもの。撥水加工が施されているため、こぼれた液体も簡単に拭き取れ、お手入れが楽々。カラーバリエーションも豊富で、お部屋のデコレーションに合わせやすいです。楽天ランキング1位、レビュー8,724件で★4.57。半額。
 
-2. **tower【 山崎実業 排気口カバー タワー フラットタイプ W60 W75 】サイズ ～60cm対応/～75cm対応 **
-   - 価格: 2,750円 / ★4.74（4,114件） / 料率 3.0% / P5倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qn4oo.72d3y9b3.g00qn4oo.72d3zec9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamayuu%2Fyj-5734%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyamayuu%2Fi%2F10019767%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 忙しい平日の味方。スライドさせない一本型なのでお掃除や移動の際など、より取り扱いが簡単です。排気口に置くだけ。レビュー4,114件で★4.74。ポイント5倍で実質2,612円、送料無料。
+2. **【楽天ランキング1位】総合1位 収納ボックス キャスター付き 5面開閉 折りたたみ 収納ケース フタ付き おしゃれ 中身**
+   - 価格: 4,280円 / ★4.51（5,574件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00uaejo.72d3y267.g00uaejo.72d3z378/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fexception5251%2Ff-00003%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fexception5251%2Fi%2F10000379%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。ママ友の間でよく話題になるやつ。なお、L・XLサイズは両タイプ間で積み重ねが可能です。楽天ランキング1位、レビュー5,574件で★4.51。4,280円。
 
-3. **ジョージ ジェンセン ダマスク エジプト ティータオル [ Georg Jensen Damask Egypt ] キッ**
-   - 価格: 1,900円 / ★4.73（8,377件） / 料率 3.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00pkggo.72d3y2dc.g00pkggo.72d3zd61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fscope%2Fgj-410400%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fscope%2Fi%2F10005932%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 忙しい平日の味方。僕はもう水切りカゴを使わないだろうし、欲しいと思うこともなさそうです。洗った食器をどうやって乾かしているのか。レビュー8,377件で★4.73。送料無料。
+3. **[先着3名限定]50%OFFクーポン10/24 20時～ 【ZIP!キテルネで紹介されました！】 毛布 NERUS 【正**
+   - 価格: 4,980円 / ★4.63（3,258件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00u9h5o.72d3y88d.g00u9h5o.72d3z15e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ft-interior%2Fhtc18%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ft-interior%2Fi%2F10000113%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。子どもがいる家で助かった系。レビュー3,258件で★4.63。50%OFF。
 
-4. **＼L型タイプ新登場！／ 透明 撥水 拭ける キッチンマット 厚さ1.5mm 防カビ 防水 透明マット L字 L型 270**
-   - 価格: 1,980円 / ★4.62（4,857件） / 料率 3.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00tfbho.72d3yc85.g00tfbho.72d3z348/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnext-online%2F10000304%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnext-online%2Fi%2F10000215%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 忙しい平日の味方。シンプルな見た目だけでなく、実用性の高いキッチンマットに仕上がっています。他社製品や従来品よりも厚みを増しました。レビュー4,857件で★4.62。1,980円。
+4. **【タイムセール20％OFF】返品交換不可 パーカー プルオーバー レディース コットン接結 綿100％／着後レビューでク**
+   - 価格: 3,168円 / ★4.55（2,334件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00r81yo.72d3y784.g00r81yo.72d3zce3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-ecoloco%2Fe2511%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-ecoloco%2Fi%2F10003311%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。ママ友の間でよく話題になるやつ。優しい肌触りの接結コットンシリーズの重ね襟パーカープルオーバー。そのシリーズのなかでも、一番人気の重ね襟が印象的なこちらのパーカー。レビュー2,334件で★4.55。20%OFF。
 
-### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
-
-- **30代女性のリピート候補**: 10 24先着100名様 燕三条 訳あり / tower サイズ ～60cm対応 / ジョージ ジェンセン ダマスク エジプト / L型タイプ新登場！ 透明 撥水 拭ける
-
-## 12:01 寒さ対策・冬支度（開催中） × 20代男性（ガジェット・一人暮らし）
-
-1. **【楽天1位】ゴミ箱 自動開閉 40L 50L 60L 臭わない 消臭 生ゴミ 人感センサー ステンレス ふた付き 両開き**
-   - 価格: 8,800円 / ★4.45（1,297件） / 料率 3.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00prbao.72d3y0ce.g00prbao.72d3z208/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaxshare%2Fa17962%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmaxshare%2Fi%2F10060066%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: コスパで選ぶならこれ。手を触れずに捨てられるので衛生的で、料理中や両手がふさがっているときにも便利です。幅約27.5cmのスリム設計全サイズ共通で幅約27.5cm。楽天ランキング1位、レビュー1,297件で★4.45。送料無料。
-
-2. **【24日20時~5％引クーポン】 楽天1位 布団セット 中綿増量1.6kg 固綿入り 敷布団 掛け布団 洗える 抗菌 防**
-   - 価格: 5,999円 / ★4.36（3,593件） / 料率 3.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00ppglo.72d3y3f0.g00ppglo.72d3z552/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftansu%2F26700013%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftansu%2Fi%2F10045046%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 一人暮らしの部屋に1つあると便利。ベッドにぴったりで使い勝手抜群。届いてすぐ使える寝具7点セット(S,SD)、9点セット(D)・敷布団がリニューアル。楽天ランキング1位、レビュー3,593件で★4.36。5,999円。
-
-3. **[クーポンで6％OFF] [即日出荷] [レビュー3000件超え／高評価4.37点] マットレス シングル セミダブル **
-   - 価格: 5,980円 / ★4.37（3,181件） / 料率 3.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qqpqo.72d3y802.g00qqpqo.72d3z677/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdondon%2Fdbm-001-s%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdondon%2Fi%2F10001831%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 一人暮らしの部屋に1つあると便利。レビュー3,181件で★4.37。5,980円。
-
-4. **タイルカーペット 50×50 20枚 おしゃれ 防炎 ラグ 洗える 防音 難燃性 カーペット カーペットタイル フロアタ**
-   - 価格: 5,980円 / ★4.35（170件） / 料率 3.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00t3zto.72d3y505.g00t3zto.72d3z9db/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Firisplaza-r%2F7147269-20%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Firisplaza-r%2Fi%2F10105908%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: コスパで選ぶならこれ。レビュー170件で★4.35。5,980円。
+5. **【10/24(土)9:59まで★3,990円⇒2,990円！】【予約】カット起毛ピンタックワイドパンツ ☆ 起毛パンツ **
+   - 価格: 2,990円 / ★4.43（342件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00q501o.72d3ycb0.g00q501o.72d3zff7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpierrot%2Fth2406-022518%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpierrot%2Fi%2F10016686%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。ママ友の間でよく話題になるやつ。ふんわりと柔らかく、肌触り滑らかで伸縮性もあるので楽な穿き心地が魅力的。起毛感のある優しい風合いで、秋冬のデイリースタイルを格上げします。レビュー342件で★4.43。10/249:59まで、送料無料。
 
 ### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
 
-- **20代男性のリピート候補**: ゴミ箱 自動開閉 40L 50L 60L / 楽天1位 布団セット 中綿増量1.6kg / マットレス シングル セミダブル ダブル / タイルカーペット 50×50 20枚
-
-## 20:16 今売れている物 × 40代男性（家族・晩酌・車）
-
-1. **＼⭐期間限定♪15%OFFクーポン✨／【日本人気デザイナー監修特別版登場！楽天年間ランキング1位】スマートウォッチ レデ**
-   - 価格: 2,980円 / ★4.39（50,234件） / 料率 2.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00s3wvo.72d3ybb3.g00s3wvo.72d3zc3c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsmahoservice%2Fw301984-4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsmahoservice%2Fi%2F10003781%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: まとめ買い向き。楽天ランキング1位、レビュー50,234件で★4.39。15%OFF。
-
-2. **【クーポンで1,980円～】＼楽天1位／ スマートウォッチ 心拍数 1.9インチ超大画面 腕時計 レディース 歩数計 ス**
-   - 価格: 2,980円 / ★4.36（20,507件） / 料率 2.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00u0sno.72d3yb77.g00u0sno.72d3z4eb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fzozotop%2Fq9%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fzozotop%2Fi%2F10000051%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 家族みんなで使える定番。会議中や電車中でもメッセージを見逃しません。楽天ランキング1位、レビュー20,507件で★4.36。送料無料。
-
-3. **【P10倍】【BRUNO 公式】加湿器 超音波式 おしゃれ アロマ 大容量 4L超音波加湿器 おまかせミスト ブルーノ **
-   - 価格: 6,930円 / ★4.45（166件） / 料率 2.0% / P10倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00tf8to.72d3yc3e.g00tf8to.72d3z032/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbruno-official%2F7761127%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbruno-official%2Fi%2F10002004%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 週末のお楽しみ用に。お部屋を快適な湿度にキープリラックスタイムを演出する加湿器。レビュー166件で★4.45。ポイント10倍で実質6,237円。
-
-4. **出荷前に新品電池と交換します 腕時計 サービス ギフト プレゼント**
-   - 価格: 1,000円 / ★4.74（3,665件） / 料率 2.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00rb8ho.72d3y0f2.g00rb8ho.72d3zc56/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgryps-%2Fbattery%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgryps-%2Fi%2F10019104%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 家族みんなで使える定番。ソーラー腕時計は対象外となります。レビュー3,665件で★4.74。送料無料。
-
-### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
-
-- **40代男性のリピート候補**: スマートウォッチ レディース 腕時計 防水 / 楽天1位 スマートウォッチ 心拍数 / 加湿器 超音波式 おしゃれ アロマ 大容量 / 出荷前に新品電池と交換します 腕時計
+- **子育て世帯のママ・パパのリピート候補**: 楽天1位 ラグ ラグマット はっ水 洗える / 総合1位 収納ボックス キャスター付き / 24 20時～ 毛布 NERUS / 返品交換不可 パーカー プルオーバー / 9:59まで
 
