@@ -55,3 +55,29 @@
 
 - **20代男性のリピート候補**: ゴミ箱 自動開閉 40L 50L 60L / 楽天1位 布団セット 中綿増量1.6kg / マットレス シングル セミダブル ダブル / タイルカーペット 50×50 20枚
 
+## 20:16 今売れている物 × 40代男性（家族・晩酌・車）
+
+1. **＼⭐期間限定♪15%OFFクーポン✨／【日本人気デザイナー監修特別版登場！楽天年間ランキング1位】スマートウォッチ レデ**
+   - 価格: 2,980円 / ★4.39（50,234件） / 料率 2.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00s3wvo.72d3ybb3.g00s3wvo.72d3zc3c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsmahoservice%2Fw301984-4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsmahoservice%2Fi%2F10003781%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: まとめ買い向き。楽天ランキング1位、レビュー50,234件で★4.39。15%OFF。
+
+2. **【クーポンで1,980円～】＼楽天1位／ スマートウォッチ 心拍数 1.9インチ超大画面 腕時計 レディース 歩数計 ス**
+   - 価格: 2,980円 / ★4.36（20,507件） / 料率 2.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00u0sno.72d3yb77.g00u0sno.72d3z4eb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fzozotop%2Fq9%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fzozotop%2Fi%2F10000051%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 家族みんなで使える定番。会議中や電車中でもメッセージを見逃しません。楽天ランキング1位、レビュー20,507件で★4.36。送料無料。
+
+3. **【P10倍】【BRUNO 公式】加湿器 超音波式 おしゃれ アロマ 大容量 4L超音波加湿器 おまかせミスト ブルーノ **
+   - 価格: 6,930円 / ★4.45（166件） / 料率 2.0% / P10倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00tf8to.72d3yc3e.g00tf8to.72d3z032/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbruno-official%2F7761127%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbruno-official%2Fi%2F10002004%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 週末のお楽しみ用に。お部屋を快適な湿度にキープリラックスタイムを演出する加湿器。レビュー166件で★4.45。ポイント10倍で実質6,237円。
+
+4. **出荷前に新品電池と交換します 腕時計 サービス ギフト プレゼント**
+   - 価格: 1,000円 / ★4.74（3,665件） / 料率 2.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00rb8ho.72d3y0f2.g00rb8ho.72d3zc56/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgryps-%2Fbattery%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgryps-%2Fi%2F10019104%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 家族みんなで使える定番。ソーラー腕時計は対象外となります。レビュー3,665件で★4.74。送料無料。
+
+### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
+
+- **40代男性のリピート候補**: スマートウォッチ レディース 腕時計 防水 / 楽天1位 スマートウォッチ 心拍数 / 加湿器 超音波式 おしゃれ アロマ 大容量 / 出荷前に新品電池と交換します 腕時計
+

@@ -14727,6 +14727,13 @@
     "theme": "寒さ対策・冬支度（開催中） × 20代男性（ガジェット・一人暮らし）",
     "persona": "20s_man",
     "event_type": "season"
+   },
+   {
+    "date": "2026-10-24",
+    "slot": "night",
+    "theme": "今売れている物 × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "baseline"
    }
   ],
   "item_code": "vesync:10000001",
@@ -14736,14 +14743,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00u8ebo.72d3ycfc.g00u8ebo.72d3z9b4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvesync%2Fkaapafcsnjp0062%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/vesync/cabinet/09152443/09653695/imgrc0092744404.jpg?_ex=600x600",
   "shop_name": "Vesync公式　楽天市場店",
-  "review_count": 1240,
-  "review_average": 4.68,
+  "review_count": 1242,
+  "review_average": 4.67,
   "affiliate_rate": 2.0,
   "point_rate": 1,
   "catchcopy": "大容量 電気フライヤー エアフライヤー　エアーフライヤー コンパクト ギフト　家庭用　低カロリー　健康　ダイエット　お手入れ簡単　時短料理　操作簡単",
   "genre_id": "564331",
-  "score": 14.53,
-  "last_seen": "2026-10-24T12:01:44",
+  "score": 14.8,
+  "last_seen": "2026-10-24T20:16:22",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/vesync/cabinet/09152443/09653695/imgrc0092744404.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/vesync/cabinet/09152443/09653695/11241926/imgrc0089893356.jpg?_ex=600x600",
@@ -21003,23 +21010,30 @@
     "theme": "寒さ対策・冬支度（開催中） × 20代男性（ガジェット・一人暮らし）",
     "persona": "20s_man",
     "event_type": "season"
+   },
+   {
+    "date": "2026-10-24",
+    "slot": "night",
+    "theme": "今売れている物 × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "baseline"
    }
   ],
   "item_code": "nanobig:10000898",
-  "name": "【クーポンで1800円オフ】2026新モデル【2年保証】掃除機 コードレス掃除機 Orage史上 超高性能 RR11 軽量 人気 1位 自立 自走式 スティック クリーナー サイクロン 強力吸引 充電式 掃除機 ジェネリック家電 布団クリーナー",
+  "name": "【クーポンで1900円オフ】2026新モデル【2年保証】掃除機 コードレス掃除機 Orage史上 超高性能 RR11 軽量 人気 1位 自立 自走式 スティック クリーナー サイクロン 強力吸引 充電式 掃除機 ジェネリック家電 布団クリーナー",
   "price": 13500,
   "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rdz2o.72d3ya08.g00rdz2o.72d3z4b9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnanobig%2Fcleaner-cordless-rr11%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnanobig%2Fi%2F10000898%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00rdz2o.72d3ya08.g00rdz2o.72d3z4b9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnanobig%2Fcleaner-cordless-rr11%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/nanobig/cabinet/02988222/oragerr11/oragerr11_main.jpg?_ex=600x600",
   "shop_name": "ナノビッグ楽天市場店",
-  "review_count": 3733,
+  "review_count": 3735,
   "review_average": 4.51,
   "affiliate_rate": 2.0,
   "point_rate": 1,
   "catchcopy": "重たい掃除機さようなら！吸引力だけじゃない！orage 高性能 サイクロン式コードレスクリーナー おすすめ ギフト",
   "genre_id": "565105",
-  "score": 14.44,
-  "last_seen": "2026-10-24T12:01:44",
+  "score": 14.24,
+  "last_seen": "2026-10-24T20:16:22",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/nanobig/cabinet/02988222/oragerr11/oragerr11_main.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/nanobig/cabinet/02988222/oragerr11/rr11_sub101.jpg?_ex=600x600",
@@ -25973,35 +25987,51 @@
     "theme": "今売れている物 × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "baseline"
+   },
+   {
+    "date": "2026-10-24",
+    "slot": "night",
+    "theme": "今売れている物 × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "baseline"
    }
   ],
   "item_code": "smahoservice:10003781",
-  "name": "＼⭐期間限定♪10%OFFクーポン✨／【日本人気デザイナー監修特別版登場！楽天年間ランキング1位】スマートウォッチ レディース QS16PRO 腕時計 防水 通話機能 24時間健康管理 1.9インチ大画面 IP68防水 歩数計 心拍数 着信通知 睡眠モード 音楽製御 iPhone/Android対応",
+  "name": "＼⭐期間限定♪15%OFFクーポン✨／【日本人気デザイナー監修特別版登場！楽天年間ランキング1位】スマートウォッチ レディース QS16PRO 腕時計 防水 通話機能 24時間健康管理 1.9インチ大画面 IP68防水 歩数計 心拍数 着信通知 睡眠モード 音楽製御 iPhone/Android対応",
   "price": 2980,
   "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00s3wvo.72d3ybb3.g00s3wvo.72d3zc3c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsmahoservice%2Fw301984-4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsmahoservice%2Fi%2F10003781%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00s3wvo.72d3ybb3.g00s3wvo.72d3zc3c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsmahoservice%2Fw301984-4%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/smahoservice/cabinet/w/w302430-new/w302430-new.jpg?_ex=600x600",
   "shop_name": "スマホサービス",
-  "review_count": 50133,
+  "review_count": 50234,
   "review_average": 4.39,
   "affiliate_rate": 2.0,
   "point_rate": 1,
   "catchcopy": "スマートウォッチ スマホ レディース スマートウォッチ iphone 対応android スマートウォッチ レディース スマートウォッチ iphone スマートウォッチ 小さめ腕時計 スマートウォッチ 防水",
   "genre_id": "302050",
-  "score": 16.77,
-  "last_seen": "2026-10-16T20:16:26",
+  "score": 17.57,
+  "last_seen": "2026-10-24T20:16:22",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/smahoservice/cabinet/w/w302430-new/w302430-new.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/smahoservice/cabinet/kh/w301984-1-js.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/smahoservice/cabinet/w/w301984/w302083_1.jpg?_ex=600x600"
   ],
-  "caption": "型番 ・スマートウォッチQS16 PRO（通話版） ・スマートウォッチQS16 PRO（特別版） ディスプレイサイズ 1.9インチ 防水レベル ・IP68 バッテリー ・300mAh 対応機種 iPhone各種： ・iPhone 17 、iPhone 17Plus、 iPhone 17 Pro 、iPhone 17 Pro Max ・iPhone 16 、iPhone 16e、iPhone 16 Plus、 iPhone 16 Pro 、iPhone 16 Pro Max ・iPhone 15 、iPhone 15 Plus、 iPhone 15 Pro 、iPhone 15 Pro Max ・iPhone 14、iPhone 14 Plus、iPhone 14 Pro、iPhone 14 Pro Max ・iPhone 13、iPhone 13 mini、iPhone 13 Pro、iPhone 13 Pro Max ・iPhone 12 mini、iPhone 12/12 Pro、iPhone 12 Pro Max、 ・iPhone 11、iPhone 11 Pro、iPhone 11 Pro Max、 ・iPhone XS、iPhone XS Max、iPhone XR 、iPhoneX、 ・iPhone 8、iPhone 8 Plus、iPhone 7、iPhone 7Plus、 ・iPhone 6、iPhone 6s、iPhone 6Plus、iPhone 6sPlus、 ・iPhone SE(第3/2/1世代) 、iPhone 5s、iPhone 5、iPhone 5c..etc Android各種： ・Sony：Xperia 10 IV、Xperia Ace III、Xperia 1 IV、Xpeira PRO、Xpeira PRO-I、Xperia 5 II"
+  "caption": "型番 ・スマートウォッチQS16 PRO（通話版） ・スマートウォッチQS16 PRO（特別版） ディスプレイサイズ 1.9インチ 防水レベル ・IP68 バッテリー ・300mAh 対応機種 iPhone各種： ・iPhone 17 、iPhone 17Plus、 iPhone 17 Pro 、iPhone 17 Pro Max ・iPhone 16 、iPhone 16e、iPhone 16 Plus、 iPhone 16 Pro 、iPhone 16 Pro Max ・iPhone 15 、iPhone 15 Plus、 iPhone 15 Pro 、iPhone 15 Pro Max ・iPhone 14、iPhone 14 Plus、iPhone 14 Pro、iPhone 14 Pro Max ・iPhone 13、iPhone 13 mini、iPhone 13 Pro、iPhone 13 Pro Max ・iPhone 12 mini、iPhone 12/12 Pro、iPhone 12 Pro Max、 ・iPhone 11、iPhone 11 Pro、iPhone 11 Pro Max、 ・iPhone XS、iPhone XS Max、iPhone XR 、iPhoneX、 ・iPhone 8、iPhone 8 Plus、iPhone 7、iPhone 7Plus、 ・iPhone 6、iPhone 6s、iPhone 6Plus、iPhone 6sPlus、 ・iPhone SE(第3/2/1世代) 、iPhone 5s、iPhone 5、iPhone 5c..etc Android各種： ・Sony：Xperia 10 IV、Xperia Ace III、Xperia 1 IV、Xpeira PRO、Xpeira PRO-I、Xperia 5 II",
+  "posted_text": "#PR 週末の楽しみが1段上がる\nスマートウォッチ レディース 腕時計 防水\n★4.39・レビュー50,234件・楽天ランキング1位\n15%OFF｜2,980円\n#楽天購入品\n▶ROOMはプロフから",
+  "posted_at": "2026-10-24T20:16:22"
  },
  "unboxroom:10000113": {
   "first_seen": "2026-10-16T20:16:26",
   "themes": [
    {
     "date": "2026-10-16",
+    "slot": "night",
+    "theme": "今売れている物 × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "baseline"
+   },
+   {
+    "date": "2026-10-24",
     "slot": "night",
     "theme": "今売れている物 × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
@@ -26015,14 +26045,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00tre1o.72d3y57c.g00tre1o.72d3ze7f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Funboxroom%2Fsw-p18t_c%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/unboxroom/cabinet/sw/sw-p20/sw-p20main2.jpg?_ex=600x600",
   "shop_name": "Monomam 楽天市場店",
-  "review_count": 11632,
+  "review_count": 11669,
   "review_average": 4.37,
   "affiliate_rate": 2.0,
   "point_rate": 1,
   "catchcopy": "MONOMAM スマートウォッチ Primo",
   "genre_id": "302050",
-  "score": 16.36,
-  "last_seen": "2026-10-16T20:16:26",
+  "score": 16.16,
+  "last_seen": "2026-10-24T20:16:22",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/unboxroom/cabinet/sw/sw-p20/sw-p20main2.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/unboxroom/cabinet/sw/sw-p20/sw-p20sub1.jpg?_ex=600x600",
@@ -26072,6 +26102,13 @@
     "theme": "今売れている物 × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "baseline"
+   },
+   {
+    "date": "2026-10-24",
+    "slot": "night",
+    "theme": "今売れている物 × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "baseline"
    }
   ],
   "item_code": "gryps-:10015697",
@@ -26081,14 +26118,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00rb8ho.72d3y0f2.g00rb8ho.72d3zc56/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgryps-%2Fs-ltpv007d%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/gryps-/cabinet/series/ltp-v007d_1.jpg?_ex=600x600",
   "shop_name": "つきのとけいてん",
-  "review_count": 2506,
+  "review_count": 2528,
   "review_average": 4.67,
   "affiliate_rate": 2.0,
   "point_rate": 1,
   "catchcopy": "｜海外正規品｜送料無料｜上品かつ高級感のあるルックス｜コンパクトなスクエアケースで腕元すっきり｜高見えするデザイン｜軽くて快適｜試験｜受験｜模試｜",
   "genre_id": "302050",
-  "score": 16.16,
-  "last_seen": "2026-10-16T20:16:26",
+  "score": 15.86,
+  "last_seen": "2026-10-24T20:16:22",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/gryps-/cabinet/series/ltp-v007d_1.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/gryps-/cabinet/series/ltp-v007d__2.jpg?_ex=600x600",
@@ -29903,6 +29940,13 @@
     "theme": "寒さ対策・冬支度（開催中） × 20代男性（ガジェット・一人暮らし）",
     "persona": "20s_man",
     "event_type": "season"
+   },
+   {
+    "date": "2026-10-24",
+    "slot": "night",
+    "theme": "今売れている物 × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "baseline"
    }
   ],
   "item_code": "drip-pod:10000253",
@@ -29918,8 +29962,8 @@
   "point_rate": 1,
   "catchcopy": "UCC DRIP POD ドリップポッド ドリップマシン コーヒーメーカー コーヒーマシン 専用 カプセル カプセルコーヒー DP3 DP2 全自動 コンパクト おしゃれ 業務用 白 黒 ホワイト ブラック",
   "genre_id": "565115",
-  "score": 15.29,
-  "last_seen": "2026-10-24T12:01:44",
+  "score": 14.89,
+  "last_seen": "2026-10-24T20:16:22",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/drip-pod/cabinet/06141944/12139494/lp/dp3set_1m.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/drip-pod/cabinet/06141944/12139494/thumb/dp3set_3.jpg?_ex=600x600",
@@ -30903,5 +30947,202 @@
    "https://thumbnail.image.rakuten.co.jp/@0_mall/tac-online/cabinet/interior/zashiki2.jpg?_ex=600x600"
   ],
   "caption": "※単品はこちら！ ※脚組はこちら！ ●商品スペック（1脚あたり） 材質 構造材：スチール　中材：ウレタンフォーム 張地：表地/ポリエステル、 綿、レーヨン、アクリル、ナイロン 　　　裏地/不織布 サイズ 使用時：幅44.5×奥行37×高さ54（座面高30）cm 収納時：幅44.5×奥行7.5×高さ71cm 重量：約3kg 耐荷重：80kg 配送エリア：全国 ※ただし、北海道・沖縄・離島は別途料金が必要です。山岳地帯など一部の地域にはお届けできません。 配送エリアについては事前にお問合せ願います お申し込みの商品が、「生産未定、中止品、メーカー在庫切れ」等で入荷予定がない際にキャンセルとさせていただく場合もございます。 あらかじめご了承ください。"
+ },
+ "auc-risecreation:10004620": {
+  "first_seen": "2026-10-24T20:16:22",
+  "themes": [
+   {
+    "date": "2026-10-24",
+    "slot": "night",
+    "theme": "今売れている物 × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "baseline"
+   }
+  ],
+  "item_code": "auc-risecreation:10004620",
+  "name": "＼26-27年最新版♪／ パネルヒーター 足元ヒーター 折りたたみ デスク下 暖房器具 足元 ヒーター リモコン付き こたつ ワイド 省エネ 節電 オフィス 遠赤外線 デスク デスクヒーター PSE認証 省エネ 節電 ラウンド 静音",
+  "price": 8980,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00s0p3o.72d3yc97.g00s0p3o.72d3z6fe/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-risecreation%2Fy0721%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-risecreation%2Fi%2F10004620%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00s0p3o.72d3yc97.g00s0p3o.72d3z6fe/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-risecreation%2Fy0721%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-risecreation/cabinet/product/top-2/y0731_01_a.jpg?_ex=600x600",
+  "shop_name": "atRise（アットライズ）",
+  "review_count": 6442,
+  "review_average": 4.5,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "かがまずに操作可能でさらに使いやすくリニューアルしたアットライズのパネルヒーター！リモコン付で更に使いやすく進化した 最新モデル 省エネ で 冬 を 快適 に♪",
+  "genre_id": "212283",
+  "score": 17.06,
+  "last_seen": "2026-10-24T20:16:22",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-risecreation/cabinet/product/top-2/y0731_01_a.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-risecreation/cabinet/product/y000110003/y0731_02.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-risecreation/cabinet/product/y000110003/y0731_03.jpg?_ex=600x600"
+  ],
+  "caption": "▼ スタッフ瀬戸田の正直コラム!？ ▼ ▲ パネルヒーターのコラムはこちら♪ ▲ 商品紹介 毎年大好評のパネルヒーターが今年も登場！ ▼ 2026-2027年最新モデル改良点 ▼ 多くのお客様からいただいたお声にお応えして 1.本体のサイズを2サイズ調節可能に！ 2.角度調節可能な操作パネルで使いやすさUP！ 3.付属のブランケットのサイズを大幅に見直し！ 4.底面が熱すぎるとのお声から基盤を調整して最適な温度に！ ▼ もちろんいいところはそのまま ▼ 大きめで取り外し可能なブランケットは 手洗いもできるので汚れても大丈夫。 また、延長コードもついているので、 電源が遠い場所でも使用可能です。 足を組んでも膝があたらないよう 当店のパネルヒーターは幅も奥行も広め。 キッチンなど立って使う場合は、 天板を外して開いて使うこともできます。 3つの自動電源OFF機能があるから、 つけっぱなしにならずに安心安全。 また、電気代の節約にも◎ シーズンが終わったら、 くるくる巻いて収納袋へ。 すっきりコンパクトになるから 来年も再来年もずーっと使えます。 受験勉強や在宅ワーク、 冬場のキッチンなどはもちろん、 お一人暮らしの方にもおすすめです♪ ※PSE＆CE認証済み。 ※操作パネルには傷防止のための保護フィルムを貼付しております。 スペック 本体サイズ：直径約52cm～40cmx高さ約51cm 消費電力：145W コード長さ：約140cm 重量：約1.89kg ※詳細なスペックは画像をご参照ください。 付属品 専用リモコン 収納用バンド（長さ65cm） 延長コード（95cm） スタンドx2 収納袋 説明書 注意事項 ・商品の開封時に素材の臭いを感じる場合がありますが、人体への影響はありません。 湿気が少なく風通しの良い日陰にしばらく置いて頂くと自然に軽減されていきます。 ・使用時の破"
+ },
+ "zozotop:10000051": {
+  "first_seen": "2026-10-24T20:16:22",
+  "themes": [
+   {
+    "date": "2026-10-24",
+    "slot": "night",
+    "theme": "今売れている物 × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "baseline"
+   }
+  ],
+  "item_code": "zozotop:10000051",
+  "name": "【クーポンで1,980円～】＼楽天1位／ スマートウォッチ 心拍数 1.9インチ超大画面 腕時計 レディース 歩数計 スマートウォッチ メンズ 7色展開 IP68防水 GPS連携 Line 着信通知 睡眠検測 GPS連携 日本語 プレゼント iphone&android 送料無料",
+  "price": 2980,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00u0sno.72d3yb77.g00u0sno.72d3z4eb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fzozotop%2Fq9%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fzozotop%2Fi%2F10000051%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00u0sno.72d3yb77.g00u0sno.72d3z4eb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fzozotop%2Fq9%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/zozotop/cabinet/mainimg/countdown50/imgrc0108478536.jpg?_ex=600x600",
+  "shop_name": "ZOZOTOP",
+  "review_count": 20507,
+  "review_average": 4.36,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "スマートウォッチ zozotop リニューアル！すべてが進化！スマートウォッチ 心拍数 スマートブレスレット 1.9インチ大画面 腕時計 カロリー消費 睡眠検測 おしゃれ ブラック ピンク 青 赤",
+  "genre_id": "302050",
+  "score": 15.3,
+  "last_seen": "2026-10-24T20:16:22",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/zozotop/cabinet/mainimg/countdown50/imgrc0108478536.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/zozotop/cabinet/imgrc0117490026.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/zozotop/cabinet/09452070/q9-1000-0228.jpg?_ex=600x600"
+  ],
+  "caption": "　スマートウォッチ Q9PRO　 型番 Q9PRO カラー ブラック、ベージュ、グレー、ブルー、レッド、ピンク ディスプレイ 1.9インチ大画面 防水レベル IP68 本体重量 38g 解像度 240×280 操作 タッチ操作 Bluetooth V5.0 仕様 多機能スマートウォッチ 1.9インチの大字幕高精細なカラースクリーンで、日付表示、歩数、睡眠検測など毎日活動を正確に記録します。 心拍数、活動量、歩数記録、睡眠記録、天気報告、SMS通知、電話の着信通知、アラーム、データ同期、データ分析。時計機能はもちろん、iPhoneやAndroidなどのスマホとBluetoothで接続することで、走行距離、カロリー消費、睡眠モニター など日々の様々な活動量の計測が可能です。 大画面・長時間待機 1.9インチのカラースクリーン、240 * 280解像度のディスプレイを搭載し、文字がもっと明らかになり、強い日差し下にも見やいです。 200mAh大容量バッテリーを搭載され、約2時間のフルー充電で7日間も持ちます。（使用頻度によりバッテリーの消耗が早くなく場合があります） 着信通知/アプリ通知 着信通知やメール通知だけでなく、LINE，Twitter，Instagram、Facebook、Whatsapp等アプリからのメッセージを受信し、ディスプレイに表示します。 会議中や電車中でもメッセージを見逃しません。ディスプレイをタップしてスマートウォッチから拒否することもできます。 安心の日常生活防水 IP68ハイレベルの防水防塵テザイン、日常の手洗いなどの際は取り外す必要はなく、雨が降っていても安心です。 ※完全防水ではない為、お風呂など水に浸ける行為はお控えください。 ※本製品は運動におけるトレーニングの効果・効率の向上や運動強度の管理を主たる目的としております。医療目的でのご使用はでき"
+ },
+ "bruno-official:10002004": {
+  "first_seen": "2026-10-24T20:16:22",
+  "themes": [
+   {
+    "date": "2026-10-24",
+    "slot": "night",
+    "theme": "今売れている物 × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "baseline"
+   }
+  ],
+  "item_code": "bruno-official:10002004",
+  "name": "【P10倍】【BRUNO 公式】加湿器 超音波式 おしゃれ アロマ 大容量 4L超音波加湿器 おまかせミスト ブルーノ 大容量 4.0L お手入れ簡単 アロマ対応 花粉 ギフト プレゼント 寝室 リビング インテリア メッセージカード 対応 引っ越し祝い 入学祝い BOE139",
+  "price": 6930,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tf8to.72d3yc3e.g00tf8to.72d3z032/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbruno-official%2F7761127%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbruno-official%2Fi%2F10002004%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00tf8to.72d3yc3e.g00tf8to.72d3z032/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbruno-official%2F7761127%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/bruno-official/cabinet/item/2026_2/7761127_main6.jpg?_ex=600x600",
+  "shop_name": "BRUNOブルーノ公式楽天市場店",
+  "review_count": 166,
+  "review_average": 4.45,
+  "affiliate_rate": 2.0,
+  "point_rate": 10,
+  "catchcopy": "お部屋を快適な湿度にキープ リラックスタイムを演出する加湿器",
+  "genre_id": "204549",
+  "score": 15.18,
+  "last_seen": "2026-10-24T20:16:22",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/bruno-official/cabinet/item/2026_2/7761127_main6.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/bruno-official/cabinet/item/2026_2/7761127_page5_02.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/bruno-official/cabinet/item/2026_2/7761127_page5_03.jpg?_ex=600x600"
+  ],
+  "caption": "■ SPEC 商品仕様・成分 サイズ W186mm×H335mm×D186mm コード長：約1.5m 水タンク容量：約4.0L パッケージサイズ W218mm×H365mm×D218mm 重量 約1300g 素材・成分 ポリプロピレン/ABS樹脂 生産国 中国 型番 BOE139 機能 加湿量 ( 目安)：[1]約100mL/h [2]約200mL/h [3]約300mL/h 連続運転時間：[1]約40時間 [2]約20時間 [3]約13時間 適用床面積：木造和室：約5畳、プレハブ洋室：約8畳 湿度設定：40〜75％ タイマー：1〜12時間 ライト：LO/HI 水切れ自動停止 電源 AC100V 消費電力：15W/19W/24W ブランド BRUNO＼ホットプレート鍋セットがお得／"
+ },
+ "mano-a-mano:10002023": {
+  "first_seen": "2026-10-24T20:16:22",
+  "themes": [
+   {
+    "date": "2026-10-24",
+    "slot": "night",
+    "theme": "今売れている物 × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "baseline"
+   }
+  ],
+  "item_code": "mano-a-mano:10002023",
+  "name": "腕時計ベルト 20mm 時計バンド 19mm レザー 本革 アンティーク ビンテージ 交換ベルト 16mm 22mm 24mm GRENOBLE グルノーブル CASSIS カシス 18mm 時計 ベルト17mm 交換 カーフ 牛革 バンド 時計バンド 裏面防水 X0031331",
+  "price": 5500,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00prjio.72d3y47c.g00prjio.72d3z80d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmano-a-mano%2Fx0031331%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmano-a-mano%2Fi%2F10002023%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00prjio.72d3y47c.g00prjio.72d3z80d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmano-a-mano%2Fx0031331%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/mano-a-mano/cabinet/thum04/x0031331_t01_2.jpg?_ex=600x600",
+  "shop_name": "MANO-A-MANO【時計ベルト専門店】",
+  "review_count": 1026,
+  "review_average": 4.73,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "革ベルト 時計 腕時計 交換ベルト 腕時計ベルト 腕時計バンド 革 本革 レザー",
+  "genre_id": "302145",
+  "score": 14.86,
+  "last_seen": "2026-10-24T20:16:22",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/mano-a-mano/cabinet/thum04/x0031331_t01_2.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/mano-a-mano/cabinet/thum04/x0031331_dt02.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/mano-a-mano/cabinet/thum04/x0031331_review.jpg?_ex=600x600"
+  ],
+  "caption": "　商品説明 トスカーナ植物タンニンなめし協会に認定された高品質レザーを使用した時計ベルトで、上質な風合いを楽しめます。裏材には防水素材「ロリカ」を採用しているため、お手入れも簡単で、長く快適にお使いいただけます。付け根のかがり縫いや剣先のステッチが程よいアクセントとなり、手元に洗練された印象を与えてくれます。ビンテージウォッチとの相性も良く、クラシックな魅力を引き立てます。 　商品スペック カラー ブラック　Black (019) クレタ　Creta　(029) ダークブラウン　Dark Brown (032) タン Tan (046) ネイビーブルー　Navy Blue (065) ダークグリーン　Dark Green (071) レッド　Red (083) グレー　Grey (094) 素材 カーフ（牛革） 長さ 【男性用サイズ】 剣先側115mm / 尾錠側75mm 厚さ 【男性用サイズ】 約3.0mm サイズ展開 【男性用サイズ】 E16mm-B14mm E17mm-B16mm E18mm-B16mm E19mm-B16mm E20mm-B16mm E22mm-B18mm E24mm-B20mm 備考 ※【E】は時計に装着する側の幅、【B】はバックルの幅です。 こちらは植物タンニン鞣しで仕上げられているトスカーナレザーです。革が本来持つ自然の風合いをそのまま生かした素材になるため、生産ロットによって、また一本のベルトの中でも色の染まり方に自然な濃淡が出ることがあります。それが本物ならではの革の風合いであり、また使い込むほどにさらに味わいが増していくのが大きな特徴です。ユーザーが育てていく革としての変化をお楽しみください。 &nbsp;このベルトは、アップルウォッチ用ベルトのページでも購入出来ます。アップルウォッチ用ページへ >> ※ギフトラッピング（有料）はこちら＞"
+ },
+ "liberesta:10000108": {
+  "first_seen": "2026-10-24T20:16:22",
+  "themes": [
+   {
+    "date": "2026-10-24",
+    "slot": "night",
+    "theme": "今売れている物 × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "baseline"
+   }
+  ],
+  "item_code": "liberesta:10000108",
+  "name": "【クーポンで最安5580円】「楽天1位」加湿器 ハイブリッド加湿器 大容量 5L 超音波式 加熱式 加湿器 おしゃれ 4重除菌 6段階調節 卓上加湿器 上部給水 湿度設定 自動湿度調節 空焚き防止 UVライト付き タイマー アロマ対応 静音 節電 省エネ エコ 軽量",
+  "price": 6780,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00u2jdo.72d3y254.g00u2jdo.72d3z32d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fliberesta%2Faqua-m1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fliberesta%2Fi%2F10000108%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00u2jdo.72d3y254.g00u2jdo.72d3z32d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fliberesta%2Faqua-m1%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/liberesta/cabinet/12178158/12277475/m1-5580.jpg?_ex=600x600",
+  "shop_name": "LIBER-E",
+  "review_count": 11311,
+  "review_average": 4.29,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "秋冬乾燥対策 最大加湿量約560ml/h 最大対応面積35畳 リモコン付き マイナスイオン 上から給水 卓上 小型 コンパクト オフィス リビング キッチン 寝室 子供部屋 送料無料",
+  "genre_id": "204549",
+  "score": 14.8,
+  "last_seen": "2026-10-24T20:16:22",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/liberesta/cabinet/12178158/12277475/m1-5580.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/liberesta/cabinet/10276638/1-1.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/liberesta/cabinet/10276638/19.jpg?_ex=600x600"
+  ],
+  "caption": "商品名 ハイブリッド加湿器Aqua M1 カラー ホワイト 仕樣 ●届出事業者名：株式会社天井商事 ●PSマークの種類：PSE ●質量：約1.7kg ●タンク容量：5L ●最大加湿量： 560mL/h（ヒーターON） 320mL/h（ヒーターOFF） ●消費電力： 最大235W（ヒーターON） 最小12W（ヒーターOFF） ●適用床面積(目安) 木造和室: 28畳 プレハブ洋室: 35畳 ●本体サイズ：19*18*30cm ●定格電圧：AC 240V　50/60HZ パッケージ内容 ●1 x本体 ●1 x抗菌フィルター ●1 x掃除ブラシ ●1 xリモコン ●1 x取扱説明書（日本語対応） 関連キーワード 加湿器 ハイブリッド ハイブリッド式加湿器 5L 超音波加湿器 超音波式加湿器 加湿器 大容量 最新型 卓上加湿器 上から注水タイプ 静音 超音波式かしつき お手入れ簡単 空焚き防止機能付き 手軽 乾燥対策 置き場所 床置き 事務所 オフィス 部屋 学校 幼稚園 家庭用 会社 乾燥対策 お肌 保湿 効果 空焚き防止 UVライト UV 除菌ライト 自動OFF アロマ アロマ対応 シンプル ホワイト 乾燥肌 鼻詰まり 空焚き防止機能 上から注水 ミスト濡れない 空気清浄機 一人暮らし おすすめ おしゃれ 人気 電気代 省エネ 実感 秋冬用 加湿器 加熱式 加湿器 大型 業務用加湿器 アロマディフューザー 加湿器 寝室 アロマ加湿器 お歳暮 引越し祝い 新居 バレンタイン バレンタインデー ホワイトデー 母の日 父の日 敬老の日 クリスマス Xmas 誕生日 還暦祝い お祝い ギフト プレゼント リビング おすすめ ブラックフライデー 加湿器 上から給水 大容量 加湿器 上部給水 クリスマスプレゼント EXDASH 加湿器 メーカー希望小売価格はメーカーサイトに基づいて掲載して"
+ },
+ "gryps-:10019104": {
+  "first_seen": "2026-10-24T20:16:22",
+  "themes": [
+   {
+    "date": "2026-10-24",
+    "slot": "night",
+    "theme": "今売れている物 × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "baseline"
+   }
+  ],
+  "item_code": "gryps-:10019104",
+  "name": "出荷前に新品電池と交換します 腕時計 サービス ギフト プレゼント",
+  "price": 1000,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rb8ho.72d3y0f2.g00rb8ho.72d3zc56/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgryps-%2Fbattery%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgryps-%2Fi%2F10019104%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00rb8ho.72d3y0f2.g00rb8ho.72d3zc56/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgryps-%2Fbattery%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/gryps-/cabinet/service/battery.jpg?_ex=600x600",
+  "shop_name": "つきのとけいてん",
+  "review_count": 3665,
+  "review_average": 4.74,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "｜送料無料｜プロにお任せ｜突然の電池切れの不安解消｜試験｜受験｜模試｜",
+  "genre_id": "112747",
+  "score": 14.62,
+  "last_seen": "2026-10-24T20:16:22",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/gryps-/cabinet/service/battery.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/gryps-/cabinet/service/battery_2.jpg?_ex=600x600"
+  ],
+  "caption": "ITEM INFORMATION 時計にあらかじめセットされているモニター用電池（時計の機能や性能をチェックするための電池）から新品電池に交換いたします。 ・ご注文は出荷前の商品に限ります。ご希望の商品と同じカートに入れて下さい。 ・ソーラー腕時計は対象外となります。 ・交換済みの電池は商品と同送致します。 ※オプション単体や対象商品の数量以上のご注文はできかねております。"
  }
 }
