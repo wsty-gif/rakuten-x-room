@@ -1,144 +1,31 @@
-# 楽天ROOMに追加する商品（2026-10-25）
+# 楽天ROOMに追加する商品（2026-10-26）
 
 手順: 商品URLを開く → 共有 → 「ROOMに投稿」 → コメントを貼って投稿。
 夜の分は20時までに入れておくと、購買ピーク（21〜24時）に乗ります。
 
-## 07:01 寒さ対策・冬支度（開催中） × 子育て世帯のママ・パパ
+## 07:01 寒さ対策・冬支度（開催中） × 40代男性（家族・晩酌・車）
 
-1. **【先着半額クーポン★24日20時~】 楽天1位 ラグ ラグマット はっ水 洗える カーペット 低反発 厚手 極厚 オール**
-   - 価格: 3,990円 / ★4.57（8,724件） / 料率 3.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00sma8o.72d3y877.g00sma8o.72d3z8fa/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frugly%2F701089%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frugly%2Fi%2F10004030%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。まとめ買いしておくと楽になるもの。撥水加工が施されているため、こぼれた液体も簡単に拭き取れ、お手入れが楽々。カラーバリエーションも豊富で、お部屋のデコレーションに合わせやすいです。楽天ランキング1位、レビュー8,724件で★4.57。半額。
+1. **【24日20時〜MAX99%OFFクーポン】高品質 毛布 ふわとろ毛布 もこもこ毛布 ブランケット モコモコ とろとろ **
+   - 価格: 8,880円 / ★4.51（2,191件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00uoeso.72d3y94e.g00uoeso.72d3zcff/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkashiwa01%2Fksw-sg0001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkashiwa01%2Fi%2F10000041%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: まとめ買い向き。レビュー2,191件で★4.51。99%OFF。
 
-2. **【楽天ランキング1位】総合1位 収納ボックス キャスター付き 5面開閉 折りたたみ 収納ケース フタ付き おしゃれ 中身**
-   - 価格: 4,280円 / ★4.51（5,574件） / 料率 3.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00uaejo.72d3y267.g00uaejo.72d3z378/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fexception5251%2Ff-00003%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fexception5251%2Fi%2F10000379%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。ママ友の間でよく話題になるやつ。なお、L・XLサイズは両タイプ間で積み重ねが可能です。楽天ランキング1位、レビュー5,574件で★4.51。4,280円。
+2. **リズム 公式 | デジタル 温湿度計 ひと目でわかる快適表示 高精度 見やすい 大画面 & バックライト 時計 カレンダ**
+   - 価格: 3,980円 / ★4.64（33件） / 料率 3.0% / P10倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00u8qro.72d3yb83.g00u8qro.72d3zba2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frhythm-official%2F9yya46rh%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frhythm-official%2Fi%2F10000688%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 家族みんなで使える定番。環境目安表示付きの高精度デジタル温湿度計です。環境目安は表示により発生の有無を知らせるものではありません。レビュー33件で★4.64。ポイント10倍で実質3,582円。
 
-3. **[先着3名限定]50%OFFクーポン10/24 20時～ 【ZIP!キテルネで紹介されました！】 毛布 NERUS 【正**
-   - 価格: 4,980円 / ★4.63（3,258件） / 料率 3.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00u9h5o.72d3y88d.g00u9h5o.72d3z15e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ft-interior%2Fhtc18%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ft-interior%2Fi%2F10000113%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。子どもがいる家で助かった系。レビュー3,258件で★4.63。50%OFF。
+3. **【80％OFF衝撃特価！】10月24日20時～11月25日限定！【在庫豊富】 NISHIZARC 【正規品】ふわとろ 毛**
+   - 価格: 8,980円 / ★4.59（294件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00uocjo.72d3y31c.g00uocjo.72d3z38e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdecori%2Fy-593%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdecori%2Fi%2F10000575%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 週末のお楽しみ用に。空気を含んだ、ふんわりやわらかな肌ざわり。表裏で快適表面はふわふわ、裏面はなめらか。レビュー294件で★4.59。80%OFF。
 
-4. **【タイムセール20％OFF】返品交換不可 パーカー プルオーバー レディース コットン接結 綿100％／着後レビューでク**
-   - 価格: 3,168円 / ★4.55（2,334件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00r81yo.72d3y784.g00r81yo.72d3zce3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-ecoloco%2Fe2511%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-ecoloco%2Fi%2F10003311%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。ママ友の間でよく話題になるやつ。優しい肌触りの接結コットンシリーズの重ね襟パーカープルオーバー。そのシリーズのなかでも、一番人気の重ね襟が印象的なこちらのパーカー。レビュー2,334件で★4.55。20%OFF。
-
-5. **【10/24(土)9:59まで★3,990円⇒2,990円！】【予約】カット起毛ピンタックワイドパンツ ☆ 起毛パンツ **
-   - 価格: 2,990円 / ★4.43（342件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00q501o.72d3ycb0.g00q501o.72d3zff7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpierrot%2Fth2406-022518%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpierrot%2Fi%2F10016686%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。ママ友の間でよく話題になるやつ。ふんわりと柔らかく、肌触り滑らかで伸縮性もあるので楽な穿き心地が魅力的。起毛感のある優しい風合いで、秋冬のデイリースタイルを格上げします。レビュー342件で★4.43。10/249:59まで、送料無料。
+4. **＼マラソン限定10％OFF／ふあふあヤク風Vプルオーバーニット レディース メール便不可 coca コカ【西山茉希様着用**
+   - 価格: 1,790円 / ★4.27（541件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qvdio.72d3y21f.g00qvdio.72d3z24e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcocacoca%2F01-210305002-22%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcocacoca%2Fi%2F10018672%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 週末のお楽しみ用に。レビュー541件で★4.27。10%OFF。
 
 ### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
 
-- **子育て世帯のママ・パパのリピート候補**: 楽天1位 ラグ ラグマット はっ水 洗える / 総合1位 収納ボックス キャスター付き / 24 20時～ 毛布 NERUS / 返品交換不可 パーカー プルオーバー / 9:59まで
-
-## 12:01 今売れている物 × 30代男性（健康・効率化・家電）
-
-1. **＼26-27年最新版♪／ パネルヒーター 足元ヒーター 折りたたみ デスク下 暖房器具 足元 ヒーター リモコン付き こ**
-   - 価格: 8,980円 / ★4.5（6,442件） / 料率 2.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00s0p3o.72d3yc97.g00s0p3o.72d3z6fe/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-risecreation%2Fy0721%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-risecreation%2Fi%2F10004620%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。時短になる系。3.付属のブランケットのサイズを大幅に見直し。4.底面が熱すぎるとのお声から基盤を調整して最適な温度に。レビュー6,442件で★4.5。8,980円。
-
-2. **★24H値下げ！更に3点目半額★ ふわり 掛け布団カバー 冬 布団カバー あったか シングル 羽毛布団カバー 暖かい 掛**
-   - 価格: 2,980円 / ★4.54（959件） / 料率 3.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00u1tao.72d3ydc2.g00u1tao.72d3z2a2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkaiminya%2F20203150%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkaiminya%2Fi%2F10000039%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。時短になる系。レビュー959件で★4.54。半額。
-
-3. **【マラソン限定！10%引クーポン】 【SNS話題/意匠権取得】 楽天1位 天板付き スラックスハンガー 滑りにくい S字**
-   - 価格: 4,999円 / ★4.5（520件） / 料率 3.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00ppglo.72d3y3f0.g00ppglo.72d3z552/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftansu%2F84300015a%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftansu%2Fi%2F10056606%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。時短になる系。ハンガー単品の販売もございます後付けしてロータイプからハイタイプに。ロータイプ用後付けフレーム単品の販売もございますデッドスペースを有効活用。楽天ランキング1位、レビュー520件で★4.5。10%OFF。
-
-4. **《500円OFFクーポン！27日14時》ラグ 洗える 厚手 1.5畳 2畳 3畳 北欧 おしゃれ 韓国 ラグマット 洗え**
-   - 価格: 2,880円 / ★4.53（371件） / 料率 3.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qea0o.72d3yeb2.g00qea0o.72d3zd88/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkaguin%2F7258781%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkaguin%2Fi%2F10102179%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。時短になる系。ダイヤモンド模様のかわいいキルティング。おうちで洗えていつでも清潔。レビュー371件で★4.53。2,880円。
-
-5. **＼★楽天1位獲得★／【安心3/5年保証】シーリングライト LEDシーリングライト 6畳 8畳 12畳 調光 調色 照明 **
-   - 価格: 2,480円 / ★4.5（838件） / 料率 3.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00t3zto.72d3y505.g00t3zto.72d3z9db/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Firisplaza-r%2F297343%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Firisplaza-r%2Fi%2F10152150%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。時短になる系。ボタン数が少ないシンプルなリモコンで簡単に操作ができます。工具不要で簡単2STEP取付お使いの照明と取り替えるだけ。楽天ランキング1位、レビュー838件で★4.5。2,480円。
-
-### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
-
-- **30代男性のリピート候補**: 26-27年最新版 パネルヒーター / 24H値下げ！更に3点目半額 ふわり / 楽天1位 天板付き スラックスハンガー / ラグ 洗える 厚手 1.5畳 2畳 3畳 / 楽天1位獲得 シーリングライト
-
-## 19:31 寒さ対策・冬支度（開催中） × 30代女性（暮らし・時短・コスパ）（20時セール前）
-
-1. **数量限定【年に一度の特別企画】MAX70％OFF 自分で選べる福袋チケット※1注文1点まで※ 福袋 2027 楽天限定 **
-   - 価格: 7,000円 / ★4.72（2,820件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qztso.72d3yaf8.g00qztso.72d3za3d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftu-hacci%2Ff04%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftu-hacci%2Fi%2F10001436%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。毎日の家事がちょっとラクになるやつ。楽天ランキング1位、レビュー2,820件で★4.72。70%OFF、送料無料。配送日も一緒に確認を。
-
-2. **【20:00〜2h半額クーポン】即納【楽天1位★162冠達成】【2本セットお得】センサーライト 室内 人感 LEDライト**
-   - 価格: 1,580円 / ★4.61（2,992件） / 料率 3.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00uirdo.72d3y8ea.g00uirdo.72d3z50e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcreaswing%2Fhom-311-0002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcreaswing%2Fi%2F10000041%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。忙しい平日の味方。室内用の人感センサーライトとして、夜間の移動や収納スペースの照明にも便利です。取り外して充電できるため、日常のお手入れも簡単です。楽天ランキング1位、レビュー2,992件で★4.61。半額。配送日も一緒に確認を。
-
-3. **[4時間限定]15%OFFクーポン10/25 20時～ 【新商品】 ラグ カーペット ラグマット シンプル ミニマル 洗**
-   - 価格: 3,980円 / ★4.61（94件） / 料率 3.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00u9h5o.72d3y88d.g00u9h5o.72d3z15e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ft-interior%2Fjst0040%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ft-interior%2Fi%2F10000338%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。毎日の家事がちょっとラクになるやつ。レビュー94件で★4.61。15%OFF。在庫が動きやすいので早めに。
-
-4. **【500枚限定★45%OFF 10/27 23:59迄】 強力6枚刃 毛玉取り器 充電式 コードレス 毛玉取り機 電動 **
-   - 価格: 3,280円 / ★4.37（1,911件） / 料率 2.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00s0p3o.72d3yc97.g00s0p3o.72d3z6fe/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-risecreation%2Fy0530%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-risecreation%2Fi%2F10003276%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。忙しい平日の味方。レビュー1,911件で★4.37。45%OFF（10/2723:59まで）。配送日も一緒に確認を。
-
-5. **【期間限定30％OFF＆リフティングトナー15mlギフト】【 d'Alba ( ダルバ ) 公式 】【ブライト＆バリアW**
-   - 価格: 5,530円 / ★4.69（192件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00ttxfo.72d3y122.g00ttxfo.72d3zd83/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdalba%2Fkancos01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdalba%2Fi%2F10000493%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。買い置きしておくと安心なもの。レビュー192件で★4.69。30%OFF。配送日も一緒に確認を。
-
-6. **【本日5％引クーポン】 【マネ出来ない品質で“7年連続1位”】 木目調 ジョイントマット 大判 59cm 1.5畳 3畳**
-   - 価格: 2,999円 / ★4.42（5,724件） / 料率 3.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00ppglo.72d3y3f0.g00ppglo.72d3z552/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftansu%2F18700013%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftansu%2Fi%2F10043718%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。忙しい平日の味方。インテリア性抜群。レビュー5,724件で★4.42。2,999円。気になる人はお気に入り登録を。
-
-7. **【10/27 9時59分までお得なクーポン配布中】 ＼ プライスダウン ／ 伸縮スライドボックス Fitslider シ**
-   - 価格: 2,980円 / ★4.52（1,360件） / 料率 3.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00sw2co.72d3yb9c.g00sw2co.72d3zbf8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-kit%2Fek-ssb%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-kit%2Fi%2F10042784%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。毎日の家事がちょっとラクになるやつ。レビュー1,360件で★4.52。送料無料。在庫が動きやすいので早めに。
-
-8. **マラソンクーポン 配布中！ 着るスクイーズ ニットカーディガン レディース 長袖 無地 羽織り クルーネック マシュマロ**
-   - 価格: 3,990円 / ★4.62（45件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qllxo.72d3y0f6.g00qllxo.72d3z222/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fantiqua-a%2Fna-00564%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fantiqua-a%2Fi%2F10032998%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。毎日の家事がちょっとラクになるやつ。着るだけで心ときめく。レビュー45件で★4.62。送料無料。配送日も一緒に確認を。
-
-### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
-
-- **30代女性のリピート候補**: 自分で選べる福袋チケット 1注文1点まで / 即納 センサーライト 室内 人感 / 25 20時～ ラグ カーペット ラグマット / 強力6枚刃 毛玉取り器 充電式 コードレス / 公式 】【ブライト＆バリアWセットビタケア / 木目調 ジョイントマット 大判 59cm / プライスダウン 伸縮スライドボックス / 配布中！ 着るスクイーズ ニットカーディガン
-
-## 20:16 今売れている物 × 子育て世帯のママ・パパ
-
-1. **【1種類を選べる】ハミングフレア 柔軟剤 つめかえ用 梱販売用(4袋入)【フレア フレグランス】**
-   - 価格: 5,243円 / ★4.76（1,636件） / 料率 3.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00r136o.72d3y0bd.g00r136o.72d3za29/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F404953%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11148573%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。ママ友の間でよく話題になるやつ。フレアフレグランス/ハミングフレア柔軟剤つめかえ用梱販売用。レビュー1,636件で★4.76。5,243円。
-
-2. **【300枚限定★45%OFF 10/27 23:59迄】 送料無料 浴室 ラック マグネット 強力 シャンプーラック マ**
-   - 価格: 3,980円 / ★4.63（1,517件） / 料率 3.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00s0p3o.72d3yc97.g00s0p3o.72d3z6fe/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-risecreation%2Fr0579%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-risecreation%2Fi%2F10005233%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。まとめ買いしておくと楽になるもの。ステンレス素材を採用した、浴室にもキッチンにも使えるマグネットバスケットです。強力マグネットで浮かせてスッキリ。レビュー1,517件で★4.63。45%OFF（10/2723:59まで）、送料無料。
-
-3. **【40%OFF★10/27 23:59迄】 オート ソープディスペンサー 自動 泡 陶器 or ガラス ハンドソープ ボ**
-   - 価格: 3,480円 / ★4.54（1,335件） / 料率 3.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00s0p3o.72d3yc97.g00s0p3o.72d3z6fe/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-risecreation%2Fr0399%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-risecreation%2Fi%2F10004961%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。子どもがいる家で助かった系。北欧風のインテリアやモダンなキッチンにも馴染む、絶妙なくすみカラーを取り揃えました。セラミック製のボトルは手触りもよく、お手入れも簡単でいつでも清潔。レビュー1,335件で★4.54。40%OFF（10/2723:59まで）。
-
-4. **20％OFFクーポン《3,700円→1,560円》フェイスタオル 3人に1人がリピート タオル 同色 4枚 セット ホテ**
-   - 価格: 1,950円 / ★4.48（4,006件） / 料率 3.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00sse7o.72d3y3dc.g00sse7o.72d3zf7f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcottontown%2F090t1015p%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcottontown%2Fi%2F10000027%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。まとめ買いしておくと楽になるもの。また、しっとりとやわらかい肌ざわりはカシミヤに匹敵すると言われるほどです。抜群な吸水性と、ふっくらやわら感がクセになり、いつもいつも使いたくなるタオルです。レビュー4,006件で★4.48。20%OFF。
-
-5. **【LIMITED SALE 最大14%OFF】【イージーウォッシュ】乾燥機OK マチ付き テーパードパンツ 子供服 キッ**
-   - 価格: 1,199円 / ★4.72（212件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qnh8o.72d3ya2a.g00qnh8o.72d3z77e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdevirockstore%2F1ubt19073%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdevirockstore%2Fi%2F10031949%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。子どもがいる家で助かった系。アイロンいらずでそのまま着られる。素材さらっと柔らかなポリエステル素材程よい厚みがあり、なめらかな表面の天竺素材。レビュー212件で★4.72。14%OFF。
-
-### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
-
-- **子育て世帯のママ・パパのリピート候補**: ハミングフレア 柔軟剤 つめかえ用 梱販売用 / 浴室 ラック マグネット 強力 / オート ソープディスペンサー 自動 陶器 / フェイスタオル 3人に1人がリピート タオル / 乾燥機OK マチ付き テーパードパンツ
+- **40代男性のリピート候補**: 高品質 毛布 ふわとろ毛布 もこもこ毛布 / リズム 公式 デジタル 温湿度計 / NISHIZARC ふわとろ 毛布 選べる / ふあふあヤク風Vプルオーバーニット
 
