@@ -65,3 +65,49 @@
 
 - **30代男性のリピート候補**: 26-27年最新版 パネルヒーター / 24H値下げ！更に3点目半額 ふわり / 楽天1位 天板付き スラックスハンガー / ラグ 洗える 厚手 1.5畳 2畳 3畳 / 楽天1位獲得 シーリングライト
 
+## 19:31 寒さ対策・冬支度（開催中） × 30代女性（暮らし・時短・コスパ）（20時セール前）
+
+1. **数量限定【年に一度の特別企画】MAX70％OFF 自分で選べる福袋チケット※1注文1点まで※ 福袋 2027 楽天限定 **
+   - 価格: 7,000円 / ★4.72（2,820件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qztso.72d3yaf8.g00qztso.72d3za3d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftu-hacci%2Ff04%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftu-hacci%2Fi%2F10001436%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。毎日の家事がちょっとラクになるやつ。楽天ランキング1位、レビュー2,820件で★4.72。70%OFF、送料無料。配送日も一緒に確認を。
+
+2. **【20:00〜2h半額クーポン】即納【楽天1位★162冠達成】【2本セットお得】センサーライト 室内 人感 LEDライト**
+   - 価格: 1,580円 / ★4.61（2,992件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00uirdo.72d3y8ea.g00uirdo.72d3z50e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcreaswing%2Fhom-311-0002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcreaswing%2Fi%2F10000041%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。忙しい平日の味方。室内用の人感センサーライトとして、夜間の移動や収納スペースの照明にも便利です。取り外して充電できるため、日常のお手入れも簡単です。楽天ランキング1位、レビュー2,992件で★4.61。半額。配送日も一緒に確認を。
+
+3. **[4時間限定]15%OFFクーポン10/25 20時～ 【新商品】 ラグ カーペット ラグマット シンプル ミニマル 洗**
+   - 価格: 3,980円 / ★4.61（94件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00u9h5o.72d3y88d.g00u9h5o.72d3z15e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ft-interior%2Fjst0040%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ft-interior%2Fi%2F10000338%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。毎日の家事がちょっとラクになるやつ。レビュー94件で★4.61。15%OFF。在庫が動きやすいので早めに。
+
+4. **【500枚限定★45%OFF 10/27 23:59迄】 強力6枚刃 毛玉取り器 充電式 コードレス 毛玉取り機 電動 **
+   - 価格: 3,280円 / ★4.37（1,911件） / 料率 2.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00s0p3o.72d3yc97.g00s0p3o.72d3z6fe/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-risecreation%2Fy0530%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-risecreation%2Fi%2F10003276%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。忙しい平日の味方。レビュー1,911件で★4.37。45%OFF（10/2723:59まで）。配送日も一緒に確認を。
+
+5. **【期間限定30％OFF＆リフティングトナー15mlギフト】【 d'Alba ( ダルバ ) 公式 】【ブライト＆バリアW**
+   - 価格: 5,530円 / ★4.69（192件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00ttxfo.72d3y122.g00ttxfo.72d3zd83/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdalba%2Fkancos01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdalba%2Fi%2F10000493%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。買い置きしておくと安心なもの。レビュー192件で★4.69。30%OFF。配送日も一緒に確認を。
+
+6. **【本日5％引クーポン】 【マネ出来ない品質で“7年連続1位”】 木目調 ジョイントマット 大判 59cm 1.5畳 3畳**
+   - 価格: 2,999円 / ★4.42（5,724件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00ppglo.72d3y3f0.g00ppglo.72d3z552/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftansu%2F18700013%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftansu%2Fi%2F10043718%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。忙しい平日の味方。インテリア性抜群。レビュー5,724件で★4.42。2,999円。気になる人はお気に入り登録を。
+
+7. **【10/27 9時59分までお得なクーポン配布中】 ＼ プライスダウン ／ 伸縮スライドボックス Fitslider シ**
+   - 価格: 2,980円 / ★4.52（1,360件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00sw2co.72d3yb9c.g00sw2co.72d3zbf8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-kit%2Fek-ssb%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-kit%2Fi%2F10042784%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。毎日の家事がちょっとラクになるやつ。レビュー1,360件で★4.52。送料無料。在庫が動きやすいので早めに。
+
+8. **マラソンクーポン 配布中！ 着るスクイーズ ニットカーディガン レディース 長袖 無地 羽織り クルーネック マシュマロ**
+   - 価格: 3,990円 / ★4.62（45件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qllxo.72d3y0f6.g00qllxo.72d3z222/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fantiqua-a%2Fna-00564%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fantiqua-a%2Fi%2F10032998%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。毎日の家事がちょっとラクになるやつ。着るだけで心ときめく。レビュー45件で★4.62。送料無料。配送日も一緒に確認を。
+
+### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
+
+- **30代女性のリピート候補**: 自分で選べる福袋チケット 1注文1点まで / 即納 センサーライト 室内 人感 / 25 20時～ ラグ カーペット ラグマット / 強力6枚刃 毛玉取り器 充電式 コードレス / 公式 】【ブライト＆バリアWセットビタケア / 木目調 ジョイントマット 大判 59cm / プライスダウン 伸縮スライドボックス / 配布中！ 着るスクイーズ ニットカーディガン
+
