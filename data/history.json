@@ -16223,5 +16223,16 @@
   "review_count": 4014,
   "review_average": 4.43,
   "genre_id": "562614"
+ },
+ {
+  "date": "2026-10-26T18:31:26",
+  "slot": "evening",
+  "kind": "engage",
+  "engage_key": "q3",
+  "theme": "反応投稿（question）",
+  "persona": "all",
+  "text": "楽天で買った家電、当たりだったもの・外れだったものを教えてください。",
+  "tweet_id": "",
+  "threads_id": "18103046453636472"
  }
 ]
