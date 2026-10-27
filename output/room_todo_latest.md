@@ -55,3 +55,29 @@
 
 - **20代男性のリピート候補**: 累計90万セット突破 布団セット 洗える / ラグマット 厚手 超極厚50mm ふわふわ / ハンオールブロウカラ rom&nd / ポリエステルフレアニットカーディガン
 
+## 20:16 ハロウィン（4日後） × 子育て世帯のママ・パパ
+
+1. **＼最大10万ポイント当たる!／＼数量限定 プレゼント／ LaQ ラキュー ボーナスセット 2025 限定 ジュエルパーツ**
+   - 価格: 9,900円 / ★4.8（1,324件） / 料率 3.0% / P10倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qcnfo.72d3y28d.g00qcnfo.72d3zbe7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnatural-living%2Fu307686%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnatural-living%2Fi%2F10010322%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: まとめ買いしておくと楽になるもの。固くて取りにくいジョイントもこれさえあれば簡単に外せます。LaQは日本人の文化と価値観から生まれた知育ブロックとして海外で評価されています。レビュー1,324件で★4.8。ポイント10倍で実質8,910円。
+
+2. **【クーポン利用で半額】チョコレート スイーツ「 贅沢ハイカカオはじめ 4種から選べる アーモンドチョコ 大容量 300g**
+   - 価格: 3,500円 / ★4.4（2,735件） / 料率 4.0% / P10倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00tnjco.72d3y614.g00tnjco.72d3z8a0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbokunotamatebakoya%2Fa1004683%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbokunotamatebakoya%2Fi%2F10002400%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 子どもがいる家で助かった系。ALMOND&amp;COUVERTUREカリッ。香ばしいアーモンドを、なめらかなクーベルチュールチョコレートで包みました。レビュー2,735件で★4.4。半額、ポイント10倍で実質3,150円、送料無料。
+
+3. **【10/26 21時から 半額】ミックスナッツ 「贅沢ベリーの恋するベリーミックスナッツ400g(200g×2)」 送料**
+   - 価格: 1,499円 / ★4.63（276件） / 料率 4.0% / P10倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00svnuo.72d3y1bf.g00svnuo.72d3za1c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbokunotamatebakoyafish%2Fberry-mix2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbokunotamatebakoyafish%2Fi%2F10002984%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: まとめ買いしておくと楽になるもの。ひとつまみで、毎日に楽しみを。大浜スイーツアカデミーミックスナッツ食感や味わいの違いを楽しむミックスナッツ。レビュー276件で★4.63。半額、ポイント10倍で実質1,349円、送料無料。
+
+4. **ミックスナッツ 1kg 送料無料 素焼きミックスナッツ 大人気3種類素焼きナッツ プレミアム ミックスナッツ 素焼きアー**
+   - 価格: 1,899円 / ★4.55（2,619件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00trtso.72d3yad8.g00trtso.72d3ze8c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnuthyougo%2Fitem610%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnuthyougo%2Fi%2F10000672%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: ママ友の間でよく話題になるやつ。ビタミンB、亜鉛などのミネラルが豊富に含まれています。レビュー2,619件で★4.55。送料無料。
+
+### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
+
+- **子育て世帯のママ・パパのリピート候補**: プレゼント LaQ ラキュー ボーナスセット / チョコレート スイーツ「 / ミックスナッツ / ミックスナッツ 1kg 素焼きミックスナッツ
+
