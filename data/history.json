@@ -16531,5 +16531,16 @@
   "review_count": 38,
   "review_average": 4.21,
   "genre_id": "403871"
+ },
+ {
+  "date": "2026-10-27T18:31:05",
+  "slot": "evening",
+  "kind": "engage",
+  "engage_key": "tip8",
+  "theme": "反応投稿（tip）",
+  "persona": "all",
+  "text": "【楽天の小ネタ】\nランキング1位の表示は「デイリー」「週間」「リアルタイム」などジャンルも期間もいろいろです。\n何のランキングかを確認すると、数字の重みが分かります。",
+  "tweet_id": "",
+  "threads_id": "17912218875556749"
  }
 ]
