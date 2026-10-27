@@ -29,3 +29,29 @@
 
 - **子育て世帯のママ・パパのリピート候補**: 3種 ミックスナッツ 1kg 850g / お歳暮 2026 お返し プレゼント / 10 28 23:59まで / 幸田商店 べにはるか 平干しほしいも
 
+## 11:48 寒さ対策・冬支度（開催中） × 20代男性（ガジェット・一人暮らし）
+
+1. **累計90万セット突破 固綿入り敷き布団で寝心地UP 布団セット 洗える 増量 抗菌 防臭 防カビ ほこりが出にくい シン**
+   - 価格: 4,999円 / ★4.28（16,228件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00ppglo.72d3y3f0.g00ppglo.72d3z552/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftansu%2F7519000100%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftansu%2Fi%2F10011910%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: レビューを見て買う人が多いやつ。マットレス付き布団セットはこちら敷くだけカンタン湿気対策。ご一緒に除湿シートはいかがですか。レビュー16,228件で★4.28。4,999円。
+
+2. **【クーポン10%OFF 10/23〜】【新色入荷】 ラグマット 厚手 超極厚50mm ふわふわ 洗える カバーリング ス**
+   - 価格: 6,980円 / ★4.71（140件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00uaoeo.72d3yf38.g00uaoeo.72d3zff7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhomfine%2Fhfjrg08%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhomfine%2Fi%2F10000174%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 一人暮らしの部屋に1つあると便利。レビュー140件で★4.71。10%OFF、送料無料。
+
+3. **【ロムアンド公式】ハンオールブロウカラ rom&nd official romand HAN ALL BROW CARA**
+   - 価格: 1,210円 / ★4.69（2,758件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00ti5vo.72d3y2c0.g00ti5vo.72d3z26f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fasiabnc%2Fbrowcara%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fasiabnc%2Fi%2F10000243%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 一人暮らしの部屋に1つあると便利。レビュー2,758件で★4.69。1,210円。
+
+4. **＼25日限定39％OFF／ポリエステルフレアニットカーディガン レディース メール便不可 coca コカ**
+   - 価格: 1,823円 / ★4.21（38件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qvdio.72d3y21f.g00qvdio.72d3z24e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcocacoca%2F36-240514001-09%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcocacoca%2Fi%2F10022821%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: コスパで選ぶならこれ。レビュー38件で★4.21。39%OFF。
+
+### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
+
+- **20代男性のリピート候補**: 累計90万セット突破 布団セット 洗える / ラグマット 厚手 超極厚50mm ふわふわ / ハンオールブロウカラ rom&nd / ポリエステルフレアニットカーディガン
+

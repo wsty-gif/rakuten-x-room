@@ -16357,7 +16357,8 @@
   "shop_name": "calinuts",
   "review_count": 48094,
   "review_average": 4.61,
-  "genre_id": "304705"
+  "genre_id": "304705",
+  "instagram_story_id": "17988532710095387"
  },
  {
   "date": "2026-10-27T07:01:50",
@@ -16430,5 +16431,105 @@
   "review_count": 5041,
   "review_average": 4.58,
   "genre_id": "304719"
+ },
+ {
+  "date": "2026-10-27T11:48:27",
+  "slot": "noon",
+  "theme": "寒さ対策・冬支度（開催中） × 20代男性（ガジェット・一人暮らし）",
+  "persona": "20s_man",
+  "item_code": "tansu:10011910",
+  "item_name": "累計90万セット突破 固綿入り敷き布団で寝心地UP 布団セット 洗える 増量 抗菌 防臭 防カビ ほこりが出にくい シングル セミダブル ダブル 枕 ふとんセッ",
+  "price": 4999,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00ppglo.72d3y3f0.g00ppglo.72d3z552/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftansu%2F7519000100%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftansu%2Fi%2F10011910%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 3.0,
+  "text": "#PR 買わない理由が見つからなかった\n累計90万セット突破 布団セット 洗える\n★4.28・レビュー16,228件\n4,999円\n#楽天購入品\n▶ROOMはプロフから",
+  "tweet_id": "",
+  "threads_id": "18099048923433023",
+  "room_done": false,
+  "image": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/tansu/cabinet/koukoku/61140237_10a.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/tansu/cabinet/koukoku/61140237_10a.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/tansu/cabinet/ragu6/61140237_ruikei.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/tansu/cabinet/av5/atlas0114/61140237_set.jpg?_ex=600x600"
+  ],
+  "shop_name": "タンスのゲン Design the Future",
+  "review_count": 16228,
+  "review_average": 4.28,
+  "genre_id": "215613",
+  "instagram_id": "18350698825267203",
+  "instagram_story_error": "Instagram 公開失敗 400: {\"error\":{\"message\":\"The requested resource does not exist\",\"type\":\"OAuthException\",\"code\":24,\"error_subcode\":2207006,\"is_transient\":false,\"error_user_title\":\"Media Not Found\",\"err"
+ },
+ {
+  "date": "2026-10-27T11:48:27",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "寒さ対策・冬支度（開催中） × 20代男性（ガジェット・一人暮らし）",
+  "persona": "20s_man",
+  "item_code": "homfine:10000174",
+  "item_name": "【クーポン10%OFF 10/23〜】【新色入荷】 ラグマット 厚手 超極厚50mm ふわふわ 洗える カバーリング ストライプ フランネル キルトラグ 床暖房",
+  "price": 6980,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00uaoeo.72d3yf38.g00uaoeo.72d3zff7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhomfine%2Fhfjrg08%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhomfine%2Fi%2F10000174%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 3.0,
+  "text": "一人暮らしの部屋に1つあると便利。レビュー140件で★4.71。10%OFF、送料無料。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/homfine/cabinet/12093465/hfjrg08-main.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/homfine/cabinet/12093465/hfjrg08-main.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/homfine/cabinet/12093465/hfjrg08-02.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/homfine/cabinet/12093465/hfjrg08-03.jpg?_ex=600x600"
+  ],
+  "shop_name": "HOMFINE",
+  "review_count": 140,
+  "review_average": 4.71,
+  "genre_id": "551228"
+ },
+ {
+  "date": "2026-10-27T11:48:27",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "寒さ対策・冬支度（開催中） × 20代男性（ガジェット・一人暮らし）",
+  "persona": "20s_man",
+  "item_code": "asiabnc:10000243",
+  "item_name": "【ロムアンド公式】ハンオールブロウカラ rom&nd official romand HAN ALL BROW CARA ロムアンド ブロウカラ 眉マスカラ ア",
+  "price": 1210,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00ti5vo.72d3y2c0.g00ti5vo.72d3z26f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fasiabnc%2Fbrowcara%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fasiabnc%2Fi%2F10000243%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "一人暮らしの部屋に1つあると便利。レビュー2,758件で★4.69。1,210円。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/asiabnc/cabinet/13403069/13403073/imgrc0107047247.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/asiabnc/cabinet/13403069/13403073/imgrc0107047247.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/asiabnc/cabinet/09808241/imgrc0096399731.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/asiabnc/cabinet/09808241/10849432/imgrc0088781299.jpg?_ex=600x600"
+  ],
+  "shop_name": "romand_official",
+  "review_count": 2758,
+  "review_average": 4.69,
+  "genre_id": "216519"
+ },
+ {
+  "date": "2026-10-27T11:48:27",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "寒さ対策・冬支度（開催中） × 20代男性（ガジェット・一人暮らし）",
+  "persona": "20s_man",
+  "item_code": "cocacoca:10022821",
+  "item_name": "＼25日限定39％OFF／ポリエステルフレアニットカーディガン レディース メール便不可 coca コカ",
+  "price": 1823,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qvdio.72d3y21f.g00qvdio.72d3z24e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcocacoca%2F36-240514001-09%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcocacoca%2Fi%2F10022821%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "コスパで選ぶならこれ。レビュー38件で★4.21。39%OFF。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/cocacoca/cabinet/kihon5/36-240514001-09-2g.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/cocacoca/cabinet/kihon5/36-240514001-09-2g.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/cocacoca/cabinet/kihon5/36-240514001-09-18g.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/cocacoca/cabinet/kihon5/36-240514001-09-3g.jpg?_ex=600x600"
+  ],
+  "shop_name": "coca「コカ」",
+  "review_count": 38,
+  "review_average": 4.21,
+  "genre_id": "403871"
  }
 ]

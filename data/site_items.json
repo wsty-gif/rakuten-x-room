@@ -2452,6 +2452,13 @@
     "theme": "寒さ対策・冬支度（開催中） × 30代女性（暮らし・時短・コスパ）",
     "persona": "30s_woman",
     "event_type": "season"
+   },
+   {
+    "date": "2026-10-27",
+    "slot": "noon",
+    "theme": "寒さ対策・冬支度（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "season"
    }
   ],
   "item_code": "nissoplus:10000178",
@@ -2468,7 +2475,7 @@
   "catchcopy": "人気の足ケア商品がパワーアップ！ 立ち仕事 トレーニング 筋力 筋トレ ems フットマット リラックス 美脚美足 運動不足 高齢者 健康 むくみ 疲れ 足 トレーニング プレゼント 実用的",
   "genre_id": "101765",
   "score": 14.91,
-  "last_seen": "2026-10-26T20:16:25",
+  "last_seen": "2026-10-27T11:48:27",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/nissoplus/cabinet/item/leg_fit3/main/lfm_01_260807.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/nissoplus/cabinet/s_banner/soldout/lf_yoyaku_1023.jpg?_ex=600x600",
@@ -14864,6 +14871,13 @@
     "theme": "寒さ対策・冬支度（開催中） × 30代女性（暮らし・時短・コスパ）",
     "persona": "30s_woman",
     "event_type": "season"
+   },
+   {
+    "date": "2026-10-27",
+    "slot": "noon",
+    "theme": "寒さ対策・冬支度（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "season"
    }
   ],
   "item_code": "vesync:10000001",
@@ -14880,7 +14894,7 @@
   "catchcopy": "大容量 電気フライヤー エアフライヤー　エアーフライヤー コンパクト ギフト　家庭用　低カロリー　健康　ダイエット　お手入れ簡単　時短料理　操作簡単",
   "genre_id": "564331",
   "score": 14.43,
-  "last_seen": "2026-10-26T20:16:25",
+  "last_seen": "2026-10-27T11:48:27",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/vesync/cabinet/09152443/09653695/imgrc0092744404.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/vesync/cabinet/09152443/09653695/11241926/imgrc0089893356.jpg?_ex=600x600",
@@ -27431,23 +27445,30 @@
     "theme": "寒さ対策・冬支度（開催中） × 30代女性（暮らし・時短・コスパ）",
     "persona": "30s_woman",
     "event_type": "season"
+   },
+   {
+    "date": "2026-10-27",
+    "slot": "noon",
+    "theme": "寒さ対策・冬支度（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "season"
    }
   ],
   "item_code": "dondon:10003667",
-  "name": "[クーポンで5％OFF] [レビュー6000件超え／高評価4.29点] ベッド すのこベッド すのこ シングル セミダブル ダブル ベッドフレーム シングルベッド 脚付きベッド 高さ調整 木製ベッド 天然木 無垢材 北欧 北欧 ローベッド 天然竹 バンブー",
+  "name": "[レビュー6000件超え／高評価4.29点] ベッド すのこベッド すのこ シングル セミダブル ダブル ベッドフレーム シングルベッド 脚付きベッド 高さ調整 木製ベッド 天然木 無垢材 北欧 北欧 ローベッド 天然竹 バンブー",
   "price": 7498,
   "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qqpqo.72d3y802.g00qqpqo.72d3z677/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdondon%2Fysb-001-s%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdondon%2Fi%2F10003667%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00qqpqo.72d3y802.g00qqpqo.72d3z677/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdondon%2Fysb-001-s%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/dondon/cabinet/ysb03_hmz01_5.jpg?_ex=600x600",
   "shop_name": "モダンデコ",
-  "review_count": 6186,
+  "review_count": 6187,
   "review_average": 4.29,
   "affiliate_rate": 3.0,
   "point_rate": 1,
   "catchcopy": "[楽天1位] 3段階高さ調節 ベット ベットフレーム スノコベッド すのこベット 木製ベッドフレーム 木製ベット 脚付きベット 一人暮らし 高さ調節 S SD D 竹すのこベッド 土日祝",
   "genre_id": "400482",
-  "score": 14.91,
-  "last_seen": "2026-10-26T20:16:25",
+  "score": 15.11,
+  "last_seen": "2026-10-27T11:48:27",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/dondon/cabinet/ysb03_hmz01_5.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/dondon/cabinet/item05/ysb_cart2.jpg?_ex=600x600",
@@ -27525,6 +27546,13 @@
     "theme": "秋の衣替え（開催中） × 20代女性（自分磨き・プチプラ・映え）",
     "persona": "20s_woman",
     "event_type": "season"
+   },
+   {
+    "date": "2026-10-27",
+    "slot": "noon",
+    "theme": "寒さ対策・冬支度（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "season"
    }
   ],
   "item_code": "atnet-cl:10002280",
@@ -27534,14 +27562,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00s2v8o.72d3y73f.g00s2v8o.72d3z384/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fatnet-cl%2Fk_se_1p96z0_02_h%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/atnet-cl/cabinet/rakuraku-pon/k_se_1p96z0_02_h_cp.jpg?_ex=600x600",
   "shop_name": "アットネットコンタクト",
-  "review_count": 1172,
+  "review_count": 1226,
   "review_average": 4.84,
   "affiliate_rate": 4.0,
   "point_rate": 1,
   "catchcopy": "簡単便利なコンタクトショップ",
   "genre_id": "563999",
-  "score": 14.47,
-  "last_seen": "2026-10-19T07:01:40",
+  "score": 14.3,
+  "last_seen": "2026-10-27T11:48:27",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/atnet-cl/cabinet/rakuraku-pon/k_se_1p96z0_02_h_cp.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/atnet-cl/cabinet/rakuraku-pon/rakuten_flick.jpg?_ex=600x600",
@@ -29137,6 +29165,13 @@
     "theme": "寒さ対策・冬支度（開催中） × 子育て世帯のママ・パパ",
     "persona": "mama",
     "event_type": "season"
+   },
+   {
+    "date": "2026-10-27",
+    "slot": "noon",
+    "theme": "寒さ対策・冬支度（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "season"
    }
   ],
   "item_code": "sockkobe:10015027",
@@ -29150,16 +29185,16 @@
   "review_average": 4.81,
   "affiliate_rate": 4.0,
   "point_rate": 1,
-  "catchcopy": "※こちらのチケットを必ず同梱ください※【返品交換/クーポン不可】1セット限定！定番ブラからルームウェアまでオトクに選べる！エメフィールの自分で作る4点セット福袋",
+  "catchcopy": "※こちらのチケットを必ず同梱ください※【返品交換/クーポン不可】3セット限定！定番ブラからルームウェアまでオトクに選べる！エメフィールの自分で作る4点セット福袋",
   "genre_id": "403911",
-  "score": 15.09,
-  "last_seen": "2026-10-25T07:01:34",
+  "score": 13.69,
+  "last_seen": "2026-10-27T11:48:27",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/sockkobe/cabinet/main/999901-main-r.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/sockkobe/cabinet/img-up_1_610/974_k1_164332_66.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/sockkobe/cabinet/img-up_1_610/974_k3_164332_16.jpg?_ex=600x600"
   ],
-  "caption": "◆リンクについて◆ 近日販売予定の商品や完売商品など、タイミングによって関連商品が正常に表示できない場合がございます。あらかじめご了承下さい。 色味について なるべく実際の商品に近い色味を再現しておりますが、 モニター等の条件により、 画面上と実物では色味が異なって 見える場合がございます。あらかじめご了承下さい。 販売対象商品について ページ内のモデルが着用している対象商品以外の小物やその他アイテムは参考商品と なりますのでご注意下さい。 返品・交換について こちらの商品は不良品以外の返品・交換はできませんので、ご了承くださいませ。【ご注意】 スタート2時間 先着半額クーポンおよびその他全てのクーポンは福袋チケットにはご使用できません。適用可能であっても使用された場合はクーポン取り消しいたします。 お得な福袋のため不良品以外の返品交換不可になります。 クーポンは全て利用不可になります。 カート内で適用できるクーポンを使用されても取り消しさせて頂きます。 こちらの商品は店内ポイントアップ対象外となります。 対象商品は予告なく変更になる場合や 販売期間設定がかかっており購入できない場合がございます。 ★★金額は自動では変わりません★★ スタッフが一件ずつ価格修正対応をしております。 平日の営業時間外および土日祝日を挟みました場合は 翌平日以降の修正対応とさせて頂いております。 ◆ご購入に際して ※商品名の最初に 福A/福B/福C/福D の記載が無いものは対象外です。1セットにつき各1点ずつお選びください。 福Aの商品一覧 / 福B商品一覧 / 福C商品一覧 / 福D商品一覧 ※チケットの同梱忘れや、福袋の条件を満たしていない場合は通常価格でのご請求となります。 ※クーポン利用不可になります。利用された場合、クーポン取り消しさせていただきます。 ※おひとり様1セット限りとなりま"
+  "caption": "◆リンクについて◆ 近日販売予定の商品や完売商品など、タイミングによって関連商品が正常に表示できない場合がございます。あらかじめご了承下さい。 色味について なるべく実際の商品に近い色味を再現しておりますが、 モニター等の条件により、 画面上と実物では色味が異なって 見える場合がございます。あらかじめご了承下さい。 販売対象商品について ページ内のモデルが着用している対象商品以外の小物やその他アイテムは参考商品と なりますのでご注意下さい。 返品・交換について こちらの商品は不良品以外の返品・交換はできませんので、ご了承くださいませ。【ご注意】 お得な福袋のため不良品以外の返品交換不可になります。 クーポンは全て利用不可になります。 カート内で適用できるクーポンを使用されても取り消しさせて頂きます。 こちらの商品は店内ポイントアップ対象外となります。 対象商品は予告なく変更になる場合や 販売期間設定がかかっており購入できない場合がございます。 ★★金額は自動では変わりません★★ スタッフが一件ずつ価格修正対応をしております。 平日の営業時間外および土日祝日を挟みました場合は 翌平日以降の修正対応とさせて頂いております。 ◆ご購入に際して ※商品名の最初に 福A/福B/福C/福D の記載が無いものは対象外です。1セットにつき各1点ずつお選びください。 福Aの商品一覧 / 福B商品一覧 / 福C商品一覧 / 福D商品一覧 ※チケットの同梱忘れや、福袋の条件を満たしていない場合は通常価格でのご請求となります。 ※クーポン利用不可になります。利用された場合、クーポン取り消しさせていただきます。 ※おひとり様1セット限りとなります。それ以上ご購入された場合はキャンセルとなります。 ※ギフトラッピング（有料）の値札切サービス適応外商品の為、すべて値札がついた状態での発送となります。 ※"
  },
  "tansu:10044340": {
   "first_seen": "2026-10-21T20:24:52",
@@ -30165,23 +30200,30 @@
     "theme": "今売れている物 × 30代男性（健康・効率化・家電）",
     "persona": "30s_man",
     "event_type": "baseline"
+   },
+   {
+    "date": "2026-10-27",
+    "slot": "noon",
+    "theme": "寒さ対策・冬支度（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "season"
    }
   ],
   "item_code": "drip-pod:10000253",
-  "name": "【公式】 UCC カプセル式 コーヒーメーカー ドリップポッド スターターセット DP3 飲み比べ36杯 4色 DRIP POD ドリップマシン コーヒーマシン カプセルコーヒー 全自動 コンパクト おしゃれ 業務用 白 黒",
+  "name": "【8%OFFクーポン10/24(土)~10/27(火)】【公式】 UCC カプセル式 コーヒーメーカー ドリップポッド スターターセット DP3 飲み比べ36杯 4色 DRIP POD ドリップマシン コーヒーマシン カプセルコーヒー 全自動 コンパクト おしゃれ 業務用 白 黒",
   "price": 16464,
   "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00t6tko.72d3y052.g00t6tko.72d3z795/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdrip-pod%2Fdp3set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdrip-pod%2Fi%2F10000253%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00t6tko.72d3y052.g00t6tko.72d3z795/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdrip-pod%2Fdp3set%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/drip-pod/cabinet/06141944/12139494/lp/dp3set_1m.jpg?_ex=600x600",
   "shop_name": "公式 UCC ドリップポッドストア",
-  "review_count": 3047,
+  "review_count": 3056,
   "review_average": 4.77,
   "affiliate_rate": 2.0,
   "point_rate": 1,
   "catchcopy": "UCC DRIP POD ドリップポッド ドリップマシン コーヒーメーカー コーヒーマシン 専用 カプセル カプセルコーヒー DP3 DP2 全自動 コンパクト おしゃれ 業務用 白 黒 ホワイト ブラック",
   "genre_id": "565115",
-  "score": 14.89,
-  "last_seen": "2026-10-25T12:01:36",
+  "score": 13.59,
+  "last_seen": "2026-10-27T11:48:27",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/drip-pod/cabinet/06141944/12139494/lp/dp3set_1m.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/drip-pod/cabinet/06141944/12139494/thumb/dp3set_3.jpg?_ex=600x600",
@@ -32103,6 +32145,13 @@
     "theme": "今売れている物 × 子育て世帯のママ・パパ",
     "persona": "mama",
     "event_type": "baseline"
+   },
+   {
+    "date": "2026-10-27",
+    "slot": "noon",
+    "theme": "寒さ対策・冬支度（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "season"
    }
   ],
   "item_code": "asiabnc:10000243",
@@ -32118,8 +32167,8 @@
   "point_rate": 1,
   "catchcopy": "",
   "genre_id": "216519",
-  "score": 14.08,
-  "last_seen": "2026-10-25T20:16:17",
+  "score": 14.78,
+  "last_seen": "2026-10-27T11:48:27",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/asiabnc/cabinet/13403069/13403073/imgrc0107047247.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/asiabnc/cabinet/09808241/imgrc0096399731.jpg?_ex=600x600",
@@ -32277,6 +32326,13 @@
     "theme": "寒さ対策・冬支度（開催中） × 30代女性（暮らし・時短・コスパ）",
     "persona": "30s_woman",
     "event_type": "season"
+   },
+   {
+    "date": "2026-10-27",
+    "slot": "noon",
+    "theme": "寒さ対策・冬支度（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "season"
    }
   ],
   "item_code": "azusa:10000193",
@@ -32293,7 +32349,7 @@
   "catchcopy": "【3年保証】潤い！自宅でヘアサロン ストレートアイロン カールアイロン ヘアーアイロン アイロン セラミックプレート コンパクト 髪に優しい ギフト 家庭 メンズ 送料無料",
   "genre_id": "509412",
   "score": 13.9,
-  "last_seen": "2026-10-26T20:16:25",
+  "last_seen": "2026-10-27T11:48:27",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/azusa/cabinet/v2396/v2396_main06.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/azusa/cabinet/v2396/v2396_m01a.jpg?_ex=600x600",
@@ -32925,6 +32981,13 @@
     "theme": "寒さ対策・冬支度（開催中） × 30代女性（暮らし・時短・コスパ）",
     "persona": "30s_woman",
     "event_type": "season"
+   },
+   {
+    "date": "2026-10-27",
+    "slot": "noon",
+    "theme": "寒さ対策・冬支度（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "season"
    }
   ],
   "item_code": "sodastream:10000423",
@@ -32941,7 +33004,7 @@
   "catchcopy": "約60Lの炭酸水が作れるガスシリンダー 使用済みのガスシリンダー2本との交換になります。 配達時に空ガスシリンダーを回収します。 500mlあたり約240本分（1本あたり約20円）",
   "genre_id": "568264",
   "score": 14.0,
-  "last_seen": "2026-10-26T20:16:25",
+  "last_seen": "2026-10-27T11:48:27",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/sodastream/cabinet/05990764/08662515/imgrc0130992861.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/sodastream/cabinet/05990764/08662515/imgrc0130987292.jpg?_ex=600x600",
@@ -33047,5 +33110,106 @@
    "https://thumbnail.image.rakuten.co.jp/@0_mall/yokumoku/cabinet/yokumoku_page/10325416/10948104/cinq_26aw_t2.jpg?_ex=600x600"
   ],
   "caption": "ヨックモックのお菓子はいろんなシーンでお使いいただけます 【季節の贈り物に】 お年賀 / 迎春 / お正月 / 年末年始 / バレンタイン / ホワイトデー / 卒業式 / 卒園式 / 入学式 / 入園式 / 母の日 / 父の日 / 御中元 / お中元 / 暑中見舞い / 残暑見舞い / 敬老の日 / ハロウィン / クリスマス / 冬ギフト / お歳暮 / 御歳暮 【手土産 / プレゼントに】 御祝 / 御礼 / 謝礼 / 粗品 / お使い物 / 贈答品 / お土産 / 進物 / お返し 【お祝い / お返しの品に】 引き出物 / お祝い / 内祝 / 結婚祝 / 結婚内祝 / 出産祝 / 出産内祝 / 引き菓子 / 快気祝 / 快気内祝 / プチギフト / 結婚引出物 / 七五三 / 卒業祝い / 卒園祝い / 入学祝い / 入園祝い / 進学内祝 / 入学内祝 / 寿 / 開店祝 / 開業祝 / 新築祝 【長寿 / 結婚記念日のお祝いに】 還暦祝 / 銀婚式 / 金婚式 / 古希 / 喜寿 / 米寿 / 白寿 【年忌法要など仏事の品に】 御霊前 / 御仏前 / お盆 / 新盆 / 初盆 / お彼岸 / 法事 / 法要 / 弔事トップ &gt; 秋冬限定 &gt; デリス シリーズ &gt; サンク デリス 5種40個入 トップ &gt; 個数から探す &gt; 36～47個入 &gt; サンク デリス 5種40個入 トップ &gt; 価格帯から探す &gt; 3,000～4,000円 &gt; サンク デリス 5種40個入 【3,980円(税込)以上ご購入で送料無料！】 ※一部地域を除く ”5つ（Cinq）のおいしさ“で、幸せをはこぶクッキー詰め合わせ 「シガール」と、秋冬の時期にしか味わえないクッキー4種を詰め合わせました。 家族や友人へのお祝いに、職場や取引先への"
+ },
+ "tansu:10011910": {
+  "first_seen": "2026-10-27T11:48:27",
+  "themes": [
+   {
+    "date": "2026-10-27",
+    "slot": "noon",
+    "theme": "寒さ対策・冬支度（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "season"
+   }
+  ],
+  "item_code": "tansu:10011910",
+  "name": "累計90万セット突破 固綿入り敷き布団で寝心地UP 布団セット 洗える 増量 抗菌 防臭 防カビ ほこりが出にくい シングル セミダブル ダブル 枕 ふとんセット 寝具セット 布団 4点セット 5点セット 来客用 コンパクト 客用布団",
+  "price": 4999,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00ppglo.72d3y3f0.g00ppglo.72d3z552/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftansu%2F7519000100%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftansu%2Fi%2F10011910%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00ppglo.72d3y3f0.g00ppglo.72d3z552/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftansu%2F7519000100%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/tansu/cabinet/koukoku/61140237_10a.jpg?_ex=600x600",
+  "shop_name": "タンスのゲン Design the Future",
+  "review_count": 16228,
+  "review_average": 4.28,
+  "affiliate_rate": 3.0,
+  "point_rate": 1,
+  "catchcopy": "抗菌 防臭 防カビ 掛け敷き布団セット 布団セット 固綿三層敷布団 掛けふとん 敷き 枕 収納ケース コンパクト 掛布団 敷布団 ふとん セット 寝具 学生寮 民泊 来客用布団セット 組布団",
+  "genre_id": "215613",
+  "score": 16.41,
+  "last_seen": "2026-10-27T11:48:27",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/tansu/cabinet/koukoku/61140237_10a.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/tansu/cabinet/ragu6/61140237_ruikei.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/tansu/cabinet/av5/atlas0114/61140237_set.jpg?_ex=600x600"
+  ],
+  "caption": "▼ 当店人気のおすすめ布団セット ▼ 固綿増量 フェザー増量 全部洗える 安心の日本製 全部洗える！▼ マットレス付き布団セットはこちら ▼ 敷くだけカンタン湿気対策！▼ ご一緒に除湿シートはいかがですか？ ▼ シングルサイズ対応▼ 布団収納ラックもございます ▼ 仕様 掛布団 【シングルサイズ】 サイズ：幅150x長さ210cm　 ループ数：6ヶ所 生地：ポリエステル100％ 詰め物：ポリエステル100％ [詰め物重量]約1.5kg 【セミダブルサイズ】 サイズ：幅170x長さ210cm　 ループ数：6ヶ所 生地：ポリエステル100％ 詰め物：ポリエステル100％ [詰め物重量]約1.7kg 【ダブルサイズ】 サイズ：幅190x長さ210cm　 ループ数：6ヶ所 生地：ポリエステル100％ 詰め物：ポリエステル100％ [詰め物重量]約1.9kg 【スタッフみどぅのおすすめポイント！】 ・すぐに使える布団セット ・高密度固綿入り！底つき感を軽減する三層敷布団 ・ほこりの出にくい中空ポリエステル綿 ・すべて抗菌・防臭・防カビ生地を使用 ・洗える掛け布団 ・まくらは頭にフィットしやすいくぼみ型 ・ピーチスキン加工で肌触り滑らか ・お子様にも安心の低ホルムアルデヒド仕様 ・ISO9001認可工場による安心の品質 ・収納ケース付き 敷き布団 【シングルサイズ】 サイズ：幅100x長さ200cm 生地：ポリエステル100％ 巻き綿：ポリエステル100％(1.3kg) 固綿：ポリエステル100％(1.5kg) [詰め物重量]約2.8kg 【セミダブルサイズ】 サイズ：幅120x長さ200cm 生地：ポリエステル100％ 詰め物：ポリエステル100％ [詰め物重量]約3.35kg 【ダブルサイズ】 サイズ：幅140x長さ200cm 生地：ポリエステル100％ 詰め物：ポリエステル100",
+  "posted_text": "#PR 買わない理由が見つからなかった\n累計90万セット突破 布団セット 洗える\n★4.28・レビュー16,228件\n4,999円\n#楽天購入品\n▶ROOMはプロフから",
+  "posted_at": "2026-10-27T11:48:27"
+ },
+ "tansu:10055629": {
+  "first_seen": "2026-10-27T11:48:27",
+  "themes": [
+   {
+    "date": "2026-10-27",
+    "slot": "noon",
+    "theme": "寒さ対策・冬支度（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "season"
+   }
+  ],
+  "item_code": "tansu:10055629",
+  "name": "もはや、こたつ。(R) とろりん 掛け布団 吸湿発熱 日本製 消臭 洗える 掛布団 掛ふとん かけ布団 布団 ふとん 冬 冬用布団 冬布団 冬用掛け布団 冬用 寝具 掛け布団 綿布団 シングル セミダブル ダブル 軽い 暖かい もはやこたつ",
+  "price": 7999,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00ppglo.72d3y3f0.g00ppglo.72d3z552/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftansu%2F22200043%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftansu%2Fi%2F10055629%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00ppglo.72d3y3f0.g00ppglo.72d3z552/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftansu%2F22200043%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/tansu/cabinet/00180262/22200043_10be.jpg?_ex=600x600",
+  "shop_name": "タンスのゲン Design the Future",
+  "review_count": 437,
+  "review_average": 4.65,
+  "affiliate_rate": 3.0,
+  "point_rate": 1,
+  "catchcopy": "もはや、こたつ 発熱 掛布団 丸洗い可能 掛け布団 掛けふとん 掛けぶとん 掛ぶとん ピンク グレー ベージュ ネイビー ブラウン 暖かい かけ布団 国産 日本 シングル セミダブル ダブル",
+  "genre_id": "563689",
+  "score": 15.76,
+  "last_seen": "2026-10-27T11:48:27",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/tansu/cabinet/00180262/22200043_10be.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/tansu/cabinet/kidsbaby/22200043_typec.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/tansu/cabinet/03949330/22200043_new.jpg?_ex=600x600"
+  ],
+  "caption": "▼「もはや、こたつ。」シリーズ商品▼ よりリーズナブルなライトタイプ ボリュームたっぷりあったか敷きパッド 羽毛と毛布 ダブルのぬくもり ▼軽くて暖かいUMOFU掛け布団もおすすめです▼ 羽毛×吸湿発熱フランネル生地 まだまだあります！ &gt;機能性掛け布団一覧はこちら&lt; ご一緒にいかがですか？ &gt;掛け布団カバー一覧はこちら&lt; 冬用 洗える 掛け布団 仕様 サイズ 【シングルサイズ】幅150x長さ210cm 【セミダブルサイズ】幅170x長さ210cm 【ダブルサイズ】幅190x長さ210cm 重量 ■スタンダードタイプ 【シングルサイズ】3.3kg 【セミダブルサイズ】3.7kg 【ダブルサイズ】4.2kg ■極暖タイプ 【シングルサイズ】3.5kg 【セミダブルサイズ】3.9kg 【ダブルサイズ】4.3kg 充填量 ■スタンダードタイプ 【シングルサイズ】1.5kg 【セミダブルサイズ】1.7kg 【ダブルサイズ】1.9kg ■極暖タイプ 【シングルサイズ】1.8kg 【セミダブルサイズ】2.0kg 【ダブルサイズ】2.2kg 素材 ■スタンダードタイプ [側地]ポリエステル100％ [詰め物]「もはや、こたつ」綿 （吸湿発熱機能わた（合成繊維）10%、ポリエステルわた90%） ■極暖タイプ [側地]ポリエステル100％ [詰め物] 「もはや、こたつ」プレミアム綿 （吸湿発熱機能わた（合成繊維）20%、ポリエステルわた80%） カラー スノーグレー、ライトベージュ、スモーキーピンク、ネイビーミストチャコールグレー、トープブラウン ループ数 シングル：6か所　セミダブル/ダブル：8か所 梱包サイズ 【シングルサイズ】35×44×50cm 【セミダブル/ダブルサイズ】39×47×51cm 生産国 日本製(側縫製:中国、綿入縫製:日本) スタッフナヒのおす"
+ },
+ "shirai-store:10000002": {
+  "first_seen": "2026-10-27T11:48:27",
+  "themes": [
+   {
+    "date": "2026-10-27",
+    "slot": "noon",
+    "theme": "寒さ対策・冬支度（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "season"
+   }
+  ],
+  "item_code": "shirai-store:10000002",
+  "name": "オープンラック おもちゃ棚 モンテッソーリ こども本棚 収納棚 マミハピシリーズ 子供用 本棚 絵本 キッズ用ラック 収納棚 子供用収納 キッズ収納棚 子供部屋収納棚 キッズ収納ラック 子供用家具 子供収納棚 移動棚 大容量 木製 おもちゃ 幅91cm 高さ38cm MHP-4090R 白井産業",
+  "price": 7980,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00ui4go.72d3y7ac.g00ui4go.72d3z3b3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshirai-store%2F1a%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshirai-store%2Fi%2F10000002%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00ui4go.72d3y7ac.g00ui4go.72d3z3b3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshirai-store%2F1a%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/shirai-store/cabinet/product-image/mhp-4090r/product/mhp-4090r-01.jpg?_ex=600x600",
+  "shop_name": "SHIRAI STORE 楽天市場店",
+  "review_count": 345,
+  "review_average": 4.68,
+  "affiliate_rate": 3.0,
+  "point_rate": 1,
+  "catchcopy": "オープンラック 子供用 本棚 収納棚 キッズ用ラック 七五三 プレゼント 幅91cm 子供 キッズ 収納 大容量 A4 木製 おもちゃ 絵本 ナチュラル 図鑑",
+  "genre_id": "210126",
+  "score": 13.8,
+  "last_seen": "2026-10-27T11:48:27",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/shirai-store/cabinet/product-image/mhp-4090r/product/mhp-4090r-01.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/shirai-store/cabinet/product-image/mhp-4090r/product/mhp-4090r-02.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/shirai-store/cabinet/product-image/mhp-4090r/product/mhp-4090r-03.jpg?_ex=600x600"
+  ],
+  "caption": "子供の成長に合った収納をつくれるキッズ家具 詳細情報 サイズ 幅90.4 × 奥行34.9 × 高さ37.8（cm） カラー アイボリー（IV）、ナチュラルブラウン（NA）【内側・移動棚】グレー※モニターの発色具合によって、実際のものと色合いが異なる場合がございます。 素材・加工 【本体素材】プリント紙化粧繊維板 商品重量 約11.8kg 移動棚枚数 1枚 耐荷重 【天板】15kg【移動棚】7kg 梱包数 1 梱包サイズ 幅96.9 × 奥行41.8 × 高さ10.6（cm） 梱包重量 約12.4kg 組立工具 プラスドライバー（規格：#2） ゴムハンマー JANコード アイボリー（IV）：4968644738184ナチュラルブラウン（NA）：4968644738191 シリーズ名 マミハピ 型番 アイボリー（IV）：MHP-4090RIVナチュラルブラウン（NA）：MHP-4090RNA 備考 この商品に関するよくある質問移動棚を入れた時の内寸の高さをはどれくらいですか？移動棚は3段階に高さを調節できます。一番上にセットした時、上約9.7cm 下約21.7cmです。真ん中にセットした時、上下とも約15.7cmです。一番下段にセットした時、上約21.7cm 下約9.7cmです。商品の背面に板はついていますか？背面下部に高さ約7.3cm程バックボードがあります。バックボード以外の背面はオープンとなります。背面側に化粧は施されておりません。 ナチュラルブラウンを注文したのですが、箱を開けたところグレーの部材が入っていました。間違いではないですか？本体の外側はナチュラルブラウン色ですが、本体の内側はグレー色となっております。部材を取り出していただき、ご確認お願いいたします。どの商品と連結ができますか？以下の商品と連結ができます。 絵本ラックフルタイプ 絵本ラックハーフタイプ オー"
  }
 }
