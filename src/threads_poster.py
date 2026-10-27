@@ -4,22 +4,18 @@
   THREADS_ACCESS_TOKEN  Metaアプリの「User Token Generator」で発行した長期トークン（60日有効）
   THREADS_USER_ID       省略可。無ければ /me で自動取得
 
-トークンは data/threads_token.json に保存し、24時間以上経っていれば実行時に自動更新する。
+トークンは data/threads_token.enc に暗号化して保存し（src/token_store.py）、24時間以上経っていれば実行時に自動更新する。
 （更新すると有効期限がまた60日延びるので、毎日動いていれば切れない）
 """
 from __future__ import annotations
 
-import json
 import time
-from datetime import datetime, timedelta
-from pathlib import Path
 
 import requests
 
-from .config import DATA_DIR, Settings
+from .config import Settings
 
 BASE = "https://graph.threads.net/v1.0"
-TOKEN_FILE: Path = DATA_DIR / "threads_token.json"
 
 
 class ThreadsPoster:
@@ -30,27 +26,8 @@ class ThreadsPoster:
 
     # ---- トークン管理 ----
     def _load_token(self) -> str:
-        if TOKEN_FILE.exists():
-            try:
-                d = json.loads(TOKEN_FILE.read_text(encoding="utf-8"))
-                tok = d.get("access_token", "")
-                ts = datetime.fromisoformat(d.get("refreshed_at"))
-                if tok and datetime.now() - ts < timedelta(days=59):
-                    if datetime.now() - ts > timedelta(hours=24):
-                        tok = self._refresh(tok) or tok
-                    return tok
-            except Exception:
-                pass
-        tok = self.s.threads_access_token
-        if not tok:
-            raise RuntimeError("THREADS_ACCESS_TOKEN が未設定です")
-        self._save(tok)
-        return tok
-
-    def _save(self, tok: str) -> None:
-        DATA_DIR.mkdir(exist_ok=True)
-        TOKEN_FILE.write_text(json.dumps({"access_token": tok, "refreshed_at": datetime.now().isoformat(timespec="seconds")}),
-                              encoding="utf-8")
+        from .token_store import current_token
+        return current_token("threads", self.s.threads_access_token, self._refresh)
 
     def _refresh(self, tok: str) -> str | None:
         try:
@@ -58,7 +35,6 @@ class ThreadsPoster:
                              params={"grant_type": "th_refresh_token", "access_token": tok}, timeout=20)
             if r.status_code == 200 and r.json().get("access_token"):
                 new = r.json()["access_token"]
-                self._save(new)
                 print("  [threads] アクセストークンを更新しました")
                 return new
             print(f"  [warn] threads token refresh: {r.status_code} {r.text[:120]}")

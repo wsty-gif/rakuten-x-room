@@ -177,10 +177,10 @@ class Settings:
         return self.x_enabled and all([self.x_api_key, self.x_api_secret, self.x_access_token, self.x_access_token_secret])
 
     def instagram_ready(self) -> bool:
-        return bool(self.instagram_access_token) or (DATA_DIR / "instagram_token.json").exists()
+        return bool(self.instagram_access_token) or (DATA_DIR / "instagram_token.enc").exists()
 
     def threads_ready(self) -> bool:
-        return bool(self.threads_access_token) or (DATA_DIR / "threads_token.json").exists()
+        return bool(self.threads_access_token) or (DATA_DIR / "threads_token.enc").exists()
 
     def rakuten_ready(self) -> bool:
         return bool(self.rakuten_app_id)

@@ -254,7 +254,7 @@ Xに投稿した文と画像を、そのまま Threads にも投稿する。Meta
 7. `python setup_env.py` で `THREADS_ACCESS_TOKEN` に貼る。GitHub Actions で動かす場合は Secrets にも `THREADS_ACCESS_TOKEN` を追加。
 
 トークンはツールが毎日自動で更新するので、毎日動いていれば期限切れにならない。
-（更新後のトークンは `data/threads_token.json` に保存され、GitHub Actions ではリポジトリにコミットされる。リポジトリは必ず Private にしておくこと）
+（更新後のトークンは `data/threads_token.enc` / `data/instagram_token.enc` に**暗号化して**保存され、リポジトリにコミットされる。鍵は GitHub Secrets の `TOKEN_KEY`（ローカルは `.env`）にだけ置くので、リポジトリを Public にしても中身は読めない。トークンを作り直したら Secrets の `THREADS_ACCESS_TOKEN` / `INSTAGRAM_ACCESS_TOKEN` を差し替えるだけで、次回から新しい方が使われる）
 
 ## ブログ（GitHub Pages、無料・全自動）
 
@@ -272,7 +272,7 @@ GitHub Actions がそれをコミットし、GitHub Pages が公開する。費�
 
 ### 公開手順（初回のみ、10分）
 無料プランの GitHub Pages は Public リポジトリでしか使えないため、ブログ専用の公開リポジトリを別に作り、
-ワークフローがそこへ `docs/` を書き出す（キー類が入っている本体リポジトリは Private のまま）。
+ワークフローがそこへ `docs/` を書き出す。
 
 1. GitHub で新しいリポジトリを作る。名前は **必ず `<ユーザー名>.github.io`**（例 `wsty-gif.github.io`）、**Public**、「Add a README file」にチェック。
 2. 書き込み用トークンを作る: GitHub 右上のアイコン → Settings → 左下 **Developer settings** → Personal access tokens → **Fine-grained tokens** → Generate new token。

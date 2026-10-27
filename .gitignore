@@ -4,3 +4,5 @@ output/
 __pycache__/
 secrets_for_github.txt
 docs/
+# 平文のトークンは置かない（暗号化した *.enc だけをコミットする）
+data/*_token.json
