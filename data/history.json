@@ -16841,5 +16841,16 @@
   "review_count": 3358,
   "review_average": 4.69,
   "genre_id": "214200"
+ },
+ {
+  "date": "2026-10-28T18:31:20",
+  "slot": "evening",
+  "kind": "engage",
+  "engage_key": "poll7",
+  "theme": "反応投稿（poll）",
+  "persona": "all",
+  "text": "冬支度、いちばん先に買うのは？",
+  "tweet_id": "",
+  "threads_id": "18133399291664858"
  }
 ]
