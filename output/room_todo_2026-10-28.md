@@ -55,3 +55,29 @@
 
 - **子育て世帯のママ・パパのリピート候補**: ヨックモック サンク デリス 5種40個入 / 10 23 15:00〜10 27 / リンツ チョコレート リンドール / 終了前に 一級品 無添加 生クルミ 大容量
 
+## 20:16 寒さ対策・冬支度（開催中） × 40代男性（家族・晩酌・車）
+
+1. **[冬対策セールP10倍] [レビュー2900件超／高評価4.72点] 敷きパッド シングル フランネル あったか とろと**
+   - 価格: 1,980円 / ★4.71（2,982件） / 料率 3.0% / P10倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qqpqo.72d3y802.g00qqpqo.72d3z677/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdondon%2Fzsk01-s%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdondon%2Fi%2F10005919%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: まとめ買い向き。レビュー2,982件で★4.71。ポイント10倍で実質1,782円。
+
+2. **【クーポン10%OFF 11/1まで】 ラグマット 厚手 超極厚60mm/50mm/30mm ふわふわ 2畳 3畳 洗え**
+   - 価格: 4,680円 / ★4.64（960件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00uaoeo.72d3yf38.g00uaoeo.72d3zff7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhomfine%2Fhfjrg04%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhomfine%2Fi%2F10000119%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: まとめ買い向き。レビュー960件で★4.64。10%OFF（11/1まで）、送料無料。
+
+3. **【20%OFF★防臭袋全回数分付き★日本防災安全協会認証品】簡易トイレ 非常用トイレ 防災グッズ 防災 非常用簡易トイレ**
+   - 価格: 1,080円 / ★4.56（10,786件） / 料率 3.0% / P5倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00sk3qo.72d3y911.g00sk3qo.72d3z59b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fh2brothers%2Fportabletoilet01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fh2brothers%2Fi%2F10001880%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: まとめ買い向き。収納便利なコンパクトサイズ防災リュックなどに収納しやすいコンパクトなサイズ。安心の約15年長期保存が可能です。レビュー10,786件で★4.56。20%OFF、ポイント5倍で実質1,026円。
+
+4. **ラック キッチンラック 木製棚板 3段 幅85.5/65 奥行41.5 高さ85cm ウッドシェルフ ディスプレイラック**
+   - 価格: 8,999円 / ★4.48（968件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00pui9o.72d3y639.g00pui9o.72d3zc91/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-kurashi%2Fq2d26%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-kurashi%2Fi%2F10006164%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 家族みんなで使える定番。レビュー968件で★4.48。送料無料。
+
+### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
+
+- **40代男性のリピート候補**: 敷きパッド シングル フランネル あったか / ラグマット 厚手 超極厚60mm 50mm / 簡易トイレ 非常用トイレ 防災グッズ 防災 / ラック キッチンラック 木製棚板 3段
+
