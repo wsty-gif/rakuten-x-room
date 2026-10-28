@@ -29,3 +29,29 @@
 
 - **30代女性のリピート候補**: もはや、こたつ。 とろりん 掛け布団 / マットレス シングル 10cm / 歯ブラシ 子供 まとめ買い / とろける 毛布 ふわふわ もこもこ
 
+## 12:01 ハロウィン（3日後） × 子育て世帯のママ・パパ
+
+1. **【送料無料】【公式】ヨックモック サンク デリス 5種40個入 ハロウィン 秋 2026 詰め合わせ プレゼント スイー**
+   - 価格: 3,672円 / ★4.71（2,693件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00rvx6o.72d3y67f.g00rvx6o.72d3z06e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyokumoku%2F1010011309010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyokumoku%2Fi%2F10000435%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: まとめ買いしておくと楽になるもの。家族や友人へのお祝いに、職場や取引先への。レビュー2,693件で★4.71。送料無料。
+
+2. **【P10倍】10/23 15:00〜10/27 9:59まで＼3年連続／ 2025年楽天グルメ大賞受賞 【メープルバター**
+   - 価格: 1,460円 / ★4.75（1,423件） / 料率 4.0% / P5倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00tq9ao.72d3yb8f.g00tq9ao.72d3z5de/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsucreyshop%2Ftmm01101f%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsucreyshop%2Fi%2F10000030%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: ママ友の間でよく話題になるやつ。発売当初から愛されている人気No.1商品。東京土産として、また大切な方へのお手土産として。レビュー1,423件で★4.75。10/279:59まで、ポイント5倍で実質1,387円。
+
+3. **＼ハロウィン直前割引：20％OFF／【公式】 リンツ チョコレート リンドール テイスティングセット 16個入｜ハロウィ**
+   - 価格: 2,980円 / ★4.73（3,247件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00sjjgo.72d3yd4a.g00sjjgo.72d3zd65/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flindt-chocolate%2F9800606%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flindt-chocolate%2Fi%2F10001570%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 子どもがいる家で助かった系。レビュー3,247件で★4.73。20%OFF。
+
+4. **終了前に★お試し送料無料1,299円！カリフォルニア産 一級品 無添加 生クルミ 大容量 たっぷり700g くるみ オメ**
+   - 価格: 1,299円 / ★4.69（3,358件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00u0eto.72d3y63c.g00u0eto.72d3z986/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsonoshokuan%2F901116%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsonoshokuan%2Fi%2F10000264%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: ママ友の間でよく話題になるやつ。体内で作ることができない必須栄養素のオメガ3脂肪酸がたっぷり。天然のサプリメントと呼ばれるほどナッツはヘルシーで栄養満点。レビュー3,358件で★4.69。送料無料。
+
+### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
+
+- **子育て世帯のママ・パパのリピート候補**: ヨックモック サンク デリス 5種40個入 / 10 23 15:00〜10 27 / リンツ チョコレート リンドール / 終了前に 一級品 無添加 生クルミ 大容量
+
