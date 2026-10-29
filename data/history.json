@@ -17151,5 +17151,16 @@
   "review_count": 579,
   "review_average": 4.6,
   "genre_id": "551221"
+ },
+ {
+  "date": "2026-10-29T18:31:29",
+  "slot": "evening",
+  "kind": "engage",
+  "engage_key": "tip10",
+  "theme": "反応投稿（tip）",
+  "persona": "all",
+  "text": "【楽天の小ネタ】\n楽天24やケンコーコムなど、まとめ買い系の店は「箱買い」の単価がドラッグストアより安いことが多いです。\n水・トイレットペーパー・洗剤はこれで固定化できます。",
+  "tweet_id": "",
+  "threads_id": "17909536827580453"
  }
 ]
