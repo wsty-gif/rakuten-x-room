@@ -55,3 +55,29 @@
 
 - **子育て世帯のママ・パパのリピート候補**: クリアランスバッグ 500g / やわらかキルト パジャマ 子供服 キッズ / まるごと苺チョコレート 150g 300g / マイクラ 磁石 ブロック マイクラ
 
+## 20:16 寒さ対策・冬支度（開催中） × 30代男性（健康・効率化・家電）
+
+1. **【楽天1位受賞】防音カーペット 防音マット 静床ライト 50×50 cm タイルカーペット ll40 日本製 厚め 防音**
+   - 価格: 2,442円 / ★4.5（995件） / 料率 3.0% / P5倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00q50po.72d3ydc1.g00q50po.72d3zd2f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpialiving%2F10000401%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpialiving%2Fi%2F10000401%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 時短になる系。異なる素材を組み合わせた3重構造極厚防音層が軽い物音の衝撃を受け止めてやわらげます。防音タイルカーペット静床ライトは、床に敷くことで下の階に伝わる音を軽減します。楽天ランキング1位、レビュー995件で★4.5。ポイント5倍で実質2,319円。
+
+2. **【タイムセール20％OFF】返品交換不可 テーパードパンツ すっきり見え コットン ストレッチ earth_eco_lo**
+   - 価格: 2,552円 / ★4.4（585件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00r81yo.72d3y784.g00r81yo.72d3zce3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-ecoloco%2Fe3344%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-ecoloco%2Fi%2F10008820%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: スペック比較して残ったやつ。ノンストレスな履き心地も相まって、デイリーに気兼ねなく履けて、手抜きに見えない。と多くのお客様から愛されている人気シリーズです。レビュー585件で★4.4。20%OFF。
+
+3. **【タイムセール20％OFF】返品交換不可 すっきりワイドパンツ コットン ストレッチ earth_eco_loco まる**
+   - 価格: 2,552円 / ★4.54（671件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00r81yo.72d3y784.g00r81yo.72d3zce3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-ecoloco%2Fe3343%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-ecoloco%2Fi%2F10008819%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 時短になる系。ノンストレスな履き心地も相まって、デイリーに気兼ねなく履けて、手抜きに見えない。と多くのお客様から愛されている人気シリーズです。レビュー671件で★4.54。20%OFF。
+
+4. **毛布 NERUS 【正規品】 ふわとろ毛布 air airpremium もこもこ毛布 ブランケット モコモコ とろとろ**
+   - 価格: 2,980円 / ★4.75（423件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00tx49o.72d3y45d.g00tx49o.72d3z15f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkonikoni%2Fhtc50%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkonikoni%2Fi%2F10000306%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 時短になる系。レビュー423件で★4.75。2,980円。
+
+### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
+
+- **30代男性のリピート候補**: 防音カーペット 防音マット 静床ライト / 返品交換不可 テーパードパンツ すっきり見え / 返品交換不可 すっきりワイドパンツ コットン / 毛布 NERUS ふわとろ毛布 air
+
