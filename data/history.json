@@ -18032,5 +18032,16 @@
   "review_count": 1154,
   "review_average": 4.55,
   "genre_id": "406704"
+ },
+ {
+  "date": "2026-10-31T18:31:00",
+  "slot": "evening",
+  "kind": "engage",
+  "engage_key": "poll0",
+  "theme": "反応投稿（poll）",
+  "persona": "all",
+  "text": "楽天のセール、何から見ますか？",
+  "tweet_id": "",
+  "threads_id": "18316826197304371"
  }
 ]
