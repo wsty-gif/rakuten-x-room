@@ -29,3 +29,29 @@
 
 - **20代女性のリピート候補**: 電気毛布 掛け敷き 洗える ふわとろ毛布 / 遮光カーテン 1級遮光 レースセット有無 / キルトラグ カーペット 丸洗いOK / 総合ランキング1位獲得 簡易トイレ
 
+## 12:01 ハロウィン（開催中） × 子育て世帯のママ・パパ
+
+1. **≪クーポンご利用で50％OFF≫リンツ クリアランスバッグ 500g**
+   - 価格: 7,200円 / ★4.51（1,048件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00sjjgo.72d3yd4a.g00sjjgo.72d3zd65/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flindt-chocolate%2Fclearance_l%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flindt-chocolate%2Fi%2F10002111%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: ママ友の間でよく話題になるやつ。ギフト包装につきまして・ギフト包装は承っておりません。季節が少し過ぎてしまったチョコレートの入ったお得な詰め合わせセット。レビュー1,048件で★4.51。50%OFF。
+
+2. **【LIMITED SALE 最大16%OFF】やわらかキルト パジャマ 子供服 キッズ 女の子 男の子 パジャマ 長袖パ**
+   - 価格: 1,998円 / ★4.54（267件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qnh8o.72d3ya2a.g00qnh8o.72d3z77e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdevirockstore%2F171ggd002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdevirockstore%2Fi%2F10031259%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 子どもがいる家で助かった系。中綿入りでふんわりとした肌触りです。デザインバリエーションの豊富さも魅力です。レビュー267件で★4.54。16%OFF。
+
+3. **≪はじめてなら511円OFF★新規限定クーポン≫ 冬季限定 まるごと苺チョコレート 150g 300g 1個からご注文が**
+   - 価格: 1,280円 / ★4.73（71件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00pvlao.72d3y857.g00pvlao.72d3zfef/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshizennoyakata%2Fichigochoco%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshizennoyakata%2Fi%2F10008038%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: ママ友の間でよく話題になるやつ。チョコレート製品は一旦溶けると油脂分が分離し、白くなる事が有ります。風味は損なわれますが、召し上がっても差し支えありません。レビュー71件で★4.73。送料無料。
+
+4. **【先着様限定1点20％OFF】【ギフトバッグおまけ】 マイクラ 磁石 ブロック マイクラ マグネットブロック マグネット**
+   - 価格: 3,299円 / ★4.55（1,154件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00uf9so.72d3y7d5.g00uf9so.72d3z5ff/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyuistore%2F23cj011%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyuistore%2Fi%2F10000379%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 子どもがいる家で助かった系。誕生日、就学祝いプレゼントにぴったりなアイテムです。組み立て式の6面マグネットキューブ。レビュー1,154件で★4.55。20%OFF。
+
+### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
+
+- **子育て世帯のママ・パパのリピート候補**: クリアランスバッグ 500g / やわらかキルト パジャマ 子供服 キッズ / まるごと苺チョコレート 150g 300g / マイクラ 磁石 ブロック マイクラ
+

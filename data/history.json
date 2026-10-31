@@ -17858,7 +17858,8 @@
   "shop_name": "エムパウジャパン楽天市場店",
   "review_count": 3415,
   "review_average": 4.63,
-  "genre_id": "208397"
+  "genre_id": "208397",
+  "instagram_story_id": "18111539852127221"
  },
  {
   "date": "2026-10-31T07:02:25",
@@ -17931,5 +17932,105 @@
   "review_count": 1252,
   "review_average": 4.48,
   "genre_id": "501137"
+ },
+ {
+  "date": "2026-10-31T12:01:38",
+  "slot": "noon",
+  "theme": "ハロウィン（開催中） × 子育て世帯のママ・パパ",
+  "persona": "mama",
+  "item_code": "lindt-chocolate:10002111",
+  "item_name": "≪クーポンご利用で50％OFF≫リンツ クリアランスバッグ 500g",
+  "price": 7200,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00sjjgo.72d3yd4a.g00sjjgo.72d3zd65/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flindt-chocolate%2Fclearance_l%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flindt-chocolate%2Fi%2F10002111%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "#PR ママ友の間で回ってるやつ\nクリアランスバッグ 500g\n★4.51・レビュー1,048件\n50%OFF｜7,200円\n#楽天購入品\n▶ROOMはプロフから",
+  "tweet_id": "",
+  "threads_id": "18033595877890243",
+  "room_done": false,
+  "image": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/lindt-chocolate/cabinet/9701720_2610_1r.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/lindt-chocolate/cabinet/9701720_2610_1r.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/lindt-chocolate/cabinet/imgrc0108333622.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/lindt-chocolate/cabinet/lindor_cate2.jpg?_ex=600x600"
+  ],
+  "shop_name": "リンツ チョコレート 楽天市場店",
+  "review_count": 1048,
+  "review_average": 4.51,
+  "genre_id": "201146",
+  "instagram_id": "18115470659126245",
+  "instagram_story_error": "Instagram 公開失敗 400: {\"error\":{\"message\":\"The requested resource does not exist\",\"type\":\"OAuthException\",\"code\":24,\"error_subcode\":2207006,\"is_transient\":false,\"error_user_title\":\"Media Not Found\",\"err"
+ },
+ {
+  "date": "2026-10-31T12:01:38",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "ハロウィン（開催中） × 子育て世帯のママ・パパ",
+  "persona": "mama",
+  "item_code": "devirockstore:10031259",
+  "item_name": "【LIMITED SALE 最大16%OFF】やわらかキルト パジャマ 子供服 キッズ 女の子 男の子 パジャマ 長袖パジャマ ルームウェア 長袖ルームウェア",
+  "price": 1998,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qnh8o.72d3ya2a.g00qnh8o.72d3z77e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdevirockstore%2F171ggd002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdevirockstore%2Fi%2F10031259%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "子どもがいる家で助かった系。中綿入りでふんわりとした肌触りです。デザインバリエーションの豊富さも魅力です。レビュー267件で★4.54。16%OFF。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/devirockstore/cabinet/itempage/26aw/1utg19995/1utg19995-01.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/devirockstore/cabinet/itempage/26aw/1utg19995/1utg19995-01.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/devirockstore/cabinet/img-up_1_1849/3295_k1_1254966_59.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/devirockstore/cabinet/itempage/26aw/1utg19995/1utg19995-02.jpg?_ex=600x600"
+  ],
+  "shop_name": "devirock 楽天市場店",
+  "review_count": 267,
+  "review_average": 4.54,
+  "genre_id": "213911"
+ },
+ {
+  "date": "2026-10-31T12:01:38",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "ハロウィン（開催中） × 子育て世帯のママ・パパ",
+  "persona": "mama",
+  "item_code": "shizennoyakata:10008038",
+  "item_name": "≪はじめてなら511円OFF★新規限定クーポン≫ 冬季限定 まるごと苺チョコレート 150g 300g 1個からご注文が可能になりました！ お得2種セット いち",
+  "price": 1280,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pvlao.72d3y857.g00pvlao.72d3zfef/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshizennoyakata%2Fichigochoco%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshizennoyakata%2Fi%2F10008038%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "ママ友の間でよく話題になるやつ。チョコレート製品は一旦溶けると油脂分が分離し、白くなる事が有ります。風味は損なわれますが、召し上がっても差し支えありません。レビュー71件で★4.73。送料無料。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/shizennoyakata/cabinet/item_img/ichigochoco_rsg.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/shizennoyakata/cabinet/item_img/ichigochoco_rsg.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/shizennoyakata/cabinet/item_img/saleitem/10sg2spue.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/shizennoyakata/cabinet/item_img/syouhingazou2/ichigochoco_sg01.jpg?_ex=600x600"
+  ],
+  "shop_name": "美味しさは元気の源 【自然の館】",
+  "review_count": 71,
+  "review_average": 4.73,
+  "genre_id": "214126"
+ },
+ {
+  "date": "2026-10-31T12:01:38",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "ハロウィン（開催中） × 子育て世帯のママ・パパ",
+  "persona": "mama",
+  "item_code": "yuistore:10000379",
+  "item_name": "【先着様限定1点20％OFF】【ギフトバッグおまけ】 マイクラ 磁石 ブロック マイクラ マグネットブロック マグネットキューブ 磁石ブロック基礎板 マインクラ",
+  "price": 3299,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00uf9so.72d3y7d5.g00uf9so.72d3z5ff/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyuistore%2F23cj011%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyuistore%2Fi%2F10000379%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 3.0,
+  "text": "子どもがいる家で助かった系。誕生日、就学祝いプレゼントにぴったりなアイテムです。組み立て式の6面マグネットキューブ。レビュー1,154件で★4.55。20%OFF。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/yuistore/cabinet/jimu2/cj330-11a.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/yuistore/cabinet/jimu2/cj330-11a.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/yuistore/cabinet/jimu2/000-a.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/yuistore/cabinet/jimu2/000-b.jpg?_ex=600x600"
+  ],
+  "shop_name": "Yui Store",
+  "review_count": 1154,
+  "review_average": 4.55,
+  "genre_id": "406704"
  }
 ]
