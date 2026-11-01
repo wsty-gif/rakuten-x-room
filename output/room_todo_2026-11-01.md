@@ -55,3 +55,29 @@
 
 - **20代男性のリピート候補**: 交換が楽しくなる 掛け布団カバー / NERUS ふわとろ毛布 MELLOW 毛布 / フィッツケース 53サイズ ホワイトクリア / コンタクトレンズ 2week
 
+## 20:16 今売れている物 × 40代男性（家族・晩酌・車）
+
+1. **【1の日P最大3倍】クーポンで100円引ッ★【かに福袋】最大13,600円以上お得♪ 生・ボイル・タラバガニから選べるカ**
+   - 価格: 8,888円 / ★4.37（26,081件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00rf0to.72d3ybd3.g00rf0to.72d3ze03/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkanidokoro%2F628%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkanidokoro%2Fi%2F10002273%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 家族みんなで使える定番。備考品質保持のため、安全性の高い酸化防止剤（亜硫酸塩）を使用しております。レビュー26,081件で★4.37。8,888円。
+
+2. **今夜23:59までP3倍★早割500円OFFで9,980円⇒送料無料9,490円！コスパ抜群の甲羅組おせち「角鹿」6.5**
+   - 価格: 9,490円 / ★4.51（706件） / 料率 4.0% / P3倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00r77to.72d3y343.g00r77to.72d3zf2a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkouragumi%2F500007%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkouragumi%2Fi%2F10001537%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: まとめ買い向き。華やかな彩りを兼ね備えた御祝の席にふさわしい逸品。楽天ランキング1位、レビュー706件で★4.51。11/30まで、ポイント3倍で実質9,205円、送料無料。
+
+3. **＼期間限定で500円OFF／2,980円→2,480円！乳酸菌飲料 美粉屋ちょーぐると 1袋(約33杯分)に1兆9293**
+   - 価格: 2,980円 / ★4.26（17,327件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00pwf8o.72d3yb9c.g00pwf8o.72d3z481/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkyunan%2Fchogurt%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkyunan%2Fi%2F10012864%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 週末のお楽しみ用に。味も、昔のシャーベットアイス、パピコ系で飲みやすいです。1袋、あっという間に終わってしまいました。楽天ランキング1位、レビュー17,327件で★4.26。送料無料。
+
+4. **【エントリーでポイント10倍】おせち 早割 2027 予約『板前魂の花籠』おせち 和洋風 和風 洋風 3段重［34品 3**
+   - 価格: 9,730円 / ★4.3（14,388件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qlvoo.72d3y969.g00qlvoo.72d3z183/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F2-itamae%2Fsandannp%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F2-itamae%2Fi%2F10000394%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 家族みんなで使える定番。レビュー14,388件で★4.3。送料無料。
+
+### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
+
+- **40代男性のリピート候補**: 生・ボイル・タラバガニから選べるカニしゃぶ / 3〜4人前 盛り付け済み 冷凍 / 美粉屋ちょーぐると 1袋 / おせち 早割 2027
+
