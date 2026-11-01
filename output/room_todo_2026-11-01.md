@@ -29,3 +29,29 @@
 
 - **30代女性のリピート候補**: アラビア ルノ ティーカップ フロストベリー / ボビイ ブラウン クリスタル アイシャドウ / スペシャルトリートメント マスク / アラビア ルノ プレート 16.5cm
 
+## 12:01 寒さ対策・冬支度（開催中） × 20代男性（ガジェット・一人暮らし）
+
+1. **【ワンダフルデーP5倍】交換が楽しくなる 掛け布団カバー 綿100％ コットンケット 肌掛け布団カバー 布団カバー U0**
+   - 価格: 2,299円 / ★4.68（1,608件） / 料率 3.0% / P5倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00q5rao.72d3yac9.g00q5rao.72d3z513/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbedandmat%2Fkc-u07%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbedandmat%2Fi%2F10020789%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: レビューを見て買う人が多いやつ。Qサイズやカラー展開にはどのような種類がありますか。トラックの大きさにより、別便になることがあります。レビュー1,608件で★4.68。ポイント5倍で実質2,184円。
+
+2. **[11月1日枚数限定]30%OFFクーポン 【新作】 NERUS ふわとろ毛布 MELLOW 【正規品】 毛布 ブランケ**
+   - 価格: 3,480円 / ★4.54（92件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00u9h5o.72d3y88d.g00u9h5o.72d3z15e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ft-interior%2Fhtc54%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ft-interior%2Fi%2F10000344%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 一人暮らしの部屋に1つあると便利。レビュー92件で★4.54。30%OFF。
+
+3. **フィッツケース 53サイズ ホワイトクリア fits 衣装ケース 収納ケース 収納ボックス クローゼット 収納 引出し **
+   - 価格: 3,980円 / ★4.78（639件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qg64o.72d3y1f9.g00qg64o.72d3z082/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftenmafitsworld%2Ffitscase_53%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftenmafitsworld%2Fi%2F10006054%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: コスパで選ぶならこれ。レビュー639件で★4.78。3,980円。
+
+4. **コンタクトレンズ 2week ｜ 2WEEKメニコン プレミオ 2週間使い捨て 6枚入 2箱セット コンタクト 2ウィー**
+   - 価格: 3,599円 / ★4.54（3,331件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00rvxeo.72d3y743.g00rvxeo.72d3z8e4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fatcontact%2F2w-premio-2p%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fatcontact%2Fi%2F10000021%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 一人暮らしの部屋に1つあると便利。＞遠視用(プラス度数)の商品ページはコチラから。レビュー3,331件で★4.54。送料無料。
+
+### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
+
+- **20代男性のリピート候補**: 交換が楽しくなる 掛け布団カバー / NERUS ふわとろ毛布 MELLOW 毛布 / フィッツケース 53サイズ ホワイトクリア / コンタクトレンズ 2week
+

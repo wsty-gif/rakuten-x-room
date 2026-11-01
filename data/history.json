@@ -18168,7 +18168,8 @@
   "shop_name": "scope version.R",
   "review_count": 583,
   "review_average": 4.9,
-  "genre_id": "566153"
+  "genre_id": "566153",
+  "instagram_story_id": "18034527692674121"
  },
  {
   "date": "2026-11-01T07:01:31",
@@ -18241,5 +18242,105 @@
   "review_count": 615,
   "review_average": 4.94,
   "genre_id": "566130"
+ },
+ {
+  "date": "2026-11-01T12:01:41",
+  "slot": "noon",
+  "theme": "寒さ対策・冬支度（開催中） × 20代男性（ガジェット・一人暮らし）",
+  "persona": "20s_man",
+  "item_code": "bedandmat:10020789",
+  "item_name": "【ワンダフルデーP5倍】交換が楽しくなる 掛け布団カバー 綿100％ コットンケット 肌掛け布団カバー 布団カバー U07 07シリーズ 【シングル】【セミダブ",
+  "price": 2299,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00q5rao.72d3yac9.g00q5rao.72d3z513/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbedandmat%2Fkc-u07%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbedandmat%2Fi%2F10020789%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 3.0,
+  "text": "#PR 一人暮らしのQOLが1段上がる\n交換が楽しくなる 掛け布団カバー\n★4.68・レビュー1,608件\n2,299円（P5倍で実質2,184円）\n使ってる人いたら感想ください\n#楽天購入品\n▶ROOMはプロフから",
+  "tweet_id": "",
+  "threads_id": "18103461719055423",
+  "room_done": false,
+  "image": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/bedandmat/cabinet/cover/cover/kcu07_all.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/bedandmat/cabinet/cover/cover/kcu07_all.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/bedandmat/cabinet/cover/cover/u07_review_raku.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/bedandmat/cabinet/cover/cover/u07_concept.jpg?_ex=600x600"
+  ],
+  "shop_name": "ベッド＆マットレス楽天市場店",
+  "review_count": 1608,
+  "review_average": 4.68,
+  "genre_id": "215647",
+  "instagram_id": "18053494208812096",
+  "instagram_story_id": "18136083928663318"
+ },
+ {
+  "date": "2026-11-01T12:01:41",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "寒さ対策・冬支度（開催中） × 20代男性（ガジェット・一人暮らし）",
+  "persona": "20s_man",
+  "item_code": "t-interior:10000344",
+  "item_name": "[11月1日枚数限定]30%OFFクーポン 【新作】 NERUS ふわとろ毛布 MELLOW 【正規品】 毛布 ブランケット もこもこ毛布 おしゃれ かわいい ",
+  "price": 3480,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00u9h5o.72d3y88d.g00u9h5o.72d3z15e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ft-interior%2Fhtc54%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ft-interior%2Fi%2F10000344%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 3.0,
+  "text": "一人暮らしの部屋に1つあると便利。レビュー92件で★4.54。30%OFF。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/t-interior/cabinet/item/usual/htc54_bp-.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/t-interior/cabinet/item/usual/htc54_bp-.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/t-interior/cabinet/item/images2/htc54_1--.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/t-interior/cabinet/item/images2/htc54_2-.jpg?_ex=600x600"
+  ],
+  "shop_name": "Branchpoint ブランチポイント",
+  "review_count": 92,
+  "review_average": 4.54,
+  "genre_id": "205611"
+ },
+ {
+  "date": "2026-11-01T12:01:41",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "寒さ対策・冬支度（開催中） × 20代男性（ガジェット・一人暮らし）",
+  "persona": "20s_man",
+  "item_code": "tenmafitsworld:10006054",
+  "item_name": "フィッツケース 53サイズ ホワイトクリア fits 衣装ケース 収納ケース 収納ボックス クローゼット 収納 引出し 奥行53 幅30 39 44 高さ 18",
+  "price": 3980,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qg64o.72d3y1f9.g00qg64o.72d3z082/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftenmafitsworld%2Ffitscase_53%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftenmafitsworld%2Fi%2F10006054%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 3.0,
+  "text": "コスパで選ぶならこれ。レビュー639件で★4.78。3,980円。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/tenmafitsworld/cabinet/fitscase/53/fitscase_53r.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/tenmafitsworld/cabinet/fitscase/53/fitscase_53r.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/tenmafitsworld/cabinet/review/bnr_review_sq.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/tenmafitsworld/cabinet/fitscase/53/lp/img_01.jpg?_ex=600x600"
+  ],
+  "shop_name": "テンマフィッツワールド楽天市場店",
+  "review_count": 639,
+  "review_average": 4.78,
+  "genre_id": "553694"
+ },
+ {
+  "date": "2026-11-01T12:01:41",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "寒さ対策・冬支度（開催中） × 20代男性（ガジェット・一人暮らし）",
+  "persona": "20s_man",
+  "item_code": "atcontact:10000021",
+  "item_name": "コンタクトレンズ 2week ｜ 2WEEKメニコン プレミオ 2週間使い捨て 6枚入 2箱セット コンタクト 2ウィーク 送料無料",
+  "price": 3599,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rvxeo.72d3y743.g00rvxeo.72d3z8e4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fatcontact%2F2w-premio-2p%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fatcontact%2Fi%2F10000021%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "一人暮らしの部屋に1つあると便利。＞遠視用(プラス度数)の商品ページはコチラから。レビュー3,331件で★4.54。送料無料。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/atcontact/cabinet/thumb2021/event/2w-premio-2p_pt10.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/atcontact/cabinet/thumb2021/event/2w-premio-2p_pt10.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/atcontact/cabinet/henkin_detail_flick.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/atcontact/cabinet/event/thanks_cpn_flk_100.jpg?_ex=600x600"
+  ],
+  "shop_name": "アットコンタクト",
+  "review_count": 3331,
+  "review_average": 4.54,
+  "genre_id": "563999"
  }
 ]
