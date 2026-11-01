@@ -18342,5 +18342,16 @@
   "review_count": 3331,
   "review_average": 4.54,
   "genre_id": "563999"
+ },
+ {
+  "date": "2026-11-01T18:31:10",
+  "slot": "evening",
+  "kind": "engage",
+  "engage_key": "poll1",
+  "theme": "反応投稿（poll）",
+  "persona": "all",
+  "text": "【1日（ワンダフルデー）】\n楽天で買うとき、いちばん気にするのは？",
+  "tweet_id": "",
+  "threads_id": "18132505132765909"
  }
 ]
