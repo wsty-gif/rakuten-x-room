@@ -55,3 +55,29 @@
 
 - **30代男性のリピート候補**: バッファロー HD-NRLDシリーズ 2TB / SDカードリーダー Lightning / メリタ コーヒーメーカー ツイスト 2杯 / パンとごはん1週間 21食 の非常食セット
 
+## 20:16 寒さ対策・冬支度（開催中） × 20代女性（自分磨き・プチプラ・映え）
+
+1. **ダイニングチェア 回転 肘付 レザー ファブリック 1脚 2脚セット 4脚セット おしゃれ 疲れにくい 回転椅子 回転式**
+   - 価格: 9,980円 / ★4.7（928件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00u9h5o.72d3y88d.g00u9h5o.72d3z15e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ft-interior%2Fabf14%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ft-interior%2Fi%2F10000149%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 自分へのご褒美にちょうどいい価格。レビュー928件で★4.7。9,980円。
+
+2. **2個 中身が見える 折りたたみ 収納ボックス 43L 50L 60L 布製 ベッド下 おしゃれ 布 衣類収納袋 衣装ケー**
+   - 価格: 4,400円 / ★4.72（306件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00uddbo.72d3y81d.g00uddbo.72d3zf68/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fignis%2F2104sd297%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fignis%2Fi%2F10000337%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: プチプラで探してる人に。クローゼットに入るサイズなので、かさばる布団もすっきり収納できる便利なケースです。クローゼットの棚に入るコンパクトサイズ。レビュー306件で★4.72。送料無料。
+
+3. **《シルクのようなふわとろな手触りの遮像レース》 1枚入り オーダー レースカーテン1cm単位 遮像 遮熱 保温 UVカッ**
+   - 価格: 3,000円 / ★4.76（1,040件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00uksso.72d3y576.g00uksso.72d3zb80/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhappiness-curtain%2Fvl7148ivspgbe%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhappiness-curtain%2Fi%2F10000080%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: SNSで見かけて気になってたやつ。レビュー1,040件で★4.76。3,000円。
+
+4. **ゴミ箱 分別 45リットル スリム ペダル 日本製 おしゃれ キッチン ふた付き 縦型 大容量 ワゴン 45l ダストボ**
+   - 価格: 2,498円 / ★4.57（1,307件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00s3qro.72d3y701.g00s3qro.72d3z80c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fasvel%2F6324set2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fasvel%2Fi%2F10004226%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 自分へのご褒美にちょうどいい価格。レビュー1,307件で★4.57。2,498円。
+
+### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
+
+- **20代女性のリピート候補**: ダイニングチェア 回転 肘付 レザー / 2個 中身が見える 折りたたみ 収納ボックス / 1枚入り オーダー レースカーテン1cm単位 / ゴミ箱 分別 45リットル スリム ペダル
+
