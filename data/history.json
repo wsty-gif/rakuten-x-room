@@ -18478,7 +18478,8 @@
   "shop_name": "GOKUMINブランド直営店",
   "review_count": 4033,
   "review_average": 4.54,
-  "genre_id": "508183"
+  "genre_id": "508183",
+  "instagram_story_id": "17980900160918136"
  },
  {
   "date": "2026-11-02T07:01:40",
@@ -18551,5 +18552,103 @@
   "review_count": 8814,
   "review_average": 4.33,
   "genre_id": "303656"
+ },
+ {
+  "date": "2026-11-02T12:02:15",
+  "slot": "noon",
+  "theme": "今売れている物 × 30代男性（健康・効率化・家電）",
+  "persona": "30s_man",
+  "item_code": "etre:10026945",
+  "item_name": "バッファロー HD-NRLDシリーズ 2TB/4TB/6TB/8TB [USB3.1/USB3.0/USB2.0 外付けハードディスク 外付けHDD PC用＆T",
+  "price": 18980,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pztmo.72d3y860.g00pztmo.72d3zf0e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fetre%2F1180435%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fetre%2Fi%2F10026945%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 2.0,
+  "text": "#PR レビュー見て即決したやつ\nバッファロー HD-NRLDシリーズ 2TB\n★4.51・レビュー1,556件\n18,980円（P5倍で実質18,031円）\n#楽天購入品\n▶ROOMはプロフから",
+  "tweet_id": "",
+  "threads_id": "18268161184307336",
+  "room_done": false,
+  "image": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/etre/cabinet/itemimage35/imgrc0101269078.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/etre/cabinet/itemimage35/imgrc0101269078.jpg?_ex=600x600"
+  ],
+  "shop_name": "イートレンド楽天市場店",
+  "review_count": 1556,
+  "review_average": 4.51,
+  "genre_id": "211492",
+  "instagram_id": "18012406838774262",
+  "instagram_story_id": "18059310605591201"
+ },
+ {
+  "date": "2026-11-02T12:02:15",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "今売れている物 × 30代男性（健康・効率化・家電）",
+  "persona": "30s_man",
+  "item_code": "starfocus:10003086",
+  "item_name": "【専用アプリ版】【10/30~11/11 50%OFF】SDカードリーダー Lightning iPhoneは無料アプリ「i-flash-device」で使用 ",
+  "price": 3580,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00ruz0o.72d3ycf9.g00ruz0o.72d3z98e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstarfocus%2Fs-ifd%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fstarfocus%2Fi%2F10003086%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 2.0,
+  "text": "毎日使うものほど良い物を、の代表。最大2TB対応で大量の思い出を1枚のSDカードに投入可能。レビュー3,477件で★4.44。50%OFF。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/starfocus/cabinet/03546660/bouhan/ifd-/ifd.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/starfocus/cabinet/03546660/bouhan/ifd-/ifd.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/starfocus/cabinet/03546660/bouhan/ifd-/ifd_1.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/starfocus/cabinet/03546660/bouhan/ifd-/ifd_2.jpg?_ex=600x600"
+  ],
+  "shop_name": "スマホメモリ専門スターフォーカス",
+  "review_count": 3477,
+  "review_average": 4.44,
+  "genre_id": "408453"
+ },
+ {
+  "date": "2026-11-02T12:02:15",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "今売れている物 × 30代男性（健康・効率化・家電）",
+  "persona": "30s_man",
+  "item_code": "coconial:10003230",
+  "item_name": "【送料無料】メリタ コーヒーメーカー ツイスト 2杯 〜 5杯 SCG583B SCG585R 正規品 ココニアル おしゃれ 一人用 保温 フィルター式 1人用",
+  "price": 4800,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rdq6o.72d3yc0e.g00rdq6o.72d3zd58/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcoconial%2Fsteps%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcoconial%2Fi%2F10003230%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 2.0,
+  "text": "時短になる系。シンプルイズベスト。メリタこだわりの1つ穴抽出。レビュー510件で★4.45。送料無料。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/coconial/cabinet/commodity/m/scg58_a1211.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/coconial/cabinet/commodity/m/scg58_a1211.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/coconial/cabinet/commodity/m/scg58_a01.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/coconial/cabinet/commodity/s/scg58_revi01.jpg?_ex=600x600"
+  ],
+  "shop_name": "家電・便利雑貨のCOCONIAL",
+  "review_count": 510,
+  "review_average": 4.45,
+  "genre_id": "208440"
+ },
+ {
+  "date": "2026-11-02T12:02:15",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "今売れている物 × 30代男性（健康・効率化・家電）",
+  "persona": "30s_man",
+  "item_code": "at-rescue:10002460",
+  "item_name": "【7日分】パンとごはん1週間 21食[朝・昼・晩]の非常食セット【HN】【5年保存】防災食 保存食 アルファ米 おにぎり パンの缶詰 尾西 サタケ ひだまりパン",
+  "price": 8316,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00ry6eo.72d3yd24.g00ry6eo.72d3z5c4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-rescue%2F10002657%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-rescue%2Fi%2F10002460%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 3.0,
+  "text": "時短になる系。楽天ランキング1位、レビュー320件で★4.53。11/69:59まで、ポイント2倍で実質8,149円、送料無料。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/at-rescue/cabinet/cat002/hozonset/k_21set2_on_hn.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/at-rescue/cabinet/cat002/hozonset/k_21set2_on_hn.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/at-rescue/cabinet/cat002/hozonset/21-1n2_on_hn.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/at-rescue/cabinet/cat002/hozonset/21set_2_pb.jpg?_ex=600x600"
+  ],
+  "shop_name": "防災グッズ アットレスキュー",
+  "review_count": 320,
+  "review_average": 4.53,
+  "genre_id": "565671"
  }
 ]

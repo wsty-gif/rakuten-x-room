@@ -29,3 +29,29 @@
 
 - **子育て世帯のママ・パパのリピート候補**: マットレス 高反発 三つ折りマットレス / 2026年間受賞 掛け布団 シングル 布団 / 毛布 シングル セミダブル ダブル 冬用 / 10 31 10:00～ 裏起毛 カットソー
 
+## 12:02 今売れている物 × 30代男性（健康・効率化・家電）
+
+1. **バッファロー HD-NRLDシリーズ 2TB/4TB/6TB/8TB [USB3.1/USB3.0/USB2.0 外付け**
+   - 価格: 18,980円 / ★4.51（1,556件） / 料率 2.0% / P5倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00pztmo.72d3y860.g00pztmo.72d3zf0e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fetre%2F1180435%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fetre%2Fi%2F10026945%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 時短になる系。どちらでも使える本商品はテレビでもパソコンでも使える両対応。レビュー1,556件で★4.51。ポイント5倍で実質18,031円。
+
+2. **【専用アプリ版】【10/30~11/11 50%OFF】SDカードリーダー Lightning iPhoneは無料アプリ**
+   - 価格: 3,580円 / ★4.44（3,477件） / 料率 2.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00ruz0o.72d3ycf9.g00ruz0o.72d3z98e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstarfocus%2Fs-ifd%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fstarfocus%2Fi%2F10003086%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 毎日使うものほど良い物を、の代表。最大2TB対応で大量の思い出を1枚のSDカードに投入可能。レビュー3,477件で★4.44。50%OFF。
+
+3. **【送料無料】メリタ コーヒーメーカー ツイスト 2杯 〜 5杯 SCG583B SCG585R 正規品 ココニアル おし**
+   - 価格: 4,800円 / ★4.45（510件） / 料率 2.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00rdq6o.72d3yc0e.g00rdq6o.72d3zd58/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcoconial%2Fsteps%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcoconial%2Fi%2F10003230%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 時短になる系。シンプルイズベスト。メリタこだわりの1つ穴抽出。レビュー510件で★4.45。送料無料。
+
+4. **【7日分】パンとごはん1週間 21食[朝・昼・晩]の非常食セット【HN】【5年保存】防災食 保存食 アルファ米 おにぎり**
+   - 価格: 8,316円 / ★4.53（320件） / 料率 3.0% / P2倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00ry6eo.72d3yd24.g00ry6eo.72d3z5c4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-rescue%2F10002657%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-rescue%2Fi%2F10002460%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 時短になる系。楽天ランキング1位、レビュー320件で★4.53。11/69:59まで、ポイント2倍で実質8,149円、送料無料。
+
+### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
+
+- **30代男性のリピート候補**: バッファロー HD-NRLDシリーズ 2TB / SDカードリーダー Lightning / メリタ コーヒーメーカー ツイスト 2杯 / パンとごはん1週間 21食 の非常食セット
+

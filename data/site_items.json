@@ -7112,6 +7112,13 @@
     "theme": "お買い物マラソン（10月予想）（開催中） × 20代男性（ガジェット・一人暮らし）",
     "persona": "20s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-11-02",
+    "slot": "noon",
+    "theme": "今売れている物 × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "baseline"
    }
   ],
   "item_code": "etre:10026945",
@@ -7121,18 +7128,20 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00pztmo.72d3y860.g00pztmo.72d3zf0e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fetre%2F1180435%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/etre/cabinet/itemimage35/imgrc0101269078.jpg?_ex=600x600",
   "shop_name": "イートレンド楽天市場店",
-  "review_count": 1553,
+  "review_count": 1556,
   "review_average": 4.51,
   "affiliate_rate": 2.0,
   "point_rate": 5,
   "catchcopy": "",
   "genre_id": "211492",
-  "score": 13.97,
-  "last_seen": "2026-10-09T07:10:01",
+  "score": 15.37,
+  "last_seen": "2026-11-02T12:02:15",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/etre/cabinet/itemimage35/imgrc0101269078.jpg?_ex=600x600"
   ],
-  "caption": "●型番：〔2TB〕HD-NRLD2.0U3-BA 〔4TB〕HD-NRLD4.0U3-BA 〔6TB〕HD-NRLD6.0U3-BA 〔8TB〕HD-NRLD8.0U3-BA ●対応機種：USB3.1(Gen1)/USB3.0/2.0 Type-A端子を搭載するWindowsパソコンおよびMac ※USBポート非搭載パソコンは、バッファロー製増設用インターフェースをご利用ください。 ●対応OS：Windows 10 / 8.1 / 7 ●容量:2TB/4TB/6TB/8TB ●USB部：インターフェース USB3.1(Gen1)/USB3.0/2.0、端子数 1、端子形状 USB 3.0 MicroB ●ファイルシステム：NTFS ●転送速度（規格値）：USB3.1(Gen1)/USB3.0 最大5.0Gbps、USB2.0 最大480Mbps ●電源：AC100V 50/60Hz ●最大消費電力：18Wエネルギー消費効率（2011年4月改定）:B区分 0.0012 ●外形寸法（幅×高さ×奥行）：114×33×171mm　　※本体のみ(突起部除く) ●重量：約900g ●動作環境：〔温度〕5～35℃、〔湿度〕20～80％(結露なきこと) ●保証期間：1年 ●グリーン購入法（2011年4月改定）：対応 ●RoHS基準値準拠:対応 ●主な付属品：USB3.1(Gen1)ケーブル(1m)、ACアダプター、取扱説明書（保証書）テレビやレコーダー等の幅広い機種に対応 テレビ＆パソコン。どちらでも使える 本商品はテレビでもパソコンでも使える両対応。幅広い対応機種で快適なデジタルライフをサポートします。テレビに繋ぐ場合は録画用のHDDとして、またパソコンに繋げる場合は便利なユーティリティで快適に利用できます。 ※テレビで録画用に初期化した場合、パソコンで使用することは出来ません。また、パ"
+  "caption": "●型番：〔2TB〕HD-NRLD2.0U3-BA 〔4TB〕HD-NRLD4.0U3-BA 〔6TB〕HD-NRLD6.0U3-BA 〔8TB〕HD-NRLD8.0U3-BA ●対応機種：USB3.1(Gen1)/USB3.0/2.0 Type-A端子を搭載するWindowsパソコンおよびMac ※USBポート非搭載パソコンは、バッファロー製増設用インターフェースをご利用ください。 ●対応OS：Windows 10 / 8.1 / 7 ●容量:2TB/4TB/6TB/8TB ●USB部：インターフェース USB3.1(Gen1)/USB3.0/2.0、端子数 1、端子形状 USB 3.0 MicroB ●ファイルシステム：NTFS ●転送速度（規格値）：USB3.1(Gen1)/USB3.0 最大5.0Gbps、USB2.0 最大480Mbps ●電源：AC100V 50/60Hz ●最大消費電力：18Wエネルギー消費効率（2011年4月改定）:B区分 0.0012 ●外形寸法（幅×高さ×奥行）：114×33×171mm　　※本体のみ(突起部除く) ●重量：約900g ●動作環境：〔温度〕5～35℃、〔湿度〕20～80％(結露なきこと) ●保証期間：1年 ●グリーン購入法（2011年4月改定）：対応 ●RoHS基準値準拠:対応 ●主な付属品：USB3.1(Gen1)ケーブル(1m)、ACアダプター、取扱説明書（保証書）テレビやレコーダー等の幅広い機種に対応 テレビ＆パソコン。どちらでも使える 本商品はテレビでもパソコンでも使える両対応。幅広い対応機種で快適なデジタルライフをサポートします。テレビに繋ぐ場合は録画用のHDDとして、またパソコンに繋げる場合は便利なユーティリティで快適に利用できます。 ※テレビで録画用に初期化した場合、パソコンで使用することは出来ません。また、パ",
+  "posted_text": "#PR レビュー見て即決したやつ\nバッファロー HD-NRLDシリーズ 2TB\n★4.51・レビュー1,556件\n18,980円（P5倍で実質18,031円）\n#楽天購入品\n▶ROOMはプロフから",
+  "posted_at": "2026-11-02T12:02:15"
  },
  "furumiyashop:10000146": {
   "first_seen": "2026-09-11T16:29:37",
@@ -12852,6 +12861,13 @@
     "theme": "寒さ対策・冬支度（開催中） × 20代男性（ガジェット・一人暮らし）",
     "persona": "20s_man",
     "event_type": "season"
+   },
+   {
+    "date": "2026-11-02",
+    "slot": "noon",
+    "theme": "今売れている物 × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "baseline"
    }
   ],
   "item_code": "pigeon-shop:10002137",
@@ -12861,14 +12877,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00tgivo.72d3yf43.g00tgivo.72d3z1cb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpigeon-shop%2F1032018%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/pigeon-shop/cabinet/thumb/thumb4/1032018_270717.jpg?_ex=600x600",
   "shop_name": "ピジョン公式楽天市場店",
-  "review_count": 2492,
+  "review_count": 2497,
   "review_average": 4.7,
   "affiliate_rate": 4.0,
   "point_rate": 1,
   "catchcopy": "【レビュー記入キャンペーン実施中】",
   "genre_id": "207739",
-  "score": 14.85,
-  "last_seen": "2026-11-01T12:01:41",
+  "score": 15.05,
+  "last_seen": "2026-11-02T12:02:15",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/pigeon-shop/cabinet/thumb/thumb4/1032018_270717.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/pigeon-shop/cabinet/rankstamp/283143_sp.jpg?_ex=600x600",
@@ -15111,6 +15127,13 @@
     "theme": "寒さ対策・冬支度（開催中） × 子育て世帯のママ・パパ",
     "persona": "mama",
     "event_type": "season"
+   },
+   {
+    "date": "2026-11-02",
+    "slot": "noon",
+    "theme": "今売れている物 × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "baseline"
    }
   ],
   "item_code": "vesync:10000001",
@@ -15127,7 +15150,7 @@
   "catchcopy": "大容量 電気フライヤー エアフライヤー　エアーフライヤー コンパクト ギフト　家庭用　低カロリー　健康　ダイエット　お手入れ簡単　時短料理　操作簡単",
   "genre_id": "564331",
   "score": 14.54,
-  "last_seen": "2026-11-02T07:01:40",
+  "last_seen": "2026-11-02T12:02:15",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/vesync/cabinet/09152443/09653695/imgrc0092744404.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/vesync/cabinet/09152443/09653695/11241926/imgrc0089893356.jpg?_ex=600x600",
@@ -30108,6 +30131,13 @@
     "theme": "今売れている物 × 30代男性（健康・効率化・家電）",
     "persona": "30s_man",
     "event_type": "baseline"
+   },
+   {
+    "date": "2026-11-02",
+    "slot": "noon",
+    "theme": "今売れている物 × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "baseline"
    }
   ],
   "item_code": "norton:10000038",
@@ -30117,14 +30147,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00u4dgo.72d3y669.g00u4dgo.72d3zafb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnorton%2F21435759%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/norton/cabinet/08738151/13252211/n360_deluxe_3-3.jpg?_ex=600x600",
   "shop_name": "ノートン公式ストア 楽天市場店",
-  "review_count": 463,
-  "review_average": 4.35,
+  "review_count": 474,
+  "review_average": 4.34,
   "affiliate_rate": 2.0,
-  "point_rate": 1,
+  "point_rate": 10,
   "catchcopy": "権威ある第三者評価機関のテスト*で保護力最優秀賞を6回受賞。",
   "genre_id": "408565",
-  "score": 12.6,
-  "last_seen": "2026-10-22T07:01:43",
+  "score": 14.74,
+  "last_seen": "2026-11-02T12:02:15",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/norton/cabinet/08738151/13252211/n360_deluxe_3-3.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_gold/norton/tj/r-img/rr/5/21435759.jpg?_ex=600x600",
@@ -35815,6 +35845,13 @@
     "theme": "今売れている物 × 30代女性（暮らし・時短・コスパ）",
     "persona": "30s_woman",
     "event_type": "baseline"
+   },
+   {
+    "date": "2026-11-02",
+    "slot": "noon",
+    "theme": "今売れている物 × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "baseline"
    }
   ],
   "item_code": "at-rescue:10002460",
@@ -35830,8 +35867,8 @@
   "point_rate": 2,
   "catchcopy": "＼P2倍実施中｜11/6 9:59まで／ 楽天ランキングでも1位獲得【送料無料】 防災 備蓄米 長期保存 美味しい",
   "genre_id": "565671",
-  "score": 15.75,
-  "last_seen": "2026-11-01T07:01:31",
+  "score": 14.25,
+  "last_seen": "2026-11-02T12:02:15",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/at-rescue/cabinet/cat002/hozonset/k_21set2_on_hn.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/at-rescue/cabinet/cat002/hozonset/21-1n2_on_hn.jpg?_ex=600x600",
@@ -35989,6 +36026,13 @@
     "theme": "寒さ対策・冬支度（開催中） × 子育て世帯のママ・パパ",
     "persona": "mama",
     "event_type": "season"
+   },
+   {
+    "date": "2026-11-02",
+    "slot": "noon",
+    "theme": "今売れている物 × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "baseline"
    }
   ],
   "item_code": "gbt-dko:10042846",
@@ -36004,8 +36048,8 @@
   "point_rate": 2,
   "catchcopy": "9年連続ランキング1位受賞 Instagram投稿3万件超 #アルザスツリークリスマスツリー180cmおしゃれ クリスマス ツリーヌードツリー",
   "genre_id": "213797",
-  "score": 14.27,
-  "last_seen": "2026-11-02T07:01:40",
+  "score": 14.57,
+  "last_seen": "2026-11-02T12:02:15",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/gbt-dko/cabinet/thum/25494_180.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/gbt-dko/cabinet/xmas/x25494_f1.jpg?_ex=600x600",
@@ -36957,6 +37001,13 @@
     "theme": "寒さ対策・冬支度（開催中） × 子育て世帯のママ・パパ",
     "persona": "mama",
     "event_type": "season"
+   },
+   {
+    "date": "2026-11-02",
+    "slot": "noon",
+    "theme": "今売れている物 × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "baseline"
    }
   ],
   "item_code": "gbt-dko:10042845",
@@ -36972,8 +37023,8 @@
   "point_rate": 2,
   "catchcopy": "9年連続ランキング1位受賞 Instagram投稿3万件超 #アルザスツリー クリスマスツリー150cmおしゃれ クリスマス ツリー ヌードツリー",
   "genre_id": "213797",
-  "score": 14.41,
-  "last_seen": "2026-11-02T07:01:40",
+  "score": 14.51,
+  "last_seen": "2026-11-02T12:02:15",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/gbt-dko/cabinet/thum/25494_150.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/gbt-dko/cabinet/xmas/x25494_f1.jpg?_ex=600x600",
@@ -37013,5 +37064,170 @@
    "https://thumbnail.image.rakuten.co.jp/@0_mall/tenmafitsworld/cabinet/fitschest_flat/lp/lp01_r.jpg?_ex=600x600"
   ],
   "caption": "カラー ホワイト／グレー 最大外寸（約） 幅55×奥行41×高さ85cm（4段） 幅55×奥行41×高さ105cm（5段） 幅55×奥行41×高さ144cm（7段） 幅65×奥行41×高さ85cm（4段） 幅65×奥行41×高さ105cm（5段） 幅65×奥行41×高さ144cm（7段） 幅75×奥行41×高さ85cm（4段） 幅75×奥行41×高さ105cm（5段） 幅75×奥行41×高さ144cm（7段） ※高さは、付属品の専用脚を取り付けた場合の外寸です。 有効内寸（約） 幅55サイズ：幅47.2×奥行34.5×高さ15cm 幅65サイズ：幅57×奥行34.5×高さ15cm 幅75サイズ：幅67×奥行34.5×高さ15cm 収納の目安（約） 幅55サイズ：各引出しにトレーナーなら8枚、セーターなら5枚 幅65サイズ：各引出しにトレーナーなら10枚、セーターなら6枚 幅75サイズ：各引出しにトレーナーなら12枚、セーターなら7枚 引出し耐荷重（約） 幅55サイズ：4kg 幅65サイズ：5kg 幅75サイズ：6kg 天板耐荷重（約） 幅55サイズ：20kg 幅65サイズ：10kg 幅75サイズ：10kg 材質 【引出し・外枠・ロック・脚】再生ポリプロピレン(再生材比率10%以上) 【ローラー】ポリプロピレン 【すべり止め】ポリエチレン 【前パネル】スチロール樹脂 【天板】プリント化粧木質繊維板 付属品 すべり止め付き専用脚（4個） 別売キャスター 対応フィッツ 差込式キャスター CSP-40 &raquo; 別売 専用脚 対応フィッツチェスト お掃除ラク脚 FCH-ECL140 &raquo; 備考 4段・5段：完成品 7段：お客様組立品（工具不要） 組立説明書 ※7段のみ組立式（工具不要）となります。※一度組み立てたら分解はできない製品となります。予めご了承ください。 "
+ },
+ "starfocus:10003086": {
+  "first_seen": "2026-11-02T12:02:15",
+  "themes": [
+   {
+    "date": "2026-11-02",
+    "slot": "noon",
+    "theme": "今売れている物 × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "baseline"
+   }
+  ],
+  "item_code": "starfocus:10003086",
+  "name": "【専用アプリ版】【10/30~11/11 50%OFF】SDカードリーダー Lightning iPhoneは無料アプリ「i-flash-device」で使用 iPhone 15以降(Type-C)・iPad・Androidはファイルアプリ 2TB 写真 動画 保存 バックアップ USBメモリ スターフォーカス 正規品 楽天年間1位",
+  "price": 3580,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00ruz0o.72d3ycf9.g00ruz0o.72d3z98e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstarfocus%2Fs-ifd%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fstarfocus%2Fi%2F10003086%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00ruz0o.72d3ycf9.g00ruz0o.72d3z98e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstarfocus%2Fs-ifd%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/starfocus/cabinet/03546660/bouhan/ifd-/ifd.jpg?_ex=600x600",
+  "shop_name": "スマホメモリ専門スターフォーカス",
+  "review_count": 3477,
+  "review_average": 4.44,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "【専用アプリ版】LightningのiPhone・iPadは無料アプリ「i-flash-device」で使います。アプリを入れずに使いたい方は「4in1（アプリ不要）」のページへ",
+  "genre_id": "408453",
+  "score": 15.28,
+  "last_seen": "2026-11-02T12:02:15",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/starfocus/cabinet/03546660/bouhan/ifd-/ifd.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/starfocus/cabinet/03546660/bouhan/ifd-/ifd_1.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/starfocus/cabinet/03546660/bouhan/ifd-/ifd_2.jpg?_ex=600x600"
+  ],
+  "caption": "【専用アプリ版】LightningのiPhone・iPadは無料アプリ「i-flash-device」で使います。iPhone 15以降(Type-C)・iPad(Type-C)・Androidはファイルアプリで使えます。アプリを入れずに使いたい方は4in1（アプリ不要版）へ 商品名 STAR FOCUS(スターフォーカス) 4in1 スマホ SD カードリーダー【専用アプリ版】 商品説明 スマホ SDカードリーダーにより スマホの容量不足、ストレージ対策に SDカードリーダーがあればSDカードや PCにデータ移動がラクラク 大切な子供の写真や動画のバックアップが可能 PC、タブレット、スマホのデータ転送 相互交換、作業の効率化へ ほぼ全てのデバイスに対応 スマホからスマホへのデータ転送 クラウドやメール、ライン等の 煩わしい通信制限の心配なし WiFi、スマホの通信も必要なし Googleフォト 有料化に伴う代替えに デジカメやビデオカメラ、アクションカメラ等で 撮った写真や動画を、スマホやタブレットで視聴できます。 最大2TB対応で大量の思い出を1枚のSDカードに投入可能！ 商品仕様 ■カラー:全3色 ・ホワイト ・ブラック ・ゴールド ■接続端子(転送速度) ・Lightning 読込速度 27mb/s 書込速度 12mb/s ・USB2.0 読込速度 23.5mb/s 書込速度 18mb/s ・Type-C 読込速度 33.2m/s 書込速度 29.6m/s ・Micro USB 読込速度 32.5mb/s 書込速度 24.3m/s ■対応OS iOS 13~27/iPadOS 8~27/Android OS 5~17 macOS 10.13~14/Chrome OS/Windows11/10/8.1/8/Linux *iPhone/iPad(lightning)/"
+ },
+ "norton:10000036": {
+  "first_seen": "2026-11-02T12:02:15",
+  "themes": [
+   {
+    "date": "2026-11-02",
+    "slot": "noon",
+    "theme": "今売れている物 × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "baseline"
+   }
+  ],
+  "item_code": "norton:10000036",
+  "name": "ノートン norton ノートン360 プレミアム 5台 3年版 ダウンロード iOS windows mac セキュリティソフト 送料無料 セキュリティ ウイルス対策 pc iphone ipad アイフォン タブレット ネットワーク",
+  "price": 16980,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00u4dgo.72d3y669.g00u4dgo.72d3zafb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnorton%2F21435750%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnorton%2Fi%2F10000036%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00u4dgo.72d3y669.g00u4dgo.72d3zafb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnorton%2F21435750%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/norton/cabinet/08738151/13252211/n360_premium_5-3.jpg?_ex=600x600",
+  "shop_name": "ノートン公式ストア 楽天市場店",
+  "review_count": 498,
+  "review_average": 4.41,
+  "affiliate_rate": 2.0,
+  "point_rate": 20,
+  "catchcopy": "権威ある第三者評価機関のテスト*で保護力最優秀賞を6回受賞。",
+  "genre_id": "408565",
+  "score": 15.28,
+  "last_seen": "2026-11-02T12:02:15",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/norton/cabinet/08738151/13252211/n360_premium_5-3.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/norton/cabinet/08738151/08795039/09677905/21435750_2506.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/norton/cabinet/08738151/08815088/cont_norton_f01.jpg?_ex=600x600"
+  ],
+  "caption": "*AV-TEST Award 2021 *AV-TEST 「BEST PROTECTION AWARD」 2015, 2016, 2017, 2018, 2019,2020,2021 AV-TESTは、年間を通じて高度な攻撃に対するエンドポイントセキュリティソリューションの防御性能を評価する第三者評価機関です。 商品名 ノートン 360 プレミアム 5台 3年版 関連キーワード セキュリティソフト ノートン 360 ノートン360 norton ダウンロード ノートン360 プレミアム ウイルス対策ソフト ノートン公式 パソコン PC スマホ iPhone 公式ストア ノートン公式 対応OS mac / Windows / iOS / Android デバイス PC / スマートフォン / タブレット デバイスの数 5台まで 機能 ・ ウイルス マルウェア スパイウェア ランサムウェア から保護 ・ ノートン セキュア VPN ・ ファイアウォール　（Mac, Windows） ・ ダークウェブモニタリング ・ パスワード管理 ・ Web カメラへの不正アクセスをブロック （Windowsのみ） ・ クラウドバックアップ （Windowsのみ） ・ 保護者機能 ・ スクールタイム 　 注意事項 ノートン以外のセキュリティソフト（ ウイルスバスター / ESET / カスペルスキー / McAfee / ZERO など）をご利用の場合、アンインストール後ノートンをインストールしてください。 関連ワード: パソコン マック 安心 法人 ケータイ 複数 保証 ダウンロード版 imac アンチウイルス ノートパソコン windows7 windows10 microsoft macbook apple watch商品ラインナップ"
+ },
+ "pcshop-best:10000139": {
+  "first_seen": "2026-11-02T12:02:15",
+  "themes": [
+   {
+    "date": "2026-11-02",
+    "slot": "noon",
+    "theme": "今売れている物 × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "baseline"
+   }
+  ],
+  "item_code": "pcshop-best:10000139",
+  "name": "【最短即日発送】＼3年保証＆ランキング1位／ バッファロー ルーター wifi6 IPv6 無線LAN WiFi 無線LANルーター 無線親機 無線ルーター 楽天ひかり ソフトバンク光 二階建て BUFFALO Wi-Fi WiFiルーター WSR-3000AX4L WSR3600BE4P-BK wifi6対応 Wi-Fi7",
+  "price": 7480,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00uh37o.72d3y7a0.g00uh37o.72d3z1aa/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpcshop-best%2F002-0001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpcshop-best%2Fi%2F10000139%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00uh37o.72d3y7a0.g00uh37o.72d3z1aa/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpcshop-best%2F002-0001%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/pcshop-best/cabinet/compass1731286828.jpg?_ex=600x600",
+  "shop_name": "and pc（PC SHOP BEST）楽天市場店",
+  "review_count": 1874,
+  "review_average": 4.66,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "大人気のBUFFALO製 無線LANルーター が入荷しました！中継器セットもご検討ください。",
+  "genre_id": "506591",
+  "score": 14.94,
+  "last_seen": "2026-11-02T12:02:15",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/pcshop-best/cabinet/compass1731286828.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/pcshop-best/cabinet/img-up_1_1486/2632_k1_766497_83.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/pcshop-best/cabinet/13348033/13348039/mvp1.jpg?_ex=600x600"
+  ],
+  "caption": "商品情報よくある質問Q1.スマートフォンが無ければ設定できないのでしょうか？A：スマホがない場合は、通常通りパソコンでセットアップが可能ですので、ご安心ください。Q2.他社の ルーター（中継器対応ルーター） にも中継可能ですか？A：はい、対応可能です。 アイ・オー・データ NEC TP-Link エレコム などの 中継器対応ルーター にも接続可能です。Q3.有線で接続したいのですが、LANケーブルを買わないといけませんか？A：0.5mもしくは1mのものが1本付属しています。それよりも長いケーブルが必要な場合は別途でご購入が必要です。主な仕様【WCR-1166DHPL】【WCR-1166DHPL】無線ルーター推奨環境：2階建て(戸建て) 3LDK(マンション)接続台数：12台/4人周波数：2.4/5GHz無線LAN速度(5GHz)：866 Mbps無線LAN速度(2.4GHz) ：300 Mbps無線LAN規格：IEEE802.11a/b/g/n/acアンテナ数： 5GHz/2.4GHz：2本(内蔵)ストリーム数：5GHz：2×2/2.4GHz：2×2セキュリティ規格 ：WPA WPA2 WEP有線LAN(HUB)速度：10/100/1000Mbps有線LAN(HUB)ポート数：3ポートその他対応機能：WPS AOSS IPv6 ビームフォーミング MU-MIMO 4K通信対応 VPNパススルー 引越し機能サイズ・重量：幅x高さx奥行 55x159x130 mm　重量 256 g・付属品：LANケーブル（50cm）、ACアダプター、取扱説明書、保証書・保証期間：1年間+2年間(レビュー投稿のお客様限定)・簡易パッケージ版主な仕様【WSR-3000AX4L】【WSR-3000AX4L】無線ルーター推奨環境：3階建て(戸建て) 4LDK(マンション)接続台数：18台/6人周波数："
+ },
+ "yamada-denki:10154411": {
+  "first_seen": "2026-11-02T12:02:15",
+  "themes": [
+   {
+    "date": "2026-11-02",
+    "slot": "noon",
+    "theme": "今売れている物 × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "baseline"
+   }
+  ],
+  "item_code": "yamada-denki:10154411",
+  "name": "インク ブラザー 純正 カートリッジ LC3111-4PK インクカートリッジ お徳用4色パック インク",
+  "price": 4341,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00t3jpo.72d3y05f.g00t3jpo.72d3zc0f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamada-denki%2F4197479014%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyamada-denki%2Fi%2F10154411%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00t3jpo.72d3y05f.g00t3jpo.72d3zc0f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamada-denki%2F4197479014%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/yamada-denki/cabinet/a07000065/4197479014.jpg?_ex=600x600",
+  "shop_name": "ヤマダ電機　楽天市場店",
+  "review_count": 646,
+  "review_average": 4.59,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "",
+  "genre_id": "502185",
+  "score": 14.64,
+  "last_seen": "2026-11-02T12:02:15",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/yamada-denki/cabinet/a07000065/4197479014.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/yamada-denki/cabinet/a07000065/4197479014_1.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/yamada-denki/cabinet/a07000065/4197479014_2.jpg?_ex=600x600"
+  ],
+  "caption": "ブラザー LC3111-4PK 【純正】 インクカートリッジ（お徳用4色パック）●DCP-J973N、DCP-J572N、MFC-J893N対応のインクカートリッジです。●お徳用4色パックです。【仕様】対応機種：DCP-J982N、DCP-J582N、MFC-J903N、DCP-J978N-B、DCP-J978N-W、DCP-J577N、MFC-J998DN、MFC-J998DWN、MFC-J738DN、MFC-J738DWN、MFC-J898N、DCP-J973N-B、DCP-J973N-W、DCP-J572N、MFC-J893N"
+ },
+ "officetrust:10000250": {
+  "first_seen": "2026-11-02T12:02:15",
+  "themes": [
+   {
+    "date": "2026-11-02",
+    "slot": "noon",
+    "theme": "今売れている物 × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "baseline"
+   }
+  ],
+  "item_code": "officetrust:10000250",
+  "name": "『最安挑戦』コピー用紙 A3 2500枚(500枚×5冊)ペーパーワン(PAPER ONE) 高白色 プロデジ高品質 保存箱仕様 PEFC認証『送料無料（一部地域除く）』",
+  "price": 4386,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00u1i9o.72d3y514.g00u1i9o.72d3z249/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fofficetrust%2F014003%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fofficetrust%2Fi%2F10000250%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00u1i9o.72d3y514.g00u1i9o.72d3z249/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fofficetrust%2F014003%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/officetrust/cabinet/paper/paper01/014003_1.jpg?_ex=600x600",
+  "shop_name": "オフィストラスト",
+  "review_count": 250,
+  "review_average": 4.52,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "『お届け先の氏名に必ず法人名を記載ください』高速及び大量コピー用に設計された高品質コピー用紙。",
+  "genre_id": "303145",
+  "score": 14.21,
+  "last_seen": "2026-11-02T12:02:15",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/officetrust/cabinet/paper/paper01/014003_1.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/officetrust/cabinet/paper/paper01/014003_2.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/officetrust/cabinet/paper/paper01/014003_3.jpg?_ex=600x600"
+  ],
+  "caption": "【必ずお読みください】お届け先の氏名に必ず法人名・屋号を記載ください。なお個人のお客様でもお届け先の氏名が法人名であればご注文いただけます。誤ってお届け先の氏名を個人名でご注文いただいた場合は、キャンセルさせていただきますのでご了承ください。ペーパーワンは、世界的にも認知度の高いPEFC認証材を原料として生産されています。PEFC(Programme for the Endorsement of Forest Certification)とは、国際的な森林認証制度です。メーカーであるAPRIL社は、持続可能な森林管理プログラム(Ver-2.0)の環境方針に基づいて森林管理を行っています。ペーパーワンが選ばれる理由「ProDigi技術の特徴」●鮮やかな色ProDigi(TM) HD 印刷技術では色の鮮やかさを約34％向上させ、シャープなインク使用をするため、他の用紙に比べてインクが定着しやすくなります。(メーカー調べ)●はっきりとした線ProDigi(TM) HD 印刷技術では、インクのにじみを最大23％削減し、文字や画像をシャープに、線の凹凸を少なく再現できます。その結果、黒色は約17％濃く映えます。(メーカー調べ)●インクの速乾性ProDigi(TM) HD 印刷技術により、インクの速乾性に優れているため、印刷後のインクの乾きが早く、印刷文字などのインクの滲みを回避できます。●インクの消費を節約ProDigi(TM) HD 印刷技術では、インクの使用量を約18％削減します。(メーカー調べ)■商品詳細メーカー名：APRILシリーズ名：ペーパーワンサイズ：A3坪量：67g/平方メートル白色度：92％紙厚：約90μm※PCEF認証、ProDigi技術を採用購入単位：1箱(500枚×5冊)配送種別：在庫品※リニューアルに伴いパッケージや商品名等が予告なく変更される場合がございます"
  }
 }
