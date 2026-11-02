@@ -18650,5 +18650,16 @@
   "review_count": 320,
   "review_average": 4.53,
   "genre_id": "565671"
+ },
+ {
+  "date": "2026-11-02T18:31:21",
+  "slot": "evening",
+  "kind": "engage",
+  "engage_key": "q2",
+  "theme": "反応投稿（question）",
+  "persona": "all",
+  "text": "レビューが多いのに評価が低い商品、買ったことありますか？\n件数と評価、どっちを信じるか迷います。",
+  "tweet_id": "",
+  "threads_id": "18173259274418030"
  }
 ]
