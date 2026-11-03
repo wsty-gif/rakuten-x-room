@@ -55,3 +55,29 @@
 
 - **30代女性のリピート候補**: COSORI ノンフライヤー / デニム パンツ 裏起毛 デニムパンツ / トップス ニット レディース コクーン / 正規販売店anti bac2k
 
+## 20:16 今売れている物 × 子育て世帯のママ・パパ
+
+1. **電動鼻吸い器　シュポット | 0ヵ月頃〜 風邪予防・体温計・衛生商品 ピジョン 鼻水 吸引 吸引器 電動 鼻水吸引器 鼻**
+   - 価格: 13,585円 / ★4.7（2,502件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00tgivo.72d3yf43.g00tgivo.72d3z1cb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpigeon-shop%2F1032018%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpigeon-shop%2Fi%2F10002137%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: ママ友の間でよく話題になるやつ。電動鼻吸い器シュポット。レビュー2,502件で★4.7。13,585円。
+
+2. **【店内全品25%,2点30%OFF】マグネット ブロック マインクラフト 磁石 100-1000pcsセット ランダム発**
+   - 価格: 5,980円 / ★4.53（1,172件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00uhuno.72d3yf90.g00uhuno.72d3z52b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fraraya%2Fomomagr100%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fraraya%2Fi%2F10000160%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: ママ友の間でよく話題になるやつ。レビュー1,172件で★4.53。30%OFF、送料無料。
+
+3. **【クーポン使用で1984円～ 11/3 23:59迄】 新商品 スリーパー フランネル 冬 冬用 赤ちゃん 新生児 ベビ**
+   - 価格: 2,480円 / ★4.67（189件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00s0p3o.72d3yc97.g00s0p3o.72d3z6fe/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-risecreation%2Fr0676%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-risecreation%2Fi%2F10005312%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 子どもがいる家で助かった系。そんなお困り事は、着せるだけでパパッと解決。まるで、着るお布団。レビュー189件で★4.67。11/323:59まで。
+
+4. **はむにぎり マスコット ハムスター 47903 りぶはあと ハムにぎり ぬいぐるみ 癒し かわいい ハムの力 虚無 ふわ**
+   - 価格: 1,760円 / ★4.76（114件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00q9nio.72d3ydaf.g00q9nio.72d3zd3a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fplusmart%2Fv4523251046208%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fplusmart%2Fi%2F10216258%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: まとめ買いしておくと楽になるもの。可愛らしい見た目で心が和むぬいどりや持ち運びにもちょうどよいサイズ。ハムの力でリラックス。レビュー114件で★4.76。1,760円。
+
+### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
+
+- **子育て世帯のママ・パパのリピート候補**: 電動鼻吸い器 シュポット 0ヵ月頃〜 / マグネット ブロック マインクラフト 磁石 / 新商品 スリーパー フランネル 冬用 / はむにぎり マスコット ハムスター
+
