@@ -29,3 +29,29 @@
 
 - **40代男性のリピート候補**: ワンデーアキュビューオアシス 90枚パック / グロング ソイプロテイン 3kg / カセットコンロ 防災 卓上 アイリスオーヤマ / 国産車用 ホイール取付用黒ナット1台分
 
+## 12:02 寒さ対策・冬支度（開催中） × 30代女性（暮らし・時短・コスパ）
+
+1. **【1,700円クーポン】COSORI ノンフライヤー CAF-L501 4.7L大容量 エアフライヤー 電気フライヤー **
+   - 価格: 13,980円 / ★4.68（1,260件） / 料率 2.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00u8ebo.72d3ycfc.g00u8ebo.72d3z9b4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvesync%2Fkaapafcsnjp0062%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fvesync%2Fi%2F10000001%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 忙しい平日の味方。手作り料理に欠かせない相棒です。お気に入りの食事をヘルシーに、あっという間に。レビュー1,260件で★4.68。送料無料。
+
+2. **60%OFF【11/1 10時~24H限定：7,490円→2,990円！】 デニム パンツ 裏起毛 デニムパンツ レディ**
+   - 価格: 2,990円 / ★4.36（111件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00q8qjo.72d3y742.g00q8qjo.72d3zf92/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdarkangel%2Fncpa-23796%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdarkangel%2Fi%2F10029345%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 買い置きしておくと安心なもの。毎日穿きたくなる裏起毛ワイドデニム。内側に暖かな裏地を施しながら、見た目はすっきりとした本格デニムの印象に仕上げました。レビュー111件で★4.36。60%OFF。
+
+3. **【11/3 23:59まで まとめ買いクーポン3点以上で 10％OFF 】 【 クラシカルエルフ classical e**
+   - 価格: 2,798円 / ★4.2（193件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qat4o.72d3y4ac.g00qat4o.72d3z933/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fclassical%2Fce1020152%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fclassical%2Fi%2F10016830%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 毎日の家事がちょっとラクになるやつ。シンプルながらニュアンス感のあるミックスカラーがお洒落なニットです。シンプルなデザインながらディティールに凝った抜け感のあるアイテム。レビュー193件で★4.2。10%OFF（11/323:59まで）。
+
+4. **送料無料 正規販売店anti bac2k マジックボール ソリューション ver.2 125ml [ABS125]mag**
+   - 価格: 4,400円 / ★4.64（2,189件） / 料率 2.0% / P10倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00pzd8o.72d3yd94.g00pzd8o.72d3z72a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fplywood%2F07140014%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fplywood%2Fi%2F10002234%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 毎日の家事がちょっとラクになるやつ。変更箇所・パッケージのデザインが変わりました。レビュー2,189件で★4.64。ポイント10倍で実質3,960円、送料無料。
+
+### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
+
+- **30代女性のリピート候補**: COSORI ノンフライヤー / デニム パンツ 裏起毛 デニムパンツ / トップス ニット レディース コクーン / 正規販売店anti bac2k
+
