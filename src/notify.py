@@ -4,13 +4,15 @@ ntfy は無料・アカウント不要の通知サービス。スマホに ntfy 
 .env の NTFY_TOPIC と同じ名前のトピックを購読しておくだけで届く。
 トピック名は他人に推測されない長いランダム文字列にすること（例: rakumitsu-room-7f3k9q2x）。
 
-通知の使い方: 「コメントをコピー」→「ROOMに投稿」（ROOMの投稿画面が直接開く）→ コメント欄に貼って投稿。
-「コメントをコピー」ボタンは ntfy の Android アプリとWeb版で表示される（iPhone では本文を長押ししてコピー）。
+通知の使い方:
+  iPhone  … 通知をタップ → 開いたページの「コメントをコピーしてROOMを開く」→ コメント欄に貼って投稿。
+  Android … 上と同じでもよいし、通知の「コメントをコピー」→「ROOMに投稿」でも同じ。
+（ページはブログの room/go.html。商品とコメントは URL の # 以降に入れるのでサーバーには送られない）
 """
 from __future__ import annotations
 
 from typing import Any
-from urllib.parse import quote
+from urllib.parse import quote, urlencode
 
 import requests
 
@@ -46,6 +48,15 @@ def room_post_url(item_code: str) -> str:
     return f"https://room.rakuten.co.jp/mix?itemcode={quote(item_code, safe=':')}&scid=we_room_upc60"
 
 
+def room_go_url(p: Product, comment: str) -> str:
+    """コピーと ROOM を1タップで開くページ（build_site.py の room/go.html）。SITE_URL が無ければ ROOM を直接開く。"""
+    base = _env("SITE_URL")
+    if not base:
+        return room_post_url(p.item_code)
+    frag = urlencode({"i": p.item_code, "n": p.name[:60], "p": p.price, "c": comment}, quote_via=quote)
+    return f"{base.rstrip('/')}/room/go.html#{frag}"
+
+
 def room_actions(p: Product, comment: str) -> list[dict[str, Any]]:
     return [{"action": "copy", "label": "コメントをコピー", "value": comment},
             {"action": "view", "label": "ROOMに投稿", "url": room_post_url(p.item_code)},
@@ -69,7 +80,7 @@ def notify_room_picks(picks: list[tuple[Product, str]], theme_title: str, presal
     for i, (p, comment) in enumerate(picks, 1):
         title = f"{i}/{len(picks)}｜{p.name[:28]}｜{p.price:,}円"
         try:
-            ok = send(topic, title, comment, room_post_url(p.item_code), server,
+            ok = send(topic, title, comment, room_go_url(p, comment), server,
                       actions=room_actions(p, comment)) and ok
         except Exception as e:
             print(f"  [warn] ntfy 送信失敗: {e}")
