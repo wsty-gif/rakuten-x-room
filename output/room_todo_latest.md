@@ -1,83 +1,36 @@
-# 楽天ROOMに追加する商品（2026-11-04）
+# 楽天ROOMに追加する商品（2026-11-05）
 
 手順: 商品URLを開く → 共有 → 「ROOMに投稿」 → コメントを貼って投稿。
 夜の分は20時までに入れておくと、購買ピーク（21〜24時）に乗ります。
 
-## 07:19 寒さ対策・冬支度（開催中） × 20代女性（自分磨き・プチプラ・映え）
+## 07:01 今売れている物 × 30代女性（暮らし・時短・コスパ）
 
-1. **【公式】カセットコンロ 防災 アウトドア アイリスオーヤマテーブルコンロ カセットコンロ 薄型 おしゃれ スタイリッシュ**
-   - 価格: 3,150円 / ★4.53（246件） / 料率 2.0% / P10倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00t3zto.72d3y505.g00t3zto.72d3z9db/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Firisplaza-r%2F7250572%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Firisplaza-r%2Fi%2F10149259%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: SNSで見かけて気になってたやつ。3.5kWの高火力を実現、火力を調整して美味しく調理できます。高さを抑えたスリムタイプの、食卓で映えるスタイリッシュなカセットコンロです。レビュー246件で★4.53。ポイント10倍で実質2,835円。
+1. **【12月11日9:59まで期間限定価格！さらに20%オフクーポン対象】アラビア ルノ オーバルプレート 25cm フロス**
+   - 価格: 7,400円 / ★4.93（695件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00pkggo.72d3y2dc.g00pkggo.72d3zd61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fscope%2Fara23a11111%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fscope%2Fi%2F10052257%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。毎日の家事がちょっとラクになるやつ。小さくて形も色も様々なリンゴはなかなか可愛らしい。貰ったリンゴを食べてみると素朴で美味しい。レビュー695件で★4.93。20%OFF。
 
-2. **「11/4 20時〜最大99%OFFクーポン！」 【1380円〜】 ラグ 洗える 1畳 1.5畳 2畳 3畳 4畳 洗え**
-   - 価格: 1,380円 / ★4.42（28,889件） / 料率 3.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00rgpgo.72d3ya75.g00rgpgo.72d3z09b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-kaei-trading%2Fmicrorg-l%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-kaei-trading%2Fi%2F10000243%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 自分へのご褒美にちょうどいい価格。洗えるシリーズ&nbsp;。レビュー28,889件で★4.42。99%OFF。
+2. **【30％OFFクーポン★11/11 23:59迄】＼米研ぎボウル／水切りざる ぼうる ザルボウル ザル ボウル 水切りボ**
+   - 価格: 2,680円 / ★4.64（382件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00s0p3o.72d3yc97.g00s0p3o.72d3z6fe/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-risecreation%2Fr0870%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-risecreation%2Fi%2F10005445%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。忙しい平日の味方。ボウル×ザル一体型お米を研いだ後、そのまま排水できる便利な設計。Lサイズは底面近くの排水穴により、置いておくだけで水切りしやすい設計です。レビュー382件で★4.64。30%OFF（11/1123:59まで）。
 
-3. **日本製 ホットカーペット 1畳 1.5畳 2畳 3畳 ラグセット ホットカーペットカバー 安心 安全 コンパクト 節電 **
-   - 価格: 5,980円 / ★4.64（44件） / 料率 2.0% / P15倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00pui9o.72d3y639.g00pui9o.72d3zc91/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-kurashi%2Ft0m71%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-kurashi%2Fi%2F10052445%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 自分へのご褒美にちょうどいい価格。レビュー44件で★4.64。ポイント15倍で実質5,083円、送料無料。
+3. **［ シンク下 伸縮鍋蓋＆フライパンスタンド タワー ］山崎実業 tower フライパンスタンド シンク下収納 フライパン**
+   - 価格: 3,960円 / ★4.6（6,113件） / 料率 3.0% / P5倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qb0lo.72d3y6eb.g00qb0lo.72d3z421/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Froomy%2Fymz18feb15h43%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Froomy%2Fi%2F10015733%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。買い置きしておくと安心なもの。台所になじむシンプルなデザインとスタイリッシュなモノトーンカラーも魅力です。立てて整理しながら収納することで、出し入れしやすく機能的。レビュー6,113件で★4.6。ポイント5倍で実質3,762円。
 
-4. **【予約：11月上旬納期】ドットワンピース ワンピース レディース ロング 送料無料・再入荷 (500)メール便可**
-   - 価格: 5,940円 / ★4.33（72件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qllxo.72d3y0f6.g00qllxo.72d3z222/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fantiqua-a%2Fpk-00895%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fantiqua-a%2Fi%2F10024182%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: プチプラで探してる人に。サイドポケット付きで便利。可愛いだけじゃない。レビュー72件で★4.33。送料無料。
+4. **【12月11日9:59まで期間限定価格！さらに20%オフクーポン対象】アラビア ルノ ボウル 17cm フロストベリー **
+   - 価格: 6,900円 / ★4.97（229件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00pkggo.72d3y2dc.g00pkggo.72d3zd61/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fscope%2Fara24a11111%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fscope%2Fi%2F10052259%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。買い置きしておくと安心なもの。キッチンでも使いつつ、そのままテーブルへ。フィンランドと言えばサーモンスープ、思ってた以上に家庭料理のド定番なのでしょう。レビュー229件で★4.97。20%OFF。
 
-### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
-
-- **20代女性のリピート候補**: カセットコンロ 防災 アウトドア / 「11 ラグ 洗える 1畳 1.5畳 2畳 / 日本製 ホットカーペット 1畳 1.5畳 / ドットワンピース ワンピース レディース
-
-## 12:01 今売れている物 × 20代男性（ガジェット・一人暮らし）
-
-1. **【ポイント10倍★11月4日20時～】洗顔フォーム 毛穴 ロゼット洗顔パスタ 海泥スムース 180g×5本 | 洗顔料 **
-   - 価格: 4,535円 / ★4.8（284件） / 料率 4.0% / P10倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00u529o.72d3y8b6.g00u529o.72d3zfe5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frosette-shop%2Fpasta_ks180_5ps%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frosette-shop%2Fi%2F10000018%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 一人暮らしの部屋に1つあると便利。陶器のようなつるつる肌に洗い上げる洗顔フォーム。うるおいのある洗いごごちで、陶器のようなつるつる肌に洗い上げます。レビュー284件で★4.8。ポイント10倍で実質4,081円。
-
-2. **【ポイント10倍★11月4日20時～】洗顔フォーム ニキビ ロゼット洗顔パスタ アクネクリア 180g×5本セット 合計**
-   - 価格: 4,535円 / ★4.82（148件） / 料率 4.0% / P10倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00u529o.72d3y8b6.g00u529o.72d3zfe5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frosette-shop%2Fpasta_ac180_5ps%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frosette-shop%2Fi%2F10000046%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: コスパで選ぶならこれ。清潔ですこやかな肌を保つ洗顔フォーム。泡パックでくすみ4もすっきり濃密泡を肌にのせて1分間の泡パックがおすすめ。レビュー148件で★4.82。ポイント10倍で実質4,081円。
-
-3. **コンタクトレンズ 2week コンタクト 【送料無料】アキュビューオアシス　（近視用） 2week 2箱セット 6枚入 **
-   - 価格: 5,180円 / ★4.7（1,473件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qvpko.72d3yd83.g00qvpko.72d3z3a5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpricon%2Fc-2woa-2p-mail%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpricon%2Fi%2F10000646%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 一人暮らしの部屋に1つあると便利。＞遠視用(プラス度数)の商品ページはコチラから。レビュー1,473件で★4.7。送料無料。
-
-4. **＼88%OFF！クーポンで1,744円~／モバイルバッテリー 22000mAh 大容量 軽量 小型 ケーブル内蔵 防災ラ**
-   - 価格: 2,180円 / ★4.64（1,483件） / 料率 2.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00um25o.72d3yf43.g00um25o.72d3zd62/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdasimon%2Fennice-t3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdasimon%2Fi%2F10000020%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: コスパで選ぶならこれ。4台まで同時充電可能。レビュー1,483件で★4.64。88%OFF。
+5. **＼楽天1位受賞／【10%OFFクーポン＆P10倍で実質2,414円】オイルスプレー 片手でシュッ 円形ミスト 霧吹き 料**
+   - 価格: 2,980円 / ★4.58（354件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00utmfo.72d3y6c1.g00utmfo.72d3zb9d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshinra-life%2F202606002r1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshinra-life%2Fi%2F10000120%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。忙しい平日の味方。入れすぎを抑えながら、料理に合わせて必要な分だけ調整できます。必要な分だけオイルを加えたい時に、毎日の調理を便利にサポートします。楽天ランキング1位、レビュー354件で★4.58。10%OFF。
 
 ### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
 
-- **20代男性のリピート候補**: 洗顔フォーム 毛穴 ロゼット洗顔パスタ / 洗顔フォーム ニキビ ロゼット洗顔パスタ / コンタクトレンズ 2week コンタクト / モバイルバッテリー 22000mAh 大容量
-
-## 20:32 寒さ対策・冬支度（開催中） × 30代男性（健康・効率化・家電）
-
-1. **【最大67%オフクーポン】★即納★ 5面開閉 木製天板 天板 折りたたみ 収納ボックス 収納 折りたたみ キャスター付き**
-   - 価格: 4,380円 / ★4.52（1,336件） / 料率 3.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00t9ywo.72d3y7d6.g00t9ywo.72d3z8f0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffreelife%2Fzk-snb02-all%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffreelife%2Fi%2F10000243%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: スペック比較して残ったやつ。レビュー1,336件で★4.52。67%OFF。
-
-2. **【11/4(水)9:59まで★2,390円⇒1,670円！送料無料】【2点10％OFFクーポン対象！】選べる配色リブニッ**
-   - 価格: 1,670円 / ★4.31（131件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00q501o.72d3ycb0.g00q501o.72d3zff7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpierrot%2Fa2201-013372%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpierrot%2Fi%2F10015627%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 時短になる系。一枚着としてもインナーとしても重宝する、シンプルで着回し力抜群のリブニットです。素材・機能・さらりとした軽やかな肌触りで、ロングシーズン快適に着用できる素材感です。レビュー131件で★4.31。10%OFF（11/49:59まで）、送料無料。
-
-3. **[15%冬対策クーポン／10日まで] 毛布 ブランケット シングル もこもこ ふわふわ とろとろ 2枚合わせ 静電気防止**
-   - 価格: 1,380円 / ★4.7（211件） / 料率 3.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qqpqo.72d3y802.g00qqpqo.72d3z677/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdondon%2Fcnh01-s%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdondon%2Fi%2F10008556%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: スペック比較して残ったやつ。レビュー211件で★4.7。10日まで。
-
-4. **【送料無料】トレーナー 綿100％ 大人用 スウェット 長袖 レディース メンズ リンクコーデ 親子 お揃い ペア クル**
-   - 価格: 1,990円 / ★4.43（849件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00tny5o.72d3yaed.g00tny5o.72d3z339/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fciaociaofriendstore%2Fcc-038a%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fciaociaofriendstore%2Fi%2F10000296%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 時短になる系。シンプルトレーナー大人SMLLL。レビュー849件で★4.43。送料無料。
-
-### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
-
-- **30代男性のリピート候補**: 即納 5面開閉 木製天板 天板 折りたたみ / 9:59まで 選べる配色リブニット ニット / 毛布 ブランケット シングル もこもこ / トレーナー 大人用 スウェット 長袖
+- **30代女性のリピート候補**: アラビア ルノ オーバルプレート 25cm / 米研ぎボウル 水切りざる ぼうる ザルボウル / 山崎実業 tower フライパンスタンド / アラビア ルノ ボウル 17cm / 楽天1位受賞 オイルスプレー 片手でシュッ
 
