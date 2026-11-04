@@ -38,6 +38,7 @@ jobs:
       INSTAGRAM_USER_ID: ${{ secrets.INSTAGRAM_USER_ID }}
       INSTAGRAM_SLOTS: ${{ vars.INSTAGRAM_SLOTS || 'noon,night' }}
       SITE_URL: https://${{ github.repository_owner }}.github.io/
+      ROOM_SHORTCUT: ${{ vars.ROOM_SHORTCUT }}   # iPhone のショートカット名（設定すると通知タップでコピー＋ROOM）
       ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
       NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
       TOKEN_KEY: ${{ secrets.TOKEN_KEY }}
