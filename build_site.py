@@ -461,53 +461,6 @@ SLOT_LEADS = {
 
 
 # ---------------------------------------------------------------- 生成
-ROOM_GO_HTML = """<!doctype html>
-<html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="robots" content="noindex,nofollow"><title>ROOMに投稿</title>
-<style>
-body{margin:0;background:#111;color:#eee;font-family:-apple-system,"Hiragino Sans","Noto Sans JP",sans-serif}
-.wrap{max-width:540px;margin:0 auto;padding:18px 16px 60px}
-h1{font-size:16px;line-height:1.5;margin:0 0 4px}
-.price{color:#aaa;font-size:14px;margin-bottom:16px}
-.go{display:block;text-align:center;background:#bf0000;color:#fff;text-decoration:none;font-size:18px;font-weight:bold;border-radius:12px;padding:18px 10px}
-.done{color:#7ee787;font-size:14px;min-height:20px;margin:10px 2px}
-textarea{width:100%;box-sizing:border-box;height:160px;background:#222;color:#eee;border:1px solid #444;border-radius:8px;padding:10px;font-size:15px}
-.how{color:#aaa;font-size:13px;line-height:1.7;margin-top:10px}
-</style></head><body><div class="wrap">
-<h1 id="name"></h1><div class="price" id="price"></div>
-<a class="go" id="go" href="#">コメントをコピーしてROOMを開く</a>
-<div class="done" id="done"></div>
-<textarea id="c" readonly></textarea>
-<div class="how">ROOMの投稿画面が開いたら、コメント欄を長押し →「ペースト」→ 投稿。</div>
-</div><script>
-var q = new URLSearchParams(location.hash.slice(1));
-var c = q.get("c") || "", item = q.get("i") || "";
-document.getElementById("name").textContent = q.get("n") || "";
-document.getElementById("price").textContent = q.get("p") ? Number(q.get("p")).toLocaleString() + "円" : "";
-document.getElementById("c").value = c;
-var go = document.getElementById("go");
-go.href = "https://room.rakuten.co.jp/mix?itemcode=" + encodeURIComponent(item).replace("%3A", ":") + "&scid=we_room_upc60";
-// iPhone の Safari でも確実にコピーできるよう、タップの処理の中で同期的にコピーしてからリンク先へ進む
-go.addEventListener("click", function () {
-  var t = document.getElementById("c");
-  t.removeAttribute("readonly");
-  t.focus(); t.setSelectionRange(0, c.length + 1);
-  var ok = false;
-  try { ok = document.execCommand("copy"); } catch (e) {}
-  t.setAttribute("readonly", ""); t.blur();
-  if (!ok && navigator.clipboard) navigator.clipboard.writeText(c);
-  document.getElementById("done").textContent = "コメントをコピーしました";
-});
-</script></body></html>
-"""
-
-
-def write_room_go() -> None:
-    """ROOM 通知から開くページ。商品とコメントは URL の # 以降に入れる（サーバーには送られない）。"""
-    (DOCS / "room").mkdir(exist_ok=True)
-    (DOCS / "room" / "go.html").write_text(ROOM_GO_HTML, encoding="utf-8")
-
-
 def build() -> None:
     store = load_site_items()
     if not store:
@@ -720,7 +673,6 @@ def build() -> None:
     # ---- 404 ----
     body = '<section><h2 class="sec">ページが見つかりません</h2><p>URLが変わったか、削除された可能性があります。<a href="/">トップページ</a>か<a href="/posts/index.html">記事一覧</a>からお探しください。</p></section>'
     (DOCS / "404.html").write_text(layout(f"ページが見つかりません｜{BRAND}", body, "/", "", None, sidebar("/", popular, persona_counts)), encoding="utf-8")
-    write_room_go()
 
     # ---- RSS / sitemap / robots ----
     if base:
