@@ -55,3 +55,29 @@
 
 - **20代男性のリピート候補**: 洗顔フォーム 毛穴 ロゼット洗顔パスタ / 洗顔フォーム ニキビ ロゼット洗顔パスタ / コンタクトレンズ 2week コンタクト / モバイルバッテリー 22000mAh 大容量
 
+## 20:32 寒さ対策・冬支度（開催中） × 30代男性（健康・効率化・家電）
+
+1. **【最大67%オフクーポン】★即納★ 5面開閉 木製天板 天板 折りたたみ 収納ボックス 収納 折りたたみ キャスター付き**
+   - 価格: 4,380円 / ★4.52（1,336件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00t9ywo.72d3y7d6.g00t9ywo.72d3z8f0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffreelife%2Fzk-snb02-all%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffreelife%2Fi%2F10000243%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: スペック比較して残ったやつ。レビュー1,336件で★4.52。67%OFF。
+
+2. **【11/4(水)9:59まで★2,390円⇒1,670円！送料無料】【2点10％OFFクーポン対象！】選べる配色リブニッ**
+   - 価格: 1,670円 / ★4.31（131件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00q501o.72d3ycb0.g00q501o.72d3zff7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpierrot%2Fa2201-013372%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpierrot%2Fi%2F10015627%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 時短になる系。一枚着としてもインナーとしても重宝する、シンプルで着回し力抜群のリブニットです。素材・機能・さらりとした軽やかな肌触りで、ロングシーズン快適に着用できる素材感です。レビュー131件で★4.31。10%OFF（11/49:59まで）、送料無料。
+
+3. **[15%冬対策クーポン／10日まで] 毛布 ブランケット シングル もこもこ ふわふわ とろとろ 2枚合わせ 静電気防止**
+   - 価格: 1,380円 / ★4.7（211件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qqpqo.72d3y802.g00qqpqo.72d3z677/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdondon%2Fcnh01-s%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdondon%2Fi%2F10008556%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: スペック比較して残ったやつ。レビュー211件で★4.7。10日まで。
+
+4. **【送料無料】トレーナー 綿100％ 大人用 スウェット 長袖 レディース メンズ リンクコーデ 親子 お揃い ペア クル**
+   - 価格: 1,990円 / ★4.43（849件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00tny5o.72d3yaed.g00tny5o.72d3z339/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fciaociaofriendstore%2Fcc-038a%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fciaociaofriendstore%2Fi%2F10000296%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 時短になる系。シンプルトレーナー大人SMLLL。レビュー849件で★4.43。送料無料。
+
+### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
+
+- **30代男性のリピート候補**: 即納 5面開閉 木製天板 天板 折りたたみ / 9:59まで 選べる配色リブニット ニット / 毛布 ブランケット シングル もこもこ / トレーナー 大人用 スウェット 長袖
+
