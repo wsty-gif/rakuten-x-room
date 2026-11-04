@@ -19268,5 +19268,16 @@
   "review_count": 1483,
   "review_average": 4.64,
   "genre_id": "564277"
+ },
+ {
+  "date": "2026-11-04T19:02:08",
+  "slot": "evening",
+  "kind": "engage",
+  "engage_key": "poll4",
+  "theme": "反応投稿（poll）",
+  "persona": "all",
+  "text": "楽天で「リピート買い」してるものある？",
+  "tweet_id": "",
+  "threads_id": "17912454393304437"
  }
 ]
