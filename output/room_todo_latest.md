@@ -65,3 +65,49 @@
 
 - **20代男性のリピート候補**: ふわとろ毛布 電気毛布 もこもこ 毛布 / 高品質 ふわとろ毛布 ひざ掛け ブランケット / 楽天1位 やみつきの肌触り Toronel / ワイドパンツ デニムパンツ レディース / 「楽天1位」加湿器 ハイブリッド加湿器
 
+## 19:30 今売れている物 × 子育て世帯のママ・パパ（20時セール前）
+
+1. **【神トク限定】最大60%OFFで￥10,800→ ￥4,320！11/04 20:00 ~ 11/11 01:59まで！**
+   - 価格: 5,400円 / ★4.64（3,435件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00t45po.72d3yc1b.g00t45po.72d3ze3e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsurunishi%2Fmanual-905b073w1637l-90xb0784873%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsurunishi%2Fi%2F10000666%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。ママ友の間でよく話題になるやつ。美容室専売品・サロン専売品クオリティ優しい使い心地のアミノ酸系シャンプー。MadeinJAPAN企画、商品作り、販売全てが日本製。レビュー3,435件で★4.64。60%OFF（11/1101:59まで）、送料無料。配送日も一緒に確認を。
+
+2. **【先着77名様10%OFFクーポン】三輪車 5in1 BTM 子供用三輪車 三輪車のりもの セーフティーガードなし/付き**
+   - 価格: 6,980円 / ★4.52（1,323件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00r7ado.72d3yc11.g00r7ado.72d3z277/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fioffice%2Fms295471%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fioffice%2Fi%2F10003987%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。ママ友の間でよく話題になるやつ。レビュー1,323件で★4.52。10%OFF、送料無料。配送日も一緒に確認を。
+
+3. **【LIMITED SALE 最大24%OFF】えらべるフリルデザイン 裏起毛 あったかパンツ 子供服 キッズ 女の子 フ**
+   - 価格: 1,499円 / ★4.63（154件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qnh8o.72d3ya2a.g00qnh8o.72d3z77e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdevirockstore%2F1gbt19171%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdevirockstore%2Fi%2F10032045%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。子どもがいる家で助かった系。しっかり厚みがありながら、軽い着心地が特徴です。肌寒い日でも温かく過ごせます。レビュー154件で★4.63。24%OFF。気になる人はお気に入り登録を。
+
+4. **【期間限定！30%OFFクーポン】【楽天3冠】 スリーパー 冬 新生児 冬用 寝るとき ベビー 赤ちゃん フランネル ガ**
+   - 価格: 2,880円 / ★4.62（82件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00ugvgo.72d3yd94.g00ugvgo.72d3zc31/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsoyott-camp%2Fppm-6sleep%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsoyott-camp%2Fi%2F10000468%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。まとめ買いしておくと楽になるもの。そんな日々の幸せをかたちに。popomiは、皆さんと一緒に子育てをするベビー・キッズ用品の総合ブランドです。レビュー82件で★4.62。30%OFF。気になる人はお気に入り登録を。
+
+5. **【3000円以上で送料無料】はむにぎり　マスコット　おもち　きなこ　みたらし　ごまきち　　ハムスター　 マスコット　ぬい**
+   - 価格: 1,760円 / ★4.95（37件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00rdqpo.72d3ye9f.g00rdqpo.72d3zec2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmakemerry%2F89010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmakemerry%2Fi%2F10007780%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。ママ友の間でよく話題になるやつ。レビュー37件で★4.95。送料無料。在庫が動きやすいので早めに。
+
+6. **【LIMITED SALE 最大9%OFF】洗える ファイバーダウン えらべるフード&デザイン 中綿ジャケット 子供服 **
+   - 価格: 2,998円 / ★4.63（155件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qnh8o.72d3ya2a.g00qnh8o.72d3z77e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdevirockstore%2F1ubl19001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdevirockstore%2Fi%2F10031988%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。子どもがいる家で助かった系。中綿にはふんわりとしたファイバーダウンを使用することで、軽い着心地を叶えました。真冬でもあたたかく着られるように、綿のボリューム感にこだわりました。レビュー155件で★4.63。2,998円。セール中に補充しておくと安心です。
+
+7. **【11/5 クーポンで1280円→1024円 】 レギンス ベビー 7分丈 10分丈 冬 レギンスパンツ キッズ サスペ**
+   - 価格: 1,280円 / ★4.65（2,869件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00syeoo.72d3ybd9.g00syeoo.72d3z4bb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmarine-blue%2Fbabys120%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmarine-blue%2Fi%2F10000625%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。ママ友の間でよく話題になるやつ。レビュー2,869件で★4.65。1,280円。気になる人はお気に入り登録を。
+
+8. **【4日～28H限定！最大10％OFF】【楽天1位★あんしん保証】【グッド・トイ受賞】 KitWell 公式ストア キット**
+   - 価格: 8,799円 / ★4.69（754件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00tqlgo.72d3ya7f.g00tqlgo.72d3zfa7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkitwell-official%2Fmb-p-b-70-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkitwell-official%2Fi%2F10000005%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。ママ友の間でよく話題になるやつ。6色のカラフルな10種類のパーツで自由自在に図形を創造しよう。大迫力の大作が作れます。楽天ランキング1位、レビュー754件で★4.69。10%OFF。在庫が動きやすいので早めに。
+
+### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
+
+- **子育て世帯のママ・パパのリピート候補**: ￥4,320！11 04 20:00 11 / 三輪車 5in1 BTM 子供用三輪車 / えらべるフリルデザイン 裏起毛 / スリーパー 新生児 冬用 寝るとき ベビー / はむにぎり マスコット おもち きなこ / 洗える ファイバーダウン / レギンス ベビー 7分丈 10分丈 / KitWell 公式ストア キットウェル
+
