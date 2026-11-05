@@ -111,3 +111,34 @@
 
 - **子育て世帯のママ・パパのリピート候補**: ￥4,320！11 04 20:00 11 / 三輪車 5in1 BTM 子供用三輪車 / えらべるフリルデザイン 裏起毛 / スリーパー 新生児 冬用 寝るとき ベビー / はむにぎり マスコット おもち きなこ / 洗える ファイバーダウン / レギンス ベビー 7分丈 10分丈 / KitWell 公式ストア キットウェル
 
+## 20:16 寒さ対策・冬支度（開催中） × 20代男性（ガジェット・一人暮らし）
+
+1. **【1時間で10000個突破】N organic Basic 福袋2027 60%OFF 豪華11点セット 数量限定 楽天**
+   - 価格: 11,000円 / ★4.47（2,894件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00t1jgo.72d3y507.g00t1jgo.72d3z8d4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnorganic%2Fnr-luckybag2022%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnorganic%2Fi%2F10000076%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。一人暮らしの部屋に1つあると便利。お祝い事やお返しに。レビュー2,894件で★4.47。60%OFF。
+
+2. **【 11/5限定 7000円以上で使える 20％OFF クーポン 】 《javaジャバ コラボ》トップス スウェット レ**
+   - 価格: 1,999円 / ★4.41（309件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qat4o.72d3y4ac.g00qat4o.72d3z933/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fclassical%2Fjv1260039%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fclassical%2Fi%2F10016177%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。コスパで選ぶならこれ。Enjoythemoment。年齢や性別を超えたユニバーサルデザインも魅力のひとつです。レビュー309件で★4.41。20%OFF。
+
+3. **＼全品P5倍★11/5限定&精油1本増量★8→9本！11/11 01:59まで／【安心の返品保証付き】選べる8→9本セッ**
+   - 価格: 3,190円 / ★4.61（3,812件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qfl9o.72d3y91f.g00qfl9o.72d3zba0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fease-aroma%2F10000358%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fease-aroma%2Fi%2F10000358%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。一人暮らしの部屋に1つあると便利。2.お支払い方法は、代金引換はご利用いただけません。楽天ランキング1位、レビュー3,812件で★4.61。11/1101:59まで、送料無料。
+
+4. **【先着クーポンで47％OFF】歯ブラシ除菌器 壁掛け 充電式 UV-C除菌 スピード乾燥 T字カミソリ 穴あけ不要 カビ**
+   - 価格: 4,980円 / ★4.34（443件） / 料率 2.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00sv25o.72d3y1b1.g00sv25o.72d3z9a1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Feunicedress%2Feuni-169%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Feunicedress%2Fi%2F10001921%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。レビューを見て買う人が多いやつ。便利なType-C端子で充電が可能。ブロー機能でスピード乾燥。レビュー443件で★4.34。47%OFF。
+
+5. **【P15倍 11/11 9:59迄】 電気毛布 電気敷毛布 電気掛敷毛布 敷き 掛け敷き 丸洗い 洗える ダニ対策 温度**
+   - 価格: 2,980円 / ★4.37（4,107件） / 料率 2.0% / P15倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00pui9o.72d3y639.g00pui9o.72d3zc91/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-kurashi%2F1338101%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-kurashi%2Fi%2F10000628%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。レビューを見て買う人が多いやつ。レビュー4,107件で★4.37。11/119:59まで、ポイント15倍で実質2,533円、送料無料。
+
+### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
+
+- **20代男性のリピート候補**: organic Basic 福袋2027 / トップス スウェット レディース 刺繍 / 11 9本！11 11 01:59まで / 歯ブラシ除菌器 壁掛け 充電式 UV-C除菌 / 電気毛布 電気敷毛布 電気掛敷毛布 敷き
+
