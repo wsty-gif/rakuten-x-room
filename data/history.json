@@ -20151,5 +20151,16 @@
   "review_count": 95,
   "review_average": 4.46,
   "genre_id": "500300"
+ },
+ {
+  "date": "2026-11-06T18:31:22",
+  "slot": "evening",
+  "kind": "engage",
+  "engage_key": "q6",
+  "theme": "反応投稿（question）",
+  "persona": "all",
+  "text": "冬に向けて買い替えを考えているもの、ありますか？\n電気毛布か加湿器か、迷っている人が多そうです。",
+  "tweet_id": "",
+  "threads_id": "18109361660190114"
  }
 ]
