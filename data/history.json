@@ -19977,7 +19977,8 @@
   "shop_name": "アエトニクス Rain＆Outdoor",
   "review_count": 1355,
   "review_average": 4.48,
-  "genre_id": "551926"
+  "genre_id": "551926",
+  "instagram_story_id": "18080931926410856"
  },
  {
   "date": "2026-11-06T07:01:30",
@@ -20050,5 +20051,105 @@
   "review_count": 2067,
   "review_average": 4.31,
   "genre_id": "302379"
+ },
+ {
+  "date": "2026-11-06T12:01:41",
+  "slot": "noon",
+  "theme": "寒さ対策・冬支度（開催中） × 40代男性（家族・晩酌・車）",
+  "persona": "40s_man",
+  "item_code": "sesame-kagu:10001423",
+  "item_name": "【11/4 20時〜最大1000円クーポン】 シープボア ウレタンソファー 1人掛け ソファ ソファー コーナー オットマン 1人掛けソファ 1人用ソファ クッ",
+  "price": 8990,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00s6fxo.72d3yfa9.g00s6fxo.72d3z121/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsesame-kagu%2Fz181000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsesame-kagu%2Fi%2F10001423%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 3.0,
+  "text": "#PR まとめ買いは今日が正解\nシープボア ウレタンソファー 1人掛け\n★4.57・レビュー481件\n8,990円\n#楽天購入品\n▶ROOMはプロフから",
+  "tweet_id": "",
+  "threads_id": "18099354008446382",
+  "room_done": false,
+  "image": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/sesame-kagu/cabinet/item/ff_4_item/z181000_mv01_g.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/sesame-kagu/cabinet/item/ff_4_item/z181000_mv01_g.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/sesame-kagu/cabinet/item/ff_2_item/z181000_set_s_cl_1.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/sesame-kagu/cabinet/item/ff_2_item/z181000_set_s_cl_2_a.jpg?_ex=600x600"
+  ],
+  "shop_name": "SESAME（セサミ）家具・インテリア",
+  "review_count": 481,
+  "review_average": 4.57,
+  "genre_id": "566180",
+  "instagram_id": "18131294896883044",
+  "instagram_story_id": "18110001086293763"
+ },
+ {
+  "date": "2026-11-06T12:01:41",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "寒さ対策・冬支度（開催中） × 40代男性（家族・晩酌・車）",
+  "persona": "40s_man",
+  "item_code": "ease-aroma:10000347",
+  "item_name": "＼すぐ使える！国産ひのきキューブ付き&3千円以上で使えるクーポン★11/11 01:59まで／アロマオイル AEAJ認定 40種から選べる6本 各5ml 精油 ",
+  "price": 1180,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qfl9o.72d3y91f.g00qfl9o.72d3zba0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fease-aroma%2F10000347%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fease-aroma%2Fi%2F10000347%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "週末のお楽しみ用に。2.お支払い方法は、代金引換はご利用いただけません。楽天ランキング1位、レビュー25,672件で★4.54。11/1101:59まで、送料無料。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/ease-aroma/cabinet/essentialoil/6hon/6hon_s_hinoki.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/ease-aroma/cabinet/essentialoil/6hon/6hon_s_hinoki.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/ease-aroma/cabinet/essentialoil/6hon/6hon_s_hinoki2_s.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/ease-aroma/cabinet/essentialoil/6hon/oil/261005_6hon_blend.jpg?_ex=600x600"
+  ],
+  "shop_name": "ease-aroma-shop",
+  "review_count": 25672,
+  "review_average": 4.54,
+  "genre_id": "551744"
+ },
+ {
+  "date": "2026-11-06T12:01:41",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "寒さ対策・冬支度（開催中） × 40代男性（家族・晩酌・車）",
+  "persona": "40s_man",
+  "item_code": "asia-kobo:10013007",
+  "item_name": "【5%OFFクーポン】ラグ 高反発 ラグマット 130 190 ソフチェ 低反発 のような 厚さ32mm 床暖房 ホットカーペット 対応 可 滑り止め付き 1畳",
+  "price": 4980,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pr6zo.72d3yf98.g00pr6zo.72d3z4d3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fasia-kobo%2Fk400-200x250%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fasia-kobo%2Fi%2F10013007%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 3.0,
+  "text": "まとめ買い向き。日常のお手入れ方法は1週間に1〜2回、パイル目にそって掃除機をかける程度。レビュー968件で★4.45。4,980円。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/asia-kobo/cabinet/item042/k400-200x250.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/asia-kobo/cabinet/item042/k400-200x250.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/asia-kobo/cabinet/img-up_1_708/1130_k1_238715_170.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/asia-kobo/cabinet/item040/k400_51.jpg?_ex=600x600"
+  ],
+  "shop_name": "アジア工房",
+  "review_count": 968,
+  "review_average": 4.45,
+  "genre_id": "551228"
+ },
+ {
+  "date": "2026-11-06T12:01:41",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "寒さ対策・冬支度（開催中） × 40代男性（家族・晩酌・車）",
+  "persona": "40s_man",
+  "item_code": "kyodoled:10001588",
+  "item_name": "＼マラソン限定5%OFFクーポン！／スポットライト LED一体型 電球色 昼白色 ダクトレール用 50W相当 60W相当 100W相当 ライティングレール 照明",
+  "price": 2590,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00ryo4o.72d3ya6c.g00ryo4o.72d3z77b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkyodoled%2F10001588%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkyodoled%2Fi%2F10001588%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 3.0,
+  "text": "週末のお楽しみ用に。ランプ一体なので、電球を買う必要もなし。お届いたらすぐ利用できます。レビュー95件で★4.46。2,590円。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/kyodoled/cabinet/04588010/imgrc0113069424.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/kyodoled/cabinet/04588010/imgrc0113069424.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/kyodoled/cabinet/biiino/award/10001530011c3f4e.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/kyodoled/cabinet/biiino/award/10001539db57abe2.jpg?_ex=600x600"
+  ],
+  "shop_name": "共同照明LED専門店",
+  "review_count": 95,
+  "review_average": 4.46,
+  "genre_id": "500300"
  }
 ]
