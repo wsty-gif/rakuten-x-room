@@ -1,83 +1,31 @@
-# 楽天ROOMに追加する商品（2026-11-06）
+# 楽天ROOMに追加する商品（2026-11-07）
 
 手順: 商品URLを開く → 共有 → 「ROOMに投稿」 → コメントを貼って投稿。
 夜の分は20時までに入れておくと、購買ピーク（21〜24時）に乗ります。
 
-## 07:01 今売れている物 × 30代男性（健康・効率化・家電）
+## 07:01 寒さ対策・冬支度（開催中） × 30代男性（健康・効率化・家電）
 
-1. **【P20倍 11/11 1:59まで】 【楽天1位獲得】自転車 ハンドルカバー 電動 防水 uv 日除け 夏 オールシー**
-   - 価格: 2,580円 / ★4.48（1,355件） / 料率 4.0% / P20倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00ruw3o.72d3yb28.g00ruw3o.72d3z280/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faetonyx%2Fax-235%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faetonyx%2Fi%2F10000587%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 毎日使うものほど良い物を、の代表。新色ミモザが追加され、用途に合わせて選べる8カラー。おしゃれでシンプルなデザインながら、人気のアイテムです。楽天ランキング1位、レビュー1,355件で★4.48。11/111:59まで、ポイント20倍で実質2,064円。
+1. **＼今だけP最大30倍／ 【楽天1位10冠】 like it ライクイット 収納 収納ケース クローゼットシステム 衣類収**
+   - 価格: 3,520円 / ★4.75（193件） / 料率 3.0% / P2倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00u48zo.72d3y1f6.g00u48zo.72d3z3e0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Foneup-shop%2Flike-it_001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Foneup-shop%2Fi%2F10000219%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: スペック比較して残ったやつ。楽天ランキング1位、レビュー193件で★4.75。ポイント2倍で実質3,449円。
 
-2. **【クーポンで10％OFF♪11/5】キッズヘルメット ヘルメット 子供 自転車 SG規格 超軽量 子どもヘルメット ヘル**
-   - 価格: 2,780円 / ★4.5（3,261件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00tqt0o.72d3ydaf.g00tqt0o.72d3zc5a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmamago%2Fsh002cx%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmamago%2Fi%2F10000206%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 毎日使うものほど良い物を、の代表。レビュー3,261件で★4.5。10%OFF、送料無料。
+2. **＼15％OFFクーポン／【一部予約11/12頃発送】リバーシブルキルティングブルゾン レディース 送料無料/メール便不可**
+   - 価格: 3,990円 / ★4.34（163件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qvdio.72d3y21f.g00qvdio.72d3z24e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcocacoca%2F26-220617004-14%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcocacoca%2Fi%2F10020089%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: スペック比較して残ったやつ。レビュー163件で★4.34。15%OFF、送料無料。
 
-3. **＼5のつく今日は200円OFFクーポン！さらに楽天カードがオトク／＜ネコポス発送 送料無料＞ ニューバランス（new b**
-   - 価格: 1,900円 / ★4.67（640件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00r1zyo.72d3y827.g00r1zyo.72d3ze02/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fando-r%2Fnbj-lam35689-gr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fando-r%2Fi%2F10346371%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 毎日使うものほど良い物を、の代表。高い防滑性を発揮するナノフロントをフルレングスで表面に使用し滑りにくさを向上。アンドウスポーツです。レビュー640件で★4.67。送料無料。
+3. **＼大絶賛★4.6／【先着25%OFFクーポン+P5倍★レビューで2年保証】KeeGo ツイン ハニカムシェード つっぱり**
+   - 価格: 8,600円 / ★4.58（277件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00tzrpo.72d3yea1.g00tzrpo.72d3z68c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkeegoblind%2Fkgrt-zy-zxry-jn%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkeegoblind%2Fi%2F10000204%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: スペック比較して残ったやつ。）が前提となります。レビュー277件で★4.58。25%OFF。
 
-4. **【クーポンで1,830円〜】【選べる4タイプ】シュラフ 寝袋 来客用 オールシーズン 連結可能 最大限界温度-15度 -**
-   - 価格: 2,270円 / ★4.31（2,067件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00rgdwo.72d3y67b.g00rgdwo.72d3z11d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fweiwei%2Fodsbps%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fweiwei%2Fi%2F10019195%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: スペック比較して残ったやつ。使わないときはクルクルッとまとめてコンパクトにバッグに収納。ファスナーで開閉でき、温度調節も簡単。レビュー2,067件で★4.31。送料無料。
-
-### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
-
-- **30代男性のリピート候補**: 自転車 ハンドルカバー 電動 防水 uv / キッズヘルメット ヘルメット 子供 自転車 / ＜ネコポス発送 ニューバランス / シュラフ 寝袋 来客用 オールシーズン
-
-## 12:01 寒さ対策・冬支度（開催中） × 40代男性（家族・晩酌・車）
-
-1. **【11/4 20時〜最大1000円クーポン】 シープボア ウレタンソファー 1人掛け ソファ ソファー コーナー オット**
-   - 価格: 8,990円 / ★4.57（481件） / 料率 3.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00s6fxo.72d3yfa9.g00s6fxo.72d3z121/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsesame-kagu%2Fz181000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsesame-kagu%2Fi%2F10001423%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 家族みんなで使える定番。シンプルなデザインで場所を選ばない、一人掛けソファ。シンプルなデザインと広々とした座面が特徴的な1人掛けソファです。レビュー481件で★4.57。8,990円。
-
-2. **＼すぐ使える！国産ひのきキューブ付き&3千円以上で使えるクーポン★11/11 01:59まで／アロマオイル AEAJ認定**
-   - 価格: 1,180円 / ★4.54（25,672件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qfl9o.72d3y91f.g00qfl9o.72d3zba0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fease-aroma%2F10000347%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fease-aroma%2Fi%2F10000347%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 週末のお楽しみ用に。2.お支払い方法は、代金引換はご利用いただけません。楽天ランキング1位、レビュー25,672件で★4.54。11/1101:59まで、送料無料。
-
-3. **【5%OFFクーポン】ラグ 高反発 ラグマット 130 190 ソフチェ 低反発 のような 厚さ32mm 床暖房 ホット**
-   - 価格: 4,980円 / ★4.45（968件） / 料率 3.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00pr6zo.72d3yf98.g00pr6zo.72d3z4d3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fasia-kobo%2Fk400-200x250%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fasia-kobo%2Fi%2F10013007%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: まとめ買い向き。日常のお手入れ方法は1週間に1〜2回、パイル目にそって掃除機をかける程度。レビュー968件で★4.45。4,980円。
-
-4. **＼マラソン限定5%OFFクーポン！／スポットライト LED一体型 電球色 昼白色 ダクトレール用 50W相当 60W相当**
-   - 価格: 2,590円 / ★4.46（95件） / 料率 3.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00ryo4o.72d3ya6c.g00ryo4o.72d3z77b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkyodoled%2F10001588%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkyodoled%2Fi%2F10001588%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 週末のお楽しみ用に。ランプ一体なので、電球を買う必要もなし。お届いたらすぐ利用できます。レビュー95件で★4.46。2,590円。
+4. **掛け布団カバー シングル セミダブル ダブル 綿100 白 無地 綿 綿100％ 布団カバー 掛けカバー スナップボタン**
+   - 価格: 2,280円 / ★4.43（693件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00tqb5o.72d3yefe.g00tqb5o.72d3zf15/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsupport-3shop%2Fka-coverwh-sl%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsupport-3shop%2Fi%2F10000340%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 毎日使うものほど良い物を、の代表。春夏秋冬を通じてオールシーズン快適な睡眠環境をサポートします。レビュー693件で★4.43。2,280円。
 
 ### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
 
-- **40代男性のリピート候補**: シープボア ウレタンソファー 1人掛け / 11 11 01:59まで アロマオイル / ラグ 高反発 ラグマット 130 190 / スポットライト LED一体型 電球色 昼白色
-
-## 20:16 今売れている物 × 20代女性（自分磨き・プチプラ・映え）
-
-1. **【早割 お歳暮 P5倍 11/15まで】＼楽天グルメ大賞！高評価★4.7超／ スイーツ ギフト 冬ギフト 誕生日プレゼン**
-   - 価格: 3,999円 / ★4.71（3,707件） / 料率 4.0% / P5倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00q2tfo.72d3ya13.g00q2tfo.72d3za65/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftenshi-okurimono%2Fte015_healthy_sweets_assort%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftenshi-okurimono%2Fi%2F10001239%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: プチプラで探してる人に。インスタ映えすると評判で、贈り物やギフトにも最適な今注目の商品です。レビュー3,707件で★4.71。11/15まで、ポイント5倍で実質3,799円。
-
-2. **【☆40％OFF！旧パッケージの訳あり特別価格☆】チロリアン丸缶 送料無料 お菓子 個包装 小分け 常温 クッキー スイ**
-   - 価格: 2,000円 / ★4.68（65件） / 料率 4.0% / P20倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00u948o.72d3y8ad.g00u948o.72d3zf50/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fchidoriya1630%2F552010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fchidoriya1630%2Fi%2F10000020%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: プチプラで探してる人に。キャラクターの載った缶にチロリアンがたっぷり入っています。バニラ・コーヒー・ストロベリー・チョコレートの4種類のお味をご用意いたしました。レビュー65件で★4.68。40%OFF、ポイント20倍で実質1,600円、送料無料。
-
-3. **11/11/1:59まで★半額クーポンで2,160円⇒送料無料1,080円！無添加＆砂糖不使用！ドライレーズンたっぷり9**
-   - 価格: 2,160円 / ★4.71（1,520件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00u0eto.72d3y63c.g00u0eto.72d3z986/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsonoshokuan%2F900097-l%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsonoshokuan%2Fi%2F10000346%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: SNSで見かけて気になってたやつ。無添加・無漂白・砂糖不使用で素材本来の味が楽しめる。太陽の下で短時間で天日干し⇒色が明るく柔らかい果物本来の香りや甘さが特徴。レビュー1,520件で★4.71。半額（11/111:59まで）、送料無料。
-
-4. **【神トク10％OFFクーポン 11/4(水) 20:00〜11/11(水) 1:59まで】マイルドクレンジング オイル **
-   - 価格: 1,870円 / ★4.85（13,626件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00sms5o.72d3yf08.g00sms5o.72d3zdae/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffancl-shop%2F3721-32%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffancl-shop%2Fi%2F10009421%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: プチプラで探してる人に。洗うたび、すこやかで美しい素肌へ導くクレンジングオイルです。つめかえサイクルに合わせたセットが便利。レビュー13,626件で★4.85。10%OFF（11/111:59まで）。
-
-### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
-
-- **20代女性のリピート候補**: 楽天グルメ大賞！高評価 4.7超 スイーツ / チロリアン丸缶 お菓子 個包装 小分け 常温 / 11 11 1:59まで ドライフルーツ / 20:00〜11 11
+- **30代男性のリピート候補**: like it ライクイット 収納 / リバーシブルキルティングブルゾン レディース / 大絶賛 4.6 KeeGo ツイン / 掛け布団カバー シングル セミダブル ダブル
 

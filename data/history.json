@@ -20262,5 +20262,103 @@
   "review_count": 13626,
   "review_average": 4.85,
   "genre_id": "405061"
+ },
+ {
+  "date": "2026-11-07T07:01:48",
+  "slot": "morning",
+  "theme": "寒さ対策・冬支度（開催中） × 30代男性（健康・効率化・家電）",
+  "persona": "30s_man",
+  "item_code": "oneup-shop:10000219",
+  "item_name": "＼今だけP最大30倍／ 【楽天1位10冠】 like it ライクイット 収納 収納ケース クローゼットシステム 衣類収納 引き出し式収納ボックス 衣装ケース ",
+  "price": 3520,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00u48zo.72d3y1f6.g00u48zo.72d3z3e0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Foneup-shop%2Flike-it_001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Foneup-shop%2Fi%2F10000219%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 3.0,
+  "text": "#PR 毎日使うものほど良い物を\nlike it ライクイット 収納\n★4.75・レビュー193件・楽天ランキング1位\n3,520円（P2倍で実質3,449円）\n#楽天購入品\n▶ROOMはプロフから",
+  "tweet_id": "",
+  "threads_id": "17998657197049488",
+  "room_done": false,
+  "image": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/oneup-shop/cabinet/like-it/like-it_001/thum/like-it_001_p30.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/oneup-shop/cabinet/like-it/like-it_001/thum/like-it_001_p30.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/oneup-shop/cabinet/like-it/like-it_001/like-it_ranking_01_2.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/oneup-shop/cabinet/like-it/review_like-it2.jpg?_ex=600x600"
+  ],
+  "shop_name": "One up",
+  "review_count": 193,
+  "review_average": 4.75,
+  "genre_id": "300399"
+ },
+ {
+  "date": "2026-11-07T07:01:48",
+  "kind": "room",
+  "slot": "morning",
+  "theme": "寒さ対策・冬支度（開催中） × 30代男性（健康・効率化・家電）",
+  "persona": "30s_man",
+  "item_code": "cocacoca:10020089",
+  "item_name": "＼15％OFFクーポン／【一部予約11/12頃発送】リバーシブルキルティングブルゾン レディース 送料無料/メール便不可 coca コカ【高橋愛様着用】【西山茉",
+  "price": 3990,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qvdio.72d3y21f.g00qvdio.72d3z24e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcocacoca%2F26-220617004-14%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcocacoca%2Fi%2F10020089%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "スペック比較して残ったやつ。レビュー163件で★4.34。15%OFF、送料無料。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/cocacoca/cabinet/kohon5/26-220617004-14-2g.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/cocacoca/cabinet/kohon5/26-220617004-14-2g.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/cocacoca/cabinet/kohon5/26-220617004-14-24g.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/cocacoca/cabinet/kohon5/26-220617004-14-3g.jpg?_ex=600x600"
+  ],
+  "shop_name": "coca「コカ」",
+  "review_count": 163,
+  "review_average": 4.34,
+  "genre_id": "555087"
+ },
+ {
+  "date": "2026-11-07T07:01:48",
+  "kind": "room",
+  "slot": "morning",
+  "theme": "寒さ対策・冬支度（開催中） × 30代男性（健康・効率化・家電）",
+  "persona": "30s_man",
+  "item_code": "keegoblind:10000204",
+  "item_name": "＼大絶賛★4.6／【先着25%OFFクーポン+P5倍★レビューで2年保証】KeeGo ツイン ハニカムシェード つっぱり コードレス ハニカムスクリーン 1級遮",
+  "price": 8600,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tzrpo.72d3yea1.g00tzrpo.72d3z68c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkeegoblind%2Fkgrt-zy-zxry-jn%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkeegoblind%2Fi%2F10000204%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 3.0,
+  "text": "スペック比較して残ったやつ。）が前提となります。レビュー277件で★4.58。25%OFF。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/keegoblind/cabinet/mls-dk/cc/1.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/keegoblind/cabinet/mls-dk/cc/1.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/keegoblind/cabinet/mls-dk/cc/2.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/keegoblind/cabinet/mls-dk/tp/1.jpg?_ex=600x600"
+  ],
+  "shop_name": "KeeGo",
+  "review_count": 277,
+  "review_average": 4.58,
+  "genre_id": "205678"
+ },
+ {
+  "date": "2026-11-07T07:01:48",
+  "kind": "room",
+  "slot": "morning",
+  "theme": "寒さ対策・冬支度（開催中） × 30代男性（健康・効率化・家電）",
+  "persona": "30s_man",
+  "item_code": "support-3shop:10000340",
+  "item_name": "掛け布団カバー シングル セミダブル ダブル 綿100 白 無地 綿 綿100％ 布団カバー 掛けカバー スナップボタン シングルロング 子供 柔らかい おしゃ",
+  "price": 2280,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tqb5o.72d3yefe.g00tqb5o.72d3zf15/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsupport-3shop%2Fka-coverwh-sl%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsupport-3shop%2Fi%2F10000340%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 3.0,
+  "text": "毎日使うものほど良い物を、の代表。春夏秋冬を通じてオールシーズン快適な睡眠環境をサポートします。レビュー693件で★4.43。2,280円。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/support-3shop/cabinet/cover/c100-cover/sup124_main_260912.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/support-3shop/cabinet/cover/c100-cover/sup124_main_260912.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/support-3shop/cabinet/cover/c100-cover/sup124_02_260806.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/support-3shop/cabinet/cover/c100-cover/sup124_03_260806.jpg?_ex=600x600"
+  ],
+  "shop_name": "寝具とインテリアのシルフィーズ",
+  "review_count": 693,
+  "review_average": 4.43,
+  "genre_id": "215647"
  }
 ]
