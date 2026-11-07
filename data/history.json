@@ -20287,7 +20287,8 @@
   "shop_name": "One up",
   "review_count": 193,
   "review_average": 4.75,
-  "genre_id": "300399"
+  "genre_id": "300399",
+  "instagram_story_error": "Instagram 公開失敗 400: {\"error\":{\"message\":\"The requested resource does not exist\",\"type\":\"OAuthException\",\"code\":24,\"error_subcode\":2207006,\"is_transient\":false,\"error_user_title\":\"Media Not Found\",\"err"
  },
  {
   "date": "2026-11-07T07:01:48",
@@ -20360,5 +20361,105 @@
   "review_count": 693,
   "review_average": 4.43,
   "genre_id": "215647"
+ },
+ {
+  "date": "2026-11-07T12:01:37",
+  "slot": "noon",
+  "theme": "今売れている物 × 30代女性（暮らし・時短・コスパ）",
+  "persona": "30s_woman",
+  "item_code": "konbu-genzouya:10000772",
+  "item_name": "【50％OFFクーポンで1,620円★マラソン期間限定】[大袋]とろりんスープ昆布と海藻 オートミールプラス［約50杯分］300g×1袋 選べる2種（プレーン・",
+  "price": 3240,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rhaso.72d3yc77.g00rhaso.72d3z41a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkonbu-genzouya%2F520065%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkonbu-genzouya%2Fi%2F10000772%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "#PR 毎日の小さなストレス、これで消えます\nとろりんスープ昆布と海藻 オートミールプラス\n★4.63・レビュー3,409件\n50%OFF｜3,240円\n#楽天購入品\n▶ROOMはプロフから",
+  "tweet_id": "",
+  "threads_id": "18095345087671966",
+  "room_done": false,
+  "image": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/konbu-genzouya/cabinet/salethum/11-1/thum_520065.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/konbu-genzouya/cabinet/salethum/11-1/thum_520065.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/konbu-genzouya/cabinet/04433867/04475365/tororin/ruikei_r_01_250612.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/konbu-genzouya/cabinet/04433867/04475365/tororin/ruikei_r_02_250612.jpg?_ex=600x600"
+  ],
+  "shop_name": "昆布専門問屋　源蔵屋",
+  "review_count": 3409,
+  "review_average": 4.63,
+  "genre_id": "566676",
+  "instagram_id": "18099687977660106",
+  "instagram_story_id": "18195791716392222"
+ },
+ {
+  "date": "2026-11-07T12:01:37",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "今売れている物 × 30代女性（暮らし・時短・コスパ）",
+  "persona": "30s_woman",
+  "item_code": "zenbofficial:10000004",
+  "item_name": "【15%OFFクーポン】【糖質オフの豆100%麺】ZENB ゼンブ ヌードル 丸麺 8食（2袋）～ 送料無料 パスタ そば ラーメン ｜ 糖質オフ グルテンフリ",
+  "price": 2620,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00u9a1o.72d3y261.g00u9a1o.72d3z3bd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fzenbofficial%2Fndlrk001-s002sg0s%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fzenbofficial%2Fi%2F10000004%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "毎日の家事がちょっとラクになるやつ。生地良く練りあげる新製法でもちっと食感がアップ。さらにおいしくなりました。レビュー4,638件で★4.55。15%OFF、ポイント10倍で実質2,358円、送料無料。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/zenbofficial/cabinet/thumb/15offcp/ndlrk001_260715.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/zenbofficial/cabinet/thumb/15offcp/ndlrk001_260715.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/zenbofficial/cabinet/14150715/imgrc0228017931.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/zenbofficial/cabinet/12563862/imgrc0221794675.jpg?_ex=600x600"
+  ],
+  "shop_name": "【公式】ZENB 楽天市場店",
+  "review_count": 4638,
+  "review_average": 4.55,
+  "genre_id": "412238"
+ },
+ {
+  "date": "2026-11-07T12:01:37",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "今売れている物 × 30代女性（暮らし・時短・コスパ）",
+  "persona": "30s_woman",
+  "item_code": "ringerhut:10000331",
+  "item_name": "S【衝撃の25％OFF！5,200→3,900円！】 リンガーハット 長崎ちゃんぽん 8食 チャンポン 冷凍 簡単 調理 仕送り 麺 スープ セット 国産野菜1",
+  "price": 3900,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qc3co.72d3y43d.g00qc3co.72d3z7b0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fringerhut%2Fc128%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fringerhut%2Fi%2F10000331%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "毎日の家事がちょっとラクになるやつ。レビュー3,978件で★4.72。25%OFF、送料無料。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/ringerhut/cabinet/imgrc0190428692.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/ringerhut/cabinet/imgrc0190428692.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/ringerhut/cabinet/imgrc0194726893.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/ringerhut/cabinet/imgrc0194985643.jpg?_ex=600x600"
+  ],
+  "shop_name": "リンガーハット楽天市場店",
+  "review_count": 3978,
+  "review_average": 4.72,
+  "genre_id": "204864"
+ },
+ {
+  "date": "2026-11-07T12:01:37",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "今売れている物 × 30代女性（暮らし・時短・コスパ）",
+  "persona": "30s_woman",
+  "item_code": "once-in:10000163",
+  "item_name": "値上げ前に★半額クーポンで2980円【更に2個購入で「500g1個おまけ」で計1.5kgに！】周年祭！総合1位！メガ盛り博多もつ鍋500gセット2-4人前！4種",
+  "price": 5960,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rphko.72d3yfd9.g00rphko.72d3za97/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fonce-in%2Fmotsunabe-k002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fonce-in%2Fi%2F10000163%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "毎日の家事がちょっとラクになるやつ。博多もつ鍋2〜4人前商品説明最高のもつ鍋が完成ホルモンたっぷり500g。当日の朝に打たれた生麺を出荷いたします。楽天ランキング1位、レビュー1,037件で★4.45。半額、送料無料。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/once-in/cabinet/motsunabe/13907911/1-500ennburemu_2.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/once-in/cabinet/motsunabe/13907911/1-500ennburemu_2.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/once-in/cabinet/motsunabe/241106_motsu.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/once-in/cabinet/motsunabe/13907911/3_500_2.jpg?_ex=600x600"
+  ],
+  "shop_name": "博多もつ鍋と餃子 マイニチトッカ",
+  "review_count": 1037,
+  "review_average": 4.45,
+  "genre_id": "563974"
  }
 ]

@@ -29,3 +29,29 @@
 
 - **30代男性のリピート候補**: like it ライクイット 収納 / リバーシブルキルティングブルゾン レディース / 大絶賛 4.6 KeeGo ツイン / 掛け布団カバー シングル セミダブル ダブル
 
+## 12:01 今売れている物 × 30代女性（暮らし・時短・コスパ）
+
+1. **【50％OFFクーポンで1,620円★マラソン期間限定】[大袋]とろりんスープ昆布と海藻 オートミールプラス［約50杯分**
+   - 価格: 3,240円 / ★4.63（3,409件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00rhaso.72d3yc77.g00rhaso.72d3z41a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkonbu-genzouya%2F520065%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkonbu-genzouya%2Fi%2F10000772%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 毎日の家事がちょっとラクになるやつ。レビュー3,409件で★4.63。50%OFF。
+
+2. **【15%OFFクーポン】【糖質オフの豆100%麺】ZENB ゼンブ ヌードル 丸麺 8食（2袋）～ 送料無料 パスタ そ**
+   - 価格: 2,620円 / ★4.55（4,638件） / 料率 4.0% / P10倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00u9a1o.72d3y261.g00u9a1o.72d3z3bd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fzenbofficial%2Fndlrk001-s002sg0s%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fzenbofficial%2Fi%2F10000004%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 毎日の家事がちょっとラクになるやつ。生地良く練りあげる新製法でもちっと食感がアップ。さらにおいしくなりました。レビュー4,638件で★4.55。15%OFF、ポイント10倍で実質2,358円、送料無料。
+
+3. **S【衝撃の25％OFF！5,200→3,900円！】 リンガーハット 長崎ちゃんぽん 8食 チャンポン 冷凍 簡単 調理**
+   - 価格: 3,900円 / ★4.72（3,978件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qc3co.72d3y43d.g00qc3co.72d3z7b0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fringerhut%2Fc128%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fringerhut%2Fi%2F10000331%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 毎日の家事がちょっとラクになるやつ。レビュー3,978件で★4.72。25%OFF、送料無料。
+
+4. **値上げ前に★半額クーポンで2980円【更に2個購入で「500g1個おまけ」で計1.5kgに！】周年祭！総合1位！メガ盛り**
+   - 価格: 5,960円 / ★4.45（1,037件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00rphko.72d3yfd9.g00rphko.72d3za97/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fonce-in%2Fmotsunabe-k002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fonce-in%2Fi%2F10000163%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 毎日の家事がちょっとラクになるやつ。博多もつ鍋2〜4人前商品説明最高のもつ鍋が完成ホルモンたっぷり500g。当日の朝に打たれた生麺を出荷いたします。楽天ランキング1位、レビュー1,037件で★4.45。半額、送料無料。
+
+### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
+
+- **30代女性のリピート候補**: とろりんスープ昆布と海藻 オートミールプラス / ZENB ゼンブ ヌードル 丸麺 8食 / リンガーハット 長崎ちゃんぽん 8食 / 値上げ前に
+
