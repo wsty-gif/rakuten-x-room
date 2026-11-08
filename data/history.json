@@ -20597,7 +20597,8 @@
   "shop_name": "SUPER NICE！Store",
   "review_count": 220,
   "review_average": 4.32,
-  "genre_id": "510003"
+  "genre_id": "510003",
+  "instagram_story_id": "17917544229550981"
  },
  {
   "date": "2026-11-08T07:01:37",
@@ -20670,5 +20671,105 @@
   "review_count": 430,
   "review_average": 4.62,
   "genre_id": "216348"
+ },
+ {
+  "date": "2026-11-08T12:01:43",
+  "slot": "noon",
+  "theme": "寒さ対策・冬支度（開催中） × 20代男性（ガジェット・一人暮らし）",
+  "persona": "20s_man",
+  "item_code": "tv-ya:10002562",
+  "item_name": "ひな暖ぬくぬくセット （毛布＋敷きパッド） シングル セミダブル ダブル クイーン【ひな暖 ひなだん ひな壇 保温 マットレス用 ふとん用 暖かい毛布 洗える ",
+  "price": 14168,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pqoro.72d3y77c.g00pqoro.72d3zeb2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftv-ya%2Fhinadan-set-a-sg%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftv-ya%2Fi%2F10002562%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 3.0,
+  "text": "#PR 買わない理由が見つからなかった\nひな暖ぬくぬくセット シングル セミダブル\n★4.43・レビュー401件\n14,168円\n#楽天購入品\n▶ROOMはプロフから",
+  "tweet_id": "",
+  "threads_id": "18154645600555311",
+  "room_done": false,
+  "image": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/tv-ya/cabinet/item/hinadan-set-a-sg/thum/hinadan-set-a.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/tv-ya/cabinet/item/hinadan-set-a-sg/thum/hinadan-set-a.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/tv-ya/cabinet/item/hinadan-set-a-sg/thum/hinadan-set-a-sg-1.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/tv-ya/cabinet/item/hinadan-set-a-sg/thum/hinadan-set-a-sg-2.jpg?_ex=600x600"
+  ],
+  "shop_name": "ダイレクトテレショップ",
+  "review_count": 401,
+  "review_average": 4.43,
+  "genre_id": "101862",
+  "instagram_id": "18495003289105490",
+  "instagram_story_id": "18022960430733206"
+ },
+ {
+  "date": "2026-11-08T12:01:43",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "寒さ対策・冬支度（開催中） × 20代男性（ガジェット・一人暮らし）",
+  "persona": "20s_man",
+  "item_code": "cocacoca:10019919",
+  "item_name": "タイムセール★1990円→1000円 タートルニットチュニック レディース メール便不可 coca コカ",
+  "price": 1000,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qvdio.72d3y21f.g00qvdio.72d3z24e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcocacoca%2F66-220504001-04%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcocacoca%2Fi%2F10019919%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "一人暮らしの部屋に1つあると便利。細めスリーブとテールカットでスッキリ見えを実現。レビュー495件で★4.34。1,000円。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/cocacoca/cabinet/kihhon5/66-220504001-04-2g.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/cocacoca/cabinet/kihhon5/66-220504001-04-2g.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/cocacoca/cabinet/kihhon5/66-220504001-04-24g.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/cocacoca/cabinet/kihhon5/66-220504001-04-3g.jpg?_ex=600x600"
+  ],
+  "shop_name": "coca「コカ」",
+  "review_count": 495,
+  "review_average": 4.34,
+  "genre_id": "566028"
+ },
+ {
+  "date": "2026-11-08T12:01:43",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "寒さ対策・冬支度（開催中） × 20代男性（ガジェット・一人暮らし）",
+  "persona": "20s_man",
+  "item_code": "auc-kaei-trading:10000755",
+  "item_name": "収納ボックス 収納ケース 折りたたみ 収納 ふた付き キャスター付き 5面開き 前開き 27L 40L 53L 82L 屋外 おしゃれ プラスチック 衣装ケース",
+  "price": 1320,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rgpgo.72d3ya75.g00rgpgo.72d3z09b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-kaei-trading%2Fzk-snb02-all-3c%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-kaei-trading%2Fi%2F10000755%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 3.0,
+  "text": "レビューを見て買う人が多いやつ。レビュー75件で★4.51。1,320円。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-kaei-trading/cabinet/zk-snb02/sbox-3c.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-kaei-trading/cabinet/zk-snb02/sbox-3c.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-kaei-trading/cabinet/zk-snb02/ansin-1.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-kaei-trading/cabinet/zk-snb02/wh-tm01.jpg?_ex=600x600"
+  ],
+  "shop_name": "フリーライフ",
+  "review_count": 75,
+  "review_average": 4.51,
+  "genre_id": "300399"
+ },
+ {
+  "date": "2026-11-08T12:01:43",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "寒さ対策・冬支度（開催中） × 20代男性（ガジェット・一人暮らし）",
+  "persona": "20s_man",
+  "item_code": "antiqua-a:10032977",
+  "item_name": "最大20％OFF対象！ 2日19時〜11日10時 暖房泥棒 吸湿発熱 ヒート 配色 リブニット レディース ニット 長袖 無地 セーター Vネック クルーネック",
+  "price": 2990,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qllxo.72d3y0f6.g00qllxo.72d3z222/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fantiqua-a%2Fay-00101%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fantiqua-a%2Fi%2F10032977%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "一人暮らしの部屋に1つあると便利。着るだけで心ときめく。レビュー42件で★4.24。20%OFF。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/antiqua-a/cabinet/160/ay-00101.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/antiqua-a/cabinet/160/ay-00101.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/antiqua-a/cabinet/160/ay-00101_1.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/antiqua-a/cabinet/160/ay-00101_2.jpg?_ex=600x600"
+  ],
+  "shop_name": "antiqua（アンティカ）",
+  "review_count": 42,
+  "review_average": 4.24,
+  "genre_id": "566028"
  }
 ]

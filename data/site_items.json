@@ -15046,6 +15046,13 @@
     "theme": "今売れている物 × 20代男性（ガジェット・一人暮らし）",
     "persona": "20s_man",
     "event_type": "baseline"
+   },
+   {
+    "date": "2026-11-08",
+    "slot": "noon",
+    "theme": "寒さ対策・冬支度（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "season"
    }
   ],
   "item_code": "wwpc:10064892",
@@ -15055,14 +15062,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00pt32o.72d3ya19.g00pt32o.72d3z295/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwwpc%2F3182550901215%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/wwpc/cabinet/215/3182550901215.jpg?_ex=600x600",
   "shop_name": "楽天24 どうぶつ医療館",
-  "review_count": 2880,
+  "review_count": 2885,
   "review_average": 4.66,
   "affiliate_rate": 4.0,
   "point_rate": 1,
   "catchcopy": "ロイヤルカナン療法食 / ロイヤルカナン 猫用 ユリナリーS／O オルファクトリーライト",
   "genre_id": "404149",
-  "score": 15.32,
-  "last_seen": "2026-11-04T12:01:38",
+  "score": 14.82,
+  "last_seen": "2026-11-08T12:01:43",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/wwpc/cabinet/215/3182550901215.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/wwpc/cabinet/215/3182550901215-2.jpg?_ex=600x600",
@@ -19151,6 +19158,13 @@
     "theme": "寒さ対策・冬支度（開催中） × 子育て世帯のママ・パパ",
     "persona": "mama",
     "event_type": "season"
+   },
+   {
+    "date": "2026-11-08",
+    "slot": "noon",
+    "theme": "寒さ対策・冬支度（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "season"
    }
   ],
   "item_code": "nene777:10000018",
@@ -19167,7 +19181,7 @@
   "catchcopy": "業界革新！掃除機 コードレス【楽天12連冠達成！吸引力完全進化】グリーンLED×110Kpa超吸引で「見えない汚れ」も完全制圧自立式&次世代LED液晶ディスプレイ3年間保証",
   "genre_id": "565105",
   "score": 14.51,
-  "last_seen": "2026-11-07T20:16:37",
+  "last_seen": "2026-11-08T12:01:43",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/nene777/cabinet/compass1792658274.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/nene777/cabinet/compass1791195726.jpg?_ex=600x600",
@@ -31396,29 +31410,36 @@
     "theme": "寒さ対策・冬支度（開催中） × 30代男性（健康・効率化・家電）",
     "persona": "30s_man",
     "event_type": "season"
+   },
+   {
+    "date": "2026-11-08",
+    "slot": "noon",
+    "theme": "寒さ対策・冬支度（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "season"
    }
   ],
   "item_code": "zakka-elements:10003240",
-  "name": "ラグ ラグマット 厚手 極厚 カーペット 高反発 低反発のような 200×250cm 大きい サイズ 厚さ32mm ラグカーペット もっちり 底付き感なし クッション性 床暖房 ホットカーペット対応 滑り止め付き オールシーズン 防音 ソフチェ 130×190 185×185 200×300 [K400-200x250]",
+  "name": "【5%OFFクーポン】ラグ ラグマット 厚手 極厚 カーペット 高反発 低反発のような 200×250cm 大きい サイズ 厚さ32mm ラグカーペット もっちり 底付き感なし クッション性 床暖房 ホットカーペット対応 滑り止め付き オールシーズン 防音 ソフチェ [K400-200x250]",
   "price": 4980,
   "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rra6o.72d3ybe6.g00rra6o.72d3z9ba/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fzakka-elements%2Fk400-200x250%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fzakka-elements%2Fi%2F10003240%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00rra6o.72d3ybe6.g00rra6o.72d3z9ba/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fzakka-elements%2Fk400-200x250%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/zakka-elements/cabinet/item042/k400-200x250.jpg?_ex=600x600",
   "shop_name": "生活雑貨のネットショップELEMENTS",
-  "review_count": 574,
+  "review_count": 583,
   "review_average": 4.52,
   "affiliate_rate": 3.0,
   "point_rate": 1,
   "catchcopy": "フランネル マイクロファイバー 絨毯 マット ダイニング ペット 子供 赤ちゃん ふわふわ 冷え対策 リビング 遮音 北欧 モダン ウレタン 高密度 へたりにくい 新生活 模様替え 冬 春 夏 秋",
   "genre_id": "551228",
-  "score": 14.95,
-  "last_seen": "2026-10-23T20:16:23",
+  "score": 14.36,
+  "last_seen": "2026-11-08T12:01:43",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/zakka-elements/cabinet/item042/k400-200x250.jpg?_ex=600x600",
-   "https://thumbnail.image.rakuten.co.jp/@0_mall/zakka-elements/cabinet/img-up_1_707/1132_k1_211685_115.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/zakka-elements/cabinet/img-up_1_707/1132_k1_211685_123.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/zakka-elements/cabinet/item031/k400_13.jpg?_ex=600x600"
   ],
-  "caption": "よく一緒に購入されている商品こたつ布団 長方形 正方形 240×190cm6,600円～チェアパッド 丸 高反発 シートクッション 円900円フロアクッション 1人掛け ette エット 12,800円 ■サイズ／重量 約 W 100 × D 140 cm / 約 1.88kg 約 W 130 × D 190 cm / 約 3.3kg 約 W 185 × D 185 cm / 約 4.5kg 約 W 200 × D 250 cm / 約 6.5kg 約 W 200 × D 300 cm / 約 8kg 厚さ H 3.2 cm、毛足の長さ：約 0.5 cm ※多少サイズは前後します。 ■素材 ＜表面＞ポリエステル100% ＜中材＞ウレタンフォーム 25mm ＜裏面＞不織布（滑りにくい加工） ■生産国 中国 ■梱包形態 圧縮梱包 ■お手入れ ・汚れたら即拭き取り、汚れたときには汚れが広がらないように即座に拭き取ってください。 ・日常のお手入れ方法は1週間に1〜2回、パイル目にそって掃除機をかける程度。 ・月に2回程度は雑巾かけをしてください。中性洗剤1〜2杯をバケツ1杯のぬるま湯に溶かして雑巾を固く絞って拭いて下さい。 ■ご注意 ※2021年1月20日13:30販売分より厚み20mmから32mmにリニューアルいたしました。 ※床暖房・ホットカーペット対応です。ご使用時には、ホットカーペット、床暖房本体の注意事項に従ってご使用ください。 ※商品は圧縮梱包でのお届けとなります。開梱時に折りシワやユガミ・毛並みの乱れ・薄くなる箇所等ございますが、約1週間ほどかけてゆっくりと回復します。1週間以上経っても改善しない場合や、折りジワやユガミ・毛並みの乱れが気になる場合は、商品ページや同梱チラシ記載の解消方法をお試し下さい。 ※開封直後は織機に使われている潤滑油の匂いがする場合があります。"
+  "caption": "よく一緒に購入されている商品こたつ布団 長方形 正方形 240×190cm6,600円～チェアパッド 丸 高反発 シートクッション 円900円こたつ布団カバー 長方形 200 250 正方5,990円～ ■サイズ／重量 約 W 100 × D 140 cm / 約 1.88kg 約 W 130 × D 190 cm / 約 3.3kg 約 W 185 × D 185 cm / 約 4.5kg 約 W 200 × D 250 cm / 約 6.5kg 約 W 200 × D 300 cm / 約 8kg 厚さ H 3.2 cm、毛足の長さ：約 0.5 cm ※多少サイズは前後します。 ■素材 ＜表面＞ポリエステル100% ＜中材＞ウレタンフォーム 25mm ＜裏面＞不織布（滑りにくい加工） ■生産国 中国 ■梱包形態 圧縮梱包 ■お手入れ ・汚れたら即拭き取り、汚れたときには汚れが広がらないように即座に拭き取ってください。 ・日常のお手入れ方法は1週間に1〜2回、パイル目にそって掃除機をかける程度。 ・月に2回程度は雑巾かけをしてください。中性洗剤1〜2杯をバケツ1杯のぬるま湯に溶かして雑巾を固く絞って拭いて下さい。 ■ご注意 ※2021年1月20日13:30販売分より厚み20mmから32mmにリニューアルいたしました。 ※床暖房・ホットカーペット対応です。ご使用時には、ホットカーペット、床暖房本体の注意事項に従ってご使用ください。 ※商品は圧縮梱包でのお届けとなります。開梱時に折りシワやユガミ・毛並みの乱れ・薄くなる箇所等ございますが、約1週間ほどかけてゆっくりと回復します。1週間以上経っても改善しない場合や、折りジワやユガミ・毛並みの乱れが気になる場合は、商品ページや同梱チラシ記載の解消方法をお試し下さい。 ※開封直後は織機に使われている潤滑油の匂いがする場合があります。"
  },
  "mycosmeticbox:10000390": {
   "first_seen": "2026-10-23T20:16:23",
@@ -31443,6 +31464,13 @@
     "theme": "寒さ対策・冬支度（開催中） × 子育て世帯のママ・パパ",
     "persona": "mama",
     "event_type": "season"
+   },
+   {
+    "date": "2026-11-08",
+    "slot": "noon",
+    "theme": "寒さ対策・冬支度（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "season"
    }
   ],
   "item_code": "mycosmeticbox:10000390",
@@ -31459,7 +31487,7 @@
   "catchcopy": "キヌージョ ストレートアイロン Kinujo ストレートアイロン KINUJO ストレートアイロン LM225 Kinujo ストレートアイロン",
   "genre_id": "509412",
   "score": 13.22,
-  "last_seen": "2026-11-07T20:16:37",
+  "last_seen": "2026-11-08T12:01:43",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/mycosmeticbox/cabinet/11105451/straght-top4.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/mycosmeticbox/cabinet/11105451/lm225.jpg?_ex=600x600",
@@ -32691,25 +32719,32 @@
     "theme": "寒さ対策・冬支度（開催中） × 20代男性（ガジェット・一人暮らし）",
     "persona": "20s_man",
     "event_type": "season"
+   },
+   {
+    "date": "2026-11-08",
+    "slot": "noon",
+    "theme": "寒さ対策・冬支度（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "season"
    }
   ],
   "item_code": "texet:10002969",
-  "name": "【テイジン 公式】 ぬく盛 or とく盛 ふとん 布団 あったか布団 掛け布団 冬用 シングル 150×210cm セミダブル 170×210cm ダブル 190×210 cm 軽い 軽量 軽量ふとん ボリューム布団 ボリューム 冬布団 冬 洗える 洗濯可能",
+  "name": "【クーポン利用で10%OFF ~11/9 19:59】【テイジン 公式】 ぬく盛 or とく盛 ふとん 布団 あったか布団 掛け布団 冬用 シングル 150×210cm セミダブル 170×210cm ダブル 190×210 cm 軽い 軽量 軽量ふとん ボリューム布団 ボリューム 冬布団 冬 洗える 洗濯可能",
   "price": 7999,
   "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00sqjyo.72d3yf41.g00sqjyo.72d3zdcb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftexet%2F162%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftexet%2Fi%2F10002969%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00sqjyo.72d3yf41.g00sqjyo.72d3zdcb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftexet%2F162%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
-  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/texet/cabinet/06918827/07125165/10998932/4039_rk_tm_10.jpg?_ex=600x600",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/texet/cabinet/tool108/14161612/imgrc0122677454.jpg?_ex=600x600",
   "shop_name": "テイジン公式 楽天市場店",
-  "review_count": 755,
-  "review_average": 4.63,
+  "review_count": 792,
+  "review_average": 4.62,
   "affiliate_rate": 3.0,
   "point_rate": 1,
   "catchcopy": "機能綿 サンバーナー 吸湿発熱 羽毛布団の不満解消 マイクロフラッフィー 代替 暖かい 温かい あたたかい かけぶとん 日本製 国産 保温性 快適 寝具 おしゃれ ふかふか ふわふわ 洗濯可",
   "genre_id": "563689",
-  "score": 15.46,
-  "last_seen": "2026-11-01T12:01:41",
+  "score": 14.16,
+  "last_seen": "2026-11-08T12:01:43",
   "image_urls": [
-   "https://thumbnail.image.rakuten.co.jp/@0_mall/texet/cabinet/06918827/07125165/10998932/4039_rk_tm_10.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/texet/cabinet/tool108/14161612/imgrc0122677454.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/texet/cabinet/06918827/07125165/10998932/4039_rk_sp_11.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/texet/cabinet/06918827/07125165/10998932/01.jpg?_ex=600x600"
   ],
@@ -32780,6 +32815,13 @@
     "theme": "寒さ対策・冬支度（開催中） × 子育て世帯のママ・パパ",
     "persona": "mama",
     "event_type": "season"
+   },
+   {
+    "date": "2026-11-08",
+    "slot": "noon",
+    "theme": "寒さ対策・冬支度（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "season"
    }
   ],
   "item_code": "tansu:10041466",
@@ -32796,7 +32838,7 @@
   "catchcopy": "羽毛布団 ホワイトダックダウン90％ タンブル乾燥OK 7年保証 羽毛 布団 羽毛ふとん 掛け布団 掛布団 掛けふとん かけ布団 暖かい 冬 冬用 軽い 国産 ウォッシャブル",
   "genre_id": "563689",
   "score": 13.45,
-  "last_seen": "2026-11-07T20:16:37",
+  "last_seen": "2026-11-08T12:01:43",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/tansu/cabinet/08070391/10119001_10gyb.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/tansu/cabinet/ragu6/10119001_fl01.jpg?_ex=600x600",
@@ -35010,6 +35052,13 @@
     "theme": "寒さ対策・冬支度（開催中） × 子育て世帯のママ・パパ",
     "persona": "mama",
     "event_type": "season"
+   },
+   {
+    "date": "2026-11-08",
+    "slot": "noon",
+    "theme": "寒さ対策・冬支度（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "season"
    }
   ],
   "item_code": "enterb:10000081",
@@ -35026,7 +35075,7 @@
   "catchcopy": "【2026年上半期1位のヒーター】コンパクトかつ軽量のため持ち運びも楽 場所を選ばずに使える、一人暮らしの寒さ対策に最適 オフィス用 キッチン 脱衣所 電気ヒーター",
   "genre_id": "212277",
   "score": 14.64,
-  "last_seen": "2026-11-07T20:16:37",
+  "last_seen": "2026-11-08T12:01:43",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/enterb/cabinet/event/url1/g1--2777.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/enterb/cabinet/product/hw-g1/2026/1.jpg?_ex=600x600",
@@ -37663,6 +37712,13 @@
     "theme": "寒さ対策・冬支度（開催中） × 20代男性（ガジェット・一人暮らし）",
     "persona": "20s_man",
     "event_type": "season"
+   },
+   {
+    "date": "2026-11-08",
+    "slot": "noon",
+    "theme": "寒さ対策・冬支度（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "season"
    }
   ],
   "item_code": "tv-ya:10002562",
@@ -37678,14 +37734,16 @@
   "point_rate": 1,
   "catchcopy": "ひな暖ぬくぬくセット（毛布＋敷きパッド）は、独自の5層構造！寒い冬を乗り切る、発熱あったか毛布と敷きパッドのセットです。電気を使用しないので、電気代もかからず経済的！",
   "genre_id": "101862",
-  "score": 15.05,
-  "last_seen": "2026-11-05T20:16:39",
+  "score": 15.15,
+  "last_seen": "2026-11-08T12:01:43",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/tv-ya/cabinet/item/hinadan-set-a-sg/thum/hinadan-set-a.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/tv-ya/cabinet/item/hinadan-set-a-sg/thum/hinadan-set-a-sg-1.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/tv-ya/cabinet/item/hinadan-set-a-sg/thum/hinadan-set-a-sg-2.jpg?_ex=600x600"
   ],
-  "caption": "※返品について 原則未使用・未開封の商品に限り、8日以内まで返品可能です。 往復送料はお客様のご負担となります。（ご使用後に不良品とわかった場合は除く） ひな暖/毛布/敷きパッド/掛け敷きセット/発熱わた/保湿わた/保温/電気不使用/マットレス用/ふとん用/シングル/セミダブル/ダブル/クイーン"
+  "caption": "※返品について 原則未使用・未開封の商品に限り、8日以内まで返品可能です。 往復送料はお客様のご負担となります。（ご使用後に不良品とわかった場合は除く） ひな暖/毛布/敷きパッド/掛け敷きセット/発熱わた/保湿わた/保温/電気不使用/マットレス用/ふとん用/シングル/セミダブル/ダブル/クイーン",
+  "posted_text": "#PR 買わない理由が見つからなかった\nひな暖ぬくぬくセット シングル セミダブル\n★4.43・レビュー401件\n14,168円\n#楽天購入品\n▶ROOMはプロフから",
+  "posted_at": "2026-11-08T12:01:43"
  },
  "gbt-dko:10042845": {
   "first_seen": "2026-11-02T07:01:40",
@@ -37757,6 +37815,13 @@
     "theme": "寒さ対策・冬支度（開催中） × 子育て世帯のママ・パパ",
     "persona": "mama",
     "event_type": "season"
+   },
+   {
+    "date": "2026-11-08",
+    "slot": "noon",
+    "theme": "寒さ対策・冬支度（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "season"
    }
   ],
   "item_code": "tenmafitsworld:10006047",
@@ -37766,14 +37831,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00qg64o.72d3y1f9.g00qg64o.72d3z082/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftenmafitsworld%2Ffitschest_fullflat_65%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/tenmafitsworld/cabinet/fitschest_flat/fitschest_flat.jpg?_ex=600x600",
   "shop_name": "テンマフィッツワールド楽天市場店",
-  "review_count": 808,
+  "review_count": 816,
   "review_average": 4.62,
   "affiliate_rate": 3.0,
   "point_rate": 1,
   "catchcopy": "チェスト 北欧 シンプル おしゃれ 4段 5段 7段 幅55 幅65 幅75 ホワイト グレー 収納 収納ケース 引出し 衣類収納 リビング 子供部屋 プラスチック",
   "genre_id": "400631",
-  "score": 14.17,
-  "last_seen": "2026-11-02T07:01:40",
+  "score": 13.98,
+  "last_seen": "2026-11-08T12:01:43",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/tenmafitsworld/cabinet/fitschest_flat/fitschest_flat.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/tenmafitsworld/cabinet/review/bnr_review_sq.jpg?_ex=600x600",
@@ -39204,6 +39269,13 @@
     "theme": "寒さ対策・冬支度（開催中） × 子育て世帯のママ・パパ",
     "persona": "mama",
     "event_type": "season"
+   },
+   {
+    "date": "2026-11-08",
+    "slot": "noon",
+    "theme": "寒さ対策・冬支度（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "season"
    }
   ],
   "item_code": "hitidear:10000173",
@@ -39220,7 +39292,7 @@
   "catchcopy": "心地よい肌さわり ふわとろブランケット もうふ 厚手でポカポカ暖かい 洗濯ok 静電気防止加工済 暖かい 掛け毛布 10段階温度調節 200x160cm 130x190cm 140*80cm 電磁波を99%以上カット",
   "genre_id": "208397",
   "score": 13.89,
-  "last_seen": "2026-11-07T20:16:37",
+  "last_seen": "2026-11-08T12:01:43",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/hitidear/cabinet/10065696/10914652/g1-5805.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/hitidear/cabinet/13904570/1.jpg?_ex=600x600",
@@ -40545,6 +40617,13 @@
     "theme": "寒さ対策・冬支度（開催中） × 子育て世帯のママ・パパ",
     "persona": "mama",
     "event_type": "season"
+   },
+   {
+    "date": "2026-11-08",
+    "slot": "noon",
+    "theme": "寒さ対策・冬支度（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "season"
    }
   ],
   "item_code": "cocacoca:10019919",
@@ -40561,7 +40640,7 @@
   "catchcopy": "(トップス オーバーサイズ チュニック タートルニット 大人 きれいめ シンプル 無地 薄手 ストレッチ リブ 体型カバー 26ss)",
   "genre_id": "566028",
   "score": 14.41,
-  "last_seen": "2026-11-07T20:16:37",
+  "last_seen": "2026-11-08T12:01:43",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/cocacoca/cabinet/kihhon5/66-220504001-04-2g.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/cocacoca/cabinet/kihhon5/66-220504001-04-24g.jpg?_ex=600x600",
@@ -41180,5 +41259,38 @@
    "https://thumbnail.image.rakuten.co.jp/@0_mall/velus/cabinet/newlp/biyoueki/biyoueki_02.jpg?_ex=600x600"
   ],
   "caption": "メーカー希望小売価格はメーカーサイトに基づいて掲載しています 商品説明 製品特徴 【生きた1滴、肌への最終回答。】 年齢肌の悩みにまとめてアプローチする、薬用発酵 美容液。 Wの有効成分のナイアシンアミド／グリチルリチン酸ジカリウムが年齢肌・美白・肌荒れを同時にケアし、毛穴までなめらかに。 【全方位弾力肌へ。特許成分NcPA×発酵エキス】 特許取得のNcPAが、肌の弾力・うるおい保持をサポート。さらに、3種の乳酸菌発酵エキス＋酵母エキスが角層に浸透し、自ら整う肌環境へ。肌土台を立て直し、揺らぎにくくハリのある肌を目指します。 【低分子“生コラーゲン”が密着保水キャップ 美容液】 一般的なコラーゲンよりも保水力・持続力にすぐれた“生コラーゲン”をそのまま密封。肌にピタッと密着して、美容液が乾燥・小ジワ・毛穴を包み込む“うるおいのフタ”となります。 【9000倍の超保水力！エクトイン×ヒアルロン酸】 肌の水分をしっかり抱え込むエクトインと、うるおいを届けるヒアルロン酸をW配合。日中の乾燥を防ぎ、もっちり吸いつくような肌印象へ。 【使用期限がたったの30秒！99％美容液成分の“生処方”】 有効成分の酸化・蒸発を防ぐ、1回使い切りの個包装パウチを採用。1包に詰まった99％の美容液成分を、開封後すぐに肌へ。 鮮度・密閉・衛生の3つを兼ね備えた、まさに“生”の美容液。 名称 モイスチャーホールドセラム（医薬部外品） 原材料名 【有効成分】ナイアシンアミド、グリチルリチン酸2K／【その他の成分】1,2-ペンタンジオール、BG、アスパラギン酸Mg、アクリル酸・メタクリル酸アルキル共重合体、エクトイン、クエン酸、クエン酸Na、グルコン酸亜鉛、グルコン酸Cu、セイヨウナシ果汁発酵液、ハス種子乳酸菌発酵液、ハトムギ発酵液、ヒアルロン酸Na-2、フェノキシエタノール、POE（24）POP（24）グ"
+ },
+ "book:22095438": {
+  "first_seen": "2026-11-08T12:01:43",
+  "themes": [
+   {
+    "date": "2026-11-08",
+    "slot": "noon",
+    "theme": "寒さ対策・冬支度（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "season"
+   }
+  ],
+  "item_code": "book:22095438",
+  "name": "ゼルダの伝説 時のオカリナ",
+  "price": 7812,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00q072o.72d3y4be.g00q072o.72d3zb56/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F18805198%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F22095438%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00q072o.72d3y4be.g00q072o.72d3zb56/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F18805198%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4922/4902370554922.jpg?_ex=600x600",
+  "shop_name": "楽天ブックス",
+  "review_count": 32,
+  "review_average": 4.66,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "【楽天ブックスならいつでも送料無料】",
+  "genre_id": "568774",
+  "score": 13.91,
+  "last_seen": "2026-11-08T12:01:43",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4922/4902370554922.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4922/4902370554922_2.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4922/4902370554922_3.jpg?_ex=600x600"
+  ],
+  "caption": "任天堂 Nintendo Switch 2 ※こちらの商品には【早期購入外付特典】および、【楽天ブックス限定特典】は付属しませんSwitch2 ゼルダノデンセツ トキノオカリナ 発売日：2026年11月05日 CERO区分：12才以上対象 BEEーPーAA9JA JAN：4902370554922 ゲーム Nintendo Switch 2 アドベンチャー アドベンチャー"
  }
 }
