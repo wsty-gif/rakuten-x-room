@@ -55,3 +55,29 @@
 
 - **20代男性のリピート候補**: ひな暖ぬくぬくセット シングル セミダブル / タートルニットチュニック レディース / 収納ボックス 収納ケース 折りたたみ 収納 / 2日19時〜11日10時 暖房泥棒 吸湿発熱
 
+## 20:16 今売れている物 × 30代男性（健康・効率化・家電）
+
+1. **【イベント期間中ポイント高還元】 ノートン 360 デラックス 3台 3年版 ダウンロード 送料無料 iOS windo**
+   - 価格: 15,480円 / ★4.34（477件） / 料率 2.0% / P10倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00u4dgo.72d3y669.g00u4dgo.72d3zafb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnorton%2F21435759%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnorton%2Fi%2F10000038%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 時短になる系。権威ある第三者評価機関のテスト*で保護力最優秀賞を6回受賞。。レビュー477件で★4.34。ポイント10倍で実質13,932円、送料無料。
+
+2. **【限定15%OFF★11/11 1:59迄】TP-Link WiFi6 ルーター デュアルバンド AX1500 1201**
+   - 価格: 4,998円 / ★4.4（367件） / 料率 2.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00sbb0o.72d3y9ac.g00sbb0o.72d3z11b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftplinkdirect%2F4895252507966%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftplinkdirect%2Fi%2F10001395%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: スペック比較して残ったやつ。かんたん設定：Tetherアプリを使用すれば、たった数分で初期設定が完了します。レビュー367件で★4.4。15%OFF（11/111:59まで）。
+
+3. **＼11/11 9:59まで10%ポイントバック ／【TENTIAL 公式】リカバリーウェア BAKUNE スウェット パ**
+   - 価格: 13,420円 / ★4.55（2,544件） / 料率 4.0% / P10倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00thbmo.72d3y6c5.g00thbmo.72d3zcdb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftential%2Fbakune-sweat-m_25fw%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftential%2Fi%2F10000330%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: スペック比較して残ったやつ。レビュー2,544件で★4.55。11/119:59まで、ポイント10倍で実質12,078円。
+
+4. **［早割10％OFFクーポン★マラソン限定］電気毛布 日本製 電気毛布 敷き 電気毛布 掛け敷き 電気敷き毛布 掛け敷き毛**
+   - 価格: 3,100円 / ★4.52（2,302件） / 料率 2.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00t1dwo.72d3y8c9.g00t1dwo.72d3z95a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flifejoy-shop%2Fjbs401%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flifejoy-shop%2Fi%2F10000044%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 毎日使うものほど良い物を、の代表。故障の原因となります。レビュー2,302件で★4.52。10%OFF。
+
+### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
+
+- **30代男性のリピート候補**: ノートン 360 デラックス 3台 3年版 / WiFi6 ルーター デュアルバンド / 11 11 リカバリーウェア BAKUNE / 電気毛布 日本製 電気毛布 敷き 電気毛布
+
