@@ -20771,5 +20771,16 @@
   "review_count": 42,
   "review_average": 4.24,
   "genre_id": "566028"
+ },
+ {
+  "date": "2026-11-08T18:31:30",
+  "slot": "evening",
+  "kind": "engage",
+  "engage_key": "poll8",
+  "theme": "反応投稿（poll）",
+  "persona": "all",
+  "text": "ふるさと納税、もう済ませた？",
+  "tweet_id": "",
+  "threads_id": "17917427484506531"
  }
 ]
