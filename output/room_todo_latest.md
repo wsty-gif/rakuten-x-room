@@ -1,83 +1,36 @@
-# 楽天ROOMに追加する商品（2026-11-09）
+# 楽天ROOMに追加する商品（2026-11-10）
 
 手順: 商品URLを開く → 共有 → 「ROOMに投稿」 → コメントを貼って投稿。
 夜の分は20時までに入れておくと、購買ピーク（21〜24時）に乗ります。
 
-## 07:01 寒さ対策・冬支度（開催中） × 30代女性（暮らし・時短・コスパ）
+## 07:01 今売れている物 × 子育て世帯のママ・パパ
 
-1. **【マラソン限定！10%引クーポン】 上半期2度No1！30万枚突破 日本製 W防ダニ 羽毛布団 ホワイトダックダウン 9**
-   - 価格: 18,999円 / ★4.45（9,312件） / 料率 3.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00ppglo.72d3y3f0.g00ppglo.72d3z552/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftansu%2F10119001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftansu%2Fi%2F10041466%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 買い置きしておくと安心なもの。&gt;&gt;羽毛布団一覧はこちら&lt;&lt;カバーもご一緒に。レビュー9,312件で★4.45。10%OFF。
+1. **高評価★4.7【累計48万台突破】光るホイール MOVEGU_公式 キックスクーター 【4段階高さ調整】 キックボード **
+   - 価格: 7,980円 / ★4.72（1,289件） / 料率 3.0% / P5倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00uhieo.72d3yc56.g00uhieo.72d3z0eb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgiftrium%2F4571542652200%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgiftrium%2Fi%2F10000000%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。子どもがいる家で助かった系。楽天ランキング1位、レビュー1,289件で★4.72。ポイント5倍で実質7,581円。
 
-2. **【50%OFF11月9日24H】枕 横向き 首が痛くならない 首こり 肩こり ストレートネック 枕 カバー 付 TPE枕**
-   - 価格: 1,740円 / ★4.6（239件） / 料率 3.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00u6vmo.72d3y7e2.g00u6vmo.72d3zfdd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-up-eishin%2Fhacci-sd01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-up-eishin%2Fi%2F10000112%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 忙しい平日の味方。こちらは初期不良ではござません。馴染むまで続けてのご使用をおすすめいたします。レビュー239件で★4.6。50%OFF。
+2. **手持ち花火☆400本以上 安全検査合格品！※送料無料※ （店長が自信を持ってオススメする花火セットver.6）【 SFマ**
+   - 価格: 4,300円 / ★4.39（1,536件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00r88do.72d3yf9a.g00r88do.72d3zf47/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyushoudo%2F10000670%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyushoudo%2Fi%2F10002486%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。子どもがいる家で助かった系。こちらの商品をお買い上げいただいたお客様に点火用キャンドルをプレゼントいたします。線香花火・スパーク・ススキなどの手持ち花火が400本以上詰まっています。レビュー1,536件で★4.39。送料無料。
 
-3. **【スイモク 正規品】新色 uネック tシャツ 深め レディース 長袖 カジュアル ロンT カットソー 秋冬 冬 きれいめ**
-   - 価格: 2,080円 / ★4.59（934件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00u3iao.72d3y581.g00u3iao.72d3z7d4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffrenchfrench%2F5683038%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffrenchfrench%2Fi%2F10004423%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 毎日の家事がちょっとラクになるやつ。厚みのある綿混リブがほどよくフィットし、体のラインを拾いにくい。伸縮性で一枚でも重ね着でも活躍。レビュー934件で★4.59。2,080円。
+3. **＼CICINELL【正規品】／ バランスボード 木製 子供 大人 体幹 トレーニング アスレチック 軽量 大人 室内遊び**
+   - 価格: 3,980円 / ★4.51（3,049件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00u5p5o.72d3y5c7.g00u5p5o.72d3za20/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Farcraiz%2Farc3102%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Farcraiz%2Fi%2F10000033%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。子どもがいる家で助かった系。レビュー3,049件で★4.51。3,980円。
 
-4. **【特典付き】［ 天板付きシューズラック 6段 ／ 天板＆引き出し付きシューズラック タワー 5段 ］山崎実業 tower**
-   - 価格: 11,990円 / ★4.4（141件） / 料率 3.0% / P5倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qb0lo.72d3y6eb.g00qb0lo.72d3z421/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Froomy%2Fymz17feb24h63%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Froomy%2Fi%2F10015684%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 忙しい平日の味方。天然木が美しい天板は、印鑑や鍵などの小物置きに便利。どんなエントランスにも溶け込むシンプルなデザインも魅力。レビュー141件で★4.4。ポイント5倍で実質11,390円、送料無料。
+4. **【大集合！新作登場限定販売】ぷにっこ スイーツシリーズ ふわふわスフレ ジュエルキャンディコレクション もちもち大福 ス**
+   - 価格: 2,700円 / ★4.62（34件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00u19bo.72d3y865.g00u19bo.72d3z8b6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcosmedeli%2Fpn02%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcosmedeli%2Fi%2F10000848%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。まとめ買いしておくと楽になるもの。ほかにもかわいいぷにっこが大集合。そのため、色味や形・表面の風合いには、少しずつ個性が生まれます。レビュー34件で★4.62。2,700円。
 
-### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
-
-- **30代女性のリピート候補**: 上半期2度No1！30万枚突破 日本製 / 横向き 首が痛くならない 首こり 肩こり / 新色 uネック tシャツ 深め レディース / 山崎実業 tower シューズラック 大容量
-
-## 12:05 今売れている物 × 20代男性（ガジェット・一人暮らし）
-
-1. **Anker Power Bank (10000mAh, 22.5W) (モバイルバッテリー 10000mAh 最大22.**
-   - 価格: 3,490円 / ★4.53（2,301件） / 料率 2.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00rr09o.72d3y980.g00rr09o.72d3z79c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa1257%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10001908%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 一人暮らしの部屋に1つあると便利。出力薄型設計搭載ポートの3点で進化したモバイルバッテリーです。持ち歩きの際にケーブルを別で準備する必要はありません。レビュー2,301件で★4.53。3,490円。
-
-2. **【エントリーでP10倍 11/10(火)まで】 スクールセーター 男子 【 日本製 】 学校 高校生 中学生 制服 セー**
-   - 価格: 3,990円 / ★4.65（348件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00ti5mo.72d3y7da.g00ti5mo.72d3z0b7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkanko%2Fkhs414_men%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkanko%2Fi%2F10000554%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: レビューを見て買う人が多いやつ。細い糸を使って編まれており、目が細かいため風通しが少なく温かくご着用いただけます。レビュー348件で★4.65。11/10まで、送料無料。
-
-3. **＼2026進化版★クーポンで1,580円~／モバイルバッテリー 大容量 2/30000mAh モバイルバッテリー 軽量 **
-   - 価格: 2,280円 / ★4.52（2,388件） / 料率 2.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00uqt6o.72d3y2ae.g00uqt6o.72d3z8fb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffelice1009%2Ffelice-n15%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffelice1009%2Fi%2F10000004%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: レビューを見て買う人が多いやつ。&#128267;約209gの軽量設計｜手のひらサイズで持ち運びラ。レビュー2,388件で★4.52。2,280円。
-
-4. **【マラソン限定★10％OFF】iphone18Pro 18promax ケース ショルダー付き iPhone17 iph**
-   - 価格: 2,280円 / ★4.42（6,384件） / 料率 2.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00tzhvo.72d3ybbc.g00tzhvo.72d3z263/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjustral%2Fs060%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjustral%2Fi%2F10000310%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: レビューを見て買う人が多いやつ。レビュー6,384件で★4.42。10%OFF。
+5. **保存水 備蓄水 10年保存水 1.8l 6本入 2ケース 12本 10年保存可能 防災 防災グッズ 非常時 災害 ミネラ**
+   - 価格: 3,860円 / ★4.75（1,375件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00q6uro.72d3y896.g00q6uro.72d3zf23/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fakol%2F1011801%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fakol%2Fi%2F10000484%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。子どもがいる家で助かった系。長期保存すると、内容液が減り容器が変形することがありますが、品質に問題ありません。レビュー1,375件で★4.75。3,860円。
 
 ### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
 
-- **20代男性のリピート候補**: Anker Bank 15 Android / まで】 スクールセーター 男子 学校 高校生 / 2026進化版 モバイルバッテリー 大容量 / 18promax ケース ショルダー付き
-
-## 20:16 寒さ対策・冬支度（開催中） × 40代男性（家族・晩酌・車）
-
-1. **【楽天1位】王様の夢枕2 （100万人以上の安眠を支え続けてきた日本製の安眠枕） 超極小ビーズ 寝返りしやすい ストレー**
-   - 価格: 8,800円 / ★4.27（16,146件） / 料率 3.0% / P2倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00px5io.72d3y4ae.g00px5io.72d3z3f4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Foyasumi%2Fs-500410%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Foyasumi%2Fi%2F10015354%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 家族みんなで使える定番。表の下部にあるバーを横に動かすと閲覧できます。で紹介されました。楽天ランキング1位、レビュー16,146件で★4.27。ポイント2倍で実質8,624円。
-
-2. **プードル金釦ノーカラーコート レディース 送料無料/メール便不可 coca コカ**
-   - 価格: 4,990円 / ★4.4（75件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qvdio.72d3y21f.g00qvdio.72d3z24e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcocacoca%2F26-230817001-14%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcocacoca%2Fi%2F10021613%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: まとめ買い向き。レビュー75件で★4.4。送料無料。
-
-3. **【マラソン限定！10%引クーポン】 超極厚60mm とろりんラグ 極細マイクロファイバー ホットカーペット対応 ラグ 厚**
-   - 価格: 5,999円 / ★4.67（327件） / 料率 3.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00ppglo.72d3y3f0.g00ppglo.72d3z552/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftansu%2F65010010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftansu%2Fi%2F10054591%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: まとめ買い向き。同シリーズはこちら極厚60mmまだまだあります。レビュー327件で★4.67。10%OFF。
-
-4. **【マラソン限定10%OFFクーポン】こたつ布団 【洗濯機で洗える】長方形 正方形 240×190cm 190×190cm**
-   - 価格: 6,600円 / ★4.5（360件） / 料率 3.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00rra6o.72d3ybe6.g00rra6o.72d3z9ba/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fzakka-elements%2F70107%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fzakka-elements%2Fi%2F10008784%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 週末のお楽しみ用に。レビュー360件で★4.5。10%OFF。
-
-### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
-
-- **40代男性のリピート候補**: 王様の夢枕2 超極小ビーズ 寝返りしやすい / プードル金釦ノーカラーコート レディース / 超極厚60mm とろりんラグ / こたつ布団 長方形 正方形
+- **子育て世帯のママ・パパのリピート候補**: 高評価 4.7 光るホイール / 手持ち花火 400本以上 安全検査合格品！ / CICINELL バランスボード 木製 子供 / ぷにっこ スイーツシリーズ ふわふわスフレ / 保存水 備蓄水 10年保存水 1.8l
 
