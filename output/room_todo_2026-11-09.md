@@ -55,3 +55,29 @@
 
 - **20代男性のリピート候補**: Anker Bank 15 Android / まで】 スクールセーター 男子 学校 高校生 / 2026進化版 モバイルバッテリー 大容量 / 18promax ケース ショルダー付き
 
+## 20:16 寒さ対策・冬支度（開催中） × 40代男性（家族・晩酌・車）
+
+1. **【楽天1位】王様の夢枕2 （100万人以上の安眠を支え続けてきた日本製の安眠枕） 超極小ビーズ 寝返りしやすい ストレー**
+   - 価格: 8,800円 / ★4.27（16,146件） / 料率 3.0% / P2倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00px5io.72d3y4ae.g00px5io.72d3z3f4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Foyasumi%2Fs-500410%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Foyasumi%2Fi%2F10015354%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 家族みんなで使える定番。表の下部にあるバーを横に動かすと閲覧できます。で紹介されました。楽天ランキング1位、レビュー16,146件で★4.27。ポイント2倍で実質8,624円。
+
+2. **プードル金釦ノーカラーコート レディース 送料無料/メール便不可 coca コカ**
+   - 価格: 4,990円 / ★4.4（75件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qvdio.72d3y21f.g00qvdio.72d3z24e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcocacoca%2F26-230817001-14%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcocacoca%2Fi%2F10021613%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: まとめ買い向き。レビュー75件で★4.4。送料無料。
+
+3. **【マラソン限定！10%引クーポン】 超極厚60mm とろりんラグ 極細マイクロファイバー ホットカーペット対応 ラグ 厚**
+   - 価格: 5,999円 / ★4.67（327件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00ppglo.72d3y3f0.g00ppglo.72d3z552/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftansu%2F65010010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftansu%2Fi%2F10054591%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: まとめ買い向き。同シリーズはこちら極厚60mmまだまだあります。レビュー327件で★4.67。10%OFF。
+
+4. **【マラソン限定10%OFFクーポン】こたつ布団 【洗濯機で洗える】長方形 正方形 240×190cm 190×190cm**
+   - 価格: 6,600円 / ★4.5（360件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00rra6o.72d3ybe6.g00rra6o.72d3z9ba/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fzakka-elements%2F70107%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fzakka-elements%2Fi%2F10008784%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 週末のお楽しみ用に。レビュー360件で★4.5。10%OFF。
+
+### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
+
+- **40代男性のリピート候補**: 王様の夢枕2 超極小ビーズ 寝返りしやすい / プードル金釦ノーカラーコート レディース / 超極厚60mm とろりんラグ / こたつ布団 長方形 正方形
+
