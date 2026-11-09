@@ -29,3 +29,29 @@
 
 - **30代女性のリピート候補**: 上半期2度No1！30万枚突破 日本製 / 横向き 首が痛くならない 首こり 肩こり / 新色 uネック tシャツ 深め レディース / 山崎実業 tower シューズラック 大容量
 
+## 11:58 今売れている物 × 20代男性（ガジェット・一人暮らし）
+
+1. **Anker Power Bank (10000mAh, 22.5W) (モバイルバッテリー 10000mAh 最大22.**
+   - 価格: 3,490円 / ★4.53（2,301件） / 料率 2.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00rr09o.72d3y980.g00rr09o.72d3z79c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa1257%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10001908%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 一人暮らしの部屋に1つあると便利。出力薄型設計搭載ポートの3点で進化したモバイルバッテリーです。持ち歩きの際にケーブルを別で準備する必要はありません。レビュー2,301件で★4.53。3,490円。
+
+2. **【エントリーでP10倍 11/10(火)まで】 スクールセーター 男子 【 日本製 】 学校 高校生 中学生 制服 セー**
+   - 価格: 3,990円 / ★4.65（348件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00ti5mo.72d3y7da.g00ti5mo.72d3z0b7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkanko%2Fkhs414_men%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkanko%2Fi%2F10000554%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: レビューを見て買う人が多いやつ。細い糸を使って編まれており、目が細かいため風通しが少なく温かくご着用いただけます。レビュー348件で★4.65。11/10まで、送料無料。
+
+3. **＼2026進化版★クーポンで1,580円~／モバイルバッテリー 大容量 2/30000mAh モバイルバッテリー 軽量 **
+   - 価格: 2,280円 / ★4.52（2,388件） / 料率 2.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00uqt6o.72d3y2ae.g00uqt6o.72d3z8fb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffelice1009%2Ffelice-n15%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffelice1009%2Fi%2F10000004%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: レビューを見て買う人が多いやつ。&#128267;約209gの軽量設計｜手のひらサイズで持ち運びラ。レビュー2,388件で★4.52。2,280円。
+
+4. **【マラソン限定★10％OFF】iphone18Pro 18promax ケース ショルダー付き iPhone17 iph**
+   - 価格: 2,280円 / ★4.42（6,384件） / 料率 2.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00tzhvo.72d3ybbc.g00tzhvo.72d3z263/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjustral%2Fs060%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjustral%2Fi%2F10000310%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: レビューを見て買う人が多いやつ。レビュー6,384件で★4.42。10%OFF。
+
+### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
+
+- **20代男性のリピート候補**: Anker Bank 15 Android / まで】 スクールセーター 男子 学校 高校生 / 2026進化版 モバイルバッテリー 大容量 / 18promax ケース ショルダー付き
+

@@ -20907,7 +20907,8 @@
   "shop_name": "タンスのゲン Design the Future",
   "review_count": 9312,
   "review_average": 4.45,
-  "genre_id": "563689"
+  "genre_id": "563689",
+  "instagram_story_id": "17933617266162029"
  },
  {
   "date": "2026-11-09T07:01:30",
@@ -20980,5 +20981,105 @@
   "review_count": 141,
   "review_average": 4.4,
   "genre_id": "505097"
+ },
+ {
+  "date": "2026-11-09T11:58:18",
+  "slot": "noon",
+  "theme": "今売れている物 × 20代男性（ガジェット・一人暮らし）",
+  "persona": "20s_man",
+  "item_code": "anker:10001908",
+  "item_name": "Anker Power Bank (10000mAh, 22.5W) (モバイルバッテリー 10000mAh 最大22.5W出力 USB-C & USB-C ケ",
+  "price": 3490,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rr09o.72d3y980.g00rr09o.72d3z79c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa1257%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10001908%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 2.0,
+  "text": "#PR 一人暮らしのQOLが1段上がる\nAnker Bank 15 Android\n★4.53・レビュー2,301件\n3,490円\n使ってる人いたら感想ください\n#楽天購入品\n▶ROOMはプロフから",
+  "tweet_id": "",
+  "threads_id": "18001573491041206",
+  "room_done": false,
+  "image": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/tmb/a1/a1257_normal.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/tmb/a1/a1257_normal.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/images/09779934/a1257011_2.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/listing/product/a1257/a1257_sub_2v2.jpg?_ex=600x600"
+  ],
+  "shop_name": "アンカー・ダイレクト楽天市場店",
+  "review_count": 2301,
+  "review_average": 4.53,
+  "genre_id": "564277",
+  "instagram_id": "18084361244368435",
+  "instagram_story_id": "18088402034316289"
+ },
+ {
+  "date": "2026-11-09T11:58:18",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "今売れている物 × 20代男性（ガジェット・一人暮らし）",
+  "persona": "20s_man",
+  "item_code": "kanko:10000554",
+  "item_name": "【エントリーでP10倍 11/10(火)まで】 スクールセーター 男子 【 日本製 】 学校 高校生 中学生 制服 セーター 無地 紺 ネイビー チャコール グ",
+  "price": 3990,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00ti5mo.72d3y7da.g00ti5mo.72d3z0b7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkanko%2Fkhs414_men%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkanko%2Fi%2F10000554%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "レビューを見て買う人が多いやつ。細い糸を使って編まれており、目が細かいため風通しが少なく温かくご着用いただけます。レビュー348件で★4.65。11/10まで、送料無料。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/kanko/cabinet/06864560/imgrc0119717533.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/kanko/cabinet/06864560/imgrc0119717533.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/kanko/cabinet/06873290/imgrc0129482801.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/kanko/cabinet/06944895/imgrc0108867102.jpg?_ex=600x600"
+  ],
+  "shop_name": "制服専門店　カンコーショップ",
+  "review_count": 348,
+  "review_average": 4.65,
+  "genre_id": "206367"
+ },
+ {
+  "date": "2026-11-09T11:58:18",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "今売れている物 × 20代男性（ガジェット・一人暮らし）",
+  "persona": "20s_man",
+  "item_code": "felice1009:10000004",
+  "item_name": "＼2026進化版★クーポンで1,580円~／モバイルバッテリー 大容量 2/30000mAh モバイルバッテリー 軽量 小型 22.5W急速充電 4本ケーブル内",
+  "price": 2280,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00uqt6o.72d3y2ae.g00uqt6o.72d3z8fb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffelice1009%2Ffelice-n15%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffelice1009%2Fi%2F10000004%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 2.0,
+  "text": "レビューを見て買う人が多いやつ。&#128267;約209gの軽量設計｜手のひらサイズで持ち運びラ。レビュー2,388件で★4.52。2,280円。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/felice1009/cabinet/product/n16/n16-1580new.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/felice1009/cabinet/product/n16/n16-1580new.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/felice1009/cabinet/product/n16/n16-1.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/felice1009/cabinet/product/n16/n16-2.jpg?_ex=600x600"
+  ],
+  "shop_name": "FeLiCeショップ楽天市場店",
+  "review_count": 2388,
+  "review_average": 4.52,
+  "genre_id": "564277"
+ },
+ {
+  "date": "2026-11-09T11:58:18",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "今売れている物 × 20代男性（ガジェット・一人暮らし）",
+  "persona": "20s_man",
+  "item_code": "justral:10000310",
+  "item_name": "【マラソン限定★10％OFF】iphone18Pro 18promax ケース ショルダー付き iPhone17 iphone17e 17pro iPhone1",
+  "price": 2280,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tzhvo.72d3ybbc.g00tzhvo.72d3z263/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjustral%2Fs060%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjustral%2Fi%2F10000310%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 2.0,
+  "text": "レビューを見て買う人が多いやつ。レビュー6,384件で★4.42。10%OFF。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/justral/cabinet/phone/s060/11181744/s060_00.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/justral/cabinet/phone/s060/11181744/s060_00.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/justral/cabinet/phone/s060/11181744/s060_01.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/justral/cabinet/phone/s060/imgrc0102579766.jpg?_ex=600x600"
+  ],
+  "shop_name": "JUSTRAL",
+  "review_count": 6384,
+  "review_average": 4.42,
+  "genre_id": "560271"
  }
 ]
