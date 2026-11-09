@@ -21081,5 +21081,16 @@
   "review_count": 6384,
   "review_average": 4.42,
   "genre_id": "560271"
+ },
+ {
+  "date": "2026-11-09T18:31:14",
+  "slot": "evening",
+  "kind": "engage",
+  "engage_key": "q1",
+  "theme": "反応投稿（question）",
+  "persona": "all",
+  "text": "セールのたびに必ず買うもの、ありますか？\nうちは米と炭酸水が定番になりつつあります。",
+  "tweet_id": "",
+  "threads_id": "18157358860549649"
  }
 ]
