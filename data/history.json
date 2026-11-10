@@ -21217,7 +21217,8 @@
   "shop_name": "Giftrium【公式】楽天市場店",
   "review_count": 1289,
   "review_average": 4.72,
-  "genre_id": "564079"
+  "genre_id": "564079",
+  "instagram_story_id": "18081895796738464"
  },
  {
   "date": "2026-11-10T07:01:28",
@@ -21314,5 +21315,129 @@
   "review_count": 1375,
   "review_average": 4.75,
   "genre_id": "501129"
+ },
+ {
+  "date": "2026-11-10T12:05:22",
+  "slot": "noon",
+  "theme": "寒さ対策・冬支度（開催中） × 30代男性（健康・効率化・家電）",
+  "persona": "30s_man",
+  "item_code": "hitidear:10000173",
+  "item_name": "【クーポンで最安5805円】「楽天1位」ふわとろ毛布 電気毛布 掛け敷き モコモコブランケット 極上ふわとろ 毛布ブランケット もこもこ ふわふわ シングル 即",
+  "price": 12900,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00uab6o.72d3ye97.g00uab6o.72d3z823/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhitidear%2Fcozywave-g1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhitidear%2Fi%2F10000173%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 2.0,
+  "text": "#PR 時間をお金で買うならこれ\n「楽天1位」ふわとろ毛布 電気毛布 掛け敷き\n★4.56・レビュー3,774件・楽天ランキング1位\n12,900円\n使ってる人いたら感想ください\n#楽天購入品\n▶ROOMはプロフから",
+  "tweet_id": "",
+  "threads_id": "17978560143159058",
+  "room_done": false,
+  "image": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/hitidear/cabinet/10065696/10914652/g1-5805.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/hitidear/cabinet/10065696/10914652/g1-5805.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/hitidear/cabinet/13904570/1.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/hitidear/cabinet/13904570/2.jpg?_ex=600x600"
+  ],
+  "shop_name": "Hitidear",
+  "review_count": 3774,
+  "review_average": 4.56,
+  "genre_id": "208397",
+  "instagram_id": "17956082376293560",
+  "instagram_story_id": "17921141250465099"
+ },
+ {
+  "date": "2026-11-10T12:05:22",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "寒さ対策・冬支度（開催中） × 30代男性（健康・効率化・家電）",
+  "persona": "30s_man",
+  "item_code": "hm-mart:10000356",
+  "item_name": "徳島県産コシヒカリ 一等米 単一原料米 新米 産地直送 令和8年産 5kg 白米 米 お米 国産 家庭用 定食 ご飯 ハンバーグ とんかつ 粘り ふっくら hm",
+  "price": 4980,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00uqkao.72d3y56f.g00uqkao.72d3z1a2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhm-mart%2Fhmm-x01022%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhm-mart%2Fi%2F10000356%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。スペック比較して残ったやつ。レビュー198件で★4.7。4,980円。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/hm-mart/cabinet/main_image/hmm-x01022.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/hm-mart/cabinet/main_image/hmm-x01022.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/hm-mart/cabinet/chy/hmm-x01022-2.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/hm-mart/cabinet/chy/hmm-x01022-3.jpg?_ex=600x600"
+  ],
+  "shop_name": "エヌブロス　楽天市場店",
+  "review_count": 198,
+  "review_average": 4.7,
+  "genre_id": "201184"
+ },
+ {
+  "date": "2026-11-10T12:05:22",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "寒さ対策・冬支度（開催中） × 30代男性（健康・効率化・家電）",
+  "persona": "30s_man",
+  "item_code": "tansu:10055432",
+  "item_name": "【本日5%引クーポン】 洗える ストライプ フランネル キルトラグ 蒸れにくい吸放湿シート 130×190 / 190×190 / 190×240 / 190×",
+  "price": 2499,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00ppglo.72d3y3f0.g00ppglo.72d3z552/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftansu%2F61300052%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftansu%2Fi%2F10055432%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 3.0,
+  "text": "今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。毎日使うものほど良い物を、の代表。まだまだあります。レビュー1,082件で★4.62。2,499円。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/tansu/cabinet/00180262/61300052_10d.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/tansu/cabinet/00180262/61300052_10d.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/tansu/cabinet/img11/61300052_sp2a.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/tansu/cabinet/634/61140725_fka1a.jpg?_ex=600x600"
+  ],
+  "shop_name": "タンスのゲン Design the Future",
+  "review_count": 1082,
+  "review_average": 4.62,
+  "genre_id": "551228"
+ },
+ {
+  "date": "2026-11-10T12:05:22",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "寒さ対策・冬支度（開催中） × 30代男性（健康・効率化・家電）",
+  "persona": "30s_man",
+  "item_code": "hhh-style:10027723",
+  "item_name": "「 素 肌 感 」 ニット 綿100％ タートルネック レディース トップス セーター ハイネック クルーネック コットン チクチクしない 重ね着 薄手 ボーダ",
+  "price": 2999,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00s53co.72d3ye62.g00s53co.72d3z098/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhhh-style%2Fy838%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhhh-style%2Fi%2F10027723%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。スペック比較して残ったやつ。商品説明汎用性の高いシンプルなハイネックのリブプルオーバー。ボトムやシーンを選ばないシンプルデザインなので毎日でも着たい頼れるアイテムです。レビュー1,963件で★4.25。2,999円。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/hhh-style/cabinet/60309/y838-1.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/hhh-style/cabinet/60309/y838-1.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/hhh-style/cabinet/60309/y838-2.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/hhh-style/cabinet/60309/y838-3.jpg?_ex=600x600"
+  ],
+  "shop_name": "HUG.U（ハグユー）",
+  "review_count": 1963,
+  "review_average": 4.25,
+  "genre_id": "566028"
+ },
+ {
+  "date": "2026-11-10T12:05:22",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "寒さ対策・冬支度（開催中） × 30代男性（健康・効率化・家電）",
+  "persona": "30s_man",
+  "item_code": "enterb:10000081",
+  "item_name": "クーポンで最安2,777円！楽天1位 セラミックヒーター ファンヒーター 2秒速暖 人感センサー搭載 タイマー付き 小型 静音 省エネ おしゃれ 足元ヒーター ",
+  "price": 3277,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00ty4no.72d3ye2a.g00ty4no.72d3z692/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fenterb%2Fhw-g1-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fenterb%2Fi%2F10000081%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 2.0,
+  "text": "今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。毎日使うものほど良い物を、の代表。赤ちゃんやペットのいるご家庭でも安心に使えますコンパクト・軽量約。万が一不意の衝撃でもこの電気ヒーターが倒れても、自動的に電源が切ります。楽天ランキング1位、レビュー6,773件で★4.35。3,277円。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/enterb/cabinet/event/url1/g1--2777.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/enterb/cabinet/event/url1/g1--2777.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/enterb/cabinet/product/hw-g1/2026/1.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/enterb/cabinet/product/hw-g1/2026/4-1.jpg?_ex=600x600"
+  ],
+  "shop_name": "Enterbox",
+  "review_count": 6773,
+  "review_average": 4.35,
+  "genre_id": "212277"
  }
 ]
