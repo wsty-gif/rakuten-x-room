@@ -55,3 +55,29 @@
 
 - **20代女性のリピート候補**: 選べるアーム2タイプ 腰楽ランバーサポート / 感動のふわふわ極厚 西川 厚手 毛布 / 日替わり特価 マダガスカル産CICA 韓国 / お試し よりどり5本セット
 
+## 20:16 今売れている物 × 子育て世帯のママ・パパ
+
+1. **【 公式】ユニースリープ 1位獲得 新生児～24か月 絶壁予防 ベビー枕 赤ちゃん枕 寝返り防止 横向き枕 ユニースリー**
+   - 価格: 11,900円 / ★4.51（2,725件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00uk35o.72d3y7ce.g00uk35o.72d3z603/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkanseikukan%2Fyuunysleep01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkanseikukan%2Fi%2F10000006%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: まとめ買いしておくと楽になるもの。ご家族、ご友人への出産祝いやプレゼントとしてもピッタリです。寝かしつけが大変なお子様の睡眠補助用品となり、多くのお母さんから支持されています。レビュー2,725件で★4.51。送料無料。
+
+2. **【35%OFFクーポン★ 11/11 23:59迄】 新商品 抱っこ紐 ケープ 防寒ケープ 抱っこ紐 冬 ベビーカー 防**
+   - 価格: 4,980円 / ★4.52（405件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00s0p3o.72d3yc97.g00s0p3o.72d3z6fe/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-risecreation%2Fr0654%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-risecreation%2Fi%2F10005288%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 子どもがいる家で助かった系。少し肌寒い秋口や春先には、1枚で軽やかに。その日のスタイルや気温に合わせて、いつでもちょうどいいあたたかさを。レビュー405件で★4.52。35%OFF（11/1123:59まで）。
+
+3. **【1種類を選べる】マミーポコ パンツ 夜用 おむつ M L BIG BIG大(1ケース)【マミーポコ夜用パンツ】**
+   - 価格: 3,531円 / ★4.78（524件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00pzd4o.72d3yfe6.g00pzd4o.72d3zc1c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetbaby%2F405332%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnetbaby%2Fi%2F10045252%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: まとめ買いしておくと楽になるもの。おしっこ5回分の吸収パワーで夜モレあんしん寝る前に楽しくおむつ替えできます。レビュー524件で★4.78。3,531円。
+
+4. **簡単着付け 脇ファスナー袴ワンピース 卒業袴 簡単着付け 目玉セール オールインワン袴 女の子 小学生 幼稚園 保育園 **
+   - 価格: 8,880円 / ★4.34（924件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00po1fo.72d3yb26.g00po1fo.72d3zd35/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcatherine%2Fhakast6%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcatherine%2Fi%2F10005282%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 子どもがいる家で助かった系。POINT・脇ファスナーで簡単着脱。簡単着付けの秘密は脇ファスナー。レビュー924件で★4.34。8,880円。
+
+### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
+
+- **子育て世帯のママ・パパのリピート候補**: ユニースリープ 1位獲得 新生児～24か月 / 新商品 抱っこ紐 ケープ 防寒ケープ / マミーポコ パンツ 夜用 おむつ BIG / 簡単着付け 脇ファスナー袴ワンピース 卒業袴
+
