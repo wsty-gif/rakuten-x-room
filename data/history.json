@@ -21965,5 +21965,16 @@
   "review_count": 12774,
   "review_average": 4.72,
   "genre_id": "505629"
+ },
+ {
+  "date": "2026-11-11T18:31:04",
+  "slot": "evening",
+  "kind": "engage",
+  "engage_key": "poll1",
+  "theme": "反応投稿（poll）",
+  "persona": "all",
+  "text": "楽天で買うとき、いちばん気にするのは？",
+  "tweet_id": "",
+  "threads_id": "18147960622604736"
  }
 ]
