@@ -21791,7 +21791,8 @@
   "shop_name": "リカーBOSS 楽天市場店",
   "review_count": 2279,
   "review_average": 4.87,
-  "genre_id": "408186"
+  "genre_id": "408186",
+  "instagram_story_id": "18094556516675656"
  },
  {
   "date": "2026-11-11T07:01:38",
@@ -21864,5 +21865,105 @@
   "review_count": 74,
   "review_average": 4.73,
   "genre_id": "563342"
+ },
+ {
+  "date": "2026-11-11T12:01:45",
+  "slot": "noon",
+  "theme": "寒さ対策・冬支度（開催中） × 20代女性（自分磨き・プチプラ・映え）",
+  "persona": "20s_woman",
+  "item_code": "tansu:10044027",
+  "item_name": "《4年連続 最も売れた オフィスチェア 》選べるアーム2タイプ 腰楽ランバーサポート 床傷防止PUキャスター 肘付き メッシュ ハイバック コンパクト デスクチ",
+  "price": 6999,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00ppglo.72d3y3f0.g00ppglo.72d3z552/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftansu%2F65090108%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftansu%2Fi%2F10044027%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 3.0,
+  "text": "#PR これ知らないの、正直もったいない\n選べるアーム2タイプ 腰楽ランバーサポート\n★4.42・レビュー5,523件\n6,999円\n使ってる人いたら感想ください\n#楽天購入品\n▶ROOMはプロフから",
+  "tweet_id": "",
+  "threads_id": "17921836944459750",
+  "room_done": false,
+  "image": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/tansu/cabinet/kotatu8/65090108_10.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/tansu/cabinet/kotatu8/65090108_10.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/tansu/cabinet/kotatu8/65090108_renew2a.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/tansu/cabinet/img10/65090108_rank2023.jpg?_ex=600x600"
+  ],
+  "shop_name": "タンスのゲン Design the Future",
+  "review_count": 5523,
+  "review_average": 4.42,
+  "genre_id": "300848",
+  "instagram_id": "18083525660362421",
+  "instagram_story_id": "17927914683201503"
+ },
+ {
+  "date": "2026-11-11T12:01:45",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "寒さ対策・冬支度（開催中） × 20代女性（自分磨き・プチプラ・映え）",
+  "persona": "20s_woman",
+  "item_code": "marukomaruko:10001760",
+  "item_name": "＼感動のふわふわ極厚／ 西川 厚手 毛布 シングル 約2.9kg 2枚合わせ 夢見る毛布 超ハイボリューム 綿入り ブランケット あったか 掛け布団 グラデーシ",
+  "price": 5980,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rxxxo.72d3y4cb.g00rxxxo.72d3z373/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmarukomaruko%2Fmof-nl-s-watairi07%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmarukomaruko%2Fi%2F10001760%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 3.0,
+  "text": "自分へのご褒美にちょうどいい価格。昭和西川あたたか布団厚手夢見る毛布シングル。レビュー98件で★4.71。5,980円。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/marukomaruko/cabinet/mofu/mof-nl-watairi07_01.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/marukomaruko/cabinet/mofu/mof-nl-watairi07_01.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_gold/marukomaruko/item/mof-nl-s-watairi07/mof-nl-s-watairi07_02.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_gold/marukomaruko/item/mof-nl-s-watairi07/mof-nl-s-watairi07_03.jpg?_ex=600x600"
+  ],
+  "shop_name": "日本産布団の夢眠",
+  "review_count": 98,
+  "review_average": 4.71,
+  "genre_id": "205611"
+ },
+ {
+  "date": "2026-11-11T12:01:45",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "寒さ対策・冬支度（開催中） × 20代女性（自分磨き・プチプラ・映え）",
+  "persona": "20s_woman",
+  "item_code": "skin1004-official:10000094",
+  "item_name": "＼11.9限定★日替わり特価★40%OFF／【センテラ アンプル】マダガスカル産CICA 韓国 ベース美容液 敏感肌用 保湿 肌荒れ防止 自然由来成分 スキンケ",
+  "price": 2500,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00und5o.72d3y426.g00und5o.72d3za0a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fskin1004-official%2F1003093003%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fskin1004-official%2Fi%2F10000094%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "SNSで見かけて気になってたやつ。【公式】ゆらぎがちな肌を素早く落ち着かせるお守りのようなベース美容液。レビュー396件で★4.62。40%OFF。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/skin1004-official/cabinet/11309195/11551680/14080949/imgrc0344910853.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/skin1004-official/cabinet/11309195/11551680/14080949/imgrc0344910853.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/skin1004-official/cabinet/11309195/11309204/11344397/imgrc0338388670.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/skin1004-official/cabinet/11309195/11309204/11344397/imgrc0338388666.jpg?_ex=600x600"
+  ],
+  "shop_name": "SKIN1004 OFFICIAL",
+  "review_count": 396,
+  "review_average": 4.62,
+  "genre_id": "216348"
+ },
+ {
+  "date": "2026-11-11T12:01:45",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "寒さ対策・冬支度（開催中） × 20代女性（自分磨き・プチプラ・映え）",
+  "persona": "20s_woman",
+  "item_code": "inscent:10002510",
+  "item_name": "お試し よりどり5本セット (各5ml) エッセンシャルオイル 精油 アロマオイル 【送料無料】 全30種 メール便 （追跡番号付き) 代金引換不可 アロマディ",
+  "price": 1650,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pxdwo.72d3yf5a.g00pxdwo.72d3z2bb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Finscent%2F620391%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Finscent%2Fi%2F10002510%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "プチプラで探してる人に。レビュー12,774件で★4.72。送料無料。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/inscent/cabinet/product-images2/620391.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/inscent/cabinet/product-images2/620391.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/inscent/cabinet/10481173/10481176/imgrc0112839531.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/inscent/cabinet/10481173/10481176/imgrc0112839532.jpg?_ex=600x600"
+  ],
+  "shop_name": "インセントオンラインショップ",
+  "review_count": 12774,
+  "review_average": 4.72,
+  "genre_id": "505629"
  }
 ]
