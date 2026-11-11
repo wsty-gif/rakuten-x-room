@@ -36571,6 +36571,13 @@
     "theme": "寒さ対策・冬支度（開催中） × 20代女性（自分磨き・プチプラ・映え）",
     "persona": "20s_woman",
     "event_type": "season"
+   },
+   {
+    "date": "2026-11-12",
+    "slot": "morning",
+    "theme": "寒さ対策・冬支度（開催中） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "season"
    }
   ],
   "item_code": "tansu:10044250",
@@ -36580,14 +36587,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00ppglo.72d3y3f0.g00ppglo.72d3z552/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftansu%2F1670000100%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/tansu/cabinet/pet2/21700022_10t.jpg?_ex=600x600",
   "shop_name": "タンスのゲン Design the Future",
-  "review_count": 737,
+  "review_count": 739,
   "review_average": 4.45,
   "affiliate_rate": 2.0,
   "point_rate": 1,
   "catchcopy": "保温性UP！コンパクト 収納 ホットカーペット 1畳 2畳 3畳 4畳 電気カーペット 床暖房カーペット ホットマット 電気マット 冬 暖房器具 長方形 ダニ退治 タイマー 《安心の1年保証》",
   "genre_id": "208390",
-  "score": 13.4,
-  "last_seen": "2026-11-11T12:01:45",
+  "score": 12.5,
+  "last_seen": "2026-11-12T07:02:19",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/tansu/cabinet/pet2/21700022_10t.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/tansu/cabinet/00042380/1670000100_ra.jpg?_ex=600x600",
@@ -41602,25 +41609,32 @@
     "theme": "今売れている物 × 子育て世帯のママ・パパ",
     "persona": "mama",
     "event_type": "baseline"
+   },
+   {
+    "date": "2026-11-12",
+    "slot": "morning",
+    "theme": "寒さ対策・冬支度（開催中） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "season"
    }
   ],
   "item_code": "supernice-store:10000012",
-  "name": "★45％OFFクーポン配布★【SPICARE正規品】SPICARE V3 ファンデーション スピケア 崩れない カバー力 肌に優しい 美肌 保湿 保湿成分配合 ツヤ ハリ感 本体 レフィル パフ付き 15g",
+  "name": "★期間限定50％OFFクーポン配布★【SPICARE正規品】SPICARE V3 ファンデーション スピケア 崩れない カバー力 肌に優しい 美肌 保湿 保湿成分配合 ツヤ ハリ感 本体 レフィル パフ付き 15g",
   "price": 7700,
   "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00uno6o.72d3yf6c.g00uno6o.72d3zde9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsupernice-store%2Fspicare-v3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsupernice-store%2Fi%2F10000012%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00uno6o.72d3yf6c.g00uno6o.72d3zde9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsupernice-store%2Fspicare-v3%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
-  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/supernice-store/cabinet/11108856/13233098/thu_45.jpg?_ex=600x600",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/supernice-store/cabinet/11108856/13233098/thu_50.jpg?_ex=600x600",
   "shop_name": "SUPER NICE！Store",
-  "review_count": 95,
-  "review_average": 4.48,
+  "review_count": 94,
+  "review_average": 4.49,
   "affiliate_rate": 4.0,
   "point_rate": 1,
   "catchcopy": "【正規品】V3ファンデーション - ふっくらみずみずしいツヤをまとった仕上がりが持続し、日々のメイク時間がスキンケアタイムに -",
   "genre_id": "568317",
-  "score": 14.66,
-  "last_seen": "2026-11-11T20:16:22",
+  "score": 13.89,
+  "last_seen": "2026-11-12T07:02:19",
   "image_urls": [
-   "https://thumbnail.image.rakuten.co.jp/@0_mall/supernice-store/cabinet/11108856/13233098/thu_45.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/supernice-store/cabinet/11108856/13233098/thu_50.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/supernice-store/cabinet/11108842/13297229/13297230/v3_lp_45.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/supernice-store/cabinet/11108870/13217853/13217856/02_260717.jpg?_ex=600x600"
   ],
@@ -41663,6 +41677,13 @@
     "theme": "寒さ対策・冬支度（開催中） × 20代女性（自分磨き・プチプラ・映え）",
     "persona": "20s_woman",
     "event_type": "season"
+   },
+   {
+    "date": "2026-11-12",
+    "slot": "morning",
+    "theme": "寒さ対策・冬支度（開催中） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "season"
    }
   ],
   "item_code": "auc-ningyohonpo:10001953",
@@ -41672,14 +41693,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00r30do.72d3y64a.g00r30do.72d3z81c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-ningyohonpo%2Fspruce180%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-ningyohonpo/cabinet/13580639/2026spruce-1.jpg?_ex=600x600",
   "shop_name": "恵月人形本舗",
-  "review_count": 1660,
+  "review_count": 1668,
   "review_average": 4.47,
   "affiliate_rate": 3.0,
   "point_rate": 1,
   "catchcopy": "【昨年度の2.5倍】過去最高のペースでご注文いただいております。",
   "genre_id": "213797",
-  "score": 13.29,
-  "last_seen": "2026-11-11T12:01:45",
+  "score": 13.39,
+  "last_seen": "2026-11-12T07:02:19",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-ningyohonpo/cabinet/13580639/2026spruce-1.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-ningyohonpo/cabinet/ranking.jpg?_ex=600x600",
@@ -42624,6 +42645,13 @@
     "theme": "寒さ対策・冬支度（開催中） × 20代女性（自分磨き・プチプラ・映え）",
     "persona": "20s_woman",
     "event_type": "season"
+   },
+   {
+    "date": "2026-11-12",
+    "slot": "morning",
+    "theme": "寒さ対策・冬支度（開催中） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "season"
    }
   ],
   "item_code": "quads:10000016",
@@ -42633,14 +42661,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00ugo6o.72d3y0a5.g00ugo6o.72d3zaf2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fquads%2Fqs324%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/quads/cabinet/2025aw/top_jpg/qs424_top_tmb_2.jpg?_ex=600x600",
   "shop_name": "QUADS公式楽天市場店",
-  "review_count": 627,
+  "review_count": 639,
   "review_average": 4.57,
   "affiliate_rate": 2.0,
   "point_rate": 1,
   "catchcopy": "【1年保証】省エネ大風量スリムパネルセラミックヒーター WIDE ENA HEAT ワイドエナヒート 電気ヒーター ファンヒーター 超薄型12cm 省スペース 人感センサー タイマー 室温設定18～30℃",
   "genre_id": "212277",
-  "score": 12.56,
-  "last_seen": "2026-11-11T12:01:45",
+  "score": 12.67,
+  "last_seen": "2026-11-12T07:02:19",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/quads/cabinet/2025aw/top_jpg/qs424_top_tmb_2.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/quads/cabinet/2025aw/qs424/12047166/qs424_tmb_02.jpg?_ex=600x600",
@@ -42664,6 +42692,13 @@
     "theme": "寒さ対策・冬支度（開催中） × 20代女性（自分磨き・プチプラ・映え）",
     "persona": "20s_woman",
     "event_type": "season"
+   },
+   {
+    "date": "2026-11-12",
+    "slot": "morning",
+    "theme": "寒さ対策・冬支度（開催中） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "season"
    }
   ],
   "item_code": "auc-risecreation:10005480",
@@ -42673,14 +42708,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00s0p3o.72d3yc97.g00s0p3o.72d3z6fe/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-risecreation%2Fr0900%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-risecreation/cabinet/product/top-2/r0900_ai_1.jpg?_ex=600x600",
   "shop_name": "atRise（アットライズ）",
-  "review_count": 33,
-  "review_average": 4.7,
+  "review_count": 42,
+  "review_average": 4.64,
   "affiliate_rate": 2.0,
   "point_rate": 1,
   "catchcopy": "寒い季節も快適に過ごせる♪ 軽くておしゃれなあったか生活。",
   "genre_id": "208397",
-  "score": 12.05,
-  "last_seen": "2026-11-11T12:01:45",
+  "score": 12.52,
+  "last_seen": "2026-11-12T07:02:19",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-risecreation/cabinet/product/top-2/r0900_ai_1.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-risecreation/cabinet/product/13033684/r0900_02.jpg?_ex=600x600",
@@ -42696,6 +42731,13 @@
     "slot": "night",
     "theme": "寒さ対策・冬支度（開催中） × 20代男性（ガジェット・一人暮らし）",
     "persona": "20s_man",
+    "event_type": "season"
+   },
+   {
+    "date": "2026-11-12",
+    "slot": "morning",
+    "theme": "寒さ対策・冬支度（開催中） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
     "event_type": "season"
    }
   ],
@@ -42713,7 +42755,7 @@
   "catchcopy": "超音波加湿でミストがすぐ出て潤せる加湿器。上部給水の2.4Lタンクをもち弱運転で約24時間使用可能。LEDの光が癒されるデザインが特徴です。",
   "genre_id": "204549",
   "score": 11.68,
-  "last_seen": "2026-11-10T20:40:06",
+  "last_seen": "2026-11-12T07:02:19",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/importshopaqua/cabinet/zoom_b/omk0/10/lshudf.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/importshopaqua/cabinet/service/fl-delivery.jpg?_ex=600x600",
@@ -43516,5 +43558,205 @@
    "https://thumbnail.image.rakuten.co.jp/@0_mall/sun-shop-r/cabinet/08234010/imgrc0097731879.jpg?_ex=600x600"
   ],
   "caption": "商品説明ナチュラルカラーのぬいぐるみでインテリアにも馴染みます♪ ふわふわもこもこの手触りで、抱っこするのにぴったりなサイズ感です。 手洗い可能なので、いつでも清潔に保てます。当店推奨年齢6歳以上素材ポリエステル100％お手入れ方法手洗可能。 お手入れ後は日陰でしっかり乾かしてください。原産国中国注意◆お子様に与える際は保護者の監視下の元ご利用下さい ◆一度水通ししてからご使用いただくことをお勧め致します ◆毛が抜けることもございますので、誤飲にご注意下さい ◆目のパーツなど小さな部品がございますので誤飲にご注意下さい ◆色・柄・サイズが多少異なる場合があります。個々のパソコンの環境で実物の色合いと異なります為、予めご了承ください。 ◆パソコンやディスプレイの環境、設定、見る角度によっては、本物と若干異なって見える場合がございます。 ◆サイズ詳細等の測り方はスタッフ間で統一、徹底はしておりますが、若干の誤差がある場合がございます。 ◆生産時期により、予告なく裏地の仕様やカラーの色味、生地の質感が変わる事が御座いますが、ご了承下さい。 ◆当店では再度検品し確認させて頂いておりますが、 海外輸入商品ですので日本より審査基準が甘く、 ・色移り・キズ・パッケージの皺・裁縫の甘さ・個体差 がございます。返品交換はお受付できかねますのでご了承下さい。"
+ },
+ "honwa:10000233": {
+  "first_seen": "2026-11-12T07:02:19",
+  "themes": [
+   {
+    "date": "2026-11-12",
+    "slot": "morning",
+    "theme": "寒さ対策・冬支度（開催中） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "season"
+   }
+  ],
+  "item_code": "honwa:10000233",
+  "name": "【20%OFFクーポンで最安2624円】楽天1位 掛け布団 日本製 オールシーズン シングル 150×210cm ふんわりあったか 保温性 厚手 冬掛け 冬用 夏用も選べる2タイプ 丸洗いOK 軽量 肌掛け 夏掛け エアコン・寝冷え対策 抗菌防臭 通気性 ほこりが出にくい 春夏秋冬 送料無料",
+  "price": 3280,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00upfwo.72d3yb5f.g00upfwo.72d3z1e9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhonwa%2Fdc-kf01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhonwa%2Fi%2F10000233%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00upfwo.72d3yb5f.g00upfwo.72d3z1e9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhonwa%2Fdc-kf01%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/honwa/cabinet/13469117/01.jpg?_ex=600x600",
+  "shop_name": "和らぎ本舗",
+  "review_count": 191,
+  "review_average": 4.63,
+  "affiliate_rate": 3.0,
+  "point_rate": 5,
+  "catchcopy": "洗える日本製掛け布団。ふんわりなめらか×さらりと快適なリバーシブル。選べる薄手・厚手の2タイプ。寒い冬には、ふっくら暖かい厚手タイプを。",
+  "genre_id": "563689",
+  "score": 16.36,
+  "last_seen": "2026-11-12T07:02:19",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/honwa/cabinet/13469117/01.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/honwa/cabinet/13469117/kf-2.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/honwa/cabinet/13469117/kf-3.jpg?_ex=600x600"
+  ],
+  "caption": "掛ふとん 商品仕様 品名 掛ふとん 組成 がわ生地：ポリエステル100％ 詰めもの：ポリエステル100％ 製品サイズ・重量 ハーフ：100×140cm／約0.9kg シングルロング（薄手）：150×210cm／約1.3kg シングルロング（厚手・冬用）：150×210cm／約2.4kg ※重量は詰めもののみではなく、製品全体の重量です。 ※キルティング製品許容範囲：＋5％～－3％ 原産国 日本 カラー 全6色 メーカー希望小売価格はメーカーサイトに基づいて掲載しています掛け布団 掛布団 掛ふとん シングル 日本製 冬用 冬布団 厚手 あったか 保温 防寒 洗える ふんわり リバーシブル オールシーズン 春 夏 秋 冬 肌掛け布団 合掛け布団 冬掛け布団 寝具 布団 150×210cm ポリエステル 速乾 通気性 抗菌 防臭 清潔 丸洗い やわらかい なめらか シンプル おしゃれ 無地 グレー ベージュ ピンク ブルー パープル 来客用 一人暮らし 新生活 寝具 インテリア プレゼント ギフト 大人 子供 DreamCat's",
+  "posted_text": "#PR 毎日の小さなストレス、これで消えます\n楽天1位 掛け布団 日本製 オールシーズン\n★4.63・レビュー191件・楽天ランキング1位\n20%OFF｜3,280円（P5倍で実質3,116円）\n#楽天購入品\n▶ROOMはプロフから",
+  "posted_at": "2026-11-12T07:02:19"
+ },
+ "texet:10002962": {
+  "first_seen": "2026-11-12T07:02:19",
+  "themes": [
+   {
+    "date": "2026-11-12",
+    "slot": "morning",
+    "theme": "寒さ対策・冬支度（開催中） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "season"
+   }
+  ],
+  "item_code": "texet:10002962",
+  "name": "新バージョン発売開始！【 テイジン 公式 】 極厚40mm ラグ 洗える 着せ替えラグ 3色 カバーリングラグ カバー ラグマット 厚手 マット 140×200cm 200×200cm 200×250cm 200×300cm カーペット 高反発ウレタン 長方形 正方形 防音 抗菌 防臭 防ダニ 滑り止め 帝人ラグ",
+  "price": 5500,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00sqjyo.72d3yf41.g00sqjyo.72d3zdcb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftexet%2F156%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftexet%2Fi%2F10002962%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00sqjyo.72d3yf41.g00sqjyo.72d3zdcb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftexet%2F156%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/texet/cabinet/06918827/07125165/12425092/imgrc0113362366.jpg?_ex=600x600",
+  "shop_name": "テイジン公式 楽天市場店",
+  "review_count": 642,
+  "review_average": 4.53,
+  "affiliate_rate": 3.0,
+  "point_rate": 1,
+  "catchcopy": "1.8畳 2.6畳 3.2畳 3.9畳 キルティング カバーリング 高反発ラグ キルトラグ フランネルラグ フランネル キルト かわいい おしゃれ 絨毯 こども 赤ちゃん ごろ寝 昼寝 マイティトップ",
+  "genre_id": "551228",
+  "score": 16.25,
+  "last_seen": "2026-11-12T07:02:19",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/texet/cabinet/06918827/07125165/12425092/imgrc0113362366.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/texet/cabinet/06918827/07125165/12425092/imgrc0113362370.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/texet/cabinet/06918827/07125165/12425092/imgrc0113362371.jpg?_ex=600x600"
+  ],
+  "caption": "製品仕様 商品名 「Conome 極厚40mm 洗える着せ替えラグ」 サイズ 140×200cm（約1.8畳） 200×200cm（約2.6畳） 200×250cm（約3.2畳） 200×300cm（約3.9畳） カラー アイボリー ベージュ ネイビー モカブラウン チャコールグレー 素材 ■極厚ラグ専用カバー 側地：ポリエステル100%　 グランド部分：ポリエステル100% 裏地・中綿：ポリエステル100% ■極厚ラグ本体 側地：ポリエステル100%（滑りにくい加工） 中材：高反発ウレタンフォーム 生産国 中国 製造元 帝人アクシア株式会社 商品説明 ご好評の「Conome 極厚ラグ」に新色が登場！ 極厚なのにカバーが外せるからいつでも洗えて清潔！ ふかふか もっちり「Conome 極厚ラグ」で気持ちよくごろごろしませんか？ 【point.1】らくらくお手入れ 着せ替えカバーの4隅にゴムがついている、 着脱式だからお洗濯のときもサッと外せる！ 【point.2】さらふわフランネル 冬はふわふわ快適に、 夏でもさらっと暑すぎない、 オールシーズン快適なさらふわフランネル 季節を問わずお使いいただけます 【point.3】極上のもっちり感 中材に弾力のある高反発ウレタンを使用 そのまま座っても、ごろごろしても体が痛くなりにくい 【point.4】清潔にもこだわるラグ 抗菌・防臭加工のSEKマークを取得 さらに滑り止め加工が施されており、安全かつ衛生的な使用が可能です 商品ラインナップについて こちらの商品ページでは ・フルセット(カバー+中材) ・中材のみ(※カバー別売り) の2パターンからご購入いただけます 「中材のみ」を選択いただいた場合はカバーは付属せず、 中材の極厚ラグ本体のみをお届けいたします ご注意事項 ・モニターの発色の具合によって実際のものと色が異なる場合がご"
+ },
+ "tv-ya:10002558": {
+  "first_seen": "2026-11-12T07:02:19",
+  "themes": [
+   {
+    "date": "2026-11-12",
+    "slot": "morning",
+    "theme": "寒さ対策・冬支度（開催中） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "season"
+   }
+  ],
+  "item_code": "tv-ya:10002558",
+  "name": "ひな暖毛布 シングル セミダブル ダブル クイーン 【 毛布 ひな暖 ひなだん ひな壇 発熱わた 保温わた 保温 電気不使用 マットレス用 ふとん用 発熱毛布 テレビショッピング】",
+  "price": 11088,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pqoro.72d3y77c.g00pqoro.72d3zeb2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftv-ya%2Fhinadan-ket-a-sg%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftv-ya%2Fi%2F10002558%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00pqoro.72d3y77c.g00pqoro.72d3zeb2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftv-ya%2Fhinadan-ket-a-sg%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/tv-ya/cabinet/item/hinadan-ket-a-sg/thum/hinadan-ket-a-sg_th.jpg?_ex=600x600",
+  "shop_name": "ダイレクトテレショップ",
+  "review_count": 102,
+  "review_average": 4.43,
+  "affiliate_rate": 3.0,
+  "point_rate": 1,
+  "catchcopy": "ひな暖毛布は独自の5層構造！寒い冬を乗り切る発熱あったか毛布。寒い冬でも暖かさをキープしてくれます。電気を使用しないので、電気代もかからず経済的です。",
+  "genre_id": "205611",
+  "score": 14.16,
+  "last_seen": "2026-11-12T07:02:19",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/tv-ya/cabinet/item/hinadan-ket-a-sg/thum/hinadan-ket-a-sg_th.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/tv-ya/cabinet/item/hinadan-ket-a-sg/thum/hinadan-ket-a-sg_1.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/tv-ya/cabinet/item/hinadan-ket-a-sg/thum/hinadan-ket-a-sg_2.jpg?_ex=600x600"
+  ],
+  "caption": "※返品について 原則未使用・未開封の商品に限り、8日以内まで返品可能です。 往復送料はお客様のご負担となります。（ご使用後に不良品とわかった場合は除く） ひな暖/毛布/発熱わた/保湿わた/保温/電気不使用/シングル/セミダブル/ダブル/マットレス用/ふとん用/ひな暖/ひなだん/ひな壇/発熱わた/保温わた/保温/電気不使用/蓄熱/防寒/経済的/掛け布団/掛布団/掛ふとん/掛けふとん/掛ぶとん/掛けぶとん/かけ布団/ふとん/かけぶとん/かけふとん/もうふ/ひざかけ/膝かけ/毛布/ブランケット/ひざ掛け/膝掛け/掛け毛布/ウォームブランケット/ホットブランケット/寝具/無地/洗える/洗える布団/洗える掛け布団/丸洗い可能/ウォッシャブル/洗える/洗濯可/マイクロファイバー/シングル/掛け布団シングル/シングル掛け布団/寒さ対策/冷え対策グッズ/暖房アイテム/冷暖房対策/新生活応援/お一人暮らし/単身赴任/お昼寝布団/来客用布団/冬用布団/冬布団/冬用掛け布団/冬掛布団/冬掛け布団/春/秋/冬/冬用/秋用/春用/秋冬寝具/秋冬用/寒い季節/ふわふわ/モコモコ/もこもこ/ポカポカ/あったか/あったか寝具/あったかい/おすすめ/あったか毛布/ぬくもり/暖かい/あたたかさ/マットレス用/ふとん用/高品質/快眠/眠り/毛布のおすすめ/冷え知らず毛布/贅沢な毛布/快適な寝具/ギフトに最適"
+ },
+ "belluna:10172548": {
+  "first_seen": "2026-11-12T07:02:19",
+  "themes": [
+   {
+    "date": "2026-11-12",
+    "slot": "morning",
+    "theme": "寒さ対策・冬支度（開催中） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "season"
+   }
+  ],
+  "item_code": "belluna:10172548",
+  "name": "【期間限定：1749円→1650円！】レギンスパンツ レディース きれいめ 秋 冬 秋冬 ストレッチパンツ スキニーパンツ 大きいサイズ ウエストゴム 黒 ブラック パンツ ストレッチ ポケット カジュアル 綿混 2026秋 ベルーナ S M L LL 3L 4L 5L 股下68cm 股下73cm 仕事 通勤 rev",
+  "price": 1650,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qtbao.72d3y53d.g00qtbao.72d3z7ec/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbelluna%2F134548-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbelluna%2Fi%2F10172548%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00qtbao.72d3y53d.g00qtbao.72d3z7ec/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbelluna%2F134548-1%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/belluna/cabinet/rich/26aw/134548-1_260916b.jpg?_ex=600x600",
+  "shop_name": "ベルーナ",
+  "review_count": 3484,
+  "review_average": 4.49,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "ベルーナ belluna レディース 2026秋 夏 春 新着 パンツ レギンス ボトムス ウエストゴム ストレッチ のびのび 裾上げ済 低身長 高身長 プレゼント ギフト ラッピング 154307",
+  "genre_id": "206440",
+  "score": 14.03,
+  "last_seen": "2026-11-12T07:02:19",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/belluna/cabinet/rich/26aw/134548-1_260916b.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/belluna/cabinet/rich/26aw_kinou/134548-3.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/belluna/cabinet/rich/26aw_kinou/134548-4.jpg?_ex=600x600"
+  ],
+  "caption": "▲有料ラッピングサービス開始価格改定のお知らせ日頃より当店をご利用いただき誠にありがとうございます。原材料の高騰により、価格を改定させていただきました。引き続きお客様にお喜びいただけますよう製品の品質向上、開発に努めてまいりますので何卒ご理解賜りますようよろしくお願い申し上げます。■価格改定内容1,639〜2,189円⇒1,749〜2,299円■改定日2026年7月14日ブランド：Belluna■ 品質／綿52％・ポリエステル38％・ポリウレタン10％　ポケット・飾りポケット有　ウエスト総ゴム使い　ファスナー無　＊ 摩擦等により色移りすることがあります。　＊ インディゴ・ケミカルは製品洗い加工の特徴上、色・サイズに差異が生じる場合があります■洗濯機洗いOK《全方向に伸びて快適！美脚見えが叶うベルーナ定番ストレッチパンツ》多くのお客様から支持いただいているベルーナ定番の万能パンツ。抜群のストレッチ性による快適な穿き心地、楽なのに美脚見えするきれいなシルエット、複数本欲しくなる豊富なバリエーションと三拍子そろった一着。【デザイン】・フィット感のある美脚シルエット・抜群のストレッチ性と追及されたデザインはヒップをきれいにカバー・高めに配置された大きめポケットは小尻見せとヒップアップ見えにも◎・レギンス感覚で楽に穿けるのにきれい見え・ウエストはよく伸びる総ゴム仕様で締め付け感も少なくラクチン・ウエスト部分のデザインにはベルトループや飾りポケットを配置【素材】・全方向に伸びるストレッチ素材で動きやすく、すっとはける・綿混のしっかりとしたツイル素材は厚すぎず薄すぎず長い期間着用可能・肌にも優しい柔らかな素材感【コーディネート】・チュニックに合わせれば簡単にサマ見えコーデが完成！・ニットやシャツチュニックと合わせれば品を感じさせるスタイリングに・ボリュームのあるトップスや着丈の長めなトッ"
+ },
+ "baieitenfashionnigou:10000205": {
+  "first_seen": "2026-11-12T07:02:19",
+  "themes": [
+   {
+    "date": "2026-11-12",
+    "slot": "morning",
+    "theme": "寒さ対策・冬支度（開催中） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "season"
+   }
+  ],
+  "item_code": "baieitenfashionnigou:10000205",
+  "name": "クーポンで最安3,980円~「楽天1位」【返品&交換保証 送料無料】AI自動温度調節 ふわとろ毛布 電気毛布 掛け敷き モコモコブランケット 炭素繊維ヒーター 極上ふわとろ 毛布ブランケッシングル 即暖 電気毛布 ひざ掛け 電気ブランケット 洗える ふわもこ",
+  "price": 7480,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00u4xuo.72d3y18e.g00u4xuo.72d3z2f0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbaieitenfashionnigou%2Fxt061%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbaieitenfashionnigou%2Fi%2F10000205%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00u4xuo.72d3y18e.g00u4xuo.72d3z2f0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbaieitenfashionnigou%2Fxt061%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/baieitenfashionnigou/cabinet/imgrc0122113549.jpg?_ex=600x600",
+  "shop_name": "baieiten fashion 2号店",
+  "review_count": 1761,
+  "review_average": 4.48,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "【国内品質検査クリア・3項目JIS試験済み 保温性・抗菌性・ホルムアルデヒド】AI自動温度調節×炭素繊維発熱 2枚合わせ毛布 電気毛布 あったかい CAVMHOT",
+  "genre_id": "208397",
+  "score": 12.96,
+  "last_seen": "2026-11-12T07:02:19",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/baieitenfashionnigou/cabinet/imgrc0122113549.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/baieitenfashionnigou/cabinet/13911273/14086313/2.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/baieitenfashionnigou/cabinet/13911273/14086313/1.jpg?_ex=600x600"
+  ],
+  "caption": "CAVMHOT 電気毛布 ふわっと、とろけるような心地よさ。 寒い季節のおうち時間を、もっと快適に。 やわらかな肌触りと電気のぬくもりで、 心地よいリラックスタイムをお届けします。 6つのおすすめポイント 01｜極上のふわとろ触感 ふんわりとやわらかなフランネル素材を採用。 なめらかな肌触りで、肌寒い季節も心地よくお使いいただけます。 ソファでのくつろぎ時間や、おやすみ前のリラックスタイムにもおすすめです。 02｜炭素繊維ヒーター採用 炭素繊維ヒーターを内蔵。 電気の力で毛布をあたため、寒い季節も快適なぬくもりをお届けします。 ふわふわの素材とヒーターのあたたかさを一緒に楽しめます。 03｜AI自動温度調節 AI自動温度調節機能を搭載。 温度をコントロールしながら、快適なあたたかさをサポートします。 約25℃～55℃の温度範囲に対応し、6段階でお好みの温度に調節できます。 04｜12時間タイマー搭載 使うシーンに合わせて設定できるタイマー機能を搭載。 消し忘れが気になる方にも便利です。 就寝前やリビングでのくつろぎ時間など、生活スタイルに合わせてご使用いただけます。 05｜本体は洗えて清潔 毛布本体は洗濯可能。 日常のお手入れがしやすく、清潔にお使いいただけます。 ダニ退治機能も搭載しています。 ※洗濯の際は必ずコントローラーを取り外し、取扱説明書に従ってください。 ※コントローラーは洗えません。 06｜国内品質検査実施済み 品質にも配慮した電気毛布。 保温性・抗菌性・ホルムアルデヒドに関する国内品質試験を実施済みです。 PSE表示のある製品です。 さまざまなシーンで活躍 ソファでのリラックスタイムに デスクワーク中のひざ掛けに 肌寒い日の肩掛けに おやすみ前の寒さ対策に 商品仕様 商品名 ふわとろ電気毛布 ブランド CAVMHOT サイズ 約190×130cm 重量 約2"
+ },
+ "renfrojapan:10000250": {
+  "first_seen": "2026-11-12T07:02:19",
+  "themes": [
+   {
+    "date": "2026-11-12",
+    "slot": "morning",
+    "theme": "寒さ対策・冬支度（開催中） × 30代女性（暮らし・時短・コスパ）",
+    "persona": "30s_woman",
+    "event_type": "season"
+   }
+  ],
+  "item_code": "renfrojapan:10000250",
+  "name": "【最大15%OFFクーポン！11/10〜11/11 1:59】着るホカロン あったかインナー レディース 長袖 7分丈 綿混 カップなし Uネック バレーネック インナー S M L LL 3L 綿95％ インナーシャツ 肌着 下着 暖かい 吸湿発熱 冬 保温 あったか インナー 防寒 トップス ラグラン 大きい",
+  "price": 1782,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00u0fco.72d3y9f2.g00u0fco.72d3z6f0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frenfrojapan%2Fhkald05ec%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frenfrojapan%2Fi%2F10000250%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00u0fco.72d3y9f2.g00u0fco.72d3z6f0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frenfrojapan%2Fhkald05ec%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/renfrojapan/cabinet/08258504/hkald05ec/2026/hkald05ec_main01.jpg?_ex=600x600",
+  "shop_name": "RENFRO",
+  "review_count": 2289,
+  "review_average": 4.53,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "吸湿発熱のコットン素材であったか 従来インナーより+3.8℃あったかい！綿95%でお肌にも優しい 微起毛カップなしインナー ラグランタイプで肩周りも楽ちん！冬の不快な静電気を軽減",
+  "genre_id": "566229",
+  "score": 12.08,
+  "last_seen": "2026-11-12T07:02:19",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/renfrojapan/cabinet/08258504/hkald05ec/2026/hkald05ec_main01.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/renfrojapan/cabinet/ranking/imgrc0213520266.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/renfrojapan/cabinet/08258504/hkald05ec/2026/hkald05ec_01_01.jpg?_ex=600x600"
+  ],
+  "caption": "着るホカロン 寒い冬もあったか快適！ 体感＋4.5℃！ホカロンのあったか微起毛コットンインナー 商品詳細 商品名 【1枚 M/L/LLサイズ】着るホカロン レディース インナー 綿混タイプ 販売単位 1枚：M/L/LLサイズ サイズ M/L/LL デザイン ブラック 素材 綿混 ご注意 ※写真と実物はお使いのモニターの明るさ、色合いにより多少異なることがあります。予めご了承ください。 キーワード 着るホカロン レディース インナー 綿混タイプ ブラック Mサイズ Lサイズ 女性 インナー レディースインナーシャツ レディースシャツ 女性用シャツ 肌着 防寒着 ヒートテック トップス Uネック 『RENFRO』は様々な贈り物にご利用いただけます。 季節のご挨拶 御正月 お正月 御年賀 お年賀 御年始 母の日 父の日 初盆 お盆 御中元 お中元 お彼岸 残暑御見舞 残暑見舞い 敬老の日 寒中お見舞 クリスマス クリスマスプレゼント お歳暮 御歳暮 春夏秋冬 日常の贈り物 御見舞 退院祝い 全快祝い 快気祝い 快気内祝い 御挨拶 ごあいさつ 引越しご挨拶 引っ越し お宮参り御祝 志 進物 長寿の御祝 61歳 還暦（かんれき） 還暦御祝い 還暦祝 祝還暦 華甲（かこう） 70歳 古希（こき） 祝古希 古希御祝 77歳 喜寿（きじゅ） 祝喜寿 喜寿御祝 80歳 傘寿（さんじゅ） 傘寿御祝 祝傘寿 88歳 米寿（べいじゅ） 祝米寿 米寿御祝 90歳 卒寿（そつじゅ） 祝卒寿 卒寿御祝 99歳 白寿（はくじゅ） 白寿御祝 百寿御祝 祝白寿 100歳 百寿（ひゃくじゅ・ももじゅ） 祝百寿 紀寿（きじゅ） 108歳 茶寿（ちゃじゅ） 祝茶寿 茶寿御祝 不枠（ふわく） 111歳 皇寿（こうじゅ） 川寿（せんじゅ） 120歳 大還暦（だいかんれき） 昔寿（せきじゅ） 賀寿 寿 寿福 祝御長寿 祝"
  }
 }
