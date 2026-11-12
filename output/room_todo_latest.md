@@ -55,3 +55,29 @@
 
 - **20代男性のリピート候補**: 電熱ベスト ヒーターベスト バッテリー付 / ゼルダの伝説 時のオカリナ / リカバリーウェア ReD ぐっすりパジャマ / 裏起毛 パンツ メンズ ボトム 蓄熱 ズボン
 
+## 20:16 寒さ対策・冬支度（開催中） × 30代男性（健康・効率化・家電）
+
+1. **収納ボックス 収納ケース RISUスタックシステムケース ワイド【2段セット】 カラーボックス チェスト おしゃれ 送料**
+   - 価格: 5,780円 / ★4.63（1,881件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00rbwuo.72d3ya28.g00rbwuo.72d3zb9d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frisu-onlineshop%2F16578-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frisu-onlineshop%2Fi%2F10002384%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 毎日使うものほど良い物を、の代表。さらに引き出しのストッパーがあるので、引き出しすぎて棚が落下する事がありません。レビュー1,881件で★4.63。送料無料。
+
+2. **ロールスクリーン オーダー 断熱 遮光 1級 つっぱり ロールカーテン ウォッシャブル 洗える 間仕切り 遮熱 防炎 防**
+   - 価格: 1,950円 / ★4.55（7,430件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00rrcto.72d3ya35.g00rrcto.72d3zf7c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdiydiy%2Fscreen-000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdiydiy%2Fi%2F10000119%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: スペック比較して残ったやつ。詳しく見るより、各タイプの詳細をご覧いただけます。レビュー7,430件で★4.55。1,950円。
+
+3. **＼高評価4.63！／【毎晩20時★先着6名様限定25％OFFクーポン】ロールスクリーン 調光 ロールカーテン ブラインド**
+   - 価格: 6,000円 / ★4.63（375件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00ug7do.72d3y56b.g00ug7do.72d3zed2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdanbo-ya%2Frta-002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdanbo-ya%2Fi%2F10000002%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 毎日使うものほど良い物を、の代表。レビュー375件で★4.63。25%OFF、送料無料。
+
+4. **楽天1位 遮光 カーテン 2枚セット 4枚セット ドレープカーテン レースカーテン タッセル 無地 遮光カーテン 1級 **
+   - 価格: 1,999円 / ★4.63（1,010件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00ppglo.72d3y3f0.g00ppglo.72d3z552/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftansu%2F86500001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftansu%2Fi%2F10056131%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 毎日使うものほど良い物を、の代表。レースカーテンの丈はドレープカーテンの−2cmとなります。楽天ランキング1位、レビュー1,010件で★4.63。1,999円。
+
+### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
+
+- **30代男性のリピート候補**: 収納ボックス 収納ケース / ロールスクリーン オーダー 断熱 遮光 1級 / 高評価4.63！ ロールスクリーン 調光 / 楽天1位 遮光 カーテン 2枚セット
+
