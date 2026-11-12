@@ -22101,7 +22101,8 @@
   "shop_name": "和らぎ本舗",
   "review_count": 191,
   "review_average": 4.63,
-  "genre_id": "563689"
+  "genre_id": "563689",
+  "instagram_story_id": "17884545258534507"
  },
  {
   "date": "2026-11-12T07:02:19",
@@ -22174,5 +22175,105 @@
   "review_count": 2289,
   "review_average": 4.53,
   "genre_id": "566229"
+ },
+ {
+  "date": "2026-11-12T12:01:36",
+  "slot": "noon",
+  "theme": "今売れている物 × 20代男性（ガジェット・一人暮らし）",
+  "persona": "20s_man",
+  "item_code": "delishop:10000245",
+  "item_name": "クーポンで1点3,588円〜 電熱ベスト 【楽天1位】 ヒーターベスト バッテリー付 16枚発熱ヒーター 電熱ジャケット USB給電式 MAX約75℃ 加熱ベス",
+  "price": 5980,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00szido.72d3y588.g00szido.72d3zfc1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdelishop%2Fb1a16%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdelishop%2Fi%2F10000245%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "#PR 買わない理由が見つからなかった\n電熱ベスト ヒーターベスト バッテリー付\n★4.51・レビュー2,338件・楽天ランキング1位\n5,980円（P15倍で実質5,083円）\n#楽天購入品\n▶ROOMはプロフから",
+  "tweet_id": "",
+  "threads_id": "18419441773080751",
+  "room_done": false,
+  "image": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/delishop/cabinet/10231089/a16_main-d.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/delishop/cabinet/10231089/a16_main-d.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/delishop/cabinet/10231089/a16_u-m1.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/delishop/cabinet/10231089/a16_u-m2.jpg?_ex=600x600"
+  ],
+  "shop_name": "Deli shop",
+  "review_count": 2338,
+  "review_average": 4.51,
+  "genre_id": "303869",
+  "instagram_id": "18099531944422938",
+  "instagram_story_id": "18115385624145332"
+ },
+ {
+  "date": "2026-11-12T12:01:36",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "今売れている物 × 20代男性（ガジェット・一人暮らし）",
+  "persona": "20s_man",
+  "item_code": "book:22095438",
+  "item_name": "ゼルダの伝説 時のオカリナ",
+  "price": 7812,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00q072o.72d3y4be.g00q072o.72d3zb56/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F18805198%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F22095438%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 2.0,
+  "text": "レビューを見て買う人が多いやつ。レビュー42件で★4.74。送料無料。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4922/4902370554922.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4922/4902370554922.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4922/4902370554922_2.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4922/4902370554922_3.jpg?_ex=600x600"
+  ],
+  "shop_name": "楽天ブックス",
+  "review_count": 42,
+  "review_average": 4.74,
+  "genre_id": "568774"
+ },
+ {
+  "date": "2026-11-12T12:01:36",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "今売れている物 × 20代男性（ガジェット・一人暮らし）",
+  "persona": "20s_man",
+  "item_code": "red-jpn:10000076",
+  "item_name": "【上下2セットで15％OFF】リカバリーウェア ReD ぐっすりパジャマ スウェット 長袖 上下セット メンズ トレーナー 男性用 冬 リカバリーウエア 血行促",
+  "price": 9900,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00upg4o.72d3y7ea.g00upg4o.72d3z9ab/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fred-jpn%2F1507320101%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fred-jpn%2Fi%2F10000076%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "コスパで選ぶならこれ。ReDは血行から毎日を元気にする、リカバリーウェアです。レビュー38件で★4.29。15%OFF。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/red-jpn/cabinet/item/thumb/260926/1507320101.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/red-jpn/cabinet/item/thumb/260926/1507320101.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/red-jpn/cabinet/img-up_1_1236/2306_k1_1261474_213.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/red-jpn/cabinet/item/11943864/emblem_thumb.jpg?_ex=600x600"
+  ],
+  "shop_name": "ReD公式オンラインストア",
+  "review_count": 38,
+  "review_average": 4.29,
+  "genre_id": "303855"
+ },
+ {
+  "date": "2026-11-12T12:01:36",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "今売れている物 × 20代男性（ガジェット・一人暮らし）",
+  "persona": "20s_man",
+  "item_code": "geneless:10001852",
+  "item_name": "裏起毛 パンツ メンズ 秋 冬 ボトム 蓄熱 ズボン スーパーストレッチ 暖かい チノパン 暖 超伸縮 テーパード 裏フリース おしゃれ シンプル 無地 冬服 ",
+  "price": 3480,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00slrwo.72d3y3b7.g00slrwo.72d3z3d7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgeneless%2F04-0120yh%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgeneless%2Fi%2F10001852%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "レビューを見て買う人が多いやつ。前モデルとカラー・生地感・サイズ感などが異なります。何卒ご理解をいただければ幸いでございます。レビュー726件で★4.32。3,480円。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/geneless/cabinet/shouhin01/04line/eft_01/04-0120-000n.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/geneless/cabinet/shouhin01/04line/eft_01/04-0120-000n.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/geneless/cabinet/shouhin01/04line/eft_01/04-0120-500n.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/geneless/cabinet/shouhin01/04line/eft_01/04-0120-501n.jpg?_ex=600x600"
+  ],
+  "shop_name": "メンズファッション【GENELESS】",
+  "review_count": 726,
+  "review_average": 4.32,
+  "genre_id": "558846"
  }
 ]
