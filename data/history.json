@@ -22386,5 +22386,103 @@
   "review_count": 1010,
   "review_average": 4.63,
   "genre_id": "300576"
+ },
+ {
+  "date": "2026-11-13T07:01:33",
+  "slot": "morning",
+  "theme": "今売れている物 × 30代女性（暮らし・時短・コスパ）",
+  "persona": "30s_woman",
+  "item_code": "supernice-store:10000012",
+  "item_name": "★45％OFFクーポン配布★【SPICARE正規品】SPICARE V3 ファンデーション スピケア 崩れない カバー力 肌に優しい 美肌 保湿 保湿成分配合 ",
+  "price": 7700,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00uno6o.72d3yf6c.g00uno6o.72d3zde9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsupernice-store%2Fspicare-v3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsupernice-store%2Fi%2F10000012%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "#PR 買い替えるなら今日が一番安い\nV3 ファンデーション スピケア 崩れない\n★4.48・レビュー97件\n45%OFF｜7,700円\n#楽天購入品\n▶ROOMはプロフから",
+  "tweet_id": "",
+  "threads_id": "18349818538251688",
+  "room_done": false,
+  "image": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/supernice-store/cabinet/11108856/13233098/thu_45.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/supernice-store/cabinet/11108856/13233098/thu_45.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/supernice-store/cabinet/11108842/13297229/13297230/v3_lp_45.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/supernice-store/cabinet/11108870/13217853/13217856/02_260717.jpg?_ex=600x600"
+  ],
+  "shop_name": "SUPER NICE！Store",
+  "review_count": 97,
+  "review_average": 4.48,
+  "genre_id": "568317"
+ },
+ {
+  "date": "2026-11-13T07:01:33",
+  "kind": "room",
+  "slot": "morning",
+  "theme": "今売れている物 × 30代女性（暮らし・時短・コスパ）",
+  "persona": "30s_woman",
+  "item_code": "rakuten24:11354851",
+  "item_name": "エリクシール リフトモイスト ローション ba(170ml)【エリクシール(ELIXIR)】[保湿 化粧水 しっとり感 肌の潤い]",
+  "price": 3410,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00r136o.72d3y0bd.g00r136o.72d3za29/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F406360%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11354851%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "買い置きしておくと安心なもの。ゆるぎないハリのための成分コラジェネシス(R)配合。さらに、うるおって大人毛穴まで目立たない。レビュー417件で★4.63。ポイント20倍で実質2,728円。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/360/406360.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/360/406360.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/360/406360-2.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/360/406360-3.jpg?_ex=600x600"
+  ],
+  "shop_name": "楽天24",
+  "review_count": 417,
+  "review_average": 4.63,
+  "genre_id": "216307"
+ },
+ {
+  "date": "2026-11-13T07:01:33",
+  "kind": "room",
+  "slot": "morning",
+  "theme": "今売れている物 × 30代女性（暮らし・時短・コスパ）",
+  "persona": "30s_woman",
+  "item_code": "sakurap:10005223",
+  "item_name": "【公式】VALANROSE バランローズ KUROクリームシャンプー 150g/400g 【単品】 白髪染めシャンプー 白髪染め カラーシャンプー カラートリー",
+  "price": 2640,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pvono.72d3ybf5.g00pvono.72d3z6bb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsakurap%2F10008554%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsakurap%2Fi%2F10005223%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "買い置きしておくと安心なもの。皮膚科学に基づき素肌に近いpH中性領域の低刺激性を追求。毎日のバスタイムで髪と頭皮をいたわり、本来の美しさを引き出すセルフケアの決定版です。レビュー8,654件で★4.38。ポイント5倍で実質2,508円。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/sakurap/cabinet/slide/09073883/imgrc0114819933.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/sakurap/cabinet/slide/09073883/imgrc0114819933.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/sakurap/cabinet/sum/ybim2.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/sakurap/cabinet/sum/150gnatural.jpg?_ex=600x600"
+  ],
+  "shop_name": "VALANROSE 公式ショップ",
+  "review_count": 8654,
+  "review_average": 4.38,
+  "genre_id": "507833"
+ },
+ {
+  "date": "2026-11-13T07:01:33",
+  "kind": "room",
+  "slot": "morning",
+  "theme": "今売れている物 × 30代女性（暮らし・時短・コスパ）",
+  "persona": "30s_woman",
+  "item_code": "q1st:10000002",
+  "item_name": "シートマスク プラセンタエキス等50%配合 30枚入り 【単品30枚or2個セット60枚】ホワイト オールインワン シートマスク パック シートパック フェイス",
+  "price": 1360,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tcnio.72d3ydba.g00tcnio.72d3z565/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fq1st%2F10000002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fq1st%2Fi%2F10000002%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "忙しい平日の味方。楽天ランキング1位、レビュー33,848件で★4.62。1,360円。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/q1st/cabinet/normal/imgrc0115654623.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/q1st/cabinet/normal/imgrc0115654623.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/q1st/cabinet/07300583/231220_q1st_white_03.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/q1st/cabinet/07300583/231221_q1st_white_02.jpg?_ex=600x600"
+  ],
+  "shop_name": "クオリティファースト　楽天市場店",
+  "review_count": 33848,
+  "review_average": 4.62,
+  "genre_id": "503020"
  }
 ]
