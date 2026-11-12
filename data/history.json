@@ -22275,5 +22275,16 @@
   "review_count": 726,
   "review_average": 4.32,
   "genre_id": "558846"
+ },
+ {
+  "date": "2026-11-12T18:31:24",
+  "slot": "evening",
+  "kind": "engage",
+  "engage_key": "tip0",
+  "theme": "反応投稿（tip）",
+  "persona": "all",
+  "text": "【楽天の小ネタ】\n楽天の「5と0のつく日」は楽天カード払いでポイント4倍。\nただしエントリーが毎回必要です。忘れると通常倍率になります。",
+  "tweet_id": "",
+  "threads_id": "18099322622131702"
  }
 ]
