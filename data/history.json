@@ -22585,5 +22585,16 @@
   "review_count": 1037,
   "review_average": 4.72,
   "genre_id": "205611"
+ },
+ {
+  "date": "2026-11-13T18:31:05",
+  "slot": "evening",
+  "kind": "engage",
+  "engage_key": "q5",
+  "theme": "反応投稿（question）",
+  "persona": "all",
+  "text": "子育て中の方に質問です。楽天で買ってラクになったもの、何でしたか？",
+  "tweet_id": "",
+  "threads_id": "18125257988474363"
  }
 ]
