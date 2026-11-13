@@ -55,3 +55,29 @@
 
 - **20代男性のリピート候補**: ラグ 厚手 2層 抗菌 防臭 低反発 高反発 / 楽天1位獲得 シーリングライト 6畳 8畳 / 乾燥知らず 加湿器 超音波加湿器 J8 J1 / もこもこ毛布 LUXZA ラグザ
 
+## 20:16 今売れている物 × 40代男性（家族・晩酌・車）
+
+1. **おせち 早割 博多久松 2027 4〜5人前 おせち料理 おせちランキング 累計313週以上1位達成和洋折衷本格料亭おせ**
+   - 価格: 16,500円 / ★4.45（22,991件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00pv1yo.72d3y6f4.g00pv1yo.72d3zad4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhisamatsu%2F2009hakata%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhisamatsu%2Fi%2F10000014%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 週末のお楽しみ用に。楽天ランキング1位、レビュー22,991件で★4.45。送料無料。
+
+2. **＼クーポンで50%OFF★9,960円⇒4,980円／1,500セット限定！【国産 北海道食べ比べ】2kg,600g タ**
+   - 価格: 9,960円 / ★4.95（56件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00uqpuo.72d3yc28.g00uqpuo.72d3za7a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmitsuboshi-store%2Ftaraba%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmitsuboshi-store%2Fi%2F10000022%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: まとめ買い向き。レビュー56件で★4.95。50%OFF、送料無料。
+
+3. **＼3本購入で1本プレゼント／国産はちみつ やまと蜂蜜堂 はちみつ 蜂蜜 1kg［瓶］送料無料 やまと養蜂苑 純粋 非加熱**
+   - 価格: 3,280円 / ★4.67（642件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00ughko.72d3y18a.g00ughko.72d3zab4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcrasifull%2F10000001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcrasifull%2Fi%2F10000000%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 週末のお楽しみ用に。安心してお召し上がり頂けます。レビュー642件で★4.67。送料無料。
+
+4. **【11月限定★抽選で最大10万Pが当たる】1.25万円以上相当！解凍不要「千賀屋の冷蔵おせち福袋」福袋 冷蔵 冷蔵おせち**
+   - 価格: 11,155円 / ★4.53（284件） / 料率 4.0% / P5倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00q5rko.72d3yf43.g00q5rko.72d3z322/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fomosan%2F7347%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fomosan%2Fi%2F10000665%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 家族みんなで使える定番。売り切れ次第終了いたします。レビュー284件で★4.53。ポイント5倍で実質10,597円、送料無料。
+
+### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
+
+- **40代男性のリピート候補**: おせち 早割 博多久松 2027 4〜5人前 / 2kg,600g タラバ蟹&ズワイ蟹 / 3本購入で1本プレゼント 国産はちみつ / 冷蔵 冷蔵おせちをランダムでお届け 2027
+
