@@ -29,3 +29,29 @@
 
 - **30代女性のリピート候補**: V3 ファンデーション スピケア 崩れない / エリクシール リフトモイスト ローション / VALANROSE バランローズ / シートマスク 30枚入り ホワイト
 
+## 12:01 寒さ対策・冬支度（開催中） × 20代男性（ガジェット・一人暮らし）
+
+1. **ラグ 厚手 2層 抗菌 防臭 低反発 高反発 95×130 130×190 190×190 190×240 190×30**
+   - 価格: 3,990円 / ★4.49（7,614件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00rtzao.72d3y9fe.g00rtzao.72d3z3b5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flimelime-store%2Fts-fululu200250%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flimelime-store%2Fi%2F10000179%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 一人暮らしの部屋に1つあると便利。カラーリングもこだわりのくすみカラーに。軽量なので持ち運びもラクチン。レビュー7,614件で★4.49。3,990円。
+
+2. **★楽天1位獲得★シーリングライト 6畳 8畳 12畳 LED ledシーリングライト 調光 調色 リモコン付 アイリスオ**
+   - 価格: 2,480円 / ★4.55（6,008件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qzr7o.72d3y0b7.g00qzr7o.72d3zf6b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-akari%2Fsb-9800%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-akari%2Fi%2F10039326%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: コスパで選ぶならこれ。ボタン数が少ないシンプルなリモコンで簡単に操作ができます。2026年5月1日コンパクトモデルが新しく追加されました。楽天ランキング1位、レビュー6,008件で★4.55。2,480円。
+
+3. **【★楽天1位★20%OFFクーポン+P2で1,955円~】＼乾燥知らず／加湿器 超音波加湿器 J8 J1 500mL/2**
+   - 価格: 2,499円 / ★4.38（6,184件） / 料率 2.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00u931o.72d3y1d2.g00u931o.72d3z893/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgracevally%2Fgrace-j1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgracevally%2Fi%2F10000008%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: レビューを見て買う人が多いやつ。ボタン一つで運転モードを切り替えられる、シンプルな操作性が特徴です。3段階の加湿レベルから選択可能で、乾燥レベルや季節に合わせて微調整できます。楽天ランキング1位、レビュー6,184件で★4.38。20%OFF。
+
+4. **【レビューでミニバッグ】もこもこ毛布 LUXZA ラグザ ラビットファー シングル セミダブル ダブル クイーン 冬 ひ**
+   - 価格: 1,980円 / ★4.72（1,037件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00rubto.72d3y527.g00rubto.72d3ze5c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fesaki210%2Fm_rab%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fesaki210%2Fi%2F10001169%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: コスパで選ぶならこれ。サイズが大きくなるほど、たっぷりとした掛け心地を楽しめます。レビュー1,037件で★4.72。1,980円。
+
+### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
+
+- **20代男性のリピート候補**: ラグ 厚手 2層 抗菌 防臭 低反発 高反発 / 楽天1位獲得 シーリングライト 6畳 8畳 / 乾燥知らず 加湿器 超音波加湿器 J8 J1 / もこもこ毛布 LUXZA ラグザ
+
