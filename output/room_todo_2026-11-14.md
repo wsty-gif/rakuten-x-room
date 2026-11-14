@@ -55,3 +55,29 @@
 
 - **30代男性のリピート候補**: 加湿器 特許取得 大容量 6.5L / 店長大暴走 お中元 ギフト プレゼント / 】USBメモリ 2in1 USB3.0 / クリスマスツリー おしゃれ かわいい 北欧
 
+## 20:16 寒さ対策・冬支度（開催中） × 20代女性（自分磨き・プチプラ・映え）
+
+1. **クーポンで1点7,605円～即納【連続週間1位★SNS話題沸騰】 加湿器 大容量 加湿器 卓上 9L AIスマート加湿 **
+   - 価格: 16,900円 / ★4.45（4,727件） / 料率 2.0% / P6倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00szido.72d3y588.g00szido.72d3zfc1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdelishop%2Fb2210b%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdelishop%2Fi%2F10000271%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: プチプラで探してる人に。たっぷり9Lで、面倒な水補充の手間も大幅に軽減します。乾燥しやすい季節も、一度の給水で長時間たっぷり潤いを届けます。レビュー4,727件で★4.45。ポイント6倍で実質15,886円、送料無料。
+
+2. **【楽天1位★5年保証】シーリングライト LED 調光調色 常夜灯 間接照明 リモコン スマホ操作 アッパーライト 6畳 **
+   - 価格: 2,980円 / ★4.41（747件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00uloso.72d3y627.g00uloso.72d3zca4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkiitos-seikatsuzakka%2Fkiixd53%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkiitos-seikatsuzakka%2Fi%2F10000092%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: SNSで見かけて気になってたやつ。消費電力は白熱灯より約半分。お部屋全体を美しく照らす同時に、電気代も抑えられます。楽天ランキング1位、レビュー747件で★4.41。2,980円。
+
+3. **【 マラソン限定！1点から80%OFF】【国内品質試験実施済み】ふわとろタッチ毛布 正規品 CAVMHOT 冷房対策 毛**
+   - 価格: 4,980円 / ★4.36（169件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00uqwuo.72d3ycdf.g00uqwuo.72d3z31f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faquilaria%2Fmvtc3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faquilaria%2Fi%2F10000009%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: プチプラで探してる人に。やわらかさとぬくもりに包まれる、心地よい毎日へ。ふんわりやさしく、なめらかな肌触りで、毎日のリラックスタイムを心地よく彩ります。レビュー169件で★4.36。80%OFF。
+
+4. **《10%OFF★11/12 10:00〜11/25 01:59》【乾燥小じわ*・ハリケア】ザ クレンジングバーム 赤 バ**
+   - 価格: 2,673円 / ★4.67（224件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00tye2o.72d3ydcc.g00tye2o.72d3z1d3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fp-antiaging%2Fbalm%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fp-antiaging%2Fi%2F10000437%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 自分へのご褒美にちょうどいい価格。W洗顔は不要です。レビュー224件で★4.67。10%OFF。
+
+### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
+
+- **20代女性のリピート候補**: 加湿器 大容量 加湿器 卓上 9L / シーリングライト LED 調光調色 常夜灯 / ふわとろタッチ毛布 正規品 CAVMHOT / クレンジングバーム バーム クレンジング
+
