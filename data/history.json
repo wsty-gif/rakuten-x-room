@@ -22721,7 +22721,8 @@
   "shop_name": "防音専門店　ピアリビング",
   "review_count": 121,
   "review_average": 4.64,
-  "genre_id": "566191"
+  "genre_id": "566191",
+  "instagram_story_id": "17908009737349334"
  },
  {
   "date": "2026-11-14T07:01:35",
@@ -22794,5 +22795,105 @@
   "review_count": 1152,
   "review_average": 4.38,
   "genre_id": "566028"
+ },
+ {
+  "date": "2026-11-14T12:01:29",
+  "slot": "noon",
+  "theme": "今売れている物 × 30代男性（健康・効率化・家電）",
+  "persona": "30s_man",
+  "item_code": "dondon:10005072",
+  "item_name": "[冬対策P15倍／17日まで] [レビュー6100件超／高評価4.37点] 加湿器 特許取得 大容量 6.5L ハイブリッド 上から給水 W除菌 UV除菌機能 ",
+  "price": 12999,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qqpqo.72d3y802.g00qqpqo.72d3z677/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdondon%2Fjxh-002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdondon%2Fi%2F10005072%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 2.0,
+  "text": "#PR レビュー見て即決したやつ\n加湿器 特許取得 大容量 6.5L\n★4.36・レビュー6,141件・楽天ランキング1位\n17日まで｜12,999円（P15倍で実質11,049円）\n#楽天購入品\n▶ROOMはプロフから",
+  "tweet_id": "",
+  "threads_id": "18259700044308549",
+  "room_done": false,
+  "image": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/dondon/cabinet/jxh003j_12.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/dondon/cabinet/jxh003j_12.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/dondon/cabinet/beans/ranking/jxh003j_ranking_cart.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/dondon/cabinet/home_electric/jxh003j/jxh003j_cart_point.jpg?_ex=600x600"
+  ],
+  "shop_name": "モダンデコ",
+  "review_count": 6141,
+  "review_average": 4.36,
+  "genre_id": "204549",
+  "instagram_id": "18057982193657927",
+  "instagram_story_id": "18147398623594028"
+ },
+ {
+  "date": "2026-11-14T12:01:29",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "今売れている物 × 30代男性（健康・効率化・家電）",
+  "persona": "30s_man",
+  "item_code": "kouragumi:10000004",
+  "item_name": "店長大暴走★1,000円OFFクーポンで3,999円⇒送料無料2,999円！楽天ランキング1位＆楽天グルメ大賞受賞！ジャンボ広島かき1kg（解凍後850g/約2",
+  "price": 3999,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00r77to.72d3y343.g00r77to.72d3zf2a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkouragumi%2F200002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkouragumi%2Fi%2F10000004%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "スペック比較して残ったやつ。希少な特大サイズのみを厳選。面倒な殻割り不要。楽天ランキング1位、レビュー19,947件で★4.64。送料無料。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/kouragumi/cabinet/10531638/imgrc0117127943.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/kouragumi/cabinet/10531638/imgrc0117127943.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/kouragumi/cabinet/02324051/imgrc0074848840.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/kouragumi/cabinet/02324051/imgrc0074848841.jpg?_ex=600x600"
+  ],
+  "shop_name": "越前かに職人甲羅組（DENSHOKU）",
+  "review_count": 19947,
+  "review_average": 4.64,
+  "genre_id": "110408"
+ },
+ {
+  "date": "2026-11-14T12:01:29",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "今売れている物 × 30代男性（健康・効率化・家電）",
+  "persona": "30s_man",
+  "item_code": "sunivision:10000209",
+  "item_name": "【最大600円OFFクーポン】【国産IC搭載（東芝9T25）】USBメモリ 2in1 USB3.0 USB-C lightningアダプタ セット iphone",
+  "price": 1960,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00u1wdo.72d3y6c1.g00u1wdo.72d3zcbc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsunivision%2F2in1usb%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsunivision%2Fi%2F10000209%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 2.0,
+  "text": "スペック比較して残ったやつ。素早く転送でき、作業効率もアップします。レビュー2,916件で★4.5。送料無料。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/sunivision/cabinet/2026/new_2in1usb_r1.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/sunivision/cabinet/2026/new_2in1usb_r1.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/sunivision/cabinet/2024-12/2in1usb_rank21_r.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/sunivision/cabinet/2022-12/2in1usb_02b.jpg?_ex=600x600"
+  ],
+  "shop_name": "MSL FORCE公式楽天市場店",
+  "review_count": 2916,
+  "review_average": 4.5,
+  "genre_id": "303078"
+ },
+ {
+  "date": "2026-11-14T12:01:29",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "今売れている物 × 30代男性（健康・効率化・家電）",
+  "persona": "30s_man",
+  "item_code": "auc-ningyohonpo:10001953",
+  "item_name": "クリスマスツリー おしゃれ かわいい 北欧 90cm 120cm 150cm 180cm 210cm 240cm 300cm 高級 ヨーロッパトウヒツリー オー",
+  "price": 4800,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00r30do.72d3y64a.g00r30do.72d3z81c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-ningyohonpo%2Fspruce180%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-ningyohonpo%2Fi%2F10001953%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 3.0,
+  "text": "スペック比較して残ったやつ。レビュー1,689件で★4.47。4,800円。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-ningyohonpo/cabinet/13580639/2026spruce-1.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-ningyohonpo/cabinet/13580639/2026spruce-1.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-ningyohonpo/cabinet/ranking.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-ningyohonpo/cabinet/13580639/2026spruce-2.jpg?_ex=600x600"
+  ],
+  "shop_name": "恵月人形本舗",
+  "review_count": 1689,
+  "review_average": 4.47,
+  "genre_id": "213797"
  }
 ]

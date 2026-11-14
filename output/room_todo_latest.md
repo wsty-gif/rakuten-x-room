@@ -29,3 +29,29 @@
 
 - **子育て世帯のママ・パパのリピート候補**: 防音カーペット 防音マット 静床プレミア / ゴミ箱 SOLOW ペダル シリーズ 45L / ラグ 高反発 極厚25mm / チクチクしない 鹿のこニット ニット
 
+## 12:01 今売れている物 × 30代男性（健康・効率化・家電）
+
+1. **[冬対策P15倍／17日まで] [レビュー6100件超／高評価4.37点] 加湿器 特許取得 大容量 6.5L ハイブリ**
+   - 価格: 12,999円 / ★4.36（6,141件） / 料率 2.0% / P15倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qqpqo.72d3y802.g00qqpqo.72d3z677/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdondon%2Fjxh-002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdondon%2Fi%2F10005072%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 時短になる系。楽天ランキング1位、レビュー6,141件で★4.36。17日まで、ポイント15倍で実質11,049円。
+
+2. **店長大暴走★1,000円OFFクーポンで3,999円⇒送料無料2,999円！楽天ランキング1位＆楽天グルメ大賞受賞！ジャ**
+   - 価格: 3,999円 / ★4.64（19,947件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00r77to.72d3y343.g00r77to.72d3zf2a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkouragumi%2F200002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkouragumi%2Fi%2F10000004%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: スペック比較して残ったやつ。希少な特大サイズのみを厳選。面倒な殻割り不要。楽天ランキング1位、レビュー19,947件で★4.64。送料無料。
+
+3. **【最大600円OFFクーポン】【国産IC搭載（東芝9T25）】USBメモリ 2in1 USB3.0 USB-C ligh**
+   - 価格: 1,960円 / ★4.5（2,916件） / 料率 2.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00u1wdo.72d3y6c1.g00u1wdo.72d3zcbc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsunivision%2F2in1usb%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsunivision%2Fi%2F10000209%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: スペック比較して残ったやつ。素早く転送でき、作業効率もアップします。レビュー2,916件で★4.5。送料無料。
+
+4. **クリスマスツリー おしゃれ かわいい 北欧 90cm 120cm 150cm 180cm 210cm 240cm 300**
+   - 価格: 4,800円 / ★4.47（1,689件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00r30do.72d3y64a.g00r30do.72d3z81c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-ningyohonpo%2Fspruce180%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-ningyohonpo%2Fi%2F10001953%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: スペック比較して残ったやつ。レビュー1,689件で★4.47。4,800円。
+
+### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
+
+- **30代男性のリピート候補**: 加湿器 特許取得 大容量 6.5L / 店長大暴走 お中元 ギフト プレゼント / 】USBメモリ 2in1 USB3.0 / クリスマスツリー おしゃれ かわいい 北欧
+
