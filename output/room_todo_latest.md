@@ -1,83 +1,47 @@
-# 楽天ROOMに追加する商品（2026-11-14）
+# 楽天ROOMに追加する商品（2026-11-15）
 
 手順: 商品URLを開く → 共有 → 「ROOMに投稿」 → コメントを貼って投稿。
 夜の分は20時までに入れておくと、購買ピーク（21〜24時）に乗ります。
 
-## 07:01 寒さ対策・冬支度（開催中） × 子育て世帯のママ・パパ
+## 07:02 ブラックフライデー（5日後） × 40代男性（家族・晩酌・車）
 
-1. **防音カーペット 防音マット 静床プレミア 50×50 cm 日本製 厚め タイルカーペット ll40 防音シート 防音ラ**
-   - 価格: 3,850円 / ★4.64（121件） / 料率 3.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00q50po.72d3ydc1.g00q50po.72d3zd2f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpialiving%2F02100%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpialiving%2Fi%2F10015929%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: ママ友の間でよく話題になるやつ。異なる素材を組み合わせた3重構造極厚防音層が軽い物音の衝撃を受け止めてやわらげます。防音タイルカーペット静床プレミアは、床に敷くことで下の階に伝わる音を軽減します。レビュー121件で★4.64。3,850円。
+1. **P20倍!!【7,780円◎クーポンで】「楽天1位」 セラミックヒーター 人感センサー 1秒速暖 ファンヒーター AI恒**
+   - 価格: 10,780円 / ★4.26（779件） / 料率 2.0% / P20倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00tbi3o.72d3yc44.g00tbi3o.72d3z413/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faskrtech%2Fnfj-ynd2000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faskrtech%2Fi%2F10000783%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。家族みんなで使える定番。軽量＆コンパクト重さわずか約2.3kg。自動運転で省エネ対策。楽天ランキング1位、レビュー779件で★4.26。ポイント20倍で実質8,624円。在庫が動きやすいので早めに。
 
-2. **【メーカー公式店】【レビューでプレゼント】ゴミ箱 SOLOW ペダル シリーズ 45L 35L 25L 13L オープン**
-   - 価格: 3,850円 / ★4.56（994件） / 料率 3.0% / P5倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00s5e5o.72d3y0a2.g00s5e5o.72d3z618/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frisu-proshop%2F17746-3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frisu-proshop%2Fi%2F10002011%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 子どもがいる家で助かった系。衛生的にも手が塞がっている時や、汚れている時でもフタが開閉できるフッドペダル式。素早く開け閉めできるので、臭いや菌の撒き散らしも軽減することができます。レビュー994件で★4.56。ポイント5倍で実質3,657円、送料無料。
+2. **P【P20倍！11/19～】送料無料 おつまみこんにゃく 4パック こんにゃく おかず ビール おつまみ ヘルシー おつ**
+   - 価格: 1,380円 / ★4.43（2,502件） / 料率 4.0% / P20倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00s2d5o.72d3y7d9.g00s2d5o.72d3z190/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkonnyaku-ya%2F11000003-4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkonnyaku-ya%2Fi%2F10000092%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。週末のお楽しみ用に。レビュー2,502件で★4.43。ポイント20倍で実質1,104円、送料無料。気になる人はお気に入り登録を。
 
-3. **【15日23：59まで15％OFFクーポン】［選べる！4サイズ5カラー］ ラグ 高反発 極厚25mm 200×300cm**
-   - 価格: 4,980円 / ★4.37（701件） / 料率 3.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00rgpgo.72d3ya75.g00rgpgo.72d3z09b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-kaei-trading%2Frgk-h03-200250%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-kaei-trading%2Fi%2F10000567%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 子どもがいる家で助かった系。レビュー701件で★4.37。15%OFF。
+3. **＼BLACK FRIDAYプレ 超目玉／ 肉汁あふれる 牛肉 100% 無添加 ゆうぜん ハンバーグ 150g×6食 セ**
+   - 価格: 3,280円 / ★4.62（5,731件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00pnnqo.72d3y444.g00pnnqo.72d3zb67/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyuuzen%2F917705%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyuuzen%2Fi%2F10000636%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。家族みんなで使える定番。楽天ランキング1位、レビュー5,731件で★4.62。送料無料。在庫が動きやすいので早めに。
 
-4. **【期間限定29％OFF】 チクチクしない 「 鹿のこニット 」 ニット タートルネック タートルニット レディース セー**
-   - 価格: 2,790円 / ★4.38（1,152件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00s53co.72d3ye62.g00s53co.72d3z098/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhhh-style%2Fd032%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhhh-style%2Fi%2F10028068%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: まとめ買いしておくと楽になるもの。商品説明表面の凹凸がしっかり出る鹿の子編みで存在感抜群のニットです。柔らかな着心地なのでニットのチクチク感が苦手な方にもおすすめです。レビュー1,152件で★4.38。29%OFF。
+4. **15％OFFクーポン【ブラックフライデー限定】水飲み器 自動給水器 猫 犬 ステンレス製 2L大容量 多頭飼いも対応 2**
+   - 価格: 3,270円 / ★4.26（2,699件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00u7bio.72d3y57c.g00u7bio.72d3ze7b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fniceitems%2Fksk-pt-2l%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fniceitems%2Fi%2F10000181%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。週末のお楽しみ用に。複数の猫が同時に飲んでも影響はありません。レビュー2,699件で★4.26。15%OFF、送料無料。在庫が動きやすいので早めに。
 
-### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
+5. **P＼まとめて購入がお得♪／ 海苔 有明産 訳あり焼き海苔 全型25枚 高級一番摘み全型15枚 お得用30枚 半切45枚 **
+   - 価格: 1,299円 / ★4.52（49,092件） / 料率 4.0% / P2倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qajfo.72d3y241.g00qajfo.72d3ze54/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fchashoan%2F3-345%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fchashoan%2Fi%2F10000381%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。まとめ買い向き。また訳あり品の特性上、穴や、ヒビ、割れ、欠け、厚みのバラツキがございます。ひとつひとつ品質が異なります。レビュー49,092件で★4.52。ポイント2倍で実質1,273円、送料無料。セール中に補充しておくと安心です。
 
-- **子育て世帯のママ・パパのリピート候補**: 防音カーペット 防音マット 静床プレミア / ゴミ箱 SOLOW ペダル シリーズ 45L / ラグ 高反発 極厚25mm / チクチクしない 鹿のこニット ニット
+6. **【ブラックフライデー開始4h限定最大30％OFF】【シリーズ累計80万枚突破】スタイ 360° U型 お得な 10枚セッ**
+   - 価格: 2,100円 / ★4.7（2,850件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00t59ko.72d3ydb2.g00t59ko.72d3zdab/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgift-bmcjapan%2Fo20190701%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgift-bmcjapan%2Fi%2F10000019%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。家族みんなで使える定番。塩素系漂白剤による漂白が出来ません。U型スタイは2段階のスナップボタンでお子様の成長に合わせて末長くご使用いただけます。レビュー2,850件で★4.7。30%OFF。セール中に補充しておくと安心です。
 
-## 12:01 今売れている物 × 30代男性（健康・効率化・家電）
-
-1. **[冬対策P15倍／17日まで] [レビュー6100件超／高評価4.37点] 加湿器 特許取得 大容量 6.5L ハイブリ**
-   - 価格: 12,999円 / ★4.36（6,141件） / 料率 2.0% / P15倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qqpqo.72d3y802.g00qqpqo.72d3z677/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdondon%2Fjxh-002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdondon%2Fi%2F10005072%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 時短になる系。楽天ランキング1位、レビュー6,141件で★4.36。17日まで、ポイント15倍で実質11,049円。
-
-2. **店長大暴走★1,000円OFFクーポンで3,999円⇒送料無料2,999円！楽天ランキング1位＆楽天グルメ大賞受賞！ジャ**
-   - 価格: 3,999円 / ★4.64（19,947件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00r77to.72d3y343.g00r77to.72d3zf2a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkouragumi%2F200002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkouragumi%2Fi%2F10000004%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: スペック比較して残ったやつ。希少な特大サイズのみを厳選。面倒な殻割り不要。楽天ランキング1位、レビュー19,947件で★4.64。送料無料。
-
-3. **【最大600円OFFクーポン】【国産IC搭載（東芝9T25）】USBメモリ 2in1 USB3.0 USB-C ligh**
-   - 価格: 1,960円 / ★4.5（2,916件） / 料率 2.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00u1wdo.72d3y6c1.g00u1wdo.72d3zcbc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsunivision%2F2in1usb%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsunivision%2Fi%2F10000209%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: スペック比較して残ったやつ。素早く転送でき、作業効率もアップします。レビュー2,916件で★4.5。送料無料。
-
-4. **クリスマスツリー おしゃれ かわいい 北欧 90cm 120cm 150cm 180cm 210cm 240cm 300**
-   - 価格: 4,800円 / ★4.47（1,689件） / 料率 3.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00r30do.72d3y64a.g00r30do.72d3z81c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-ningyohonpo%2Fspruce180%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-ningyohonpo%2Fi%2F10001953%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: スペック比較して残ったやつ。レビュー1,689件で★4.47。4,800円。
+7. **楽天グルメ大賞受賞【ブラックフライデーセールで70gへ大増量中】【無添加・無着色】九州唐津産 乾燥カットわかめ 徳用大袋**
+   - 価格: 1,000円 / ★4.7（6,465件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qobdo.72d3y9b8.g00qobdo.72d3z189/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkaratsu-iwamoto%2Fcutwakame-karatsu90%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkaratsu-iwamoto%2Fi%2F10000296%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。まとめ買い向き。無添加・無着色にて、酸化防止剤、保存料、着色料、等は一切使用しておりません。レビュー6,465件で★4.7。送料無料。セール中に補充しておくと安心です。
 
 ### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
 
-- **30代男性のリピート候補**: 加湿器 特許取得 大容量 6.5L / 店長大暴走 お中元 ギフト プレゼント / 】USBメモリ 2in1 USB3.0 / クリスマスツリー おしゃれ かわいい 北欧
-
-## 20:16 寒さ対策・冬支度（開催中） × 20代女性（自分磨き・プチプラ・映え）
-
-1. **クーポンで1点7,605円～即納【連続週間1位★SNS話題沸騰】 加湿器 大容量 加湿器 卓上 9L AIスマート加湿 **
-   - 価格: 16,900円 / ★4.45（4,727件） / 料率 2.0% / P6倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00szido.72d3y588.g00szido.72d3zfc1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdelishop%2Fb2210b%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdelishop%2Fi%2F10000271%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: プチプラで探してる人に。たっぷり9Lで、面倒な水補充の手間も大幅に軽減します。乾燥しやすい季節も、一度の給水で長時間たっぷり潤いを届けます。レビュー4,727件で★4.45。ポイント6倍で実質15,886円、送料無料。
-
-2. **【楽天1位★5年保証】シーリングライト LED 調光調色 常夜灯 間接照明 リモコン スマホ操作 アッパーライト 6畳 **
-   - 価格: 2,980円 / ★4.41（747件） / 料率 3.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00uloso.72d3y627.g00uloso.72d3zca4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkiitos-seikatsuzakka%2Fkiixd53%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkiitos-seikatsuzakka%2Fi%2F10000092%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: SNSで見かけて気になってたやつ。消費電力は白熱灯より約半分。お部屋全体を美しく照らす同時に、電気代も抑えられます。楽天ランキング1位、レビュー747件で★4.41。2,980円。
-
-3. **【 マラソン限定！1点から80%OFF】【国内品質試験実施済み】ふわとろタッチ毛布 正規品 CAVMHOT 冷房対策 毛**
-   - 価格: 4,980円 / ★4.36（169件） / 料率 3.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00uqwuo.72d3ycdf.g00uqwuo.72d3z31f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faquilaria%2Fmvtc3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faquilaria%2Fi%2F10000009%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: プチプラで探してる人に。やわらかさとぬくもりに包まれる、心地よい毎日へ。ふんわりやさしく、なめらかな肌触りで、毎日のリラックスタイムを心地よく彩ります。レビュー169件で★4.36。80%OFF。
-
-4. **《10%OFF★11/12 10:00〜11/25 01:59》【乾燥小じわ*・ハリケア】ザ クレンジングバーム 赤 バ**
-   - 価格: 2,673円 / ★4.67（224件） / 料率 4.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00tye2o.72d3ydcc.g00tye2o.72d3z1d3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fp-antiaging%2Fbalm%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fp-antiaging%2Fi%2F10000437%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 自分へのご褒美にちょうどいい価格。W洗顔は不要です。レビュー224件で★4.67。10%OFF。
-
-### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
-
-- **20代女性のリピート候補**: 加湿器 大容量 加湿器 卓上 9L / シーリングライト LED 調光調色 常夜灯 / ふわとろタッチ毛布 正規品 CAVMHOT / クレンジングバーム バーム クレンジング
+- **ブラックフライデーで買うもの**: 「楽天1位」 セラミックヒーター / おつまみこんにゃく 4パック こんにゃく / BLACK FRIDAYプレ 超目玉 / 水飲み器 自動給水器 ステンレス製 / まとめて購入がお得 海苔 有明産 / スタイ 360° U型 お得な 10枚セット / 楽天グルメ大賞受賞 九州唐津産
+- **40代男性のリピート候補**: 「楽天1位」 セラミックヒーター / おつまみこんにゃく 4パック こんにゃく / BLACK FRIDAYプレ 超目玉 / 水飲み器 自動給水器 ステンレス製 / まとめて購入がお得 海苔 有明産 / スタイ 360° U型 お得な 10枚セット / 楽天グルメ大賞受賞 九州唐津産
 
