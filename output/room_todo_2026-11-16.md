@@ -40,29 +40,29 @@
 - **ブラックフライデーで買うもの**: recolte レコルト 自動調理ポット / 楽天1位 ラグ×ホットカーペット2点セット / ノートン norton ノートン360 / キューサイ コラリッチ / ステーキ 1ポンドステーキ ステーキ肉 / ナイトブラ ブラジャー 育乳 ノンワイヤー
 - **20代女性のリピート候補**: recolte レコルト 自動調理ポット / 楽天1位 ラグ×ホットカーペット2点セット / ノートン norton ノートン360 / キューサイ コラリッチ / ステーキ 1ポンドステーキ ステーキ肉 / ナイトブラ ブラジャー 育乳 ノンワイヤー
 
-## 12:02 寒さ対策・冬支度（開催中） × 20代男性（ガジェット・一人暮らし）
+## 12:08 寒さ対策・冬支度（開催中） × 20代男性（ガジェット・一人暮らし）
 
-1. **【最大25％クーポン配布中】 壁紙 のり付き 30m パック 6畳 壁紙の上から貼れるBEST24 白 ホワイト シンプ**
-   - 価格: 12,380円 / ★4.67（2,149件） / 料率 3.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00pnmko.72d3y8ec.g00pnmko.72d3z2fb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkabegamiyahonpo%2Frkwp-4999set7%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkabegamiyahonpo%2Fi%2F10063406%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: レビューを見て買う人が多いやつ。レビュー2,149件で★4.67。12,380円。
-
-2. **＼楽天1位獲得／ シーリングライト LED 6畳 8畳 12畳 アイリスオーヤマ 5年保証 調光 調色 リモコン付き 薄**
+1. **＼楽天1位獲得／ シーリングライト LED 6畳 8畳 12畳 アイリスオーヤマ 5年保証 調光 調色 リモコン付き 薄**
    - 価格: 2,480円 / ★4.49（1,723件） / 料率 3.0% / P5倍
    - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00sr5ao.72d3y13c.g00sr5ao.72d3zf73/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Finsair%2F245400%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Finsair%2Fi%2F10000039%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
    - コメント: 一人暮らしの部屋に1つあると便利。ボタン数が少ないシンプルなリモコンで簡単に操作ができます。工具不要で簡単2STEP取付お使いの照明と取り替えるだけ。楽天ランキング1位、レビュー1,723件で★4.49。ポイント5倍で実質2,356円。
 
-3. **【累計70万枚突破】 カーテン 遮光 断熱レース付 2枚セット 1級遮光 完全遮光 遮熱 日本製 省エネ 防音 防炎 保**
-   - 価格: 1,680円 / ★4.23（6,340件） / 料率 3.0% / P1倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00rrcto.72d3ya35.g00rrcto.72d3zf7c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdiydiy%2Fcurtain-025%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdiydiy%2Fi%2F10000066%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: 一人暮らしの部屋に1つあると便利。価格も1セットあたりの金額となります。セットのレースは厚地カーテンより2cm短くなります。レビュー6,340件で★4.23。1,680円。
+2. **【楽天1位★1年保証】 ダイニングチェア 肘付き 簡単組立 安定の耐荷重160kg お手入れ簡単 軽量 スタッキングチェ**
+   - 価格: 5,920円 / ★4.45（955件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00td0ko.72d3ye4c.g00td0ko.72d3zb32/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frelaxa-from2%2Fdiningc1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frelaxa-from2%2Fi%2F10000615%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 一人暮らしの部屋に1つあると便利。楽天ランキング1位、レビュー955件で★4.45。5,920円。
 
-4. **【P5倍20日20〜24時限定】【法人様限定】キューブスツール ロビーチェア PVCレザー アジャスター付き 幅400×**
-   - 価格: 4,990円 / ★4.63（52件） / 料率 3.0% / P5倍
-   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qxcho.72d3y752.g00qxcho.72d3z0c3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Foffice-com%2Foc-cubestool%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Foffice-com%2Fi%2F10098724%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
-   - コメント: レビューを見て買う人が多いやつ。アジャスター付きぐらつきを抑えるアジャスターが付いています。横に並べる直線レイアウトはロビー・待合室にオススメです。レビュー52件で★4.63。ポイント5倍で実質4,740円。
+3. **【レビューでカトラリーセットプレゼント】折りたたみ レゴブロック収納ボックス おもちゃ箱 レゴ 収納 ブロック収納 デュ**
+   - 価格: 4,680円 / ★4.66（410件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00uddbo.72d3y81d.g00uddbo.72d3zf68/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fignis%2F2111sd350%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fignis%2Fi%2F10000376%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: コスパで選ぶならこれ。厚さ約10cmのコンパクトサイズになるので、棚の隙間にも収納できます。レゴデュプロがたくさん入る大容量サイズ。レビュー410件で★4.66。4,680円。
+
+4. **55%OFF【期間限定：6,690円→2,990円！】 トップス カーディガン ニットカーディガン ボーダーカーディガン**
+   - 価格: 2,990円 / ★4.29（78件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00q8qjo.72d3y742.g00q8qjo.72d3zf92/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdarkangel%2Ftp2501-4696%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdarkangel%2Fi%2F10037203%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 一人暮らしの部屋に1つあると便利。ボーダーと無地からお選び頂けます。無地タイプはレイヤード風のデザイン。レビュー78件で★4.29。55%OFF。
 
 ### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
 
-- **20代男性のリピート候補**: 壁紙 のり付き 30m パック 6畳 / 楽天1位獲得 シーリングライト LED 6畳 / カーテン 遮光 断熱レース付 2枚セット / キューブスツール ロビーチェア
+- **20代男性のリピート候補**: 楽天1位獲得 シーリングライト LED 6畳 / ダイニングチェア 肘付き 簡単組立 / 折りたたみ レゴブロック収納ボックス / トップス カーディガン ニットカーディガン
 
