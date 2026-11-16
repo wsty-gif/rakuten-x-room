@@ -7334,23 +7334,30 @@
     "theme": "ブラックフライデー（4日後） × 20代女性（自分磨き・プチプラ・映え）",
     "persona": "20s_woman",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-11-16",
+    "slot": "night",
+    "theme": "ブラックフライデー（4日後） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "mscien:10000041",
-  "name": "＼期間限定！3,000円以上で200円発行中／SNS話題沸騰！【2025年上半期ランキング受賞】MSCIEN コンセント カバー 延長コード 1m 2m 3m 4m 5m 電源コード コンセントガード ほこりシャッター 壁に溶け込む 雷ガード 9個口 OAタップ安全 usb ベビーガード",
+  "name": "＼24時間限定！全品10％OFFクーポン発行中／SNS話題沸騰！【2025年上半期ランキング受賞】MSCIEN コンセント カバー 延長コード 1m 2m 3m 4m 5m 電源コード コンセントガード ほこりシャッター 壁に溶け込む 雷ガード 9個口 OAタップ安全 usb ベビーガード",
   "price": 3080,
   "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00u708o.72d3yc8d.g00u708o.72d3z0cf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmscien%2Fyp09%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmscien%2Fi%2F10000041%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00u708o.72d3yc8d.g00u708o.72d3z0cf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmscien%2Fyp09%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/mscien/cabinet/08843682/10592738/20260424-141440.jpg?_ex=600x600",
   "shop_name": "Mscien Direct Shop",
-  "review_count": 1113,
+  "review_count": 1115,
   "review_average": 4.42,
   "affiliate_rate": 2.0,
   "point_rate": 1,
   "catchcopy": "PSE認証 延長コード 子供安全対策にも！コンセントがスッキリするし、 子供が遊んで感電するのも防げる！",
   "genre_id": "552481",
-  "score": 13.78,
-  "last_seen": "2026-11-16T07:01:41",
+  "score": 14.18,
+  "last_seen": "2026-11-16T20:16:25",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/mscien/cabinet/08843682/10592738/20260424-141440.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/mscien/cabinet/08843682/10592738/13710423/2_01.jpg?_ex=600x600",
@@ -22066,29 +22073,38 @@
     "theme": "寒さ対策・冬支度（開催中） × 30代女性（暮らし・時短・コスパ）",
     "persona": "30s_woman",
     "event_type": "season"
+   },
+   {
+    "date": "2026-11-16",
+    "slot": "night",
+    "theme": "ブラックフライデー（4日後） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "nanobig:10000898",
-  "name": "【クーポンで2000円オフ】2027新モデル【2年保証】掃除機 コードレス掃除機 Orage史上 超高性能 RR11 軽量 人気 1位 自立 自走式 スティック クリーナー サイクロン 強力吸引 充電式 掃除機 ジェネリック家電 布団クリーナー",
+  "name": "【クーポンで2000円オフ】2027新モデル【2年保証】orage RR11 Orage史上 超高性能 掃除機 コードレス掃除機 軽量 人気 1位 自立 自走式 スティック クリーナー サイクロン 強力吸引 充電式 掃除機 ジェネリック家電 布団クリーナー",
   "price": 13500,
   "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rdz2o.72d3ya08.g00rdz2o.72d3z4b9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnanobig%2Fcleaner-cordless-rr11%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnanobig%2Fi%2F10000898%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00rdz2o.72d3ya08.g00rdz2o.72d3z4b9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnanobig%2Fcleaner-cordless-rr11%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/nanobig/cabinet/02988222/oragerr11/oragerr11_main.jpg?_ex=600x600",
   "shop_name": "ナノビッグ楽天市場店",
-  "review_count": 3801,
+  "review_count": 3808,
   "review_average": 4.51,
   "affiliate_rate": 2.0,
   "point_rate": 1,
   "catchcopy": "重たい掃除機さようなら！吸引力だけじゃない！orage 高性能 サイクロン式コードレスクリーナー おすすめ ギフト",
   "genre_id": "565105",
-  "score": 12.75,
-  "last_seen": "2026-11-15T12:01:39",
+  "score": 15.05,
+  "last_seen": "2026-11-16T20:16:25",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/nanobig/cabinet/02988222/oragerr11/oragerr11_main.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/nanobig/cabinet/02988222/oragerr11/rr11_sub101.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/nanobig/cabinet/02988222/oragerr11/rr11_sub102.jpg?_ex=600x600"
   ],
-  "caption": "メーカー希望小売価格はメーカーサイトに基づいて掲載しています Orage RR11 コードレスサイクロンクリーナー 最大約30分の長時間使用可能！ 強力吸引で細かい粉じんもどんどん吸い込みます。 強モード：26400pa　通常モード：10000pa スイッチはワンプッシュで連続稼働する構造ですので 指に負担がかかりません。 いつでも手軽にお掃除出来て、とっても便利♪ さらに最大75dBの静音仕様。 ペットや赤ちゃんのいるご家庭にもオススメです。 LEDライト装備のフロアヘッド！ ソファの下や、家具のすき間など、暗い場所でも見やすくお掃除ができます。 フィルタつけ忘れ防止機能付き で安心。 インスタやSNSでも大人気！ 開発に1年以上かかった理想的な掃除機 昨今では商品販売だけでアフターフォローできないお店が増えておりますが、 こちらのメーカーではダイソンなど掃除機の販売・修理・メンテナンスを10年以上行っております。 ご購入後のアフターサービス、メンテナンスは安心してお買い求めください。 2026/11/4出荷分からLEDライトをグリーンに変更 Orage RR11 製品仕様 製品名称 Orage RR11 コードレスサイクロンクリーナー 使用時間 標準：約30分/強：約13分（満充電、バッテリー温度20℃の場合） 重量 ハンディ 0.97kg / ヘッド、パイプ含み 1.6kg 充電時間 約3時間前後 付属品 フロアヘッド、掃除機本体（バッテリー含む）、ブラケット用ねじ、説明書、充電器(長さ1.2m)、パイプ、 隙間ノズル、ソフトブラシ、充電ブラケット、HEPAフィルター、（ダストカップ内設置済み1点 ＋ 予備1点 ：合計2点のフィルター付！） バッテリー 21.6V 2500mAh 消費電力 300W 真空度 強モード：26400pa　通常モード：10000pa ※第三"
+  "caption": "メーカー希望小売価格はメーカーサイトに基づいて掲載しています Orage RR11 コードレスサイクロンクリーナー 最大約30分の長時間使用可能！ 強力吸引で細かい粉じんもどんどん吸い込みます。 強モード：26400pa　通常モード：10000pa スイッチはワンプッシュで連続稼働する構造ですので 指に負担がかかりません。 いつでも手軽にお掃除出来て、とっても便利♪ さらに最大75dBの静音仕様。 ペットや赤ちゃんのいるご家庭にもオススメです。 LEDライト装備のフロアヘッド！ ソファの下や、家具のすき間など、暗い場所でも見やすくお掃除ができます。 フィルタつけ忘れ防止機能付き で安心。 インスタやSNSでも大人気！ 開発に1年以上かかった理想的な掃除機 昨今では商品販売だけでアフターフォローできないお店が増えておりますが、 こちらのメーカーではダイソンなど掃除機の販売・修理・メンテナンスを10年以上行っております。 ご購入後のアフターサービス、メンテナンスは安心してお買い求めください。 2026/11/4出荷分からLEDライトをグリーンに変更 Orage RR11 製品仕様 製品名称 Orage RR11 コードレスサイクロンクリーナー 使用時間 標準：約30分/強：約13分（満充電、バッテリー温度20℃の場合） 重量 ハンディ 0.97kg / ヘッド、パイプ含み 1.6kg 充電時間 約3時間前後 付属品 フロアヘッド、掃除機本体（バッテリー含む）、ブラケット用ねじ、説明書、充電器(長さ1.2m)、パイプ、 隙間ノズル、ソフトブラシ、充電ブラケット、HEPAフィルター、（ダストカップ内設置済み1点 ＋ 予備1点 ：合計2点のフィルター付！） バッテリー 21.6V 2500mAh 消費電力 300W 真空度 強モード：26400pa　通常モード：10000pa ※第三",
+  "posted_text": "#PR レビュー見て即決したやつ\n2027新モデル orage RR11\n★4.51・レビュー3,808件\n13,500円\n#楽天購入品\n▶ROOMはプロフから",
+  "posted_at": "2026-11-16T20:16:25"
  },
  "brita:10000134": {
   "first_seen": "2026-10-07T20:16:19",
@@ -31872,6 +31888,13 @@
     "theme": "ブラックフライデー（4日後） × 20代女性（自分磨き・プチプラ・映え）",
     "persona": "20s_woman",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-11-16",
+    "slot": "night",
+    "theme": "ブラックフライデー（4日後） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "mycosmeticbox:10000390",
@@ -31881,14 +31904,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00u9wao.72d3ye32.g00u9wao.72d3zae4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmycosmeticbox%2Fwrinkle%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/mycosmeticbox/cabinet/11105451/straght-top4.jpg?_ex=600x600",
   "shop_name": "MyCosmeticBox",
-  "review_count": 436,
-  "review_average": 4.64,
+  "review_count": 438,
+  "review_average": 4.65,
   "affiliate_rate": 2.0,
   "point_rate": 1,
   "catchcopy": "キヌージョ ストレートアイロン Kinujo ストレートアイロン KINUJO ストレートアイロン LM225 Kinujo ストレートアイロン",
   "genre_id": "509412",
-  "score": 12.53,
-  "last_seen": "2026-11-16T07:01:41",
+  "score": 14.06,
+  "last_seen": "2026-11-16T20:16:25",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/mycosmeticbox/cabinet/11105451/straght-top4.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/mycosmeticbox/cabinet/11105451/lm225.jpg?_ex=600x600",
@@ -37357,25 +37380,32 @@
     "theme": "寒さ対策・冬支度（開催中） × 20代男性（ガジェット・一人暮らし）",
     "persona": "20s_man",
     "event_type": "season"
+   },
+   {
+    "date": "2026-11-16",
+    "slot": "night",
+    "theme": "ブラックフライデー（4日後） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "gbt-dko:10042846",
-  "name": "【公式 Alsace(R) 正規品】クリスマスツリー 180cm 豊富な枝数 2026ver. 樅 高級 ドイツトウヒ ツリー オーナメント なし アルザス ツリー Alsace おしゃれ ヌードツリー 北欧風 まるで本物 スリム 組み立て5分 散らからない Xmas tree",
+  "name": "【P2倍 11/15 23:59迄】【公式 Alsace(R) 正規品】クリスマスツリー 180cm 豊富な枝数 2026ver. 樅 高級 ドイツトウヒ ツリー オーナメント なし アルザス ツリー Alsace おしゃれ ヌードツリー 北欧風 まるで本物 スリム 組み立て5分 散らからない Xmas tree",
   "price": 19800,
   "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qde1o.72d3y881.g00qde1o.72d3zc16/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgbt-dko%2F25496%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgbt-dko%2Fi%2F10042846%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00qde1o.72d3y881.g00qde1o.72d3zc16/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgbt-dko%2F25496%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
-  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/gbt-dko/cabinet/thum/25494_180.jpg?_ex=600x600",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/gbt-dko/cabinet/thum/25494_180a.jpg?_ex=600x600",
   "shop_name": "ダイコン卸　直販部",
-  "review_count": 4016,
+  "review_count": 4015,
   "review_average": 4.69,
   "affiliate_rate": 3.0,
   "point_rate": 1,
   "catchcopy": "9年連続ランキング1位受賞 Instagram投稿3万件超 #アルザスツリークリスマスツリー180cmおしゃれ クリスマス ツリーヌードツリー",
   "genre_id": "213797",
-  "score": 14.23,
-  "last_seen": "2026-11-16T12:08:33",
+  "score": 14.43,
+  "last_seen": "2026-11-16T20:16:25",
   "image_urls": [
-   "https://thumbnail.image.rakuten.co.jp/@0_mall/gbt-dko/cabinet/thum/25494_180.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/gbt-dko/cabinet/thum/25494_180a.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/gbt-dko/cabinet/xmas/x25494_f1.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/gbt-dko/cabinet/xmas/x25494_f2.jpg?_ex=600x600"
   ],
@@ -45786,6 +45816,13 @@
     "theme": "ブラックフライデー（5日後） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-11-16",
+    "slot": "night",
+    "theme": "ブラックフライデー（4日後） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "zojirushi-direct:10000182",
@@ -45801,8 +45838,8 @@
   "point_rate": 10,
   "catchcopy": "清潔な蒸気のスチーム式。個室にぴったりなコンパクトタイプ",
   "genre_id": "204549",
-  "score": 14.52,
-  "last_seen": "2026-11-15T07:02:08",
+  "score": 13.52,
+  "last_seen": "2026-11-16T20:16:25",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/zojirushi-direct/cabinet/compass1759125509.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/zojirushi-direct/cabinet/compass1756357410.jpg?_ex=600x600",
@@ -46229,6 +46266,13 @@
     "theme": "ブラックフライデー（4日後） × 20代女性（自分磨き・プチプラ・映え）",
     "persona": "20s_woman",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-11-16",
+    "slot": "night",
+    "theme": "ブラックフライデー（4日後） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "masuyone:10000215",
@@ -46245,7 +46289,7 @@
   "catchcopy": "【メガ盛り2kg入り】お徳用のたっぷり(60粒前後)！まとめ買いならこちら[ますよね]",
   "genre_id": "110408",
   "score": 12.68,
-  "last_seen": "2026-11-16T07:01:41",
+  "last_seen": "2026-11-16T20:16:25",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/masuyone/cabinet/kago/kaki2kg-kago.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/masuyone/cabinet/goods/kaki/0000cooking_big06.jpg?_ex=600x600",
@@ -46615,5 +46659,203 @@
    "https://thumbnail.image.rakuten.co.jp/@0_mall/kabuozaki/cabinet/09052302/imgrc0131510131.jpg?_ex=600x600"
   ],
   "caption": "ありがとうございます。 こちらの商品はアウトレット（訳あり）商品になります。 理由としまして、外箱破損の為です。 自社にて段ボール梱包してお送り致します。 商品自体は、無傷、新品、未開封、未使用ですのでご安心下さい。 ★セット内容 ・マットレス本体 ・専用インナーカバー ・取扱説明書 ★マットレス ・厚さ50mm×横幅970mm×長さ1950mm ・重さ 約 4.6kg ※プレミアム【厚さ5センチ】とライト3.5【厚さ3.5センチ】は取扱説明書が同じものになっております。 ※ウレタンフォームの特性上、ごく稀に一部変色している場合がございますが、品質自体に問題はございません。 ※ウレタンフォーム特有の匂いや変色による交換、返品、返金はいたしかねますこと、ご了承ください。 ※商品の型番につきましては入荷入手経路やリニューアルにより、表記が違う商品をお届けする場合がございますが、商品の内容は同一のものとなります。"
+ },
+ "ryohinseikatsukan:10000105": {
+  "first_seen": "2026-11-16T20:16:25",
+  "themes": [
+   {
+    "date": "2026-11-16",
+    "slot": "night",
+    "theme": "ブラックフライデー（4日後） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "ryohinseikatsukan:10000105",
+  "name": "【100%抽選P】ノンフライヤー COSORI CAF-DC601-KJP 6.0L 大容量 電気フライヤー エアフライヤー 卓上 フライヤー 1台多役 ノンオイルフライヤー 一人暮らし 調理家電 家電 家庭用 揚げ物 おかず 便利 油なし ヘルシー 油なし揚物 キッチン家電 温度調整 2年保証",
+  "price": 19980,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00twdho.72d3y467.g00twdho.72d3z56f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fryohinseikatsukan%2Ftsuhan-123-ea123%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fryohinseikatsukan%2Fi%2F10000105%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00twdho.72d3y467.g00twdho.72d3z56f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fryohinseikatsukan%2Ftsuhan-123-ea123%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/ryohinseikatsukan/cabinet/10950311/0204.jpg?_ex=600x600",
+  "shop_name": "良品生活館",
+  "review_count": 1176,
+  "review_average": 4.7,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "ノンフライヤー エアフライヤー ノンオイルフライヤー 電気フライヤー 調理家電 キッチン家電 油なし揚物 メーカー2年保証【正規品】COSORI CAF-DC601-KJP 6.0L大容量",
+  "genre_id": "564331",
+  "score": 14.36,
+  "last_seen": "2026-11-16T20:16:25",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/ryohinseikatsukan/cabinet/10950311/0204.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/ryohinseikatsukan/cabinet/10950311/10951226/6011.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/ryohinseikatsukan/cabinet/10950311/10951226/6012.jpg?_ex=600x600"
+  ],
+  "caption": "DCモーター搭載 エネルギー効率が高く、静音性に優れたDCモーター搭載。従来品よりも最大38%速く調理できる、貴重な時間を節約できます。COSORIの独自技術により、最高230℃までの温度設定が可能になります。熱風で迅速に調理し、食材の水分と旨みをとじ込みながら、均一に加熱して内部をふんわり柔らかく、外側をパリッと焼き上げます。暑い日に揚げ物を作るストレスも解消！ 料理研究家コラボレシピ特典 Nadiaで活躍する料理研究家今日のおうちごはんさん、中村りえさん、豪ノ皿さんとの共同レシピやCOSORIの専門シェフが開発されたオリジナルレシピなどの特典レシピ本が付属しています。さらに、COSORI専属オンラインレシピでダイエットにうれしいレシピ、家族が喜ぶおいしいご飯のレシピなど100種類以上のレシピをオンラインでチェックできます。 発酵機能 バター、ヨーグルト・味噌、酢・・・美容と健康に良い発酵食品を作ることができます。発酵食品で腸内環境をサポートしながら、日々輝く自分へ。 9+1の多彩な機能 揚げ物から焼き物、ドライフード、ベイク、ロースト、グリル、保温、解凍、再加熱、発酵までさまざまな料理が可能。様々な料理を簡単に調理でき、コスパも抜群です。はじめてのかたでも簡単に使えるシンプルな操作で、ストレスフリーな調理を実現します。夫婦で一緒に、そして子どもと一緒に楽しみながら料理する、しかもペットフードを手作りできます！ グローバルブランド！2年保証・充実なサポート COSORIはアメリカで創業し、アメリカ、ドイツ、カナダを含む9カ国で販売されている人気ブランドで、東京にも事務所がございます。既に三千万以上のお客様にヘルシーかつ美味しい食生活をさせていただきました。製品に2年間の保証期間と24時間以内の日本語サポートを提供致します。面倒な手続きが一切なく、何かご不明や不具合がござい"
+ },
+ "shark:10000489": {
+  "first_seen": "2026-11-16T20:16:25",
+  "themes": [
+   {
+    "date": "2026-11-16",
+    "slot": "night",
+    "theme": "ブラックフライデー（4日後） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "shark:10000489",
+  "name": "最大20％OFF セール 【Ninja 公式】Ninja Crispi クリスピー FN101J FN100J【公式限定レシピ本特典あり】 / シャークニンジャ 電気調理器 電気フライヤー ノンフライヤー エアフライヤー 卓上 家庭用 自動調理器 揚げ物 グリル ロースト ほったらかし 調理家電",
+  "price": 15840,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00toapo.72d3y30a.g00toapo.72d3z450/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshark%2Ffn101j%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshark%2Fi%2F10000489%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00toapo.72d3y30a.g00toapo.72d3z450/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshark%2Ffn101j%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/shark/cabinet/renamethum/p00/fn101j_m20off.jpg?_ex=600x600",
+  "shop_name": "SharkNinja公式楽天市場店",
+  "review_count": 173,
+  "review_average": 4.55,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "デザート 食洗器対応 NINJA Crispi ノンフライヤー エアフライヤー ニンジャ 全米No.1",
+  "genre_id": "564331",
+  "score": 13.76,
+  "last_seen": "2026-11-16T20:16:25",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/shark/cabinet/renamethum/p00/fn101j_m20off.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/shark/cabinet/products/fn100j/recipebook_thum.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/shark/cabinet/products/fn100j/fn100j_01.jpg?_ex=600x600"
+  ],
+  "caption": "メーカー希望小売価格はメーカーサイトに基づいて掲載しています ※FN101Jは2025年モデルの型番となります。FN100Jとはメーカー希望小売価格は異なります。 買い足しはコチラ！★クリスピー用ガラスコンテナ★ ▼Sセット▼ ▼Lセット▼※セージグリーンキャンペーン期間：11/19(木) 09:00〜11/25(水) 08:59 まで。売り切れ次第、キャンペーンが終了になることがございます。※注文が込み合っている場合、配送が遅れる場合がございます。"
+ },
+ "nanobig:10000922": {
+  "first_seen": "2026-11-16T20:16:25",
+  "themes": [
+   {
+    "date": "2026-11-16",
+    "slot": "night",
+    "theme": "ブラックフライデー（4日後） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "nanobig:10000922",
+  "name": "【クーポンで2000円オフ】2026年モデル orage RR35 自動ゴミ回収ステーション コードレス掃除機【2年保証】自動ゴミ収集ドック ごみ収集 掃除機 紙パック 軽量 自立 自走式 スティック クリーナー 強力吸引 充電式 ジェネリック家電",
+  "price": 19980,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rdz2o.72d3ya08.g00rdz2o.72d3z4b9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnanobig%2Fcleaner-cordless-rr35%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnanobig%2Fi%2F10000922%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00rdz2o.72d3ya08.g00rdz2o.72d3z4b9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnanobig%2Fcleaner-cordless-rr35%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/nanobig/cabinet/02988222/oragerr35/oragerr35_main.jpg?_ex=600x600",
+  "shop_name": "ナノビッグ楽天市場店",
+  "review_count": 2196,
+  "review_average": 4.61,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "ホコリが舞うゴミ捨てさよなら！吸引力だけじゃない！自動ゴミ回収 サイクロン式コードレスクリーナー おすすめ ギフト.",
+  "genre_id": "565105",
+  "score": 13.69,
+  "last_seen": "2026-11-16T20:16:25",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/nanobig/cabinet/02988222/oragerr35/oragerr35_main.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/nanobig/cabinet/02988222/oragerr35/rr35_sub401g.gif?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/nanobig/cabinet/02988222/oragerr35/rr35_2025model_b.jpg?_ex=600x600"
+  ],
+  "caption": "メーカー希望小売価格はメーカーサイトに基づいて掲載しています Orage RR35 コードレスサイクロンクリーナー ●自動ゴミ回収ステーション　収集ドッグ　収集ドック 置くだけで、充電、収納、自動ゴミ回収。 大容量抗菌紙パックで、最大約4－5か月ゴミ捨て不要。※1 抗菌加工の紙パックで清潔にご使用頂けます。※2 設置場所はほぼA4サイズですので、場所も取りません。 シャッター構造により、ごみ捨て時のほこりの飛散を防ぎます。 ゴミ回収の音が気になる場合は、ナイトモードに切り替えて充電だけ行えます。 アタッチメントホルダーで、ノズルもすっきりと収納。 ※1 1日1回のお掃除（1日分の試験ごみ1g）として計測。ごみの種類や量、環境や使い方により、満杯になる日数は異なります。 ※2 全ての菌・臭いを抑えるわけではありません。においが気になる場合は早めにお取替え下さい。 　ペットの毛や臭いの強いもの、生もの、食べこぼしを吸い込んだ時は、早めに交換して下さい。 ●コードレス掃除機　orage RR35 最大約30分の長時間使用可能！ 強力吸引で細かい粉じんもどんどん吸い込みます。 強モード：26400pa　通常モード：10000pa スイッチはワンプッシュで連続稼働する構造ですので 指に負担がかかりません。 いつでも手軽にお掃除出来て、とっても便利♪ さらに最大75dBの静音仕様。 ペットや赤ちゃんのいるご家庭にもオススメです。 LEDライト装備のフロアヘッド！ ソファの下や、家具のすき間など、暗い場所でも見やすくお掃除ができます。 フィルタつけ忘れ防止機能付き で安心。 インスタやSNSでも大人気！ 昨今では商品販売だけでアフターフォローできないお店が増えておりますが、 こちらのメーカーではダイソンなど掃除機の販売・修理・メンテナンスを10年以上行っております。 ご購入後のアフターサ"
+ },
+ "jism:14119581": {
+  "first_seen": "2026-11-16T20:16:25",
+  "themes": [
+   {
+    "date": "2026-11-16",
+    "slot": "night",
+    "theme": "ブラックフライデー（4日後） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "jism:14119581",
+  "name": "エプソン A4カラーインクジェットプリンター複合機 EPSON　Colorio（カラリオ） EW-056A",
+  "price": 8467,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pukwo.72d3y92f.g00pukwo.72d3z6ba/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjism%2F4988617500167-44-37919-n%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjism%2Fi%2F14119581%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00pukwo.72d3y92f.g00pukwo.72d3z6ba/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjism%2F4988617500167-44-37919-n%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/jism/cabinet/0170/4988617500167.jpg?_ex=600x600",
+  "shop_name": "Joshin web 家電とPCの大型専門店",
+  "review_count": 106,
+  "review_average": 4.49,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "",
+  "genre_id": "408418",
+  "score": 13.66,
+  "last_seen": "2026-11-16T20:16:25",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/jism/cabinet/0170/4988617500167.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/jism/cabinet/s_1126/4988617500167a.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/jism/cabinet/s_1126/4988617500167b.jpg?_ex=600x600"
+  ],
+  "caption": "【返品種別A】□「返品種別」について詳しくはこちら□「おひとり様3点まで」2024年02月 発売メーカー保証期間 1年持込修理【ご案内】■ご注文については、お1人様3台までのご注文でお願いします。■転売目的や、同一住所で名前を変えてのご注文など、同一と思われるお客様より複数のご注文をいただいた場合、全てのご注文をお取り消しさせていただく場合がございますのでご了承ください。※USBケーブルは同梱されておりません。必要な基本機能をコンパクトに。無線LANに対応したシンプルモデル。◆スマホからのプリントが楽しく、快適にスマホにある写真やPDFなどの文書をすぐプリントできます。◆スマホからすぐプリント！　「Epson Smart Panel」スマホ・タブレット専用アプリ「Epson Smart Panel」を使えば、書類や写真をスマホからカンタン、しかもキレイにプリント。学校や幼稚園からくる連絡ファイルのPDFや在宅で必要になる仕事資料、勉強教材をスマホからすぐプリントできるから便利。もちろん写真や年賀状など、家庭でのさまざまなプリントニーズに応えます。さらにスマホからプリンターの本体操作やメンテナンスができます。◆「くっきりブラック」で、文字や細線をシャープに美しく「くっきりブラック」だから、普通紙でも見やすくてキレイ。お客さまに提出する書類もシャープにプリントできるので、説得カが違います。また、大切なお客さまに発送するDMやクーポンなども鮮明にプリントします。◆置く場所を選ばないコンパクトなボディーぎゅっと多機能をつめこんだコンパクトサイズ。さらに、リビングなど、生活の中に調和できるよう、デザインにこだわりました。■　仕　様　■解像度：最高5760×1440dpiインク色数：4色独立（染料3色、顔料1色）使用可能用紙サイズ：L判、2L判、KG、スクエア、ハイビジョン、六切、A6"
+ },
+ "katariyashop:10000484": {
+  "first_seen": "2026-11-16T20:16:25",
+  "themes": [
+   {
+    "date": "2026-11-16",
+    "slot": "night",
+    "theme": "ブラックフライデー（4日後） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "katariyashop:10000484",
+  "name": "【AI自動温度調節】ホットカーペット ホットマット型電気毛布 180cm×80cm ホットマット 電気毛布 敷き 炭素繊維ヒーター タイマー機能付 どこでもマット 電気マット 一人用 ふわまっと ふわふわフランネル洗える節電 電気暖房",
+  "price": 7980,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00u552o.72d3y1d2.g00u552o.72d3z150/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkatariyashop%2Fheato%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkatariyashop%2Fi%2F10000484%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00u552o.72d3y1d2.g00u552o.72d3z150/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkatariyashop%2Fheato%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/katariyashop/cabinet/12162088/12373935/0.jpg?_ex=600x600",
+  "shop_name": "カタリヤショップ",
+  "review_count": 230,
+  "review_average": 4.45,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "【圧倒的に省エネ】ホットカーペット 電気ホットカーペット 1畳 CAVMHOT 肌触りが気持ちいい、柔らかフランネル仕上げ♪どこでもホットカーペット 送料無料",
+  "genre_id": "212318",
+  "score": 13.45,
+  "last_seen": "2026-11-16T20:16:25",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/katariyashop/cabinet/12162088/12373935/0.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/katariyashop/cabinet/11050765/11050767/imgrc0111623113.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/katariyashop/cabinet/12162088/12373935/13865947/1_01.jpg?_ex=600x600"
+  ],
+  "caption": "商品説明※商品名 ホットマット型電気毛布 ※製品仕様 ●ブランド名: CAVMHOT ●PSマークの種類：PSE ●届出事業者名：株式会社池泉テクノロジー 寸法：約180×80cm 商品重量 :2.1KG 素材：やわらかなぬくもり フランネル素材 加温素材:日本製繊維ヒーター 温度段数：6段 タイマー機能:1-9時間 定格電圧 ：100V 定格消費電力 : 70W 温度範囲：約25℃～45℃ 電源コード長さ2.5m ダニ退治機能 本体丸洗い可能 ※コントローラーは洗えません ※ご注意： 本商品は 2種類のコントローラーのいずれかがランダムで発送される場合がございます。 いずれも機能はほぼ同等となっております。 コントローラーの種類にこだわりがある方は、恐れ入りますがご購入をお控えください。 ふわふわな素材を採用 このかけしき毛布はふわふわした触り心地のフランネル素材で作られています。 電気毛布なのにふわふわしていて、そしてしなやかです。 【高い安全性】 ROASICEEの電気毛布は全てSマーク（電気製品の安全のための第三者認証制度）を取得しています。 第三者認証機関によって、製品試験及び定期工場調査が行われています。 細かく温度設定が可能 細かく温度設定が可能 コントローラーのメモリには、1-2弱・3-4中・5-6強がありますが、 実は、「弱と中」「中と強」の間も細かく温度設定が可能です。 お好みで細かく温度を調節できます 簡単にダニ退治ができる 毛布を使っているとだんだん気になるのがダニの存在。 ダニは洗濯しても、天日干ししてもなかなか死滅しません。 しかしご安心ください。この電気毛布はそんなしぶといダニも簡単に撃退できます。 撃退方法は、 1.ポリ袋に毛布を入れ、2.布団に挟み、3.3時間「6」で運転するだけです。 たったこれだけで99.9%以上のダニが死滅します。 薬"
+ },
+ "moosoo:10000127": {
+  "first_seen": "2026-11-16T20:16:25",
+  "themes": [
+   {
+    "date": "2026-11-16",
+    "slot": "night",
+    "theme": "ブラックフライデー（4日後） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "moosoo:10000127",
+  "name": "【ブラックフライデー★19日20時〜】楽天Rank80冠達成！ハンディクリーナー 15kPa ブラシレスモーター コードレス 30分間連続稼働 充電式 サイクロン 収納充電2-in-1 超強吸引力 車内 紙パック不要 車 掃除機 コードレス ハンディ そうじき MooSoo K12",
+  "price": 8999,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00t9evo.72d3y0ff.g00t9evo.72d3z5b6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmoosoo%2Fk12%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmoosoo%2Fi%2F10000127%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00t9evo.72d3y0ff.g00t9evo.72d3z5b6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmoosoo%2Fk12%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmoosoo%2Fi%2F10000127%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/moosoo/cabinet/10231336/imgrc0209272331.jpg?_ex=600x600",
+  "shop_name": "MooSoo",
+  "review_count": 4562,
+  "review_average": 4.5,
+  "affiliate_rate": 2.0,
+  "point_rate": 5,
+  "catchcopy": "【MooSoo公式★2026年最新型】1年保証/あす楽 送料無料 大掃除 父の日 ギフト プレゼント プラシレスモ一タ一搭載＆最大15kPaの吸引力",
+  "genre_id": "565105",
+  "score": 12.94,
+  "last_seen": "2026-11-16T20:16:25",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/moosoo/cabinet/10231336/imgrc0209272331.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/moosoo/cabinet/12620127/imgrc0201123577.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/moosoo/cabinet/12620127/imgrc0201050734.jpg?_ex=600x600"
+  ],
+  "caption": "商品詳細 商品型番 K12 梱包サイズ 43.8*16*9.2 cm 充電時間 4.5-5.5h 吸引力 パワフルモード:約15,000pa、標準モード:約8,000Pa 使用時間 パワフルモード:約15分、標準モード:約30分 騒音レベル ≦63dB 重量 約500g 集じん方式 サイクロン式 フィルター 高効率HEPAフィルター（水洗いが可能） ブラシレスモーター&抜群の吸引力！ ・通常のモーターよりメンテナンス性の高いブラシレスモーターを搭載し、サイクロンシステムにより、パワフルモードでは15000paの強力な吸引力で、砂、食べこぼし、小石、ペットの毛などのゴミを吸引します。 ・ブラシレスモーターの搭載により、耐久性（モーター寿命）もアップしました。 ・電源スイッチを押して、標準モードからパワフルモードに切り替えます。 ・車、キッチン、テーブルのお掃除など、使い方に合わせてモードを選ぶことができます！（パワフルモード15分間、標準モード30分間使用可能です） コードレス＆コンパクト！ ・本製品は重さ【500g】の軽量コードレスハンディクリーナーです。 ・女性やお子様でもソファー、車の隙間、チェアーなどを楽にお掃除できます。 ・洗練されたエルゴノミックデザインにより長時間使用しても疲れません。 ・吸引口に逆流防止弁があり、吸い込んだゴミが逆流してくる心配もありません。 先進的フィルター＆簡単お手入れ！ ・ゴミに触れることなく、ワンタッチでダストカップ内のゴミを捨てることができます。 ・最高級の紙フィルター（医療にも使用可能）とステンレスフィルターの効果で99.9%のホコリ、花粉、アレルギー物質をろ過します。 だから、排気は清潔なので安心してご使用できます！ ・ダストカップとステンレスフィルターは取り外して水洗いすることが可能です。 ・定期的なお手入れをすることで、吸引力"
  }
 }

@@ -66,3 +66,40 @@
 
 - **20代男性のリピート候補**: 楽天1位獲得 シーリングライト LED 6畳 / ダイニングチェア 肘付き 簡単組立 / 折りたたみ レゴブロック収納ボックス / トップス カーディガン ニットカーディガン
 
+## 20:16 ブラックフライデー（4日後） × 30代男性（健康・効率化・家電）
+
+1. **【クーポンで2000円オフ】2027新モデル【2年保証】orage RR11 Orage史上 超高性能 掃除機 コードレ**
+   - 価格: 13,500円 / ★4.51（3,808件） / 料率 2.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00rdz2o.72d3ya08.g00rdz2o.72d3z4b9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnanobig%2Fcleaner-cordless-rr11%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnanobig%2Fi%2F10000898%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: ブラックフライデー中に狙いたい1つ。スペック比較して残ったやつ。強力吸引で細かい粉じんもどんどん吸い込みます。ペットや赤ちゃんのいるご家庭にもオススメです。レビュー3,808件で★4.51。13,500円。在庫が動きやすいので早めに。
+
+2. **Z 5種から選べる スーパージャンボクーヘン3個（450g×3）セット 超ド級 2026 食品 バームクーヘン スイーツ**
+   - 価格: 5,460円 / ★4.32（10,386件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00s0two.72d3yf98.g00s0two.72d3zcda/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshitamachibaum%2F100000123-3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshitamachibaum%2Fi%2F10000217%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: ブラックフライデー中に狙いたい1つ。スペック比較して残ったやつ。レビュー10,386件で★4.32。送料無料。気になる人はお気に入り登録を。
+
+3. **＼24時間限定！全品10％OFFクーポン発行中／SNS話題沸騰！【2025年上半期ランキング受賞】MSCIEN コンセン**
+   - 価格: 3,080円 / ★4.42（1,115件） / 料率 2.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00u708o.72d3yc8d.g00u708o.72d3z0cf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmscien%2Fyp09%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmscien%2Fi%2F10000041%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: ブラックフライデー中に狙いたい1つ。時短になる系。レビュー1,115件で★4.42。10%OFF。配送日も一緒に確認を。
+
+4. **＼ BLACK FRIDAY限定 ／2点購入で70％OFF楽天総合ランキング1位を4度獲得！日本食品衛生法適合 保冷剤 **
+   - 価格: 2,980円 / ★4.36（2,770件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00uocjo.72d3y31c.g00uocjo.72d3z38e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdecori%2Fy-342%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdecori%2Fi%2F10000319%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: ブラックフライデー中に狙いたい1つ。毎日使うものほど良い物を、の代表。シンプルで、しっかり冷たい。化学ジェルや化学冷却剤は使用せず、無菌水のみを封入。楽天ランキング1位、レビュー2,770件で★4.36。70%OFF。在庫が動きやすいので早めに。
+
+5. **【半額SALE】【限定色/通常色50%OFF】プラスマイナスゼロ 掃除機 ハンディクリーナー コードレスクリーナー XJ**
+   - 価格: 6,600円 / ★4.48（119件） / 料率 2.0% / P10倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00t1zqo.72d3y9c8.g00t1zqo.72d3zde4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsouthone%2F202302pp%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsouthone%2Fi%2F10000107%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: ブラックフライデー中に狙いたい1つ。時短になる系。小さめの本体は使いやすいから毎日さっと手が伸びます。いつも人の矛盾する欲求の中間にいて、中庸でありたいと願います。レビュー119件で★4.48。50%OFF、ポイント10倍で実質5,940円。セール中に補充しておくと安心です。
+
+6. **【ブラックフライデー★エントリーでP10倍】全自動12Vバイクバッテリー充電器■■【車両ケーブル付属】トリクル充電機能で**
+   - 価格: 2,980円 / ★4.63（4,095件） / 料率 2.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00rh4lo.72d3yfb0.g00rh4lo.72d3zd8f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbatterystore%2Fcharger-bcgm12%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbatterystore%2Fi%2F10000498%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: ブラックフライデー中に狙いたい1つ。スペック比較して残ったやつ。機能十分、シンプルで使いやすいバイク用バ。電圧の自動検知・動作中は常に電圧を検知し、状況に応じて充電電圧を自動調整します。レビュー4,095件で★4.63。送料無料。セール中に補充しておくと安心です。
+
+### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
+
+- **ブラックフライデーで買うもの**: 2027新モデル orage RR11 / 5種から選べる スーパージャンボクーヘン3個 / SNS話題沸騰！ MSCIEN コンセント / BLACK 保冷剤 ステンレス Sサイズ / プラスマイナスゼロ 掃除機 / 全自動12Vバイクバッテリー充電器
+- **30代男性のリピート候補**: 2027新モデル orage RR11 / 5種から選べる スーパージャンボクーヘン3個 / SNS話題沸騰！ MSCIEN コンセント / BLACK 保冷剤 ステンレス Sサイズ / プラスマイナスゼロ 掃除機 / 全自動12Vバイクバッテリー充電器
+
