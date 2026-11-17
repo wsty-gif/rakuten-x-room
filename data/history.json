@@ -24281,5 +24281,16 @@
   "review_count": 7708,
   "review_average": 4.53,
   "genre_id": "553694"
+ },
+ {
+  "date": "2026-11-17T18:31:32",
+  "slot": "evening",
+  "kind": "engage",
+  "engage_key": "tip5",
+  "theme": "反応投稿（tip）",
+  "persona": "all",
+  "text": "【楽天の小ネタ】\n楽天のポイント倍率は「上限」があります。\nSPUは月ごとの獲得上限があるので、高額商品はセール日にまとめるより分散したほうが得なこともあります。",
+  "tweet_id": "",
+  "threads_id": "18039230651856124"
  }
 ]
