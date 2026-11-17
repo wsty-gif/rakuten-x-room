@@ -19395,6 +19395,13 @@
     "theme": "寒さ対策・冬支度（開催中） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "season"
+   },
+   {
+    "date": "2026-11-18",
+    "slot": "morning",
+    "theme": "ブラックフライデー（2日後） × 子育て世帯のママ・パパ",
+    "persona": "mama",
+    "event_type": "sale"
    }
   ],
   "item_code": "nene777:10000018",
@@ -19411,7 +19418,7 @@
   "catchcopy": "業界革新！掃除機 コードレス【楽天12連冠達成！吸引力完全進化】グリーンLED×110Kpa超吸引で「見えない汚れ」も完全制圧自立式&次世代LED液晶ディスプレイ3年間保証",
   "genre_id": "565105",
   "score": 14.22,
-  "last_seen": "2026-11-17T20:16:27",
+  "last_seen": "2026-11-18T07:02:12",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/nene777/cabinet/compass1792658274.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/nene777/cabinet/compass1791195726.jpg?_ex=600x600",
@@ -31923,6 +31930,13 @@
     "theme": "寒さ対策・冬支度（開催中） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "season"
+   },
+   {
+    "date": "2026-11-18",
+    "slot": "morning",
+    "theme": "ブラックフライデー（2日後） × 子育て世帯のママ・パパ",
+    "persona": "mama",
+    "event_type": "sale"
    }
   ],
   "item_code": "mycosmeticbox:10000390",
@@ -31939,7 +31953,7 @@
   "catchcopy": "キヌージョ ストレートアイロン Kinujo ストレートアイロン KINUJO ストレートアイロン LM225 Kinujo ストレートアイロン",
   "genre_id": "509412",
   "score": 13.96,
-  "last_seen": "2026-11-17T20:16:27",
+  "last_seen": "2026-11-18T07:02:12",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/mycosmeticbox/cabinet/11105451/straght-top4.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/mycosmeticbox/cabinet/11105451/lm225.jpg?_ex=600x600",
@@ -38715,26 +38729,33 @@
     "theme": "今売れている物 × 30代男性（健康・効率化・家電）",
     "persona": "30s_man",
     "event_type": "baseline"
+   },
+   {
+    "date": "2026-11-18",
+    "slot": "morning",
+    "theme": "ブラックフライデー（2日後） × 子育て世帯のママ・パパ",
+    "persona": "mama",
+    "event_type": "sale"
    }
   ],
   "item_code": "pcshop-best:10000139",
-  "name": "【最短即日発送】＼3年保証＆ランキング1位／ バッファロー ルーター wifi6 IPv6 無線LAN WiFi 無線LANルーター 無線親機 無線ルーター 楽天ひかり ソフトバンク光 二階建て BUFFALO Wi-Fi WiFiルーター WSR-3000AX4L WSR3600BE4P-BK wifi6対応 Wi-Fi7",
+  "name": "【最短即日発送】＼3年保証＆ランキング1位／ バッファロー ルーター wifi6 IPv6 無線LAN WiFi 無線LANルーター 無線親機 無線ルーター 楽天ひかり ソフトバンク光 二階建て BUFFALO Wi-Fi WiFiルーター WSR-3000AX4L WSR-3000AX4P_DBK WSR3600BE4P-BK wifi6対応 Wi-Fi7",
   "price": 7480,
   "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00uh37o.72d3y7a0.g00uh37o.72d3z1aa/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpcshop-best%2F002-0001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpcshop-best%2Fi%2F10000139%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00uh37o.72d3y7a0.g00uh37o.72d3z1aa/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpcshop-best%2F002-0001%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/pcshop-best/cabinet/compass1731286828.jpg?_ex=600x600",
   "shop_name": "and pc（PC SHOP BEST）楽天市場店",
-  "review_count": 1874,
+  "review_count": 1909,
   "review_average": 4.66,
   "affiliate_rate": 2.0,
   "point_rate": 1,
   "catchcopy": "大人気のBUFFALO製 無線LANルーター が入荷しました！中継器セットもご検討ください。",
   "genre_id": "506591",
-  "score": 14.94,
-  "last_seen": "2026-11-02T12:02:15",
+  "score": 14.95,
+  "last_seen": "2026-11-18T07:02:12",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/pcshop-best/cabinet/compass1731286828.jpg?_ex=600x600",
-   "https://thumbnail.image.rakuten.co.jp/@0_mall/pcshop-best/cabinet/img-up_1_1486/2632_k1_766497_83.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/pcshop-best/cabinet/img-up_1_1486/2632_k1_766497_86.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/pcshop-best/cabinet/13348033/13348039/mvp1.jpg?_ex=600x600"
   ],
   "caption": "商品情報よくある質問Q1.スマートフォンが無ければ設定できないのでしょうか？A：スマホがない場合は、通常通りパソコンでセットアップが可能ですので、ご安心ください。Q2.他社の ルーター（中継器対応ルーター） にも中継可能ですか？A：はい、対応可能です。 アイ・オー・データ NEC TP-Link エレコム などの 中継器対応ルーター にも接続可能です。Q3.有線で接続したいのですが、LANケーブルを買わないといけませんか？A：0.5mもしくは1mのものが1本付属しています。それよりも長いケーブルが必要な場合は別途でご購入が必要です。主な仕様【WCR-1166DHPL】【WCR-1166DHPL】無線ルーター推奨環境：2階建て(戸建て) 3LDK(マンション)接続台数：12台/4人周波数：2.4/5GHz無線LAN速度(5GHz)：866 Mbps無線LAN速度(2.4GHz) ：300 Mbps無線LAN規格：IEEE802.11a/b/g/n/acアンテナ数： 5GHz/2.4GHz：2本(内蔵)ストリーム数：5GHz：2×2/2.4GHz：2×2セキュリティ規格 ：WPA WPA2 WEP有線LAN(HUB)速度：10/100/1000Mbps有線LAN(HUB)ポート数：3ポートその他対応機能：WPS AOSS IPv6 ビームフォーミング MU-MIMO 4K通信対応 VPNパススルー 引越し機能サイズ・重量：幅x高さx奥行 55x159x130 mm　重量 256 g・付属品：LANケーブル（50cm）、ACアダプター、取扱説明書、保証書・保証期間：1年間+2年間(レビュー投稿のお客様限定)・簡易パッケージ版主な仕様【WSR-3000AX4L】【WSR-3000AX4L】無線ルーター推奨環境：3階建て(戸建て) 4LDK(マンション)接続台数：18台/6人周波数："
@@ -38788,6 +38809,13 @@
     "theme": "ブラックフライデー（5日後） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-11-18",
+    "slot": "morning",
+    "theme": "ブラックフライデー（2日後） × 子育て世帯のママ・パパ",
+    "persona": "mama",
+    "event_type": "sale"
    }
   ],
   "item_code": "officetrust:10000250",
@@ -38797,14 +38825,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00u1i9o.72d3y514.g00u1i9o.72d3z249/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fofficetrust%2F014003%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/officetrust/cabinet/paper/paper01/014003_1.jpg?_ex=600x600",
   "shop_name": "オフィストラスト",
-  "review_count": 250,
-  "review_average": 4.52,
+  "review_count": 251,
+  "review_average": 4.53,
   "affiliate_rate": 2.0,
   "point_rate": 1,
   "catchcopy": "『お届け先の氏名に必ず法人名を記載ください』高速及び大量コピー用に設計された高品質コピー用紙。",
   "genre_id": "303145",
-  "score": 12.91,
-  "last_seen": "2026-11-15T07:02:08",
+  "score": 13.54,
+  "last_seen": "2026-11-18T07:02:12",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/officetrust/cabinet/paper/paper01/014003_1.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/officetrust/cabinet/paper/paper01/014003_2.jpg?_ex=600x600",
@@ -43361,29 +43389,36 @@
     "theme": "寒さ対策・冬支度（開催中） × 30代女性（暮らし・時短・コスパ）",
     "persona": "30s_woman",
     "event_type": "season"
+   },
+   {
+    "date": "2026-11-18",
+    "slot": "morning",
+    "theme": "ブラックフライデー（2日後） × 子育て世帯のママ・パパ",
+    "persona": "mama",
+    "event_type": "sale"
    }
   ],
   "item_code": "auc-risecreation:10005480",
-  "name": "《★楽天1位★》【最安5310円 クーポン使用で 11/11 23:59迄】ふわとろ電気毛布 ブランケット掛け 電気毛布 電熱毛布 ブランケット掛け ひざ掛け タイマー付き 掛け敷き 掛け毛布 シングル 敷き毛布 敷き掛け毛布 膝掛け",
+  "name": "【11/18～ クーポンで11800円→5900円 11/25 23:59迄】 《★楽天1位★》【期間限定★30％OFFクーポン 11/25 1:59迄】ふわとろ電気毛布 ブランケット掛け 電気毛布 電熱毛布 ブランケット掛け ひざ掛け タイマー付き 掛け敷き 掛け毛布 シングル 敷き毛布 敷き掛け毛布 膝掛け",
   "price": 11800,
   "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00s0p3o.72d3yc97.g00s0p3o.72d3z6fe/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-risecreation%2Fr0900%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-risecreation%2Fi%2F10005480%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00s0p3o.72d3yc97.g00s0p3o.72d3z6fe/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-risecreation%2Fr0900%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-risecreation/cabinet/product/top-2/r0900_ai_1.jpg?_ex=600x600",
   "shop_name": "atRise（アットライズ）",
-  "review_count": 42,
-  "review_average": 4.64,
+  "review_count": 85,
+  "review_average": 4.21,
   "affiliate_rate": 2.0,
   "point_rate": 1,
   "catchcopy": "寒い季節も快適に過ごせる♪ 軽くておしゃれなあったか生活。",
   "genre_id": "208397",
-  "score": 12.52,
-  "last_seen": "2026-11-12T07:02:19",
+  "score": 12.98,
+  "last_seen": "2026-11-18T07:02:12",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-risecreation/cabinet/product/top-2/r0900_ai_1.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-risecreation/cabinet/product/13033684/r0900_02.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-risecreation/cabinet/product/13170817/r0900_03.jpg?_ex=600x600"
   ],
-  "caption": "寒い季節を彩る冬のアイテム特集 着るだけぽかぽか、冬のご褒美時間♪ ふわふわファーで足元もあったか♪ 商品紹介 ＼もっと、包まれていたい。／ マシュマロみたいな、ふわとろ感。 寒い冬の時間を、もっと心地よく。 ふわふわの肌ざわりと、やさしいぬくもりで ベッドやソファ、デスクなど、 冬のさまざまなシーンを包み込みます。 気分やお部屋に合わせて選べる、 ストライプと無地の豊富なカラーも魅力です。 【商品のポイント】 ・表も裏も、やさしい肌ざわり： 両面フランネル起毛で、ふんわり心地よい肌ざわり。 表はラビットファー調、裏はミンクファー調の リバーシブル仕様です。 ・頭はすっきり、足元はぽかぽか： 全身を同じように暖めるのではなく、 冷えやすい足元を考えた配線設計。 寒い季節も、心地よく過ごせるぬくもりを届けます。 ・好みの暖かさを、好きな時間だけ： 寒さに合わせて温度を選べる9段階設定。 タイマーは1〜9時間から設定でき、 使いたい時間に合わせて調節できます。 ・汚れても、洗えて清潔： コントローラーを外せば、洗濯機でお手入れOK。 毎日使うものだからこそ、 お手入れのしやすさにもこだわりました。 スペック サイズ：M（約80cm×約155cm） 重さ：1.1kg 素材：ポリエステル100％ サイズ：L（約130cm×約190cm） 重さ：2kg 素材：ポリエステル100％ カラー ストライプ beige azul（ベージュアズール） cream latte（クリームラテ） ベーシック moon gray（ムーングレー） milk tea（ミルクティー） snow white（スノーホワイト） 注意事項 ・こちらの商品は日本企画となり 日本製 ではございません。 ・使用時の破損や事故等につきましては責任を負いかねます。 ・輸入品の為、輸送の際に生じるキズ・汚れ・箱潰れがある場合"
+  "caption": "寒い季節を彩る冬のアイテム特集 着るだけぽかぽか、冬のご褒美時間♪ ふわふわファーで足元もあったか♪ ▼▽ お得なクーポン ▽▼ 11/18 0:00 - 11/25 23:59 で使える500枚限定 50％OFFクーポン 11/18 0:00 - 11/25 23:59 で使える500枚限定 40％OFFクーポン 11/18 0:00 - 11/25 23:59 で使える2点以上購入で 50％OFFクーポン 商品紹介 ＼もっと、包まれていたい。／ マシュマロみたいな、ふわとろ感。 寒い冬の時間を、もっと心地よく。 ふわふわの肌ざわりと、やさしいぬくもりで ベッドやソファ、デスクなど、 冬のさまざまなシーンを包み込みます。 気分やお部屋に合わせて選べる、 ストライプと無地の豊富なカラーも魅力です。 【商品のポイント】 ・表も裏も、やさしい肌ざわり： 両面フランネル起毛で、ふんわり心地よい肌ざわり。 表はラビットファー調、裏はミンクファー調の リバーシブル仕様です。 ・頭はすっきり、足元はぽかぽか： 全身を同じように暖めるのではなく、 冷えやすい足元を考えた配線設計。 寒い季節も、心地よく過ごせるぬくもりを届けます。 ・好みの暖かさを、好きな時間だけ： 寒さに合わせて温度を選べる9段階設定。 タイマーは1〜9時間から設定でき、 使いたい時間に合わせて調節できます。 ・汚れても、洗えて清潔： コントローラーを外せば、洗濯機でお手入れOK。 毎日使うものだからこそ、 お手入れのしやすさにもこだわりました。 スペック サイズ：M（約80cm×約155cm） 重さ：1.1kg 素材：ポリエステル100％ サイズ：L（約130cm×約190cm） 重さ：2kg 素材：ポリエステル100％ カラー ストライプ beige azul（ベージュアズール） cream latte（クリームラテ"
  },
  "importshopaqua:10008009": {
   "first_seen": "2026-11-10T20:40:06",
@@ -44434,6 +44469,13 @@
     "theme": "寒さ対策・冬支度（開催中） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "season"
+   },
+   {
+    "date": "2026-11-18",
+    "slot": "morning",
+    "theme": "ブラックフライデー（2日後） × 子育て世帯のママ・パパ",
+    "persona": "mama",
+    "event_type": "sale"
    }
   ],
   "item_code": "baieitenfashionnigou:10000205",
@@ -44450,7 +44492,7 @@
   "catchcopy": "【国内品質検査クリア・3項目JIS試験済み 保温性・抗菌性・ホルムアルデヒド】AI自動温度調節×炭素繊維発熱 2枚合わせ毛布 電気毛布 あったかい CAVMHOT",
   "genre_id": "208397",
   "score": 13.44,
-  "last_seen": "2026-11-17T20:16:27",
+  "last_seen": "2026-11-18T07:02:12",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/baieitenfashionnigou/cabinet/imgrc0122113549.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/baieitenfashionnigou/cabinet/13911273/14086313/2.jpg?_ex=600x600",
@@ -46357,6 +46399,13 @@
     "theme": "ブラックフライデー（4日後） × 30代男性（健康・効率化・家電）",
     "persona": "30s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-11-18",
+    "slot": "morning",
+    "theme": "ブラックフライデー（2日後） × 子育て世帯のママ・パパ",
+    "persona": "mama",
+    "event_type": "sale"
    }
   ],
   "item_code": "masuyone:10000215",
@@ -46373,7 +46422,7 @@
   "catchcopy": "【メガ盛り2kg入り】お徳用のたっぷり(60粒前後)！まとめ買いならこちら[ますよね]",
   "genre_id": "110408",
   "score": 12.68,
-  "last_seen": "2026-11-16T20:16:25",
+  "last_seen": "2026-11-18T07:02:12",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/masuyone/cabinet/kago/kaki2kg-kago.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/masuyone/cabinet/goods/kaki/0000cooking_big06.jpg?_ex=600x600",
@@ -46456,6 +46505,13 @@
     "theme": "ブラックフライデー（4日後） × 20代女性（自分磨き・プチプラ・映え）",
     "persona": "20s_woman",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-11-18",
+    "slot": "morning",
+    "theme": "ブラックフライデー（2日後） × 子育て世帯のママ・パパ",
+    "persona": "mama",
+    "event_type": "sale"
    }
   ],
   "item_code": "nissin-lux:10000584",
@@ -46465,14 +46521,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00t8ato.72d3ybe2.g00t8ato.72d3za63/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnissin-lux%2Fhdd-1tb-1%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/nissin-lux/cabinet/07045425/07045459/hdd-1.jpg?_ex=600x600",
   "shop_name": "NISSIN LUX",
-  "review_count": 316,
-  "review_average": 4.47,
+  "review_count": 318,
+  "review_average": 4.46,
   "affiliate_rate": 2.0,
   "point_rate": 1,
   "catchcopy": "データ保存、TV録画、持ち運べるUSB3.0対応ポータブル型HDD",
   "genre_id": "211492",
-  "score": 12.41,
-  "last_seen": "2026-11-16T07:01:41",
+  "score": 12.89,
+  "last_seen": "2026-11-18T07:02:12",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/nissin-lux/cabinet/07045425/07045459/hdd-1.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/nissin-lux/cabinet/tj/r-img_rr/5/hdd-1tb-1.jpg?_ex=600x600",
@@ -46793,6 +46849,13 @@
     "theme": "寒さ対策・冬支度（開催中） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "season"
+   },
+   {
+    "date": "2026-11-18",
+    "slot": "morning",
+    "theme": "ブラックフライデー（2日後） × 子育て世帯のママ・パパ",
+    "persona": "mama",
+    "event_type": "sale"
    }
   ],
   "item_code": "shark:10000489",
@@ -46808,8 +46871,8 @@
   "point_rate": 1,
   "catchcopy": "デザート 食洗器対応 NINJA Crispi ノンフライヤー エアフライヤー ニンジャ 全米No.1",
   "genre_id": "564331",
-  "score": 15.96,
-  "last_seen": "2026-11-17T20:16:27",
+  "score": 13.76,
+  "last_seen": "2026-11-18T07:02:12",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/shark/cabinet/renamethum/p00/fn101j_m20off.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/shark/cabinet/products/fn100j/recipebook_thum.jpg?_ex=600x600",
@@ -47607,5 +47670,106 @@
    "https://thumbnail.image.rakuten.co.jp/@0_mall/t-interior/cabinet/item/images2/abf17_2.gif?_ex=600x600"
   ],
   "caption": "同シリーズラインナップ チェアカテゴリはこちら　≫ チェアにぴったりなデスク・テーブルはこちら ご一緒にオススメ 当店内での注目キーワード branch point では、北欧雑貨 韓国雑貨 海外 インテリア おしゃれ かわいい 可愛い 大人可愛い レトロ モダン クラシック ヴィンテージ風 アメリカン ヨーロピアン エスニック アンティーク ナチュラル きれいめ ラグジュアリー 上品 高級 シンプル 流行 春夏 秋冬 オールシーズン ファッション 楽天 通販 あす楽 即日発送 即納 お取り寄せ 送料無料 グラス 食器 お皿 タンブラー カップ マグカップ レディースファッション 福袋 ファッション 個性的 輸入 ペア セット アウトレット 服装 服 セット コーディネート 壁飾り 壁掛け アート キャンドル タペストリー お香立て 文房具 収納 フラワーベース 造花 手作り 人気 ブランド ギフト a 記念品 インポート 海外 撮影 小物 オブジェ 置き物 置物 アクセサリー インスタ instagram セット 他と被らない ユニークなおしゃれでかわいいアイテムを揃えております。 おすすめのご使用シーン、人物について カフェ ホテル お店 飲食店 居酒屋 バー リビング 玄関 キッチン 台所 トイレ 廊下 寝室 ベッド ロフト デスク周り 床 書斎 壁面 ビジネス オフィス 1k 1dk 1ldk 3ldk 一人暮らし のインテリア 装飾 としてもオススメです。新生活 引っ越し 社会人 就職 進学 お祝い 内祝い セレモニー 誕生日 母の日 クリスマス 普段使い カジュアル ギフト プレゼント といったような様々な場面でご利用いただけます。 年齢は幅広く、10代 20代 30代 40代 50代 20 30 40 代 80 50 大人 レディース 女性 高校生 大学生 社"
+ },
+ "subaruya:10000016": {
+  "first_seen": "2026-11-18T07:02:12",
+  "themes": [
+   {
+    "date": "2026-11-18",
+    "slot": "morning",
+    "theme": "ブラックフライデー（2日後） × 子育て世帯のママ・パパ",
+    "persona": "mama",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "subaruya:10000016",
+  "name": "【公式】タニカ ヨーグルティアS ガラスセット 日本製 ヨーグルトメーカー ガラス容器 レシピ付き 甘酒 塩麹 納豆 チーズ 味噌 最大5年保証 TANICA YS-02G 発酵器 発酵メーカー 温度調節 家庭用 簡単 腸活 プレゼント ギフト 人気 おすすめ 手作り おしゃれ 衛生的 白 黒 赤",
+  "price": 14960,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00stu2o.72d3y115.g00stu2o.72d3z8d9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsubaruya%2Fyogurtia-glass%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsubaruya%2Fi%2F10000016%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00stu2o.72d3y115.g00stu2o.72d3z8d9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsubaruya%2Fyogurtia-glass%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/subaruya/cabinet/glassset/yogurtia-glass2-1-12.jpg?_ex=600x600",
+  "shop_name": "タニカ電器オンラインストア",
+  "review_count": 3044,
+  "review_average": 4.82,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "豊富な発酵食が食卓を彩る！簡単調理で高性能な日本製ヨーグルトメーカー",
+  "genre_id": "212428",
+  "score": 15.74,
+  "last_seen": "2026-11-18T07:02:12",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/subaruya/cabinet/glassset/yogurtia-glass2-1-12.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_gold/subaruya/rankstamp/sp/yogurtia-glass25.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/subaruya/cabinet/ys-review2.jpg?_ex=600x600"
+  ],
+  "caption": "ヨーグルティアSガラスセットは、ヨーグルト・甘酒・塩麹・醤油麹・納豆・味噌・チーズなど、毎日の発酵食づくりに使えるタニカの日本製ヨーグルトメーカーです。細かな時間設定と安定した温度管理により、発酵食品ごとに適した環境を整えやすく、初めての方でもレシピを見ながら手軽に発酵生活を始められます。衛生的でにおいや色移りがしにくいガラス内容器付きのため、ヨーグルトだけでなく甘酒や麹調味料などを作りたい方にもおすすめです。 仕様 型式YS-02GW（ホワイト）　YS-02GB（ブラック）　YS-02GR（レッド） 希望小売価格14,960円（税込） 付属品ガラス内容器×2　取扱説明書×1　ヨーグルトスプーン×1　レシピ集×1　温玉スタンドS×1　取手ふた×1 定格電源AC100V　50/60Hz 定格消費電力30W 外形寸法高さ188mm　外径160mm 内容器容量1100ml 内容器寸法高さ：約154mm（取手起立時） 約125mm（取手収納時）直径：約139mm 設定温度25℃～70℃ 温度管理精度±3℃ タイマー設定10分～50分・1～48時間 使用環境5℃～35℃ コード長1.8m 重量760g ヨーグルティアSではラッピング（有料）をご用意しております やわらかく温かみのあるラッピング（有料）を用意しております。 ※のしは対応しておりません。※ラッピングはイメージ画像です。包装紙が変更になる場合がございます。※対象商品（ヨーグルティアSスタンダードセット / ガラスセット）以外のギフトラッピングは行っておりません。 ギフトラッピングサービス設定方法 ラッピングの有無で「ラッピング：ピンク（+200円）」または「ラッピング：ブルー（+200円）」をお選びください。 よくある質問 Q. ヨーグルト以外も作れますか？ A. 甘酒、塩麹、醤油麹、納豆、味噌、チーズなど、さまざまな発酵",
+  "posted_text": "#PR ママ友の間で回ってるやつ\nタニカ ヨーグルティアS ガラスセット\n★4.82・レビュー3,044件\n14,960円\n#楽天購入品\n▶ROOMはプロフから",
+  "posted_at": "2026-11-18T07:02:12"
+ },
+ "yarukipen:10000005": {
+  "first_seen": "2026-11-18T07:02:12",
+  "themes": [
+   {
+    "date": "2026-11-18",
+    "slot": "morning",
+    "theme": "ブラックフライデー（2日後） × 子育て世帯のママ・パパ",
+    "persona": "mama",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "yarukipen:10000005",
+  "name": "コクヨ「大人のやる気ペン」【文房具総選挙2025大賞受賞】三日坊主に寄り添う、超小型軽量ラーニングデバイス 学習タイマー(勉強 タイマー)などを使ってる人にも人気 【iOS・Android両対応】",
+  "price": 9900,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00uo4xo.72d3ybd8.g00uo4xo.72d3ze43/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyarukipen%2F4901480407395-%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyarukipen%2Fi%2F10000005%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00uo4xo.72d3ybd8.g00uo4xo.72d3ze43/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyarukipen%2F4901480407395-%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/yarukipen/cabinet/otonayarukipen/imgrc0341060134.jpg?_ex=600x600",
+  "shop_name": "コクヨ　やる気ペン公式ショップ",
+  "review_count": 358,
+  "review_average": 4.51,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "資格勉強の継続に悩む、すべての「大人たち」へ。大人のやる気ペン 文房具 プレゼント 大人 資格 文具 勉強 受験 受験応援 グッズ",
+  "genre_id": "567761",
+  "score": 15.31,
+  "last_seen": "2026-11-18T07:02:12",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/yarukipen/cabinet/otonayarukipen/imgrc0341060134.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/yarukipen/cabinet/otonayarukipen/imgrc0341028612.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/yarukipen/cabinet/otonayarukipen/imgrc0332391127.jpg?_ex=600x600"
+  ],
+  "caption": "■本体寸法：14×30×22mm■重量：約8g■対応OS:iOS 11以上 Android 7.0以上に対応■セット内容：本体・USBケーブル・取扱説明書・スタートアップガイド ※ペンとスマホは商品には含まれません。※商品画像はイメージです。実際とは異なる場合があります。 よくご利用いただくシーン 大人の宿題やる気ペン モチベーションが上がる 文房具 大人 勉強 やる気 出 ない 大人のペン 大人 勉強 ペン 勉強 習慣化 勉強 モチベーション スタイラスペン 鉛筆 勉強 大人 振動 可視化 勉強机 大人 大人 勉強 勉強 机 大人 iot 勉強 つけペン 勉強 やる気 出 ない 資格勉強 文房具 税理士 行政書士 社労士 宅建士（宅地建物取引資格試験） 社会保険労務士 簿記検定試験 ITパスポート 司法試験 一級建築士 季報情報技術者試験 ファイナンシャルプランナー（ファイナンシャル・プランニング技術検定試験） 司法試験 司法書士 第三種電気主任技術者試験 中小企業診断士 TOEIC（トーイック） タイマー 学習 タイマー 時間管理 視覚タイマー 勉強タイマー タイマー可視化 実感タイマー 自宅学習 タスク管理 中学生 プレゼント 高校生 プレゼント 受験生 プレゼント大人のやる気ペン 単品 【送料無料】9,900円 大人のやる気ペン ペンケースセット 【送料無料】11,605円"
+ },
+ "kyusyukome:10000034": {
+  "first_seen": "2026-11-18T07:02:12",
+  "themes": [
+   {
+    "date": "2026-11-18",
+    "slot": "morning",
+    "theme": "ブラックフライデー（2日後） × 子育て世帯のママ・パパ",
+    "persona": "mama",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "kyusyukome:10000034",
+  "name": "【BLACK FRIDAY期間中ポイント5倍!!】【令和8年産 新米】無洗米 福岡県産ヒノヒカリ 10kg（5kg×2袋） 送料無料【沖縄・北海道は別途送料プラス500円】",
+  "price": 5380,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00r6xco.72d3y111.g00r6xco.72d3z4b2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkyusyukome%2Fk00110m%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkyusyukome%2Fi%2F10000034%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00r6xco.72d3y111.g00r6xco.72d3z4b2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkyusyukome%2Fk00110m%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkyusyukome%2Fi%2F10000034%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/kyusyukome/cabinet/r7/k00110mr7.jpg?_ex=600x600",
+  "shop_name": "九州米大将",
+  "review_count": 3195,
+  "review_average": 4.68,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "米 お米 10kg 九州産 九州米 こめ おこめ 無洗米 ひのひかり",
+  "genre_id": "201184",
+  "score": 12.95,
+  "last_seen": "2026-11-18T07:02:12",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/kyusyukome/cabinet/r7/k00110mr7.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/kyusyukome/cabinet/m_mai.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/kyusyukome/cabinet/28y/28k001/28k001a1.jpg?_ex=600x600"
+  ],
+  "caption": ""
  }
 }
