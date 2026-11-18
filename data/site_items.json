@@ -24691,6 +24691,13 @@
     "theme": "今売れている物 × 20代女性（自分磨き・プチプラ・映え）",
     "persona": "20s_woman",
     "event_type": "baseline"
+   },
+   {
+    "date": "2026-11-18",
+    "slot": "night",
+    "theme": "ブラックフライデー（2日後） × 20代女性（自分磨き・プチプラ・映え）",
+    "persona": "20s_woman",
+    "event_type": "sale"
    }
   ],
   "item_code": "lilyanna:10000144",
@@ -24700,18 +24707,18 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00svqgo.72d3yf0c.g00svqgo.72d3zf3d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flilyanna%2Fmolak-1day%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/lilyanna/cabinet/brand/ml110/imgrc0119037863.jpg?_ex=600x600",
   "shop_name": "LILY ANNA",
-  "review_count": 4368,
+  "review_count": 4416,
   "review_average": 4.79,
   "affiliate_rate": 4.0,
   "point_rate": 1,
   "catchcopy": "【メーカー公式】1箱分無料3箱(10枚 3箱) | ワンデーカラコン モラク(MOLAK) ！軸固定水光レンズも★ ドーリッシュブラウン ドーリッシュグレー トゥインクルブラウン ロージードロップ",
   "genre_id": "408099",
-  "score": 16.08,
-  "last_seen": "2026-11-08T07:01:37",
+  "score": 15.49,
+  "last_seen": "2026-11-18T20:16:26",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/lilyanna/cabinet/brand/ml110/imgrc0119037863.jpg?_ex=600x600",
-   "https://thumbnail.image.rakuten.co.jp/@0_mall/lilyanna/cabinet/keppin/ml110_261106.jpg?_ex=600x600",
-   "https://thumbnail.image.rakuten.co.jp/@0_mall/lilyanna/cabinet/brand/ml110/imgrc0119145581.jpg?_ex=600x600"
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/lilyanna/cabinet/keppin/ml110_261117.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/lilyanna/cabinet/brand/ml110/imgrc0121560804.jpg?_ex=600x600"
   ],
   "caption": "【商品詳細】 ●直径：14.2mm/14.5mm ●ベースカーブ：8.6mm ●含水率：55％ ●販売度数：0.00〜-10.00 ●付属品：レンズ10枚 ●使用期限：1日使い捨て ●承認番号：22900BZX00118000 / 30500BZI00021000 【区分】高度管理医療機器 【製造国】大韓民国 / 台湾 【メーカー名】PIA株式会社・株式会社intervia 【広告文責】株式会社ARIOSE TEL:03-6417-0109 【高度管理医療機器販売業許可】 4品保生薬第2667号 ■注意事項■ コンタクトレンズは高度医療管理機器です。 必ず眼科医の検査・処方を受けてお求めください。 ご使用の前に必ず添付文書をお読み下さい。注目カテゴリ リリーアンナのトパーズ リリーアンナのエヌズコレクション★まずは1箱から試したい！という方はこちら★ MOLAKワンデー 1箱ページ ＼乱視用レンズはこちら／ ＼マンスリーはこちら／ ＼人気カラーリアル着用画像／ ★モラク ワンデー 人気カラー着画★ チェリッシュブラウン ブラウンバニー ダズルグレー カラー ミルキードロップ【ML110MDP】 ロージードロップ【ML110RDP】 チェリッシュブラウン【ML110CHB】 グレーバニー【ML110GRB】 トゥインクルブラウン【ML110TWB】 ピンクボム【ML110PKB】 ドリームグレー【ML110DRG】 ユニフォームブラック【ML110UBK】 ブラウンバニー【ML110BRB】 ドーリッシュブラウン【ML110DLB】 ドーリッシュグレー【ML110DLG】 バブルブルー【ML110BBB】 ダークピオニー【ML110DKP】 サクラスモア【ML110SKS】 メルティーミスト【ML110MTM】 サクラペタル【ML110SP】 ティントブラウン【ML110TB"
  },
@@ -31951,6 +31958,13 @@
     "theme": "ブラックフライデー（2日後） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-11-18",
+    "slot": "night",
+    "theme": "ブラックフライデー（2日後） × 20代女性（自分磨き・プチプラ・映え）",
+    "persona": "20s_woman",
+    "event_type": "sale"
    }
   ],
   "item_code": "mycosmeticbox:10000390",
@@ -31960,14 +31974,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00u9wao.72d3ye32.g00u9wao.72d3zae4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmycosmeticbox%2Fwrinkle%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/mycosmeticbox/cabinet/11105451/straght-top4.jpg?_ex=600x600",
   "shop_name": "MyCosmeticBox",
-  "review_count": 438,
+  "review_count": 439,
   "review_average": 4.65,
   "affiliate_rate": 2.0,
   "point_rate": 1,
   "catchcopy": "キヌージョ ストレートアイロン Kinujo ストレートアイロン KINUJO ストレートアイロン LM225 Kinujo ストレートアイロン",
   "genre_id": "509412",
-  "score": 13.96,
-  "last_seen": "2026-11-18T12:02:00",
+  "score": 14.07,
+  "last_seen": "2026-11-18T20:16:26",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/mycosmeticbox/cabinet/11105451/straght-top4.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/mycosmeticbox/cabinet/11105451/lm225.jpg?_ex=600x600",
@@ -34112,6 +34126,13 @@
     "theme": "ブラックフライデー（3日後） × 20代男性（ガジェット・一人暮らし）",
     "persona": "20s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-11-18",
+    "slot": "night",
+    "theme": "ブラックフライデー（2日後） × 20代女性（自分磨き・プチプラ・映え）",
+    "persona": "20s_woman",
+    "event_type": "sale"
    }
   ],
   "item_code": "ennshopstore:10000062",
@@ -34121,20 +34142,22 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00ubfso.72d3y134.g00ubfso.72d3z388/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fennshopstore%2Fbe08w%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/ennshopstore/cabinet/be08w/e08zt_260828x.jpg?_ex=600x600",
   "shop_name": "Rakuhome",
-  "review_count": 786,
+  "review_count": 788,
   "review_average": 4.53,
   "affiliate_rate": 2.0,
-  "point_rate": 1,
+  "point_rate": 10,
   "catchcopy": "【1年間保証 】 PSE認証 1200W 風量3段階 4重安全保護 寒さ対策 卓上 床置き LCD表示 12時間自動OFF 転倒時自動OFF PTCヒーター・恒熱 電気代節約 オフィス 部屋 寮 リビング",
   "genre_id": "212277",
-  "score": 14.08,
-  "last_seen": "2026-11-17T12:02:15",
+  "score": 16.84,
+  "last_seen": "2026-11-18T20:16:26",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/ennshopstore/cabinet/be08w/e08zt_260828x.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/ennshopstore/cabinet/be08w/1.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/ennshopstore/cabinet/be08w/2.jpg?_ex=600x600"
   ],
-  "caption": "メーカー希望小売価格はメーカー商品タグに基づいて掲載しています メーカー希望小売価格はメーカーサイトに基づいて掲載しています 届出事業者名：CEN株式会社 PSマークの種類：PSE 届出事業者名：CEN株式会社 PSマークの種類：PSE"
+  "caption": "メーカー希望小売価格はメーカー商品タグに基づいて掲載しています メーカー希望小売価格はメーカーサイトに基づいて掲載しています 届出事業者名：CEN株式会社 PSマークの種類：PSE 届出事業者名：CEN株式会社 PSマークの種類：PSE",
+  "posted_text": "#PR これ知らないの、正直もったいない\nファンヒーター セラミックヒーター\n★4.53・レビュー788件\n6,760円（P10倍で実質6,084円）\n#楽天購入品\n▶ROOMはプロフから",
+  "posted_at": "2026-11-18T20:16:26"
  },
  "superdeal:10006074": {
   "first_seen": "2026-10-26T07:01:45",
@@ -43227,6 +43250,13 @@
     "theme": "今売れている物 × 30代男性（健康・効率化・家電）",
     "persona": "30s_man",
     "event_type": "baseline"
+   },
+   {
+    "date": "2026-11-18",
+    "slot": "night",
+    "theme": "ブラックフライデー（2日後） × 20代女性（自分磨き・プチプラ・映え）",
+    "persona": "20s_woman",
+    "event_type": "sale"
    }
   ],
   "item_code": "itsube-souken:10000266",
@@ -43236,14 +43266,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00u10vo.72d3ye53.g00u10vo.72d3zd0a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fitsube-souken%2Fppr-blanket%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/itsube-souken/cabinet/10326922/12472599/14033888/imgrc0144190413.jpg?_ex=600x600",
   "shop_name": "MOSMEE（モスミー）",
-  "review_count": 2549,
+  "review_count": 2615,
   "review_average": 4.63,
   "affiliate_rate": 2.0,
   "point_rate": 1,
   "catchcopy": "寒さ対策グッズ blanket 2枚合わせ ポコポコ 電気毛布 モコモコブランケット ふわふわ毛布 膝掛け 洗える 洗濯可　暖かい 厚手 シングル ふわもこ モコモコ　ダブル ふわとろ とろとろ",
   "genre_id": "208397",
-  "score": 13.85,
-  "last_seen": "2026-11-14T12:01:29",
+  "score": 13.87,
+  "last_seen": "2026-11-18T20:16:26",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/itsube-souken/cabinet/10326922/12472599/14033888/imgrc0144190413.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/itsube-souken/cabinet/biiino/award/ppr-bl8d51d45128.jpg?_ex=600x600",
@@ -43363,6 +43393,13 @@
     "theme": "ブラックフライデー（3日後） × 20代男性（ガジェット・一人暮らし）",
     "persona": "20s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-11-18",
+    "slot": "night",
+    "theme": "ブラックフライデー（2日後） × 20代女性（自分磨き・プチプラ・映え）",
+    "persona": "20s_woman",
+    "event_type": "sale"
    }
   ],
   "item_code": "quads:10000016",
@@ -43372,14 +43409,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00ugo6o.72d3y0a5.g00ugo6o.72d3zaf2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fquads%2Fqs324%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/quads/cabinet/2025aw/top_jpg/qs424_top_tmb_2.jpg?_ex=600x600",
   "shop_name": "QUADS公式楽天市場店",
-  "review_count": 707,
-  "review_average": 4.57,
+  "review_count": 717,
+  "review_average": 4.56,
   "affiliate_rate": 2.0,
   "point_rate": 1,
   "catchcopy": "【1年保証】省エネ大風量スリムパネルセラミックヒーター WIDE ENA HEAT ワイドエナヒート 電気ヒーター ファンヒーター 超薄型12cm 省スペース 人感センサー タイマー 室温設定18～30℃",
   "genre_id": "212277",
-  "score": 14.44,
-  "last_seen": "2026-11-17T12:02:15",
+  "score": 12.51,
+  "last_seen": "2026-11-18T20:16:26",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/quads/cabinet/2025aw/top_jpg/qs424_top_tmb_2.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/quads/cabinet/2025aw/qs424/12047166/qs424_tmb_02.jpg?_ex=600x600",
@@ -45930,23 +45967,30 @@
     "theme": "ブラックフライデー（5日後） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-11-18",
+    "slot": "night",
+    "theme": "ブラックフライデー（2日後） × 20代女性（自分磨き・プチプラ・映え）",
+    "persona": "20s_woman",
+    "event_type": "sale"
    }
   ],
   "item_code": "cloud-nine:10000108",
-  "name": "【即納】高評価★4.57 ＼楽天ランキング1位＆6冠受賞／正規品／ プリンター エプソン プリンター 複合機 コピー機 WiFi接続 簡単設定 セットアップ用純正インク付 プリント 印刷 コピー スキャン スマホ対応 プリンター 家庭用コピー機 コンパクト プリンタ EW-056A",
+  "name": "＼11/18がお得！ポイント最大21.5倍／即納【高評価★4.57！楽天1位＆6冠受賞】 プリンター エプソン プリンター 複合機 コピー機 WiFi接続 簡単設定 セットアップ用純正インク付 プリント 印刷 コピー スキャン スマホ対応 プリンター 家庭用コピー機 プリンタ EW-056A",
   "price": 12800,
   "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tvyoo.72d3y4c0.g00tvyoo.72d3z4a8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcloud-nine%2F2593-000162%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcloud-nine%2Fi%2F10000108%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00tvyoo.72d3y4c0.g00tvyoo.72d3z4a8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcloud-nine%2F2593-000162%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/cloud-nine/cabinet/13851896/imgrc0119448238.jpg?_ex=600x600",
   "shop_name": "CLOUD NINE",
-  "review_count": 3782,
+  "review_count": 3784,
   "review_average": 4.57,
   "affiliate_rate": 2.0,
   "point_rate": 1,
   "catchcopy": "無線LAN(Wi-Fi)接続に対応したコンパクトプリンター この1台でプリント、コピー、スキャンが可能です。 さらにスマホからプリントもできます。",
   "genre_id": "110093",
-  "score": 14.53,
-  "last_seen": "2026-11-15T07:02:08",
+  "score": 13.33,
+  "last_seen": "2026-11-18T20:16:26",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/cloud-nine/cabinet/13851896/imgrc0119448238.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/cloud-nine/cabinet/09935082/ew056-ranking1-yoko1.jpg?_ex=600x600",
@@ -46434,6 +46478,13 @@
     "theme": "ブラックフライデー（2日後） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-11-18",
+    "slot": "night",
+    "theme": "ブラックフライデー（2日後） × 20代女性（自分磨き・プチプラ・映え）",
+    "persona": "20s_woman",
+    "event_type": "sale"
    }
   ],
   "item_code": "masuyone:10000215",
@@ -46450,7 +46501,7 @@
   "catchcopy": "【メガ盛り2kg入り】お徳用のたっぷり(60粒前後)！まとめ買いならこちら[ますよね]",
   "genre_id": "110408",
   "score": 12.68,
-  "last_seen": "2026-11-18T12:02:00",
+  "last_seen": "2026-11-18T20:16:26",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/masuyone/cabinet/kago/kaki2kg-kago.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/masuyone/cabinet/goods/kaki/0000cooking_big06.jpg?_ex=600x600",
@@ -47300,23 +47351,30 @@
     "theme": "寒さ対策・冬支度（開催中） × 子育て世帯のママ・パパ",
     "persona": "mama",
     "event_type": "season"
+   },
+   {
+    "date": "2026-11-18",
+    "slot": "night",
+    "theme": "ブラックフライデー（2日後） × 20代女性（自分磨き・プチプラ・映え）",
+    "persona": "20s_woman",
+    "event_type": "sale"
    }
   ],
   "item_code": "low-ya:10008396",
-  "name": "[枚数限定クーポン配布中! 11/11 10:00-11/17 9:59] ＼累計60万枚突破！／ 楽天1位 ルームウェア パジャマ 着る毛布 部屋着 あったか 冬 レディース メンズ グルーニー もこもこ 毛布 かわいい ロング ショート ナイトウェア ブランケット おしゃれ 可愛い 秋冬 防寒",
-  "price": 4490,
+  "name": "[ブラックフライデー! 11/19 20:00-11/25 1:59] ＼累計60万枚突破！／ 楽天1位 ルームウェア パジャマ 着る毛布 部屋着 あったか 冬 レディース メンズ グルーニー もこもこ 毛布 かわいい ロング ショート ナイトウェア ブランケット おしゃれ 可愛い 秋冬 防寒",
+  "price": 3490,
   "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pxdho.72d3ya8a.g00pxdho.72d3zfb3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flow-ya%2Fvg-groony%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flow-ya%2Fi%2F10008396%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00pxdho.72d3ya8a.g00pxdho.72d3zfb3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flow-ya%2Fvg-groony%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flow-ya%2Fi%2F10008396%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/low-ya/cabinet/item_cart/groony26/vg-groony_1.jpg?_ex=600x600",
   "shop_name": "LOWYA(ロウヤ)楽天市場店",
-  "review_count": 46923,
+  "review_count": 46925,
   "review_average": 4.5,
   "affiliate_rate": 3.0,
   "point_rate": 1,
   "catchcopy": "ルームウェア パジャマ 着る毛布 グルーニー ブランケット 正規品 レディース 男女兼用 あったかグッズ フリーサイズ 洗える 防寒 静電気防止 ポケット付 フリーサイズ se005",
   "genre_id": "567532",
-  "score": 11.56,
-  "last_seen": "2026-11-17T07:01:59",
+  "score": 13.06,
+  "last_seen": "2026-11-18T20:16:26",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/low-ya/cabinet/item_cart/groony26/vg-groony_1.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/low-ya/cabinet/item_cart/groony26/vg-groony_2.jpg?_ex=600x600",
@@ -47961,5 +48019,137 @@
    "https://thumbnail.image.rakuten.co.jp/@0_mall/onko/cabinet/08225618/08473905/380.jpg?_ex=600x600"
   ],
   "caption": "　 【商品説明】 CANONの純正インク380/381番の通常タイプ ※増量タイプではございません。 必要な色を組み合わせて4色お選びください。 対象商品 BCI-380PGBK　JAN：4549292097627 BCI-381BK　JAN：4549292097665 BCI-381C　JAN：4549292097634 BCI-381M　JAN：4549292097641 BCI-381Y　JAN：4549292097658 BCI-381GY　JAN：4549292097672 【発送方法ついて】 こちらの商品はメール便での発送となります。 宅急便での発送はしておりませんので予めご了承ください。 【注意事項】 BCI-380PGBKをお選びいただいた場合、1色につき200円（税込）が追加となります。 当店で金額を修正し、ご注文を確定いたしますので予めご了承ください。 【商品仕様】 商品名 選べる4色　CANON純正インク　380/381番通常タイプ 商品状態 未使用新品"
+ },
+ "biccamera:15265433": {
+  "first_seen": "2026-11-18T20:16:26",
+  "themes": [
+   {
+    "date": "2026-11-18",
+    "slot": "night",
+    "theme": "ブラックフライデー（2日後） × 20代女性（自分磨き・プチプラ・映え）",
+    "persona": "20s_woman",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "biccamera:15265433",
+  "name": "brother｜ブラザー A4 インクジェット複合機 4色 PRIVIO(プリビオ) ホワイト DCP-J529N [L判〜A4]",
+  "price": 15863,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00r7ldo.72d3y514.g00r7ldo.72d3z538/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbiccamera%2F4977766838658%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbiccamera%2Fi%2F15265433%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00r7ldo.72d3y514.g00r7ldo.72d3z538/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbiccamera%2F4977766838658%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/biccamera/cabinet/product/14261/00000014475779_a01.jpg?_ex=600x600",
+  "shop_name": "楽天ビック（ビックカメラ×楽天）",
+  "review_count": 61,
+  "review_average": 4.49,
+  "affiliate_rate": 2.0,
+  "point_rate": 10,
+  "catchcopy": "",
+  "genre_id": "110093",
+  "score": 15.06,
+  "last_seen": "2026-11-18T20:16:26",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/biccamera/cabinet/product/14261/00000014475779_a01.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/biccamera/cabinet/product/14261/00000014475779_a02.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/biccamera/cabinet/product/14261/00000014475779_a03.jpg?_ex=600x600"
+  ],
+  "caption": "無線LAN・自動両面印刷・タッチパネル液晶搭載。標準的な機能をそろえたA4インクジェット複合機。［プリンター・コピー・スキャナー］PRIVIO(プリビオ)■棚に収まるコンパクトサイズ使いやすさはそのままに、プリンター本体の小型化を実現。限られた場所でも収納可能です。■1台で多彩に使える充実の基本機能プリント、コピー、スキャン、USB接続、スマホ接続、タッチパネル液晶、前面用紙トレイ、手差しトレイ、自動両面プリント、4色独立インクなど■使い慣れたスマートフォンと連携して3ステップ簡単プリントブラザーのスマホアプリ「BrotherMobileConnect」を使えばスマホやタブレット内の写真や文書など、印刷したいデータを簡単にプリントが可能。また、LINEの公式アカウント「Brotherプリント＆コネクト」を友だち追加し、会員登録しても印刷できます。■手間なしで便利なインク構造4色独立カートリッジタイプで、交換時に手も汚れにくい構造になっています。■カラーインクが急に切れても大丈夫「クロだけ印刷」カラーインクが切れても、最長30日間は、黒インクのみを使用したモノクロ印刷が可能です。※用紙の設定によっては「クロだけ印刷」ができない場合があります。※電源コードを抜いたり、空になったインクカートリッジを取り外した場合は、新しいインクカートリッジを取り付けるまで印刷できません。■長期保証サービス［BrotherOnlinePlusハイプリ］BrotherOnlinePlus「ハイプリ」への登録で、1年間のメーカー保証期間後、1年間のうちに無償修理（1回のみ）が受けられます。※2年間の無償修理を保証するものではありません。※ブラザー純正インクご使用のお客様のみ対象。※プリンター本体をインターネットに接続できるネットワーク環境（無線LAN）でご使用することが条件となります。（プリンター本体"
+ },
+ "horiuchimirror:10000154": {
+  "first_seen": "2026-11-18T20:16:26",
+  "themes": [
+   {
+    "date": "2026-11-18",
+    "slot": "night",
+    "theme": "ブラックフライデー（2日後） × 20代女性（自分磨き・プチプラ・映え）",
+    "persona": "20s_woman",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "horiuchimirror:10000154",
+  "name": "【クーポン13,999円 11/19 19:59まで】【楽天1位】加湿器 ULRIO ウルリオ 大容量6L 上部給水 除菌 静音23.2dB ハイブリッド式 適用畳数14〜17畳 寝室 リビング 連続加湿11〜60時間 湿度自動調整 チャイルドロック 切タイマー アロマ対応 マットオフホワイト マットブラック",
+  "price": 14999,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tmy1o.72d3y0ec.g00tmy1o.72d3z935/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhoriuchimirror%2Fulrio%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhoriuchimirror%2Fi%2F10000154%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00tmy1o.72d3y0ec.g00tmy1o.72d3z935/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhoriuchimirror%2Fulrio%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/horiuchimirror/cabinet/12704891/imgrc0344938316.jpg?_ex=600x600",
+  "shop_name": "【公式店】デッフィ楽天市場店",
+  "review_count": 333,
+  "review_average": 4.43,
+  "affiliate_rate": 2.0,
+  "point_rate": 7,
+  "catchcopy": "除菌してからミストにする加湿器｜月1のお手入れでカビを育てない・大容量6Lで朝まで加湿・23.2dB静音・電気代は約1/10・上部給水で注ぎやすい",
+  "genre_id": "204549",
+  "score": 14.23,
+  "last_seen": "2026-11-18T20:16:26",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/horiuchimirror/cabinet/12704891/imgrc0344938316.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/horiuchimirror/cabinet/12704891/imgrc0344318632.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_gold/horiuchimirror/ulrio/20260912new/ULRIO_SLIDE_01.jpg?_ex=600x600"
+  ],
+  "caption": "【商品名】 加湿器 ハイブリッド式 ULRIO（ウルリオ） 大容量 6L 【カラー】 オフホワイト ※インテリアに馴染む、上品で温かみのあるマットな質感です。 マットブラック ※光を強く返さない、高級感のある質感で、黒いお部屋はもちろん、木の床や白い壁にもなじ　　みます。 【商品特徴】 ●清潔なハイブリッド式 ヒーターで加熱したお湯を超音波で噴霧するハイブリッド式。水を加熱することで雑菌の繁殖を抑え、清潔なミストをお部屋に届けます。 ●パワフル＆スピーディー 最大加湿量は550ml/h。洋室17畳・和室10畳まで対応し、乾燥したお部屋を一気に潤します。 ●賢い湿度コントロール 30～90％の間で5％単位の湿度設定が可能。高精度センサーが常に湿度を見守り、設定した湿度を自動でキープします。 ●便利な3WAY給水 重いタンクを運ばなくても、フタを開けずに上から水を注げる「上部給水」に対応。もちろんタンクを取り外しての給水も可能です。 ●安心の安全設計 チャイルドロック機能、空焚き防止機能（水切れ時自動停止）を搭載。小さなお子様やペットのいるご家庭でも安心してお使いいただけます。 ●お手入れ簡単 パーツを取り外して隅々まで簡単お手入れが可能。月一回のクエン酸洗浄を行うことで、内部を清潔に保てます。 製品仕様 サイズ（約） 幅280×奥行182×高さ365mm 重量（約） 2.42kg（水を含まない） タンク容量 6.0L 電源 AC100V 50/60Hz 消費電力 最大280W（ヒーターON時）最小25W（ヒーターOFF時） 加湿量 最大 550ml/h（±50mL/h） 適用床面積（目安） 洋室：14～17畳（プレハブ洋室）和室：8.5～10畳（木造和室） 運転音 45dB以下（静音設計） 機能 湿度設定（30-90%）、切タイマー、チャイルドロック、空焚き防止、アロマ対応、"
+ },
+ "akihome:10000008": {
+  "first_seen": "2026-11-18T20:16:26",
+  "themes": [
+   {
+    "date": "2026-11-18",
+    "slot": "night",
+    "theme": "ブラックフライデー（2日後） × 20代女性（自分磨き・プチプラ・映え）",
+    "persona": "20s_woman",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "akihome:10000008",
+  "name": "＼期間限定！3,000円以上で300円発行中／【楽天1位獲得】 伸縮 延長コード 1m 電源タップ コンセント usb 丸型 回転式タップ 2個ac付き USB 1type-c 薄型プラグテーブルタップ 延長ケーブル おしゃれ スイングプラグ 壁掛け 丸型巻取り",
+  "price": 3080,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00upkio.72d3y646.g00upkio.72d3z538/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fakihome%2Fdle-202z-wt-1m%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fakihome%2Fi%2F10000008%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00upkio.72d3y646.g00upkio.72d3z538/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fakihome%2Fdle-202z-wt-1m%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/akihome/cabinet/11860851/imgrc0166612173.jpg?_ex=600x600",
+  "shop_name": "Aki home",
+  "review_count": 481,
+  "review_average": 4.4,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "PSE認証 旅行 出張用 丸型巻取り式 モバイルタップ　おしゃれ スイングプラグ 壁掛け",
+  "genre_id": "552481",
+  "score": 11.97,
+  "last_seen": "2026-11-18T20:16:26",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/akihome/cabinet/11860851/imgrc0166612173.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/akihome/cabinet/rankstamp/1098096_sp.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/akihome/cabinet/11860851/xin1_01.jpg?_ex=600x600"
+  ],
+  "caption": "メーカー希望小売価格はメーカーサイトに基 づいて掲載しています 【注意事項】： ・当店の商品は全て国内から配送されます。 ・国内配送の商品は国内でのお買い物と同じく消費税が発生いたします。関税はかかりません。 ＊色がある場合、モニターの発色の具合によって実際のものと色が異なる場合がある。 関連キーワード 電源タップ 電源タップ おしゃれ 電源タップ usb type-c 電源タップ 1m 電源タップ 壁 電源タップ usb おしゃれ 電源タップ 壁 おしゃれ 電源タップ 壁掛け 電源タップ 固定 壁 電源タップ 2口 安全 な 電源タップ 電源タップ 薄型 電源タップ usb 電源タップ usb付き 電源タップ usb-c 電源タップ 延長コード エフェクター 電源タップ 電源タップ オーディオ 電源タップ カバー 電源タップ 回転 電源タップ 隠す 電源タップ 雷ガード 電源タップ 雷ガード ほこりシャッター 電源タップ かわいい 電源タップ 雷 電源タップ キッチン 電源タップ 急速 電源タップ 急速充電 電源タップ 固定 電源タップ コンセント usb コンセント 電源タップ 電源タップ デスク 固定 電源タップ サージ機能付き 電源タップ 収納 電源タップ 机 下 電源タップ すっきり 電源タップ スリム 電源タップ スマホ 電源タップ 縦 電源タップ タイプC 電源タップ 卓上 電源タップ 多機能 タコ足コンセント 電源タップ 電源タップ 机 固定 机に固定 電源タップ 電源タップ 雷ガード 日本製 ほこり ガード 電源タップ ほこり防止 電源タップ 電源タップ ほこり 電源タップ 巻き取り 電源タップ 短い 電源タップ 持ち運び 電源タップ 横差し 落雷 電源タップ 電源タップ 旅行 ルーター 電源タップ 電源タップ 大容量 電源タップ 電源タップ USB 電源"
+ },
+ "puravida:10000283": {
+  "first_seen": "2026-11-18T20:16:26",
+  "themes": [
+   {
+    "date": "2026-11-18",
+    "slot": "night",
+    "theme": "ブラックフライデー（2日後） × 20代女性（自分磨き・プチプラ・映え）",
+    "persona": "20s_woman",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "puravida:10000283",
+  "name": "【ブラックフライデー18%OFF】 履くだけで細見え！元祖【美脚パンツ】 ヨガウェア ヨガパンツ フレアパンツ【ランキング1位】Loopa 魔法の ストレッチ 美尻 レギンス クロップド ピラティス ウェア ダンス ヨガパンツ レディース 大きいサイズ ルーパ セール 【◎EX】",
+  "price": 5800,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00q08to.72d3y6d9.g00q08to.72d3zc3d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpuravida%2Fmb101100900%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpuravida%2Fi%2F10000283%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00q08to.72d3y6d9.g00q08to.72d3zc3d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpuravida%2Fmb101100900%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpuravida%2Fi%2F10000283%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/puravida/cabinet/202001/mb101100900-itm01.jpg?_ex=600x600",
+  "shop_name": "Puravida-プラヴィダ",
+  "review_count": 4989,
+  "review_average": 4.39,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "S〜XL≪年間ランキング受賞≫7万本突破♪履くだけで脚が細く見える！ヨガパンツ ヨガウェア ヨガウエア ★殿堂Puravida",
+  "genre_id": "501882",
+  "score": 11.87,
+  "last_seen": "2026-11-18T20:16:26",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/puravida/cabinet/202001/mb101100900-itm01.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/puravida/cabinet/202408/saikyo_label.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/puravida/cabinet/202001/mb101100900-raking.jpg?_ex=600x600"
+  ],
+  "caption": "よく一緒に購入されている商品 ヨガパンツ Loopa ストレッチコットン 3,800円 ヨガウェア ヨガ レギンス Loopa ルー4,400円～ ヨガパンツ 美脚パンツ Loopa コットン5,000円 「メーカー希望小売価格はメーカーサイトに基づいて掲載しています」 ■商品名：[Loopa]魔法の美脚ストレッチパンツ ■検索ワード：ヨガパンツ 美脚パンツ フレア フレアパンツ レギンス ヨガウェア ヨガウエア ランニング エアロビクス フィットネス レディース 大きいサイズ カプリパンツ 元祖美脚パンツ 社交ダンス ブーツカット ルーパ ピラティス ウェア ヨガパンツ レディース ■日本該当サイズ：【7号】【9号】【11号】【13号】 ---------------------- 〇コレクション：【BASIC】 〇スタイル：【FIT】 〇素材：【ウルトラ Fitストレッチ】 〇機能：【美脚】【ストレッチ】【速乾】【マタニティ】【着圧】 ≫ 同じカテゴリーのアイテム ヨガ 　ヨガウェア 　フィットネス 　ロングパンツ ≫ 類似おすすめブランド 　aumnie 　manduka 　emmi 類似商品はこちら ヨガ レギンス ヨガパンツ Loopa 魔法6,300円 ルーパ ヨガウェア Loopa デイリー フ3,960円 ヨガパンツ 美脚パンツ Loopa コットン5,000円 ヨガパンツ Loopa コットンライクラ カ3,500円 ヨガパンツ Loopa ストレッチコットン 3,800円 ヨガウェア ヨガ レギンス Loopa ルー3,600円～ 魔法の美脚ストレッチクロップドパンツ★ヨガパ5,980円レディース ヨガウェア Loopa ルーパ デ4,950円 ヨガウェア ヨガ レギンス Loopa ルー4,400円～2026/11/17 更新 お陰様で3年連続年間ラン"
  }
 }
