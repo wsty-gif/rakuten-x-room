@@ -40,3 +40,40 @@
 - **ブラックフライデーで買うもの**: タニカ ヨーグルティアS ガラスセット / 無洗米 福岡県産ヒノヒカリ 10kg / クリニーク 選べるふき取り化粧水セット / 『最安挑戦』コピー用紙 A3 2500枚 / 回らない水光 カラコン LARME ラルム / AI自動温度調節 ふわとろ毛布 電気毛布
 - **子育て世帯のママ・パパのリピート候補**: タニカ ヨーグルティアS ガラスセット / 無洗米 福岡県産ヒノヒカリ 10kg / クリニーク 選べるふき取り化粧水セット / 『最安挑戦』コピー用紙 A3 2500枚 / 回らない水光 カラコン LARME ラルム / AI自動温度調節 ふわとろ毛布 電気毛布
 
+## 12:02 ブラックフライデー（2日後） × 40代男性（家族・晩酌・車）
+
+1. **最大20％OFF セール 【Ninja 公式】Ninja Crispi クリスピー FN101J FN100J【公式限定**
+   - 価格: 19,800円 / ★4.55（173件） / 料率 2.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00toapo.72d3y30a.g00toapo.72d3z450/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshark%2Ffn101j%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshark%2Fi%2F10000489%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: ブラックフライデー中に狙いたい1つ。まとめ買い向き。買い足しはコチラ。レビュー173件で★4.55。20%OFF。気になる人はお気に入り登録を。
+
+2. **S【衝撃の25％OFF！5,200→3,900円！】 3商品から1つ選べるセット リンガーハット 長崎ちゃんぽん8食 長**
+   - 価格: 3,900円 / ★4.69（3,712件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qc3co.72d3y43d.g00qc3co.72d3z7b0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fringerhut%2Fc14b%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fringerhut%2Fi%2F10000132%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: ブラックフライデー中に狙いたい1つ。まとめ買い向き。レビュー3,712件で★4.69。25%OFF、送料無料。気になる人はお気に入り登録を。
+
+3. **【年内出荷分締め切り間近】 江木なうなう 真空 赤てん 5枚袋入り 【ご自宅用】江木 蒲鉾 赤天 浜田**
+   - 価格: 4,450円 / ★4.83（48件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qjv3o.72d3y7b0.g00qjv3o.72d3z0f5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fen-musubi%2F10001187%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fen-musubi%2Fi%2F10001187%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: ブラックフライデー中に狙いたい1つ。家族みんなで使える定番。レビュー48件で★4.83。4,450円。気になる人はお気に入り登録を。
+
+4. **【最短即日発送】＼3年保証＆ランキング1位／ バッファロー ルーター wifi6 IPv6 無線LAN WiFi 無線L**
+   - 価格: 7,480円 / ★4.66（1,909件） / 料率 2.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00uh37o.72d3y7a0.g00uh37o.72d3z1aa/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpcshop-best%2F002-0001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpcshop-best%2Fi%2F10000139%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: ブラックフライデー中に狙いたい1つ。家族みんなで使える定番。商品情報よくある質問Q1.スマートフォンが無ければ設定できないのでしょうか。Q2.他社のルーター（中継器対応ルーター）にも中継可能ですか。楽天ランキング1位、レビュー1,909件で★4.66。7,480円。セール中に補充しておくと安心です。
+
+5. **【楽天1位 10冠達成】外付けHDD 160GB 250GB 320GB 500GB 750GB 1TB 2TBポータブ**
+   - 価格: 3,380円 / ★4.46（318件） / 料率 2.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00t8ato.72d3ybe2.g00t8ato.72d3za63/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnissin-lux%2Fhdd-1tb-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnissin-lux%2Fi%2F10000584%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: ブラックフライデー中に狙いたい1つ。週末のお楽しみ用に。また、弊社が記録内容の修復・復元・複製などをすることもできません。楽天ランキング1位、レビュー318件で★4.46。3,380円。在庫が動きやすいので早めに。
+
+6. **＼先着★最大半額クーポン／ 冷蔵庫マット 透明 クリア ポリカーボネート 滑り止め 床保護 防水 撥水 防カビ 抗菌 拭**
+   - 価格: 1,280円 / ★4.56（244件） / 料率 2.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00tmjzo.72d3ye4e.g00tmjzo.72d3za46/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fclassort%2Ffcc01210%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fclassort%2Fi%2F10000873%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: ブラックフライデー中に狙いたい1つ。週末のお楽しみ用に。お手入れも簡単です。お好みのサイズにカットできるので、自由自在にアレンジできます。レビュー244件で★4.56。半額、送料無料。セール中に補充しておくと安心です。
+
+### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
+
+- **ブラックフライデーで買うもの**: Ninja Crispi クリスピー / 3商品から1つ選べるセット リンガーハット / 江木なうなう 真空 赤てん 5枚袋入り 江木 / 3年保証＆ランキング1位 バッファロー / 外付けHDD 160GB 250GB / 先着 冷蔵庫マット 透明 クリア
+- **40代男性のリピート候補**: Ninja Crispi クリスピー / 3商品から1つ選べるセット リンガーハット / 江木なうなう 真空 赤てん 5枚袋入り 江木 / 3年保証＆ランキング1位 バッファロー / 外付けHDD 160GB 250GB / 先着 冷蔵庫マット 透明 クリア
+

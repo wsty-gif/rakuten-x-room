@@ -24417,7 +24417,8 @@
   "shop_name": "タニカ電器オンラインストア",
   "review_count": 3044,
   "review_average": 4.82,
-  "genre_id": "212428"
+  "genre_id": "212428",
+  "instagram_story_id": "17877509346602210"
  },
  {
   "date": "2026-11-18T07:02:12",
@@ -24538,5 +24539,153 @@
   "review_count": 1793,
   "review_average": 4.47,
   "genre_id": "208397"
+ },
+ {
+  "date": "2026-11-18T12:02:00",
+  "slot": "noon",
+  "theme": "ブラックフライデー（2日後） × 40代男性（家族・晩酌・車）",
+  "persona": "40s_man",
+  "item_code": "shark:10000489",
+  "item_name": "最大20％OFF セール 【Ninja 公式】Ninja Crispi クリスピー FN101J FN100J【公式限定レシピ本特典あり】 / シャークニンジャ",
+  "price": 19800,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00toapo.72d3y30a.g00toapo.72d3z450/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshark%2Ffn101j%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshark%2Fi%2F10000489%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 2.0,
+  "text": "#PR 週末の楽しみが1段上がる\nNinja Crispi クリスピー\n★4.55・レビュー173件\n20%OFF｜19,800円\n#楽天購入品\n▶ROOMはプロフから",
+  "tweet_id": "",
+  "threads_id": "18026740043933341",
+  "room_done": false,
+  "image": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/shark/cabinet/renamethum/p00/fn101j_m20off.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/shark/cabinet/renamethum/p00/fn101j_m20off.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/shark/cabinet/products/fn100j/recipebook_thum.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/shark/cabinet/products/fn100j/fn100j_01.jpg?_ex=600x600"
+  ],
+  "shop_name": "SharkNinja公式楽天市場店",
+  "review_count": 173,
+  "review_average": 4.55,
+  "genre_id": "564331",
+  "instagram_id": "18039083681890112",
+  "instagram_story_id": "18133519438750007"
+ },
+ {
+  "date": "2026-11-18T12:02:00",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "ブラックフライデー（2日後） × 40代男性（家族・晩酌・車）",
+  "persona": "40s_man",
+  "item_code": "ringerhut:10000132",
+  "item_name": "S【衝撃の25％OFF！5,200→3,900円！】 3商品から1つ選べるセット リンガーハット 長崎ちゃんぽん8食 長崎皿うどん8食 長崎ちゃんぽん4食＆長崎",
+  "price": 3900,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qc3co.72d3y43d.g00qc3co.72d3z7b0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fringerhut%2Fc14b%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fringerhut%2Fi%2F10000132%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "ブラックフライデー中に狙いたい1つ。まとめ買い向き。レビュー3,712件で★4.69。25%OFF、送料無料。気になる人はお気に入り登録を。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/ringerhut/cabinet/imgrc0193725752.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/ringerhut/cabinet/imgrc0193725752.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/ringerhut/cabinet/imgrc0195754826.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/ringerhut/cabinet/imgrc0195754831.jpg?_ex=600x600"
+  ],
+  "shop_name": "リンガーハット楽天市場店",
+  "review_count": 3712,
+  "review_average": 4.69,
+  "genre_id": "204864"
+ },
+ {
+  "date": "2026-11-18T12:02:00",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "ブラックフライデー（2日後） × 40代男性（家族・晩酌・車）",
+  "persona": "40s_man",
+  "item_code": "en-musubi:10001187",
+  "item_name": "【年内出荷分締め切り間近】 江木なうなう 真空 赤てん 5枚袋入り 【ご自宅用】江木 蒲鉾 赤天 浜田",
+  "price": 4450,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qjv3o.72d3y7b0.g00qjv3o.72d3z0f5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fen-musubi%2F10001187%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fen-musubi%2Fi%2F10001187%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "ブラックフライデー中に狙いたい1つ。家族みんなで使える定番。レビュー48件で★4.83。4,450円。気になる人はお気に入り登録を。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/en-musubi/cabinet/som/shinkuak-smn_som.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/en-musubi/cabinet/som/shinkuak-smn_som.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/en-musubi/cabinet/00964545/snakatenfl1.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/en-musubi/cabinet/00964545/akatenfl2.jpg?_ex=600x600"
+  ],
+  "shop_name": "鳥取・島根の逸品グルメ いずも庵",
+  "review_count": 48,
+  "review_average": 4.83,
+  "genre_id": "100242"
+ },
+ {
+  "date": "2026-11-18T12:02:00",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "ブラックフライデー（2日後） × 40代男性（家族・晩酌・車）",
+  "persona": "40s_man",
+  "item_code": "pcshop-best:10000139",
+  "item_name": "【最短即日発送】＼3年保証＆ランキング1位／ バッファロー ルーター wifi6 IPv6 無線LAN WiFi 無線LANルーター 無線親機 無線ルーター 楽",
+  "price": 7480,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00uh37o.72d3y7a0.g00uh37o.72d3z1aa/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpcshop-best%2F002-0001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpcshop-best%2Fi%2F10000139%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 2.0,
+  "text": "ブラックフライデー中に狙いたい1つ。家族みんなで使える定番。商品情報よくある質問Q1.スマートフォンが無ければ設定できないのでしょうか。Q2.他社のルーター（中継器対応ルーター）にも中継可能ですか。楽天ランキング1位、レビュー1,909件で★4.66。7,480円。セール中に補充しておくと安心です。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/pcshop-best/cabinet/compass1731286828.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/pcshop-best/cabinet/compass1731286828.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/pcshop-best/cabinet/img-up_1_1486/2632_k1_766497_86.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/pcshop-best/cabinet/13348033/13348039/mvp1.jpg?_ex=600x600"
+  ],
+  "shop_name": "and pc（PC SHOP BEST）楽天市場店",
+  "review_count": 1909,
+  "review_average": 4.66,
+  "genre_id": "506591"
+ },
+ {
+  "date": "2026-11-18T12:02:00",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "ブラックフライデー（2日後） × 40代男性（家族・晩酌・車）",
+  "persona": "40s_man",
+  "item_code": "nissin-lux:10000584",
+  "item_name": "【楽天1位 10冠達成】外付けHDD 160GB 250GB 320GB 500GB 750GB 1TB 2TBポータブル型 4k対応テレビ録画 PC パソコン",
+  "price": 3380,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00t8ato.72d3ybe2.g00t8ato.72d3za63/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnissin-lux%2Fhdd-1tb-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnissin-lux%2Fi%2F10000584%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 2.0,
+  "text": "ブラックフライデー中に狙いたい1つ。週末のお楽しみ用に。また、弊社が記録内容の修復・復元・複製などをすることもできません。楽天ランキング1位、レビュー318件で★4.46。3,380円。在庫が動きやすいので早めに。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/nissin-lux/cabinet/07045425/07045459/hdd-1.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/nissin-lux/cabinet/07045425/07045459/hdd-1.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/nissin-lux/cabinet/tj/r-img_rr/5/hdd-1tb-1.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/nissin-lux/cabinet/tj/ir-img_ir/5/hdd-1tb-1.jpg?_ex=600x600"
+  ],
+  "shop_name": "NISSIN LUX",
+  "review_count": 318,
+  "review_average": 4.46,
+  "genre_id": "211492"
+ },
+ {
+  "date": "2026-11-18T12:02:00",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "ブラックフライデー（2日後） × 40代男性（家族・晩酌・車）",
+  "persona": "40s_man",
+  "item_code": "classort:10000873",
+  "item_name": "＼先着★最大半額クーポン／ 冷蔵庫マット 透明 クリア ポリカーボネート 滑り止め 床保護 防水 撥水 防カビ 抗菌 拭ける キズ 凹み 汚れ 防止 冷蔵庫シー",
+  "price": 1280,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tmjzo.72d3ye4e.g00tmjzo.72d3za46/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fclassort%2Ffcc01210%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fclassort%2Fi%2F10000873%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 2.0,
+  "text": "ブラックフライデー中に狙いたい1つ。週末のお楽しみ用に。お手入れも簡単です。お好みのサイズにカットできるので、自由自在にアレンジできます。レビュー244件で★4.56。半額、送料無料。セール中に補充しておくと安心です。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/classort/cabinet/shouhin-image/fcc01210.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/classort/cabinet/shouhin-image/fcc01210.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/classort/cabinet/shouhin-image2/fcc/fccr-rpc-a1.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/classort/cabinet/shouhin-image2/fcc/fccr-rpc-b1.jpg?_ex=600x600"
+  ],
+  "shop_name": "Classort楽天市場店",
+  "review_count": 244,
+  "review_average": 4.56,
+  "genre_id": "565248"
  }
 ]
