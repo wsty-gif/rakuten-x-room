@@ -25093,5 +25093,16 @@
   "review_count": 5007,
   "review_average": 4.39,
   "genre_id": "551636"
+ },
+ {
+  "date": "2026-11-19T18:31:27",
+  "slot": "evening",
+  "kind": "engage",
+  "engage_key": "tip7",
+  "theme": "反応投稿（tip）",
+  "persona": "all",
+  "text": "【楽天の小ネタ】\n楽天市場アプリで買うとポイント+0.5倍。\nブラウザで商品を探して、買う直前だけアプリに切り替える人も多いです。",
+  "tweet_id": "",
+  "threads_id": "18123572566746578"
  }
 ]
