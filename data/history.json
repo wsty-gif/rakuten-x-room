@@ -25499,5 +25499,16 @@
   "review_count": 31,
   "review_average": 4.97,
   "genre_id": "508618"
+ },
+ {
+  "date": "2026-11-20T18:31:54",
+  "slot": "evening",
+  "kind": "engage",
+  "engage_key": "q4",
+  "theme": "反応投稿（question）",
+  "persona": "all",
+  "text": "「実質価格」って気にしますか？\nポイント10倍なら3,000円が実質2,700円。この差で買う人、けっこう多い印象です。",
+  "tweet_id": "",
+  "threads_id": "17876224521696230"
  }
 ]
