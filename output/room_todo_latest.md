@@ -77,3 +77,50 @@
 - **クリスマスで買うもの**: アルティム8∞ スブリム ビューティ / ストームグラス Tempo Drop / 楽天ランキング入賞 豪華101点 / リファエールブラシ クリスマス プレゼント / 純金 約0.08gから買える K24
 - **30代男性のリピート候補**: アルティム8∞ スブリム ビューティ / ストームグラス Tempo Drop / 楽天ランキング入賞 豪華101点 / リファエールブラシ クリスマス プレゼント / 純金 約0.08gから買える K24
 
+## 19:31 ブラックフライデー（開催中） × 子育て世帯のママ・パパ（20時セール前）
+
+1. **【20日限定20%クーポン】＼最大45％OFF＋ギフト／ポムポムプリン コラボ★総合ランキング1位【VT 大容量 パック**
+   - 価格: 2,904円 / ★4.54（225件） / 料率 4.0% / P2倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00tdwho.72d3y76b.g00tdwho.72d3z7bf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvtcosmetic-official%2Fsoothingmask_set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fvtcosmetic-official%2Fi%2F10000773%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今夜20時スタート。開始直後に売り切れやすいので、先にお気に入りへ。まとめ買いしておくと楽になるもの。毎日使える、夏の肌を守るアイスマスク・暑い夏に1日1パック。Panaxを配合。楽天ランキング1位、レビュー225件で★4.54。45%OFF、ポイント2倍で実質2,845円。配送日も一緒に確認を。
+
+2. **クーポンで1点2,751円【楽天1位・美容家監修】 ヘアアイロン ストレート アイロン 立ち上がり18秒 オイル対応 2**
+   - 価格: 5,980円 / ★4.53（992件） / 料率 2.0% / P5倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00tyy9o.72d3y86f.g00tyy9o.72d3z89d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fazusa%2Fv2396%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fazusa%2Fi%2F10000193%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今夜20時スタート。開始直後に売り切れやすいので、先にお気に入りへ。まとめ買いしておくと楽になるもの。コンパクトで持ち運びやすく、収納にも便利。髪質やスタイルに合わせて調整でき、LEDディスプレイで設定温度を確認。楽天ランキング1位、レビュー992件で★4.53。ポイント5倍で実質5,681円、送料無料。セール中に補充しておくと安心です。
+
+3. **MAX30％OFF 【アライさん楽天ROOMコラボ】 特別な日をもっと素敵に マシュマロベロアセットアップ キッズ 子供**
+   - 価格: 3,980円 / ★4.72（106件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00sw4ao.72d3ydfc.g00sw4ao.72d3zb2a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fevercloset%2F263276002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fevercloset%2Fi%2F10001601%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今夜20時スタート。開始直後に売り切れやすいので、先にお気に入りへ。まとめ買いしておくと楽になるもの。レビュー106件で★4.72。30%OFF。配送日も一緒に確認を。
+
+4. **MAX30％OFF 【ぬくふわ】毎日はきたい らくちん裏シャギーパンツ | キッズ ベビー 子供 子供服 キッズ服 女の**
+   - 価格: 1,380円 / ★4.58（6,650件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00sw4ao.72d3ydfc.g00sw4ao.72d3zb2a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fevercloset%2F32630%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fevercloset%2Fi%2F10000015%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今夜20時スタート。開始直後に売り切れやすいので、先にお気に入りへ。子どもがいる家で助かった系。レビュー6,650件で★4.58。30%OFF。気になる人はお気に入り登録を。
+
+5. **＼クーポンで最大、61%OFF 11/25 23:59まで！／【TIRTIR公式】2027 福袋 第一弾 クッションファ**
+   - 価格: 4,130円 / ★4.55（31件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00tzfxo.72d3y342.g00tzfxo.72d3z1d3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftirtir%2Ftirtir_rakuten_select_set2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftirtir%2Fi%2F10001051%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今夜20時スタート。開始直後に売り切れやすいので、先にお気に入りへ。ママ友の間でよく話題になるやつ。レビュー31件で★4.55。61%OFF（11/2523:59まで）。セール中に補充しておくと安心です。
+
+6. **【COUPONで3,570円〜・BL限定】 電気毛布 敷き 掛け 65℃速暖 楽天1位 USB/DC給電 1枚7WAY&**
+   - 価格: 7,760円 / ★4.51（3,170件） / 料率 2.0% / P5倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00ubfso.72d3y134.g00ubfso.72d3z388/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fennshopstore%2Fbx88pj%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fennshopstore%2Fi%2F10000061%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今夜20時スタート。開始直後に売り切れやすいので、先にお気に入りへ。子どもがいる家で助かった系。楽天ランキング1位、レビュー3,170件で★4.51。ポイント5倍で実質7,372円。在庫が動きやすいので早めに。
+
+7. **【ブラックフライデークーポン発行！リニューアル最新版！楽天375週1位！ネイルインフルエンサー監修】LED ＆ UV ジ**
+   - 価格: 2,999円 / ★4.66（15,696件） / 料率 4.0% / P3倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00scnqo.72d3ydfd.g00scnqo.72d3za2d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftorreya-shop%2F100000013%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftorreya-shop%2Fi%2F10000022%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今夜20時スタート。開始直後に売り切れやすいので、先にお気に入りへ。ママ友の間でよく話題になるやつ。付属物なども含まれます。レビュー15,696件で★4.66。ポイント3倍で実質2,909円。セール中に補充しておくと安心です。
+
+8. **BLACK FRIDAY限定セール♪はぐくみ太郎 鶏レバー パウダー 鳥レバー 粉末 ベビーフード 離乳食 幼児食**
+   - 価格: 1,180円 / ★4.93（13,942件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00t1x2o.72d3yccc.g00t1x2o.72d3zc4f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkyowashokken%2Fhtaro-ch-01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkyowashokken%2Fi%2F10000073%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: 今夜20時スタート。開始直後に売り切れやすいので、先にお気に入りへ。まとめ買いしておくと楽になるもの。粉末なので離乳食に混ぜるのに便利です。レビュー13,942件で★4.93。1,180円。配送日も一緒に確認を。
+
+### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
+
+- **ブラックフライデーで買うもの**: ポムポムプリン コラボ 総合ランキング1位 / ヘアアイロン ストレート アイロン / 特別な日をもっと素敵に / 毎日はきたい らくちん裏シャギーパンツ / 11 25 23:59まで！ 2027 福袋 / 電気毛布 敷き 掛け 65℃速暖 楽天1位 / LED UV ジェルネイルライト 48W / BLACK はぐくみ太郎 鶏レバー パウダー
+- **子育て世帯のママ・パパのリピート候補**: ポムポムプリン コラボ 総合ランキング1位 / ヘアアイロン ストレート アイロン / 特別な日をもっと素敵に / 毎日はきたい らくちん裏シャギーパンツ / 11 25 23:59まで！ 2027 福袋 / 電気毛布 敷き 掛け 65℃速暖 楽天1位 / LED UV ジェルネイルライト 48W / BLACK はぐくみ太郎 鶏レバー パウダー
+
