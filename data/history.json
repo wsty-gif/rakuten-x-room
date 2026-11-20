@@ -25229,7 +25229,8 @@
   "shop_name": "ブラデリスニューヨーク楽天市場店",
   "review_count": 7975,
   "review_average": 4.51,
-  "genre_id": "110854"
+  "genre_id": "110854",
+  "instagram_story_id": "18643964683026040"
  },
  {
   "date": "2026-11-20T07:01:43",
@@ -25374,5 +25375,129 @@
   "review_count": 338,
   "review_average": 4.8,
   "genre_id": "407004"
+ },
+ {
+  "date": "2026-11-20T12:01:47",
+  "slot": "noon",
+  "theme": "クリスマス（34日後） × 30代男性（健康・効率化・家電）",
+  "persona": "30s_man",
+  "item_code": "shuuemura:10000006",
+  "item_name": "【公式】アルティム8∞ スブリム ビューティ クレンジング オイルn シュウウエムラクレンジング クレンジング 150ml 洗顔 メイク落とし 毛穴 洗顔料 ス",
+  "price": 6270,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tl4no.72d3yc14.g00tl4no.72d3ze52/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshuuemura%2Fshu10049-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshuuemura%2Fi%2F10000006%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "#PR クリスマス、まだ決めてない人へ\nアルティム8∞ スブリム ビューティ\n★4.75・レビュー3,835件\n6,270円（P20倍で実質5,016円）\n使ってる人いたら感想ください\n#楽天購入品\n▶ROOMはプロフから",
+  "tweet_id": "",
+  "threads_id": "18106879565008539",
+  "room_done": false,
+  "image": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/shuuemura/cabinet/12824584/12825927/14173013/imgrc0144930500.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/shuuemura/cabinet/12824584/12825927/14173013/imgrc0144930500.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/shuuemura/cabinet/12824584/13364965/13364966/imgrc0139462008.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/shuuemura/cabinet/12824584/14246787/imgrc0145062607.jpg?_ex=600x600"
+  ],
+  "shop_name": "シュウ ウエムラ 公式ショップ",
+  "review_count": 3835,
+  "review_average": 4.75,
+  "genre_id": "405061",
+  "instagram_id": "17918980317504992",
+  "instagram_story_id": "17989976574109231"
+ },
+ {
+  "date": "2026-11-20T12:01:47",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "クリスマス（34日後） × 30代男性（健康・効率化・家電）",
+  "persona": "30s_man",
+  "item_code": "kakko:10000610",
+  "item_name": "ストームグラス Tempo Drop mini テンポドロップ ミニ【 100percent オブジェ ガラス 置物 季節 飾り 結晶 北欧 インテリア しずく",
+  "price": 4730,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rj6to.72d3y418.g00rj6to.72d3z540/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkakko%2Fc48td_mini%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkakko%2Fi%2F10000610%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 3.0,
+  "text": "今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。時短になる系。この商品には木座付きのレギュラーサイズもございます。レビュー1,844件で★4.64。ポイント10倍で実質4,257円。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/kakko/cabinet/100percent/c48td_minin_img1.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/kakko/cabinet/100percent/c48td_minin_img1.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/kakko/cabinet/100percent/c48td_minin_img2.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/kakko/cabinet/100percent/c48td_minin_img3.jpg?_ex=600x600"
+  ],
+  "shop_name": "楽しいインテリア北欧雑貨店 kakko",
+  "review_count": 1844,
+  "review_average": 4.64,
+  "genre_id": "111384"
+ },
+ {
+  "date": "2026-11-20T12:01:47",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "クリスマス（34日後） × 30代男性（健康・効率化・家電）",
+  "persona": "30s_man",
+  "item_code": "greenocean:10024117",
+  "item_name": "【0のつく日P5倍】＼楽天ランキング入賞／【レジンセット】豪華101点♪ レジンスターターキット 極 初心者 レジン液 UV LED ライト モールド シェイカ",
+  "price": 4480,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rzgco.72d3y068.g00rzgco.72d3zfcd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgreenocean%2F11577%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgreenocean%2Fi%2F10024117%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 3.0,
+  "text": "今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。スペック比較して残ったやつ。〇初心者さんやお子様も簡単に始められるフルカラーのガイドブック付き。クリスマスプレゼントにもおすすめ。レビュー1,127件で★4.69。ポイント5倍で実質4,256円、送料無料。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/greenocean/cabinet/shohin01/gazou64/imgrc0106691841.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/greenocean/cabinet/shohin01/gazou64/imgrc0106691841.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_gold/greenocean/minikuru/11577.png?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/greenocean/cabinet/shohin01/gazou64/193110928_o1.jpg?_ex=600x600"
+  ],
+  "shop_name": "隠れ工房GreenOcean",
+  "review_count": 1127,
+  "review_average": 4.69,
+  "genre_id": "566881"
+ },
+ {
+  "date": "2026-11-20T12:01:47",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "クリスマス（34日後） × 30代男性（健康・効率化・家電）",
+  "persona": "30s_man",
+  "item_code": "mtgec-beauty:10002091",
+  "item_name": "＼11月25日まで送料無料！／リファエールブラシ クリスマス プレゼント ブラシ ヘアブラシ ツヤ ヘアコーム くし ヘアアレンジ ヘアケア ギフト 女性 誕生",
+  "price": 3800,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00r20go.72d3y44f.g00r20go.72d3z437/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmtgec-beauty%2F1201310101%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmtgec-beauty%2Fi%2F10002091%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。時短になる系。推奨しているショッパーサイズはショッパースリムMです。レビュー2,968件で★4.61。25日まで、送料無料。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/mtgec-beauty/cabinet/refa/06277055/2026_refa_winter/imgrc0146447645.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/mtgec-beauty/cabinet/refa/06277055/2026_refa_winter/imgrc0146447645.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/mtgec-beauty/cabinet/refa/06277055/2026_refa_winter/imgrc0145060508.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/mtgec-beauty/cabinet/refa/06277055/velourpouch/imgrc0133118448.jpg?_ex=600x600"
+  ],
+  "shop_name": "MTG ONLINESHOP",
+  "review_count": 2968,
+  "review_average": 4.61,
+  "genre_id": "100663"
+ },
+ {
+  "date": "2026-11-20T12:01:47",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "クリスマス（34日後） × 30代男性（健康・効率化・家電）",
+  "persona": "30s_man",
+  "item_code": "kohsai:10003006",
+  "item_name": "【20時〜クーポン争奪戦】純金 約0.08gから買える K24 純金ボール 追加用（重さが選べる/1g 2g 4g 8g 対応）日本製 K24H 999 刻印入",
+  "price": 5060,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00ty54o.72d3yff6.g00ty54o.72d3z6ef/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkohsai%2Fk24-perfect2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkohsai%2Fi%2F10003006%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。スペック比較して残ったやつ。レビュー31件で★4.97。送料無料。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/kohsai/cabinet/biiino/item/thumbnail_top/k24-perfect2.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/kohsai/cabinet/biiino/item/thumbnail_top/k24-perfect2.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/kohsai/cabinet/biiino/award/k24-pea104c0354a.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/kohsai/cabinet/kohsai03/09723694/som_k24_1040.jpg?_ex=600x600"
+  ],
+  "shop_name": "ジュエリー・パーツ KOHSAi",
+  "review_count": 31,
+  "review_average": 4.97,
+  "genre_id": "508618"
  }
 ]
