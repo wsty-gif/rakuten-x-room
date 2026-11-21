@@ -30887,29 +30887,36 @@
     "theme": "今売れている物 × 30代男性（健康・効率化・家電）",
     "persona": "30s_man",
     "event_type": "baseline"
+   },
+   {
+    "date": "2026-11-21",
+    "slot": "night",
+    "theme": "ブラックフライデー（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "d-shop1one:10239877",
-  "name": "◆最大3000円CP＋P3倍！！10/20◆バッファロー 無線LANルーター Wi-Fi6対応 2401+573Mbps WSR-3000AX4P/DBK ブラック BUFFALO【転送不可】",
+  "name": "◆最大6000円CP＋P3倍！！BF限定◆バッファロー 無線LANルーター Wi-Fi6対応 2401+573Mbps WSR-3000AX4P/DBK ブラック BUFFALO【転送不可】",
   "price": 9880,
   "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rtgfo.72d3y922.g00rtgfo.72d3z3d4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-shop1one%2F4981254070482%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-shop1one%2Fi%2F10239877%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00rtgfo.72d3y922.g00rtgfo.72d3z3d4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-shop1one%2F4981254070482%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/d-shop1one/cabinet/poin2/4981254070482.jpg?_ex=600x600",
   "shop_name": "ディーショップワン",
-  "review_count": 79,
+  "review_count": 83,
   "review_average": 4.65,
   "affiliate_rate": 2.0,
   "point_rate": 1,
   "catchcopy": "BUFFALO WSR-3000AX4P/DBK Wi-Fi6対応 2401+573Mbps 無線LANルーター ブラック バッファロー",
   "genre_id": "506591",
-  "score": 13.45,
-  "last_seen": "2026-10-22T07:01:43",
+  "score": 12.49,
+  "last_seen": "2026-11-21T20:16:18",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/d-shop1one/cabinet/poin2/4981254070482.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/d-shop1one/cabinet/image07/4981254070482.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/d-shop1one/cabinet/image11/4981254070482_100.jpg?_ex=600x600"
   ],
-  "caption": "PSマークの種類：PSE 届出事業者名：バッファロー株式会社 注目キーワード おすすめ 接続方法 中継器 価格 小型 有線接続 繋ぎ方 アクセスポイント ケーブル 置き場所 一人暮らし セキュリティ 高速 マンション 戸建て 2階建て 家庭用 コンセント テレビ 接続 法人向け ホテル用 通信速度"
+  "caption": "PSマークの種類：PSE 届出事業者名：バッファロー株式会社 注目キーワード おすすめ 接続方法 中継器 価格 小型 有線接続 繋ぎ方 アクセスポイント ケーブル 置き場所 一人暮らし セキュリティ 高速 マンション 戸建て 2階建て 家庭用 コンセント テレビ 接続 法人向け ホテル用 通信速度11月19日20:00-11月25日1:59 店内全商品ポイント3倍11月20日0:00-23:59 最大3,000円OFFクーポン11月25日0:00-23:59 最大3,000円OFFクーポンさらに!!11月20日・25日 エントリーでポイント最大6倍今すぐクリック"
  },
  "logicool:10000682": {
   "first_seen": "2026-10-22T07:01:43",
@@ -30934,6 +30941,13 @@
     "theme": "ブラックフライデー（開催中） × 20代男性（ガジェット・一人暮らし）",
     "persona": "20s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-11-21",
+    "slot": "night",
+    "theme": "ブラックフライデー（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "logicool:10000682",
@@ -30949,14 +30963,16 @@
   "point_rate": 1,
   "catchcopy": "人気のトラックボールマウスが静音モデルになって登場！",
   "genre_id": "565170",
-  "score": 13.47,
-  "last_seen": "2026-11-21T07:01:32",
+  "score": 14.57,
+  "last_seen": "2026-11-21T20:16:18",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/mice/m575spd/m575spd_s_r.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/mice/m575spd/m575spd_2_.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/mice/m575spd/m575spd_3.jpg?_ex=600x600"
   ],
-  "caption": "商品詳細 ブランドLogicool (ロジクール) 商品管理番号M575SPda 本体サイズ134 x 100 x 48 mm 145g 使用電池単三形乾電池 x 1本 対応OS[Bluetooth Low Energy]Windows 10 以降、macOS 11 以降、iPadOS 14 以降、ChromeOS、Linux[Logi Bolt USBレシーバー]Windows 10 以降、macOS 11 以降、ChromeOS、Linux 接続方式Bluetooth Low EnergyまたはLogi Bolt レシーバー 発売日2024年9月19日 Rakutenランキング受賞歴デイリーランキング1位パソコン・周辺機器 > マウス・キーボード・入力機器2025年6月3日(火)更新 (集計日：2025年6月2日) 人気のトラックボールマウスM575がアップデート、M575SPとして新登場！ M575SPは、前モデルと比較しクリック音のノイズを80％削減、接続方式もBluetooth＆UnifyingからBluetooth＆LogiBoltとなり、接続の信頼性と安定性がさらに向上しました。従来の魅力はそのままに、利便性がより進化したM575SPをぜひお楽しみください。 M575SPは以下のモデルをご用意しています。 ・M575SPda：オンライン限定モデル／ブラック／保証期間1年間 ・M575SPGR：通常モデル／グラファイト／保証期間2年間 ・M575SPOW：通常モデル／オフホワイト／保証期間2年間 ※カラーおよび保証期間以外の機能はすべて同じとなります。 ※オンライン限定モデルのパッケージはクラフト箱となります。 エルゴノミックマウス M575SPは、Logitech International本社のスイスにある「LOGI エルゴ・ラボ」にて、人間工学の視点から仕"
+  "caption": "商品詳細 ブランドLogicool (ロジクール) 商品管理番号M575SPda 本体サイズ134 x 100 x 48 mm 145g 使用電池単三形乾電池 x 1本 対応OS[Bluetooth Low Energy]Windows 10 以降、macOS 11 以降、iPadOS 14 以降、ChromeOS、Linux[Logi Bolt USBレシーバー]Windows 10 以降、macOS 11 以降、ChromeOS、Linux 接続方式Bluetooth Low EnergyまたはLogi Bolt レシーバー 発売日2024年9月19日 Rakutenランキング受賞歴デイリーランキング1位パソコン・周辺機器 > マウス・キーボード・入力機器2025年6月3日(火)更新 (集計日：2025年6月2日) 人気のトラックボールマウスM575がアップデート、M575SPとして新登場！ M575SPは、前モデルと比較しクリック音のノイズを80％削減、接続方式もBluetooth＆UnifyingからBluetooth＆LogiBoltとなり、接続の信頼性と安定性がさらに向上しました。従来の魅力はそのままに、利便性がより進化したM575SPをぜひお楽しみください。 M575SPは以下のモデルをご用意しています。 ・M575SPda：オンライン限定モデル／ブラック／保証期間1年間 ・M575SPGR：通常モデル／グラファイト／保証期間2年間 ・M575SPOW：通常モデル／オフホワイト／保証期間2年間 ※カラーおよび保証期間以外の機能はすべて同じとなります。 ※オンライン限定モデルのパッケージはクラフト箱となります。 エルゴノミックマウス M575SPは、Logitech International本社のスイスにある「LOGI エルゴ・ラボ」にて、人間工学の視点から仕",
+  "posted_text": "#PR 週末の楽しみが1段上がる\nロジクール ワイヤレスマウス トラックボール｜人気のトラックボールマウスが静音モデルになって登場！\n★4.51・レビュー336件\n5,900円\n使ってる人いたら感想ください\n#楽天購入品\n▶ROOMはプロフから",
+  "posted_at": "2026-11-21T20:16:18"
  },
  "logicool:10000275": {
   "first_seen": "2026-10-22T07:01:43",
@@ -43566,6 +43582,13 @@
     "theme": "ブラックフライデー（開催中） × 20代男性（ガジェット・一人暮らし）",
     "persona": "20s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-11-21",
+    "slot": "night",
+    "theme": "ブラックフライデー（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "quads:10000016",
@@ -43575,14 +43598,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00ugo6o.72d3y0a5.g00ugo6o.72d3zaf2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fquads%2Fqs324%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/quads/cabinet/2025aw/top_jpg/qs424_top_tmb_2.jpg?_ex=600x600",
   "shop_name": "QUADS公式楽天市場店",
-  "review_count": 736,
+  "review_count": 743,
   "review_average": 4.57,
   "affiliate_rate": 2.0,
   "point_rate": 1,
   "catchcopy": "【1年保証】省エネ大風量スリムパネルセラミックヒーター WIDE ENA HEAT ワイドエナヒート 電気ヒーター ファンヒーター 超薄型12cm 省スペース 人感センサー タイマー 室温設定18～30℃",
   "genre_id": "212277",
-  "score": 14.46,
-  "last_seen": "2026-11-21T07:01:32",
+  "score": 13.27,
+  "last_seen": "2026-11-21T20:16:18",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/quads/cabinet/2025aw/top_jpg/qs424_top_tmb_2.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/quads/cabinet/2025aw/qs424/12047166/qs424_tmb_02.jpg?_ex=600x600",
@@ -44260,6 +44283,13 @@
     "theme": "ブラックフライデー（開催中） × 20代男性（ガジェット・一人暮らし）",
     "persona": "20s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-11-21",
+    "slot": "night",
+    "theme": "ブラックフライデー（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "ebaby-select:10001543",
@@ -44269,14 +44299,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00r0vdo.72d3ybd9.g00r0vdo.72d3ze8e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Febaby-select%2F5013000001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Febaby-select%2Fi%2F10001543%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/ebaby-select/cabinet/gete/gate01/5013111001_v6_rs01.jpg?_ex=600x600",
   "shop_name": "eBaby-Select by nihonikuji",
-  "review_count": 10640,
+  "review_count": 10641,
   "review_average": 4.55,
   "affiliate_rate": 4.0,
   "point_rate": 5,
   "catchcopy": "おくだけ簡単設置のベビーゲート 扉付きのおくだけとおせんぼ 自立 台所 階段下 玄関 賃貸におすすめ 間仕切り ベビーガードベージュ グレー クリア",
   "genre_id": "200841",
   "score": 14.04,
-  "last_seen": "2026-11-21T07:01:32",
+  "last_seen": "2026-11-21T20:16:18",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/ebaby-select/cabinet/gete/gate01/5013111001_v6_rs01.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/ebaby-select/cabinet/gete/gate01/5013000001_v2_s02.jpg?_ex=600x600",
@@ -47573,6 +47603,13 @@
     "theme": "ブラックフライデー（1日後） × 30代女性（暮らし・時短・コスパ）",
     "persona": "30s_woman",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-11-21",
+    "slot": "night",
+    "theme": "ブラックフライデー（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "low-ya:10008396",
@@ -47582,14 +47619,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00pxdho.72d3ya8a.g00pxdho.72d3zfb3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flow-ya%2Fvg-groony%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flow-ya%2Fi%2F10008396%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/low-ya/cabinet/item_cart/groony26/vg-groony_1.jpg?_ex=600x600",
   "shop_name": "LOWYA(ロウヤ)楽天市場店",
-  "review_count": 46925,
+  "review_count": 46930,
   "review_average": 4.5,
   "affiliate_rate": 3.0,
   "point_rate": 1,
   "catchcopy": "ルームウェア パジャマ 着る毛布 グルーニー ブランケット 正規品 レディース 男女兼用 あったかグッズ フリーサイズ 洗える 防寒 静電気防止 ポケット付 フリーサイズ se005",
   "genre_id": "567532",
   "score": 13.06,
-  "last_seen": "2026-11-19T12:01:47",
+  "last_seen": "2026-11-21T20:16:18",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/low-ya/cabinet/item_cart/groony26/vg-groony_1.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/low-ya/cabinet/item_cart/groony26/vg-groony_2.jpg?_ex=600x600",
@@ -48806,23 +48843,30 @@
     "theme": "ブラックフライデー（1日後） × 30代女性（暮らし・時短・コスパ）",
     "persona": "30s_woman",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-11-21",
+    "slot": "night",
+    "theme": "ブラックフライデー（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "shojiki-official:10000000",
-  "name": "高評価★4.55【最高クラスの吸引力】SHOJIKI®正規品【強力吸引x1.8kgの軽量性x自走式】 自立式 コンパクト収納 【急速充電2.5時間x着脱式】 コードレス掃除機 掃除機 軽量 【ダブルサイクロンx吸引持続力99%】 静音 高耐久【土日も最強配送xお試し返品可能】SH-J001",
+  "name": "＼10%OFFクーポン配布中／高評価★4.55【最高クラスの吸引力】SHOJIKI®正規品【強力吸引x1.8kgの軽量性x自走式】 自立式 コンパクト収納 【急速充電2.5時間x着脱式】 コードレス掃除機 掃除機 軽量 【ダブルサイクロンx吸引持続力99%】 静音 高耐久 SH-J001",
   "price": 19800,
   "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00ut1no.72d3yd37.g00ut1no.72d3z32c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshojiki-official%2Fsh-j001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshojiki-official%2Fi%2F10000000%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00ut1no.72d3yd37.g00ut1no.72d3z32c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshojiki-official%2Fsh-j001%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/shojiki-official/cabinet/sh-j001/vacuum_cleaner/main/thumnail_black2.jpg?_ex=600x600",
   "shop_name": "掃除機専門店【公式】SHOJIKI",
-  "review_count": 1992,
+  "review_count": 2003,
   "review_average": 4.56,
   "affiliate_rate": 2.0,
   "point_rate": 1,
   "catchcopy": "軽量で強力な吸引力を1/2の価格で ・GetNavi「プロの買って良かった」に掲載 ・コンパクト収納 ・自走式ですっと進む ・安心の日本ブランド ・専門機関による検査済み 【安心の2年保証】",
   "genre_id": "565105",
-  "score": 13.98,
-  "last_seen": "2026-11-19T12:01:47",
+  "score": 14.08,
+  "last_seen": "2026-11-21T20:16:18",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/shojiki-official/cabinet/sh-j001/vacuum_cleaner/main/thumnail_black2.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/shojiki-official/cabinet/sh-j001/vacuum_cleaner/flick/main2.jpg?_ex=600x600",
@@ -50092,5 +50136,203 @@
    "https://thumbnail.image.rakuten.co.jp/@0_mall/threenine/cabinet/spu03/30.jpg?_ex=600x600"
   ],
   "caption": "商品説明 ★【最新 NEW ARRIVAL】 シリーズ累計53万個以上を販売されたフープピアスシリーズから最新モデル。 とにかくミニマムに、着け心地にこだわりました。どんなファッションにも合わせやすい、小さなリングピアス ★【世界最小クラス】 今回、通常のファッションピアス同様 使える20Gが新登場！ サージカルステンレスなので、錆びにくく 付けっぱなしピアスとしてご利用いただけます！金属アレルギーが気になる人はシルバーカラーがおすすめです☆ 18k k18 14k に比べ 金属アレルギーや雑菌にも強い素材！ プラチナ 18金 のホワイトゴールド ( WG )などをご利用のお客様も一度お試しください♪ ニッケルフリー ピアス や チタン ピアス でアレルギーが出たお客さまからもご好評いただいております。ステンレスは純チタンなどと同じように比較的金属アレルギーが出にくい素材になります。キャッチレス 片耳ピアスなので、パッチテスト用のお試しピアスとしてもおすすめです。 ゲージ 約0.8～0.85mm前後（20G相当） サイズ ピアス軸の内径(ポスト)：約5.7～5.8mm リングの内径：約6mm ハンドメイドのため、個体差がございます カラー シルバー イエローゴールド (18Kカラー) ローズゴールド ブラック 素材 サージカルステンレス316L ※商品補足 ※オススメ部位 ⇒ サイズにご注意ください 軟骨・耳たぶ・イヤーロブ・へリックス・アンテナヘリックス・フォワードヘリックス etc ボディピアスは1個売りです！ 2個ご希望の場合は、2点ご注文ください 【関連スタイル】 ボディピ ボディピアス20g アレルギー対応 ヘリックス 20g チタンピアス ファッションピアス ノンアレルギー フォーマル セグメントリング ボディーピアス セカンドピアス 中折れピアス 中折れフープ"
+ },
+ "leapgrow:10000530": {
+  "first_seen": "2026-11-21T20:16:18",
+  "themes": [
+   {
+    "date": "2026-11-21",
+    "slot": "night",
+    "theme": "ブラックフライデー（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "leapgrow:10000530",
+  "name": "【公式｜土日限定 8％OFFクーポン＋ポイント10倍！】【小松菜奈さん出演】マッサージガン マイトレックス 売れ筋 relax 筋膜リリースガン マッサージ機 小型 MYTREX REBIVE MINI XS2 公式 肩 首 足 ふくらはぎ 足裏 肩甲骨 腰 フェイス 振動マシン",
+  "price": 14960,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00ssj2o.72d3ybee.g00ssj2o.72d3z1e6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fleapgrow%2Fmt-rmxs21b%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fleapgrow%2Fi%2F10000530%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00ssj2o.72d3ybee.g00ssj2o.72d3z1e6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fleapgrow%2Fmt-rmxs21b%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/leapgrow/cabinet/mytrex/amb/p00/p00_amb_xs2_01b.jpg?_ex=600x600",
+  "shop_name": "MYTREX 公式ストア 楽天市場店",
+  "review_count": 4088,
+  "review_average": 4.7,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "【最大3年保証】業界初(*)の手圧変動テクノロジー搭載ハンディガン マイトレックス 体のどこでも使える 健康 筋肉 家電 グッズ 静音設計 マッサージャー クリスマス プレゼント*自社調",
+  "genre_id": "212524",
+  "score": 14.27,
+  "last_seen": "2026-11-21T20:16:18",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/leapgrow/cabinet/mytrex/amb/p00/p00_amb_xs2_01b.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/leapgrow/cabinet/mytrex/bnr/bnr/thm_8ps_1119.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/leapgrow/cabinet/mytrex/rx2/thum/thum_rx2_02.jpg?_ex=600x600"
+  ],
+  "caption": "1分に1台売れた*ハンディガンのパイオニア 「REBIVEシリーズ」から第2世代DEBUT！ [ POINT.1] 「深さ」と「速さ」をMIXして あなただけのピッタリ刺激を。 [ POINT.2] 気になるお顔や頭皮のこわばりの BEAUTYケアにも。 [ POINT.3] 女性やシニアの方でも使いやすい重さと 強く押しても止まらない耐圧力を実現。 [ POINT.4] 小型で持ち運び楽々。さらに静音設計で 周りを気にせずご使用いただけます。 [ POINT.5] いろんな刺激を、お好みで。 頭から足まで、よりFITする心地よさを。 ●ブランド名 MYTREX（マイトレックス） ●商品名 REBIVE MINI XS 2 （リバイブ ミニ エックスエス 2） ●品番 MT-RX2-24B / MT-RX2-24W ●定格電源 DC 5V 2A（USB） ●バッテリー 1200mAh/7.4V ●消費電力 約19W ●電源供給元 ACアダプター／PC等のUSBポート（5V/1Aまたは2A） ●サイズ 約119mm×74mm×40mm（アタッチメントを除く） ●質量 約285g（本体のみ、アタッチメントを除く） ●素 材 ［本体］PC+ABS、アルミニウム合金［アタッチメント］シリコン、アルミ ●電池持続時間 最長：約5時間（レベル1動作時）最短：約2時間（レベル5動作時） ●使用環境 温度 5℃〜35℃、相対湿度 ≦90%RH ●パッケージ内容 本体×1・充電用USBコード×1・アタッチメント×5・アタッチメント用ストッパーゴム（予備）×2・取扱説明書×1・携帯用布袋×1 延長保証について ※本体のみ、延長保証の対象となります（アタッチメント・ノベルティなどは対象となりません） ※本品価格から、クーポン割引額を引いた金額が保証上限金額となります。 REBIVE MINI X"
+ },
+ "canon-its:10000143": {
+  "first_seen": "2026-11-21T20:16:18",
+  "themes": [
+   {
+    "date": "2026-11-21",
+    "slot": "night",
+    "theme": "ブラックフライデー（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "canon-its:10000143",
+  "name": "【期間限ポイント30倍】ESET HOME セキュリティ プレミアム 5台3年 ダウンロード( パソコン / スマホ / タブレット対応 | セキュリティ対策 / ウイルス対策 | セキュリティソフト | VPN 搭載 | 最新版 )",
+  "price": 14520,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00t29oo.72d3y1cd.g00t29oo.72d3z4b5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcanon-its%2Fehsp5_3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcanon-its%2Fi%2F10000143%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00t29oo.72d3y1cd.g00t29oo.72d3z4b5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcanon-its%2Fehsp5_3%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/canon-its/cabinet/campaign/pre53_sam30.jpg?_ex=600x600",
+  "shop_name": "キヤノンITS　楽天市場店",
+  "review_count": 99,
+  "review_average": 4.45,
+  "affiliate_rate": 2.0,
+  "point_rate": 20,
+  "catchcopy": "[ セキュリティソフト / ウイルス対策ソフト ] ESET ( イーセット ) 公式ストア | ダウンロード版だからすぐ届く＆送料無料 | 5台版 | Windows 11 / 10 | macOS | Android対応",
+  "genre_id": "408565",
+  "score": 13.85,
+  "last_seen": "2026-11-21T20:16:18",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/canon-its/cabinet/campaign/pre53_sam30.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/canon-its/cabinet/product/new/sub_thumbnail/technology_950.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/canon-its/cabinet/product/new/sub_thumbnail/ai_kaiwa_security.jpg?_ex=600x600"
+  ],
+  "caption": "■製品概要 ESET ( イーセット ) 製品は、 パソコン / スマホ / タブレット でご利用いただける 「 セキュリティソフト / ウイルス対策ソフト 」です。 特に「ウイルス検出率」と「動作の軽さ」で高い評価を得ており、数多くの賞を獲得しています。 　・「 ウイルス検出率テスト VB100 アワード 」 受賞回数100回以上 (Virus bulletin調査結果) 　・「 友人や同僚に薦めたい セキュリティソフト 」No.1 (NTTコムオンライン調査結果) インストール後は、難しい設定も必要なく、自動で ウイルス を検出します。 そのため、 パソコン / スマホ / タブレット の初心者でも、安心してご利用いただけます。 ■ESET HOME セキュリティ プレミアムはこんなお客様にオススメ 　・ネット詐欺から大切な金銭や個人情報を守りたい 　・フィッシングメールなどの詐欺メールが見分けられない 　・空港やカフェなど外出先でインターネットに接続したい 　・ 未知の脅威にも対応する高度なセキュリティでとにかく安心したい 　・ 大切なデータを暗号化して守りたい 　・ 端末の動作を重くせずにセキュリティ対策をしたい 　・ セキュリティソフトの費用を抑えたい 　・ 購入後のサポートも重視したい ■利用シーン 　・テレワーク（在宅勤務）を始めたい 　・ゲームPCを“快適＆安全”に使いたい 　・家族みんなで“お得”に使いたい 　・フィッシング詐欺から資産を守りたい ■注意事項 　・本製品は、初めてESET製品をご利用いただくお客様向けです。(本製品にて有効期限の延長手続きは行えません。) 　・既に他社セキュリティソフト ( ウイルスバスター クラウド / ノートン セキュリティ / カスペルスキー / マカフィー など ) がインストールされている場合、アンインストール後に"
+ },
+ "pocketalk:10000868": {
+  "first_seen": "2026-11-21T20:16:18",
+  "themes": [
+   {
+    "date": "2026-11-21",
+    "slot": "night",
+    "theme": "ブラックフライデー（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "pocketalk:10000868",
+  "name": "【ブラックフライデー限定】【正規品】1Password 3年版 1人用 【ダウンロード版】DL_SNR[Windows・Mac・Andoroid・iOS用][パスワード管理サービス] ソースネクスト パスワード管理 パスワードツール 2026011bf",
+  "price": 9980,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00t6k3o.72d3yb4b.g00t6k3o.72d3z738/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpocketalk%2F0000338840%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpocketalk%2Fi%2F10000868%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00t6k3o.72d3yb4b.g00t6k3o.72d3z738/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpocketalk%2F0000338840%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/pocketalk/cabinet/shuppin7/4550483695607_main.jpg?_ex=600x600",
+  "shop_name": "ソースネクスト 公式ショップ",
+  "review_count": 167,
+  "review_average": 4.38,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "世界で1500万人以上が愛用する、定番のパスワード管理サービスです。 すべてのパスワードと重要なデータは、1つのマスターパスワードで保護されます。",
+  "genre_id": "100113",
+  "score": 13.63,
+  "last_seen": "2026-11-21T20:16:18",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/pocketalk/cabinet/shuppin7/4550483695607_main.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/pocketalk/cabinet/img-up_1_839/1354_k1_270904_140.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/pocketalk/cabinet/shuppin2/officialshop.jpg?_ex=600x600"
+  ],
+  "caption": "こちらの商品は、シリアル番号とダウンロード手順を、メールでご案内いたします。（商品発送なし） 【ご注意】 本製品は「AgileBits, Inc.」社のサポート製品となり、ソースネクストのサポート対象外です。 本製品は、AgileBits, Inc.のサブスクリプション製品の機能をそのままに、3年版として改題したものです。 ・1Password→1Password3年版ダウンロード版。 ・1Password Family→1Passwordファミリー 3年版ダウンロード版。 本製品はInternet Explorerでは使用できません。以下のいずれかのブラウザが必要です。 ・Google Chrome ・Edge ・Firefox ・Opera 本製品をライセンス登録した1Passwordのアカウントを削除した場合、ライセンスが失効するため再購入が必要となります。"
+ },
+ "logicool:10000345": {
+  "first_seen": "2026-11-21T20:16:18",
+  "themes": [
+   {
+    "date": "2026-11-21",
+    "slot": "night",
+    "theme": "ブラックフライデー（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "logicool:10000345",
+  "name": "ロジクール ワイヤレスキーボード K295GP K295OW 静音 耐水 キーボード 無線 Unifying windows chrome K295 国内正規品 2年間無償保証",
+  "price": 3201,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdo.72d3ydaf.g00tpxdo.72d3zb54/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fk295gp%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000345%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdo.72d3ydaf.g00tpxdo.72d3zb54/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fk295gp%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/kb/k295gp/k295gp_01_r-1.jpg?_ex=600x600",
+  "shop_name": "ロジクール 公式ストア",
+  "review_count": 1075,
+  "review_average": 4.5,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "従来モデルの90%の操作音を削減 静音キーボード",
+  "genre_id": "560088",
+  "score": 13.2,
+  "last_seen": "2026-11-21T20:16:18",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/kb/k295gp/k295gp_01_r-1.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/kb/k295gp/k295gp_02.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/kb/k295gp/k295gp_03.jpg?_ex=600x600"
+  ],
+  "caption": "商品詳細ブランドLogicool (ロジクール)商品管理番号K295GP本体サイズ441 x 149 x 18mm 498gキーレイアウト108キー日本語レイアウト使用電池単四形乾電池 x 2本対応OSWindows 10、Windows11 以降、Chrome OS無線方式アドバンス2.4GHz（Unifying対応）接続I/FUSBカラーブラック・オフホワイト従来モデルより90%の操作音を削減した静音キーボードが登場。ロジクール独自の新技術SilentTouchテクノロジーを採用したこの静音キーボードはタイピング感覚はそのままに、静かな場所でも人を気にせず作業することができます。 キーボードは8つのショートカットキーとテンキーを搭載したフルサイズの日本語配列キーボード。水をこぼしても安心な耐水設計で、キースイッチは耐久性に優れています。 裏面には8度の傾斜をつけられるスタンド付き。タイピングがしやすくなっています。 接続はUnifyingUSBレシーバーに対応。アドバンス2.4GHzワイヤレス接続で最大10mの接続範囲に対応し、混雑したワイヤレス環境でも途切れにくくなっています。 最長24ケ月の長電池寿命も魅力のキーボードです。※本製品は日本国内で購入された国内正規品に限り、保証期間内において保証の対象となります。※Logitech製品は日本国内での保証の対象外となります。※本製品にはUnifyingレシーバーが同梱されています。レシーバーの紛失を防ぐため、ご使用前にパッケージ内をご確認ください。使いやすい静音タイプのフルサイズキーボード 効率的なデータ入力と簡単なナビゲーションを可能にする、8個の便利なショートカットとテンキーを搭載した静音タイプのフルサイズキーボード。 耐水設計にもなっており、机の上で水をこぼしても大丈夫 従来モデルより90%の操作音を削減 ロジクー"
+ },
+ "anker:10002413": {
+  "first_seen": "2026-11-21T20:16:18",
+  "themes": [
+   {
+    "date": "2026-11-21",
+    "slot": "night",
+    "theme": "ブラックフライデー（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "anker:10002413",
+  "name": "【期間限定セール実施中 11/25まで】Anker Nano Charging Station (7-in-1, 100W, 巻取り式 USB-C ケーブル) (USBタップ 電源タップ) 【PSE技術基準適合】MacBook iPad iPhone Galaxy Android",
+  "price": 7490,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rr09o.72d3y980.g00rr09o.72d3z79c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa91c8%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10002413%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00rr09o.72d3y980.g00rr09o.72d3z79c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa91c8%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/deal/2611m2/a91c8_11m2.jpg?_ex=600x600",
+  "shop_name": "アンカー・ダイレクト楽天市場店",
+  "review_count": 77,
+  "review_average": 4.48,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "最大30ヶ月保証",
+  "genre_id": "552481",
+  "score": 12.83,
+  "last_seen": "2026-11-21T20:16:18",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/deal/2611m2/a91c8_11m2.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/listing/product/a91c8/a91c8_sub_1.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/listing/product/a91c8/a91c8_sub_2.jpg?_ex=600x600"
+  ],
+  "caption": "7台の機器を同時充電可能 AC差込口3つ、巻取り式USB-Cケーブル2本、USB-Cポート1つ、USB-Aポート1つを搭載。これ1つで最大7台の機器に同時に充電可能です。 ケーブル一体型でデスクがスッキリ 側面に約70cmの巻取り式USB-Cケーブルを2本搭載。ケーブルが絡まず、簡単に収納できます。ケーブルはいずれも約18,000回以上の巻取りと折り曲げに耐えられる高耐久設計です。(Anker調べ) 充電状況をリアルタイムで確認可能 ディスプレイでは各ポートごとの出力状況や、本体の温度状況をリアルタイムに確認できます。 最大100Wの急速充電 巻取り式USB-CケーブルとUSB-Cポートは最大100W出力に対応。MacBook ProなどのノートPCやスマートフォンへ急速充電が可能です。(100W出力は単ポート利用時) ご注意 ・ケーブルは別売りです。Lightning対応機器への充電にはUSB-C & ライトニングケーブルを、USB-C対応機器への充電にはUSB-C & USB-Cケーブルをご利用ください。 ・ほこりなどの異物が付着している電源プラグ、または変形した電源プラグをコンセントに挿すと、火災などの事故につながる可能性がございますのでご注意ください。製品の仕様は予告なく変更されることがありますので、予めご了承ください。 ・電源タップにはAnker独自の保護構造を採用しています。 ・アルコール濃度の高い液体が長時間付着すると、製品表面の凹凸が薄くなる可能性がございます。お手入れの際は除菌用ウェットティッシュ等のご利用はお控えいただき、乾いた布をご使用ください。 ・製品の仕様は予告なく変更されることがありますので、予めご了承ください。 ・製品パッケージは予告なく変更になる場合がございます。ご購入時期によっては異なる製品パッケージでお届けする可能性がございますので、予め"
+ },
+ "a-price:10828534": {
+  "first_seen": "2026-11-21T20:16:18",
+  "themes": [
+   {
+    "date": "2026-11-21",
+    "slot": "night",
+    "theme": "ブラックフライデー（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "a-price:10828534",
+  "name": "＼ランキング1位／ 炊飯器 5合 5合炊き ZOJIRUSHI 象印 NW-VJ10-BA 5.5合 5.5合炊き 極め炊き IH炊飯器 日本製 NW-VK10 の旧モデル 人気 シンプル 純正品 メーカー保証対応 初期不良対応 新生活 メーカー様お取引あり エクプラ特選",
+  "price": 17160,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qn68o.72d3yc20.g00qn68o.72d3zaac/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fa-price%2F4974305218773%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fa-price%2Fi%2F10828534%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00qn68o.72d3yc20.g00qn68o.72d3zaac/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fa-price%2F4974305218773%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/a-price/cabinet/mailmaga/08814302/12654252/4974305218773.jpg?_ex=600x600",
+  "shop_name": "XPRICE楽天市場店",
+  "review_count": 1354,
+  "review_average": 4.54,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "強火で炊き続け、うまみを引き出す「豪熱沸とうIH」2LN0022",
+  "genre_id": "204586",
+  "score": 12.67,
+  "last_seen": "2026-11-21T20:16:18",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/a-price/cabinet/mailmaga/08814302/12654252/4974305218773.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/a-price/cabinet/mailmaga/08814302/12654252/4974305218773.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/a-price/cabinet/orj/47/2-4974305227232.jpg?_ex=600x600"
+  ],
+  "caption": "商品説明★ 強火で炊き続け、うまみを引き出す「豪熱沸とうIH」ふきこぼれを気にせず、沸とう後も火を引かずにIHの高火力で炊き続けます。うまみを引き出し、芯までふっくらしたごはんが炊き上がります。★ 炊き方が選べる「白米炊き分け3コース」ご家庭のお好みにあわせ、ふつう・やわらかめ・かためと炊き方が選べます。★ 選べる保温選択。30時間おいしく保温できる「うるつや保温」底センサーが保温に最適な火加減で温度コントロールします。水分の蒸発を抑え、30時間までおいしく保温します。（メニューによって異なります。取扱説明書をご確認ください）また、長時間保温しない方におすすめの「高め保温」メニューがあります。★ お米のおいしさを引き出す「熟成炊き（白米）」お米は炊飯前にしっかり吸水させることでおいしくなります。熟成炊きは時間をかけ水に浸し、芯までじっくり吸水させます。芯まで行き渡った水は、お米の芯からアルファ化を促進し、ふっくらおいしくなります。熟成炊きの白米はお米の甘み成分の一つである溶出還元糖量が約2.3倍※1になります。（※1熟成炊き（白米）メニュー炊飯時の溶出還元糖量0.194mg/gと、白米ふつうメニュー炊飯時の溶出還元糖量0.084mg/g比較 象印自社基準による東京農業大学調べ）★ 釜全体に熱が伝わる「黒まる厚釜」まる底なのでお米が対流しやすくなっています。★ サッときれいに「洗える内ぶた」「フラット庫内（サイドセンサー部は除く）」「洗える内ぶた」…内ぶたがはずして洗えるのでいつも清潔。「フラット庫内」…庫内がフラットになっているので、ごはん粒や汚れがサッとひと拭き。（サイドセンサー部は除く）★ 「Ag+抗菌加工※2立つしゃもじ＆プッシュボタン」抗菌効果のある銀イオン（Ag+）を配合した立つしゃもじがついています。また、衛生に配慮し、外ふたを開けるときに押すプッシュボタンも抗"
  }
 }

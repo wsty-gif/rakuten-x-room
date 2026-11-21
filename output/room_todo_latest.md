@@ -67,3 +67,40 @@
 - **クリスマスで買うもの**: ラグ 洗える ラグマット 絨毯 北欧 くすみ / プレミアム CZダイア 1.5カラット / ネックレス チェーン 金属アレルギー / ピアス キャッチ 落ちない 金属アレルギー
 - **子育て世帯のママ・パパのリピート候補**: ラグ 洗える ラグマット 絨毯 北欧 くすみ / プレミアム CZダイア 1.5カラット / ネックレス チェーン 金属アレルギー / ピアス キャッチ 落ちない 金属アレルギー
 
+## 20:16 ブラックフライデー（開催中） × 40代男性（家族・晩酌・車）
+
+1. **【SALE】 ロジクール ワイヤレスマウス トラックボール ERGO M575SP 無線 静音 Bluetooth & **
+   - 価格: 5,900円 / ★4.51（336件） / 料率 2.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00tpxdo.72d3ydaf.g00tpxdo.72d3zb54/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fm575spd%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000682%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: ブラックフライデー中に狙いたい1つ。週末のお楽しみ用に。人気のトラックボールマウスが静音モデルになって登場！。レビュー336件で★4.51。5,900円。配送日も一緒に確認を。
+
+2. **ロジクール ワイヤレスキーボード K295GP K295OW 静音 耐水 キーボード 無線 Unifying windo**
+   - 価格: 3,201円 / ★4.5（1,075件） / 料率 2.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00tpxdo.72d3ydaf.g00tpxdo.72d3zb54/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fk295gp%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000345%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: ブラックフライデー中に狙いたい1つ。家族みんなで使える定番。水をこぼしても安心な耐水設計で、キースイッチは耐久性に優れています。裏面には8度の傾斜をつけられるスタンド付き。レビュー1,075件で★4.5。3,201円。配送日も一緒に確認を。
+
+3. **＼10%OFFクーポン配布中／高評価★4.55【最高クラスの吸引力】SHOJIKI®正規品【強力吸引x1.8kgの軽量性**
+   - 価格: 19,800円 / ★4.56（2,003件） / 料率 2.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00ut1no.72d3yd37.g00ut1no.72d3z32c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshojiki-official%2Fsh-j001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshojiki-official%2Fi%2F10000000%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: ブラックフライデー中に狙いたい1つ。家族みんなで使える定番。約1.8kgの軽量設計だから、階段・2階・毎日の掃除もラクにこなせます。使いたい時にサッと使えて、掃除の途中でもそのまま置けます。レビュー2,003件で★4.56。10%OFF。在庫が動きやすいので早めに。
+
+4. **【BLACK FRIDAY限定★最大10％OFF】iphone18pro ケース ショルダー iphone17 iPho**
+   - 価格: 1,980円 / ★4.36（12,779件） / 料率 2.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00tzhvo.72d3ybbc.g00tzhvo.72d3z263/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjustral%2Fs010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjustral%2Fi%2F10000217%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: ブラックフライデー中に狙いたい1つ。まとめ買い向き。レビュー12,779件で★4.36。10%OFF。在庫が動きやすいので早めに。
+
+5. **【期間限ポイント30倍】ESET HOME セキュリティ プレミアム 5台3年 ダウンロード( パソコン / スマホ /**
+   - 価格: 14,520円 / ★4.45（99件） / 料率 2.0% / P20倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00t29oo.72d3y1cd.g00t29oo.72d3z4b5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcanon-its%2Fehsp5_3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcanon-its%2Fi%2F10000143%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: ブラックフライデー中に狙いたい1つ。家族みんなで使える定番。(本製品にて有効期限の延長手続きは行えません。レビュー99件で★4.45。ポイント20倍で実質11,616円、送料無料。配送日も一緒に確認を。
+
+6. **[ブラックフライデー! 11/19 20:00-11/25 1:59] ＼累計60万枚突破！／ 楽天1位 ルームウェア **
+   - 価格: 3,490円 / ★4.5（46,930件） / 料率 3.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00pxdho.72d3ya8a.g00pxdho.72d3zfb3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flow-ya%2Fvg-groony%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flow-ya%2Fi%2F10008396%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: ブラックフライデー中に狙いたい1つ。まとめ買い向き。ほかのグルーニーを見る≫合わせて揃えたい。楽天ランキング1位、レビュー46,930件で★4.5。3,490円。在庫が動きやすいので早めに。
+
+### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
+
+- **ブラックフライデーで買うもの**: ロジクール ワイヤレスマウス トラックボール / ロジクール ワイヤレスキーボード / 高評価 4.55 SHOJIKI®正規品 / iphone18pro ケース ショルダー / ESET HOME セキュリティ プレミアム / 累計60万枚突破！ 楽天1位 ルームウェア
+- **40代男性のリピート候補**: ロジクール ワイヤレスマウス トラックボール / ロジクール ワイヤレスキーボード / 高評価 4.55 SHOJIKI®正規品 / iphone18pro ケース ショルダー / ESET HOME セキュリティ プレミアム / 累計60万枚突破！ 楽天1位 ルームウェア
+

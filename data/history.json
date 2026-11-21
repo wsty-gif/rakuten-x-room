@@ -25852,7 +25852,7 @@
   "review_count": 2134,
   "review_average": 4.63,
   "genre_id": "563229",
-  "instagram_story_error": "Instagram 公開失敗 400: {\"error\":{\"message\":\"The requested resource does not exist\",\"type\":\"OAuthException\",\"code\":24,\"error_subcode\":2207006,\"is_transient\":false,\"error_user_title\":\"Media Not Found\",\"err"
+  "instagram_story_id": "17903788614607820"
  },
  {
   "date": "2026-11-21T07:01:32",
@@ -26083,5 +26083,153 @@
   "text": "【ブラックフライデー 開催中】\n楽天で買うとき、いちばん気にするのは？",
   "tweet_id": "",
   "threads_id": "18122523358968979"
+ },
+ {
+  "date": "2026-11-21T20:16:18",
+  "slot": "night",
+  "theme": "ブラックフライデー（開催中） × 40代男性（家族・晩酌・車）",
+  "persona": "40s_man",
+  "item_code": "logicool:10000682",
+  "item_name": "【SALE】 ロジクール ワイヤレスマウス トラックボール ERGO M575SP 無線 静音 Bluetooth & Logi Bolt トラックボールマウス",
+  "price": 5900,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdo.72d3ydaf.g00tpxdo.72d3zb54/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fm575spd%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000682%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 2.0,
+  "text": "#PR 週末の楽しみが1段上がる\nロジクール ワイヤレスマウス トラックボール｜人気のトラックボールマウスが静音モデルになって登場！\n★4.51・レビュー336件\n5,900円\n使ってる人いたら感想ください\n#楽天購入品\n▶ROOMはプロフから",
+  "tweet_id": "",
+  "threads_id": "18124489889287979",
+  "room_done": false,
+  "image": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/mice/m575spd/m575spd_s_r.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/mice/m575spd/m575spd_s_r.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/mice/m575spd/m575spd_2_.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/mice/m575spd/m575spd_3.jpg?_ex=600x600"
+  ],
+  "shop_name": "ロジクール 公式ストア",
+  "review_count": 336,
+  "review_average": 4.51,
+  "genre_id": "565170",
+  "instagram_id": "18040339742850492",
+  "instagram_story_id": "18129387364926515"
+ },
+ {
+  "date": "2026-11-21T20:16:18",
+  "kind": "room",
+  "slot": "night",
+  "theme": "ブラックフライデー（開催中） × 40代男性（家族・晩酌・車）",
+  "persona": "40s_man",
+  "item_code": "logicool:10000345",
+  "item_name": "ロジクール ワイヤレスキーボード K295GP K295OW 静音 耐水 キーボード 無線 Unifying windows chrome K295 国内正規品",
+  "price": 3201,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdo.72d3ydaf.g00tpxdo.72d3zb54/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fk295gp%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000345%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 2.0,
+  "text": "ブラックフライデー中に狙いたい1つ。家族みんなで使える定番。水をこぼしても安心な耐水設計で、キースイッチは耐久性に優れています。裏面には8度の傾斜をつけられるスタンド付き。レビュー1,075件で★4.5。3,201円。配送日も一緒に確認を。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/kb/k295gp/k295gp_01_r-1.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/kb/k295gp/k295gp_01_r-1.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/kb/k295gp/k295gp_02.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/kb/k295gp/k295gp_03.jpg?_ex=600x600"
+  ],
+  "shop_name": "ロジクール 公式ストア",
+  "review_count": 1075,
+  "review_average": 4.5,
+  "genre_id": "560088"
+ },
+ {
+  "date": "2026-11-21T20:16:18",
+  "kind": "room",
+  "slot": "night",
+  "theme": "ブラックフライデー（開催中） × 40代男性（家族・晩酌・車）",
+  "persona": "40s_man",
+  "item_code": "shojiki-official:10000000",
+  "item_name": "＼10%OFFクーポン配布中／高評価★4.55【最高クラスの吸引力】SHOJIKI®正規品【強力吸引x1.8kgの軽量性x自走式】 自立式 コンパクト収納 【急",
+  "price": 19800,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00ut1no.72d3yd37.g00ut1no.72d3z32c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshojiki-official%2Fsh-j001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshojiki-official%2Fi%2F10000000%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 2.0,
+  "text": "ブラックフライデー中に狙いたい1つ。家族みんなで使える定番。約1.8kgの軽量設計だから、階段・2階・毎日の掃除もラクにこなせます。使いたい時にサッと使えて、掃除の途中でもそのまま置けます。レビュー2,003件で★4.56。10%OFF。在庫が動きやすいので早めに。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/shojiki-official/cabinet/sh-j001/vacuum_cleaner/main/thumnail_black2.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/shojiki-official/cabinet/sh-j001/vacuum_cleaner/main/thumnail_black2.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/shojiki-official/cabinet/sh-j001/vacuum_cleaner/flick/main2.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/shojiki-official/cabinet/sh-j001/vacuum_cleaner/flick/ranking2.jpg?_ex=600x600"
+  ],
+  "shop_name": "掃除機専門店【公式】SHOJIKI",
+  "review_count": 2003,
+  "review_average": 4.56,
+  "genre_id": "565105"
+ },
+ {
+  "date": "2026-11-21T20:16:18",
+  "kind": "room",
+  "slot": "night",
+  "theme": "ブラックフライデー（開催中） × 40代男性（家族・晩酌・車）",
+  "persona": "40s_man",
+  "item_code": "justral:10000217",
+  "item_name": "【BLACK FRIDAY限定★最大10％OFF】iphone18pro ケース ショルダー iphone17 iPhone 17e 17pro iPhone1",
+  "price": 1980,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tzhvo.72d3ybbc.g00tzhvo.72d3z263/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjustral%2Fs010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjustral%2Fi%2F10000217%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 2.0,
+  "text": "ブラックフライデー中に狙いたい1つ。まとめ買い向き。レビュー12,779件で★4.36。10%OFF。在庫が動きやすいので早めに。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/justral/cabinet/phone/09888253/s031_00_01.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/justral/cabinet/phone/09888253/s031_00_01.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/justral/cabinet/phone/09888253/10295354/s031_01_01.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/justral/cabinet/phone/09888253/s025s031.jpg?_ex=600x600"
+  ],
+  "shop_name": "JUSTRAL",
+  "review_count": 12779,
+  "review_average": 4.36,
+  "genre_id": "560271"
+ },
+ {
+  "date": "2026-11-21T20:16:18",
+  "kind": "room",
+  "slot": "night",
+  "theme": "ブラックフライデー（開催中） × 40代男性（家族・晩酌・車）",
+  "persona": "40s_man",
+  "item_code": "canon-its:10000143",
+  "item_name": "【期間限ポイント30倍】ESET HOME セキュリティ プレミアム 5台3年 ダウンロード( パソコン / スマホ / タブレット対応 | セキュリティ対策 ",
+  "price": 14520,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00t29oo.72d3y1cd.g00t29oo.72d3z4b5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcanon-its%2Fehsp5_3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcanon-its%2Fi%2F10000143%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 2.0,
+  "text": "ブラックフライデー中に狙いたい1つ。家族みんなで使える定番。(本製品にて有効期限の延長手続きは行えません。レビュー99件で★4.45。ポイント20倍で実質11,616円、送料無料。配送日も一緒に確認を。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/canon-its/cabinet/campaign/pre53_sam30.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/canon-its/cabinet/campaign/pre53_sam30.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/canon-its/cabinet/product/new/sub_thumbnail/technology_950.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/canon-its/cabinet/product/new/sub_thumbnail/ai_kaiwa_security.jpg?_ex=600x600"
+  ],
+  "shop_name": "キヤノンITS　楽天市場店",
+  "review_count": 99,
+  "review_average": 4.45,
+  "genre_id": "408565"
+ },
+ {
+  "date": "2026-11-21T20:16:18",
+  "kind": "room",
+  "slot": "night",
+  "theme": "ブラックフライデー（開催中） × 40代男性（家族・晩酌・車）",
+  "persona": "40s_man",
+  "item_code": "low-ya:10008396",
+  "item_name": "[ブラックフライデー! 11/19 20:00-11/25 1:59] ＼累計60万枚突破！／ 楽天1位 ルームウェア パジャマ 着る毛布 部屋着 あったか 冬",
+  "price": 3490,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pxdho.72d3ya8a.g00pxdho.72d3zfb3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flow-ya%2Fvg-groony%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flow-ya%2Fi%2F10008396%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 3.0,
+  "text": "ブラックフライデー中に狙いたい1つ。まとめ買い向き。ほかのグルーニーを見る≫合わせて揃えたい。楽天ランキング1位、レビュー46,930件で★4.5。3,490円。在庫が動きやすいので早めに。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/low-ya/cabinet/item_cart/groony26/vg-groony_1.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/low-ya/cabinet/item_cart/groony26/vg-groony_1.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/low-ya/cabinet/item_cart/groony26/vg-groony_2.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/low-ya/cabinet/item_cart/groony26/vg-groony_3.jpg?_ex=600x600"
+  ],
+  "shop_name": "LOWYA(ロウヤ)楽天市場店",
+  "review_count": 46930,
+  "review_average": 4.5,
+  "genre_id": "567532"
  }
 ]
