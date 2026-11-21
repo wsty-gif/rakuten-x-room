@@ -26072,5 +26072,16 @@
   "review_count": 804,
   "review_average": 4.53,
   "genre_id": "567210"
+ },
+ {
+  "date": "2026-11-21T18:31:07",
+  "slot": "evening",
+  "kind": "engage",
+  "engage_key": "poll1",
+  "theme": "反応投稿（poll）",
+  "persona": "all",
+  "text": "【ブラックフライデー 開催中】\n楽天で買うとき、いちばん気にするのは？",
+  "tweet_id": "",
+  "threads_id": "18122523358968979"
  }
 ]
