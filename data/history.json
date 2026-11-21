@@ -25851,7 +25851,8 @@
   "shop_name": "XPRICE楽天市場店",
   "review_count": 2134,
   "review_average": 4.63,
-  "genre_id": "563229"
+  "genre_id": "563229",
+  "instagram_story_error": "Instagram 公開失敗 400: {\"error\":{\"message\":\"The requested resource does not exist\",\"type\":\"OAuthException\",\"code\":24,\"error_subcode\":2207006,\"is_transient\":false,\"error_user_title\":\"Media Not Found\",\"err"
  },
  {
   "date": "2026-11-21T07:01:32",
@@ -25971,5 +25972,105 @@
   "review_count": 33,
   "review_average": 4.67,
   "genre_id": "206878"
+ },
+ {
+  "date": "2026-11-21T12:01:43",
+  "slot": "noon",
+  "theme": "クリスマス（33日後） × 子育て世帯のママ・パパ",
+  "persona": "mama",
+  "item_code": "exception5251:10000635",
+  "item_name": "【即納】ラグ 洗える ラグマット 絨毯 北欧 くすみ カーペット 95×140 130×190 190×190 190×240 190×300 1畳 1.5畳 ",
+  "price": 8980,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00uaejo.72d3y267.g00uaejo.72d3z378/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fexception5251%2Fex-f01016%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fexception5251%2Fi%2F10000635%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 3.0,
+  "text": "#PR 外さないプレゼントはこれ\nラグ 洗える ラグマット 絨毯 北欧 くすみ\n★4.26・レビュー848件\n8,980円\n#楽天購入品\n▶ROOMはプロフから",
+  "tweet_id": "",
+  "threads_id": "18122366192005449",
+  "room_done": false,
+  "image": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/exception5251/cabinet/11219683/11219687/main_image/ex-f01016.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/exception5251/cabinet/11219683/11219687/main_image/ex-f01016.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/exception5251/cabinet/11219683/11245931/imgrc0101615500.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/exception5251/cabinet/11219683/11245931/imgrc0101615501.jpg?_ex=600x600"
+  ],
+  "shop_name": "EXCEPTION本店",
+  "review_count": 848,
+  "review_average": 4.26,
+  "genre_id": "551228",
+  "instagram_id": "18131023687631309",
+  "instagram_story_id": "18131043950490353"
+ },
+ {
+  "date": "2026-11-21T12:01:43",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "クリスマス（33日後） × 子育て世帯のママ・パパ",
+  "persona": "mama",
+  "item_code": "swarotonya:10002562",
+  "item_name": "【72％OFF！！】プレミアム CZダイア(キュービックジルコニア) 1.5カラット 縦ライン　ステンレスチェーン/ 大人可愛い 上品 デイリー 金属アレルギー",
+  "price": 1000,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qzvao.72d3y0bd.g00qzvao.72d3z282/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fswarotonya%2Fne-168%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fswarotonya%2Fi%2F10002562%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "クリスマスのプレゼント候補。子どもがいる家で助かった系。プレミアムで上質なストーン仕様の縦ラインネックレス。レビュー145件で★4.37。72%OFF、ポイント20倍で実質800円。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/swarotonya/cabinet/03090247/12045051/cz/1.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/swarotonya/cabinet/03090247/12045051/cz/1.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/swarotonya/cabinet/03090247/12045051/cz/2.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/swarotonya/cabinet/03090247/12045051/cz/4.jpg?_ex=600x600"
+  ],
+  "shop_name": "SWAROTONYA",
+  "review_count": 145,
+  "review_average": 4.37,
+  "genre_id": "111029"
+ },
+ {
+  "date": "2026-11-21T12:01:43",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "クリスマス（33日後） × 子育て世帯のママ・パパ",
+  "persona": "mama",
+  "item_code": "sheil-store:10020451",
+  "item_name": "【11/21限定！1日だけ半額SALE！】 ネックレス チェーン 金属アレルギー レディース チェーンネックレス ロープ ねじれ アジャスター サージカルステン",
+  "price": 1145,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00snu1o.72d3y50d.g00snu1o.72d3zaff/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsheil-store%2Fap0136%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsheil-store%2Fi%2F10020451%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "クリスマスのプレゼント候補。子どもがいる家で助かった系。ネックレスチェーン金属アレルギー対応15日間返品保証。レビュー1,484件で★4.65。半額。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/sheil-store/cabinet/1maime/ap0136.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/sheil-store/cabinet/1maime/ap0136.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/sheil-store/cabinet/bnr3/imgrc0137881602.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/sheil-store/cabinet/img41/ap0136_1.jpg?_ex=600x600"
+  ],
+  "shop_name": "ピアス アクセサリー SHEIL",
+  "review_count": 1484,
+  "review_average": 4.65,
+  "genre_id": "111029"
+ },
+ {
+  "date": "2026-11-21T12:01:43",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "クリスマス（33日後） × 子育て世帯のママ・パパ",
+  "persona": "mama",
+  "item_code": "pluster:10003083",
+  "item_name": "ピアス キャッチ 落ちない 金属アレルギー シリコン ピアスキャッチ 18k プラチナ ピンクゴールド ホワイト ゴールド K18 18金ピアス つけっぱなし ",
+  "price": 1480,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rvkvo.72d3y311.g00rvkvo.72d3zace/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpluster%2Fne-50000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpluster%2Fi%2F10003083%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "クリスマスのプレゼント候補。ママ友の間でよく話題になるやつ。レビュー804件で★4.53。1,480円。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/pluster/cabinet/img8/ne-50000_s2.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/pluster/cabinet/img8/ne-50000_s2.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/pluster/cabinet/img8/ne-50000-k_1.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/pluster/cabinet/ranking/ne-50000_rank_n.jpg?_ex=600x600"
+  ],
+  "shop_name": "ジュエリースタジオ　プラスター",
+  "review_count": 804,
+  "review_average": 4.53,
+  "genre_id": "567210"
  }
 ]
