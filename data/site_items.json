@@ -30901,6 +30901,13 @@
     "theme": "ブラックフライデー（開催中） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-11-22",
+    "slot": "noon",
+    "theme": "ブラックフライデー（開催中） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "d-shop1one:10239877",
@@ -30917,7 +30924,7 @@
   "catchcopy": "BUFFALO WSR-3000AX4P/DBK Wi-Fi6対応 2401+573Mbps 無線LANルーター ブラック バッファロー",
   "genre_id": "506591",
   "score": 12.49,
-  "last_seen": "2026-11-21T20:16:18",
+  "last_seen": "2026-11-22T12:01:39",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/d-shop1one/cabinet/poin2/4981254070482.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/d-shop1one/cabinet/image07/4981254070482.jpg?_ex=600x600",
@@ -37094,23 +37101,30 @@
     "theme": "寒さ対策・冬支度（開催中） × 30代女性（暮らし・時短・コスパ）",
     "persona": "30s_woman",
     "event_type": "season"
+   },
+   {
+    "date": "2026-11-22",
+    "slot": "noon",
+    "theme": "ブラックフライデー（開催中） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "tansu:10044250",
-  "name": "【マラソン限定！5%引クーポン】 ホットカーペット 防ダニ 電気カーペット 暖房器具 暖房 長方形 2畳 3畳 4畳 168×168 176×235 195×290 床暖房カーペット ホットマット 電気マット 足元暖房 電気ホットカーペット 電気 ホット カーペット 冬 暖か マット",
+  "name": "ホットカーペット 防ダニ 電気カーペット 暖房器具 暖房 長方形 2畳 3畳 4畳 168×168 176×235 195×290 床暖房カーペット ホットマット 電気マット 足元暖房 電気ホットカーペット 電気 ホット カーペット 冬 暖か マット",
   "price": 4499,
   "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00ppglo.72d3y3f0.g00ppglo.72d3z552/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftansu%2F1670000100%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftansu%2Fi%2F10044250%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00ppglo.72d3y3f0.g00ppglo.72d3z552/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftansu%2F1670000100%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/tansu/cabinet/pet2/21700022_10t.jpg?_ex=600x600",
   "shop_name": "タンスのゲン Design the Future",
-  "review_count": 739,
+  "review_count": 759,
   "review_average": 4.45,
   "affiliate_rate": 2.0,
   "point_rate": 1,
   "catchcopy": "保温性UP！コンパクト 収納 ホットカーペット 1畳 2畳 3畳 4畳 電気カーペット 床暖房カーペット ホットマット 電気マット 冬 暖房器具 長方形 ダニ退治 タイマー 《安心の1年保証》",
   "genre_id": "208390",
-  "score": 12.5,
-  "last_seen": "2026-11-12T07:02:19",
+  "score": 14.52,
+  "last_seen": "2026-11-22T12:01:39",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/tansu/cabinet/pet2/21700022_10t.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/tansu/cabinet/00042380/1670000100_ra.jpg?_ex=600x600",
@@ -43432,29 +43446,38 @@
     "theme": "ブラックフライデー（1日後） × 30代女性（暮らし・時短・コスパ）",
     "persona": "30s_woman",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-11-22",
+    "slot": "noon",
+    "theme": "ブラックフライデー（開催中） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "itsube-souken:10000266",
-  "name": "「クーポン利用で4482円～★楽天1位」電気毛布 洗濯ネット 190*130cm 140＊80cm 120*60cm 毛布 掛け敷き 洗える 1-10時間 タイマー付き 8段階温度 抗菌防臭 ダニ退治 自動電源オフ 電気ひざ掛け 肩掛け 膝掛け 毛布 電気ブランケットふわふわ電気毛布",
-  "price": 9960,
+  "name": "「60%OFFクーポン利用で3984円～★楽天1位」電気毛布 洗濯ネット 190*130cm 140*80cm 120*60cm 毛布 掛け敷き 洗える 1-10時間 タイマー付き 8段階温度 抗菌防臭 ダニ退治 自動電源オフ 電気ひざ掛け 肩掛け 膝掛け 毛布 電気ブランケットふわふわ電気毛布 ふわとろ電気毛布",
+  "price": 9860,
   "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00u10vo.72d3ye53.g00u10vo.72d3zd0a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fitsube-souken%2Fppr-blanket%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fitsube-souken%2Fi%2F10000266%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00u10vo.72d3ye53.g00u10vo.72d3zd0a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fitsube-souken%2Fppr-blanket%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
-  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/itsube-souken/cabinet/10326922/12472599/14033888/imgrc0144190413.jpg?_ex=600x600",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/itsube-souken/cabinet/10326922/12472599/14033888/imgrc0144548540.jpg?_ex=600x600",
   "shop_name": "MOSMEE（モスミー）",
-  "review_count": 2615,
+  "review_count": 2656,
   "review_average": 4.63,
   "affiliate_rate": 2.0,
   "point_rate": 1,
   "catchcopy": "寒さ対策グッズ blanket 2枚合わせ ポコポコ 電気毛布 モコモコブランケット ふわふわ毛布 膝掛け 洗える 洗濯可　暖かい 厚手 シングル ふわもこ モコモコ　ダブル ふわとろ とろとろ",
   "genre_id": "208397",
-  "score": 13.87,
-  "last_seen": "2026-11-19T12:01:47",
+  "score": 16.08,
+  "last_seen": "2026-11-22T12:01:39",
   "image_urls": [
-   "https://thumbnail.image.rakuten.co.jp/@0_mall/itsube-souken/cabinet/10326922/12472599/14033888/imgrc0144190413.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/itsube-souken/cabinet/10326922/12472599/14033888/imgrc0144548540.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/itsube-souken/cabinet/biiino/award/ppr-bl8d51d45128.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/itsube-souken/cabinet/10326922/12472599/12574435/imgrc0135394769.jpg?_ex=600x600"
   ],
-  "caption": "商品仕様 本体サイズ(約) S：120*60cm M：140*80cm L：190×130cm カラー ホワイト、グレー、ダークグレー コード長さ(約) 約2.1m 素材構成 ポリエステル 本体重量(約) S：630g　M：1100g　L ：1920g 消費電力 S：35Wh～ M：50Wh～　L：90Wh～ セット内容 ・電気毛布本体x1 ・コントローラーx1 ・取扱説明書x1 ※毛布のサイズによりコントローラーは共用不可 機能 ・8段階温度調節機能（30-33-36-39-42-45-48-50℃） ・1～10時間に6段階タイマー機能 ・日本製ヒーター線 ・過熱保護 ・急速加熱 ※さまざまな用途で使える ひざ掛けの他に、肩掛けとしてもお使いいただけます。 少し肌寒いなと感じた時に、この製品を肩にかけて使うととても温かいです。 【こんな使い方がおすすめ】 1.ひざ掛けとして 2.肩掛けとして 3.簡単な毛布として 4.夏場のクーラー対策として 【スタッフナヒのおすすめポイント！】 ・身体の芯から温まる 電気掛け布団 ・熱伝導性に優れた「グラフェン」内蔵 ・軽くて暖かシンサレート全面使用 ・熱を蓄えるイージーウォーム中綿で暖かさUP! ・ふんわりやわらかな肌触り ポリエステル生地 ・嫌なにおいの発生を抑える抗菌防臭加工 ・ダニ退治もできる 最大温度50℃ ・丸洗いできるからいつでも清潔 ふわふわな素材を採用 このかけしき毛布はふわふわした触り心地のラビットファン調とミンクファン調の2重素材で作られています。 電気毛布なのにふわふわしていて、そしてしなやかです。 寝る前から電源を付けておけば、布団に入った瞬間、温かさが身体を包み込みます。 細かく温度設定が可能 細かく温度設定が可能 コントローラーのメモリには、1-2弱・3-4中・5-6強・7-8超強がありますが、 実は、「弱"
+  "caption": "商品仕様 本体サイズ(約) S：120*60cm M：140*80cm L：190×130cm カラー ホワイト、グレー、ダークグレー コード長さ(約) 約2.1m 素材構成 ポリエステル 本体重量(約) S：630g　M：1100g　L ：1920g 消費電力 S：35Wh～ M：50Wh～　L：90Wh～ セット内容 ・電気毛布本体x1 ・コントローラーx1 ・取扱説明書x1 ※毛布のサイズによりコントローラーは共用不可 機能 ・8段階温度調節機能（30-33-36-39-42-45-48-50℃） ・1～10時間に6段階タイマー機能 ・日本製ヒーター線 ・過熱保護 ・急速加熱 ※さまざまな用途で使える ひざ掛けの他に、肩掛けとしてもお使いいただけます。 少し肌寒いなと感じた時に、この製品を肩にかけて使うととても温かいです。 【こんな使い方がおすすめ】 1.ひざ掛けとして 2.肩掛けとして 3.簡単な毛布として 4.夏場のクーラー対策として 【スタッフナヒのおすすめポイント！】 ・身体の芯から温まる 電気掛け布団 ・熱伝導性に優れた「グラフェン」内蔵 ・軽くて暖かシンサレート全面使用 ・熱を蓄えるイージーウォーム中綿で暖かさUP! ・ふんわりやわらかな肌触り ポリエステル生地 ・嫌なにおいの発生を抑える抗菌防臭加工 ・ダニ退治もできる 最大温度50℃ ・丸洗いできるからいつでも清潔 ふわふわな素材を採用 このかけしき毛布はふわふわした触り心地のラビットファン調とミンクファン調の2重素材で作られています。 電気毛布なのにふわふわしていて、そしてしなやかです。 寝る前から電源を付けておけば、布団に入った瞬間、温かさが身体を包み込みます。 細かく温度設定が可能 細かく温度設定が可能 コントローラーのメモリには、1-2弱・3-4中・5-6強・7-8超強がありますが、 実は、「弱",
+  "posted_text": "#PR セール価格は期間中だけ。迷うなら今\n楽天1位」電気毛布 洗濯ネット\n★4.63・レビュー2,656件・楽天ランキング1位\n60%OFF｜9,860円\n#楽天購入品\n▶ROOMはプロフから",
+  "posted_at": "2026-11-22T12:01:39"
  },
  "irisplaza-r:10148555": {
   "first_seen": "2026-11-10T20:40:06",
@@ -44297,6 +44320,13 @@
     "theme": "ブラックフライデー（開催中） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-11-22",
+    "slot": "noon",
+    "theme": "ブラックフライデー（開催中） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "ebaby-select:10001543",
@@ -44313,7 +44343,7 @@
   "catchcopy": "おくだけ簡単設置のベビーゲート 扉付きのおくだけとおせんぼ 自立 台所 階段下 玄関 賃貸におすすめ 間仕切り ベビーガードベージュ グレー クリア",
   "genre_id": "200841",
   "score": 14.04,
-  "last_seen": "2026-11-21T20:16:18",
+  "last_seen": "2026-11-22T12:01:39",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/ebaby-select/cabinet/gete/gate01/5013111001_v6_rs01.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/ebaby-select/cabinet/gete/gate01/5013000001_v2_s02.jpg?_ex=600x600",
@@ -48156,29 +48186,36 @@
     "theme": "ブラックフライデー（2日後） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-11-22",
+    "slot": "noon",
+    "theme": "ブラックフライデー（開催中） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "duux-japan:10000100",
-  "name": "加湿器 スチーム式 4L 17畳 大容量 上から給水 上部給水 お手入れ簡単 洗いやすい おしゃれ 加湿機 スチームタイプ スチーム加湿器 スチーム式加湿器 大容量加湿器 コンパクト加湿器 部屋の乾燥 乾燥対策 デュクス Dawn DXHU800JP(GY) DXHU801JP(WT)",
+  "name": "【ブラックフライデーSALE】加湿器 スチーム式 4L 17畳 大容量 上から給水 上部給水 お手入れ簡単 洗いやすい おしゃれ 加湿機 スチームタイプ スチーム加湿器 スチーム式加湿器 大容量加湿器 コンパクト加湿器 乾燥対策 デュクス Dawn DXHU800JP(GY) DXHU801JP(WT)",
   "price": 19800,
   "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00u099o.72d3y11b.g00u099o.72d3za33/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fduux-japan%2Fdawn%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fduux-japan%2Fi%2F10000100%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00u099o.72d3y11b.g00u099o.72d3za33/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fduux-japan%2Fdawn%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/duux-japan/cabinet/lp/dawn/imgrc0106402966.jpg?_ex=600x600",
   "shop_name": "duux（デュクス）公式ストア",
-  "review_count": 537,
-  "review_average": 4.42,
+  "review_count": 545,
+  "review_average": 4.41,
   "affiliate_rate": 2.0,
   "point_rate": 1,
   "catchcopy": "【公式ストア限定2年保証】duux デュクス 加湿器 スチーム式 お手入れ簡単加湿器 ヨーロッパ家電 コンパクト加湿器 持ち運び加湿器",
   "genre_id": "502824",
-  "score": 12.81,
-  "last_seen": "2026-11-18T12:02:00",
+  "score": 13.39,
+  "last_seen": "2026-11-22T12:01:39",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/duux-japan/cabinet/lp/dawn/imgrc0106402966.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/duux-japan/cabinet/11985793/12456013/imgrc0106682216.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/duux-japan/cabinet/lp/dawn/dawn_ranking.jpg?_ex=600x600"
   ],
-  "caption": "スチーム式加湿器Dawn（ドーン） すばやく心地よく、うるおいで満たす。 その名の通り、夜明けのもやのような心地よさで空間を満たすDawn。 水を沸騰させ、蒸気で加湿するスチーム式加湿器です。 コンパクトながらリビングのような広い空間にもすばやくうるおいをお届け。 持ち運びに便利なハンドル付で、蓋を開けてそのまま給水いただけます。 速くて、快適で、省エネ 加湿に必要な分の水だけを沸騰させるので 少ない時間と電力で加湿が可能に。 肌や喉などの乾燥が気になる季節に すばやく快適なうるおいを。 過ごしやすい空間をつくる加湿力 最大加湿量は600ml/hで、約17畳※ もの広さまで対応。 リビングでも寝室でもパワフルな加湿力で 過ごしやすい空間をつくります。 ※コンクリート住宅において。適応畳数は日本電気工業会規格（JEM1426）に基づき算出。 湿度センサーでかしこく加湿 湿度センサーを内蔵しているため、 部屋の湿度状況は常にモニター表示。 自動モードを選択すれば、 お好みの心地いい湿度をキープします。 持ち運べるのに大容量 持ち運べるサイズながら、4Lのタンクを搭載。 長時間運転ができて、しっかり加湿。 本体に直接給水可能で、内部自動洗浄などもできるので 便利にお使いいただけます。 安全安心の工夫がいくつも さまざまな安全装置を搭載。 転倒時の自動電源OFFや 空焚き防止機能、チャイルドロックなど。 いつでも安心してお使いいただけます。 スペック ■商品名 Dawn （ドーン） スチーム式加湿器 ■カラー・型番 グレー：DXHU800JP(GY) ホワイト：DXHU801JP(WT) ■JANコード グレー：4571167476343 ホワイト：4571167476350 ■電源 AC100V　50/60Hz ■消費電力 弱：150W 中：300W 強：450W ■1時間あたり"
+  "caption": "◆◆◆ ブラックフライデーSALE開催 ◆◆◆ 11/19 0時～11/25 23時59分まで 2,000円クーポン配布中 　 ◆◆◆ 年に1度のチャンスをお見逃しなく！！ ◆◆◆ スチーム式加湿器Dawn（ドーン） すばやく心地よく、うるおいで満たす。 その名の通り、夜明けのもやのような心地よさで空間を満たすDawn。 水を沸騰させ、蒸気で加湿するスチーム式加湿器です。 コンパクトながらリビングのような広い空間にもすばやくうるおいをお届け。 持ち運びに便利なハンドル付で、蓋を開けてそのまま給水いただけます。 速くて、快適で、省エネ 加湿に必要な分の水だけを沸騰させるので 少ない時間と電力で加湿が可能に。 肌や喉などの乾燥が気になる季節に すばやく快適なうるおいを。 過ごしやすい空間をつくる加湿力 最大加湿量は600ml/hで、約17畳※ もの広さまで対応。 リビングでも寝室でもパワフルな加湿力で 過ごしやすい空間をつくります。 ※コンクリート住宅において。適応畳数は日本電気工業会規格（JEM1426）に基づき算出。 湿度センサーでかしこく加湿 湿度センサーを内蔵しているため、 部屋の湿度状況は常にモニター表示。 自動モードを選択すれば、 お好みの心地いい湿度をキープします。 持ち運べるのに大容量 持ち運べるサイズながら、4Lのタンクを搭載。 長時間運転ができて、しっかり加湿。 本体に直接給水可能で、内部自動洗浄などもできるので 便利にお使いいただけます。 安全安心の工夫がいくつも さまざまな安全装置を搭載。 転倒時の自動電源OFFや 空焚き防止機能、チャイルドロックなど。 いつでも安心してお使いいただけます。 スペック ■商品名 Dawn （ドーン） スチーム式加湿器 ■カラー・型番 グレー：DXHU800JP(GY) ホワイト：DXHU801JP(WT) ■JANコード"
  },
  "mycosmeticbox:10000769": {
   "first_seen": "2026-11-18T12:02:00",
@@ -50254,6 +50291,13 @@
     "theme": "ブラックフライデー（開催中） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-11-22",
+    "slot": "noon",
+    "theme": "ブラックフライデー（開催中） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "pocketalk:10000868",
@@ -50270,7 +50314,7 @@
   "catchcopy": "世界で1500万人以上が愛用する、定番のパスワード管理サービスです。 すべてのパスワードと重要なデータは、1つのマスターパスワードで保護されます。",
   "genre_id": "100113",
   "score": 13.63,
-  "last_seen": "2026-11-21T20:16:18",
+  "last_seen": "2026-11-22T12:01:39",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/pocketalk/cabinet/shuppin7/4550483695607_main.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/pocketalk/cabinet/img-up_1_839/1354_k1_270904_140.jpg?_ex=600x600",
@@ -50320,6 +50364,13 @@
     "theme": "ブラックフライデー（開催中） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-11-22",
+    "slot": "noon",
+    "theme": "ブラックフライデー（開催中） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "anker:10002413",
@@ -50336,7 +50387,7 @@
   "catchcopy": "最大30ヶ月保証",
   "genre_id": "552481",
   "score": 12.83,
-  "last_seen": "2026-11-21T20:16:18",
+  "last_seen": "2026-11-22T12:01:39",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/deal/2611m2/a91c8_11m2.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/listing/product/a91c8/a91c8_sub_1.jpg?_ex=600x600",
@@ -50576,5 +50627,170 @@
    "https://thumbnail.image.rakuten.co.jp/@0_mall/katemate/cabinet/compass1658832956.jpg?_ex=600x600"
   ],
   "caption": "商品情報素材合金ポスト　シルバー925サイズモチーフ　　 1.1cm× 1.1cm商品在庫について当店の商品は実店舗でも販売しているため、ご注文のタイミングによっては商品が在庫切れとなる場合がございます。ご了承ください。注意モニターの都合上、掲載写真と実際の色が異なる場合がございます。当店のセレクトアイテムは海外製です。日本製とは異なり多少のキズ、金属表面の凹凸、金具の留のゆるみ等がある場合がございます。丁寧に検品を行っておりますが、ご理解いただいた上でのご購入をお願いいたします。こちらの商品はメッキ加工を施しております。そのために汗・水に弱いので使用後は柔らかい布で拭いて保管してください。【'21'22年8月 連続月間優良ショップ】フラワー パヴェ ピアス　 フラワー モチーフ シルバー ゴールド 花　華奢 シルバー かわいい シンプル カジュアル 【送料無料！】耳元に可愛いアクセント！ 可憐なお花にストーンを敷き詰めたピアスです。フラワーモチーフの周りはミル打ちで可愛く上品な印象です。つけるだけで明るく華やかな印象になります。自分へのご褒美や、大切なひとへのプレゼントにもおすすめです。ネックレス（別売り）とセットでも楽しんでいただけます。 5"
+ },
+ "melittajapan:10000008": {
+  "first_seen": "2026-11-22T12:01:39",
+  "themes": [
+   {
+    "date": "2026-11-22",
+    "slot": "noon",
+    "theme": "ブラックフライデー（開催中） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "melittajapan:10000008",
+  "name": "【公式】メリタ ツイスト SCG58 フィルターペーパー式 コーヒーメーカー コーヒーマシン コーヒーマシーン 5杯用 Melitta アロマツイスター 珈琲",
+  "price": 4800,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00u5nco.72d3y010.g00u5nco.72d3zbb7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmelittajapan%2Ftwist02%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmelittajapan%2Fi%2F10000008%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00u5nco.72d3y010.g00u5nco.72d3zbb7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmelittajapan%2Ftwist02%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/melittajapan/cabinet/biiino/item/new-main-image/imgrc0119620276.jpg?_ex=600x600",
+  "shop_name": "メリタ公式ストア 楽天市場店",
+  "review_count": 42,
+  "review_average": 4.48,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "コンパクトでシンプル。毎日手軽にコーヒーを楽しみたい方へ。",
+  "genre_id": "208440",
+  "score": 14.44,
+  "last_seen": "2026-11-22T12:01:39",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/melittajapan/cabinet/biiino/item/new-main-image/imgrc0119620276.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/melittajapan/cabinet/biiino/item/sub_image/img_scg58s1.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/melittajapan/cabinet/biiino/item/sub_image/img_scg58s2.jpg?_ex=600x600"
+  ],
+  "caption": "製品名ツイスト型番ジェットブラック：SCG58-3Bステンレス：SCG58-1Sルビーレッド：SCG58-5RJANジェットブラック：4902717222880ステンレス：4902717222873ルビーレッド：4902717222897カラージェットブラック／ステンレス／ルビーレッド電源AC100V消費電力600W容量700mlサイズ幅180、奥行195、高265 mm本体質量1.3kgポットガラス保温機能加熱式保温機能水槽タンク着脱不可使用フィルターペーパーメリタ フィルターペーパー1×2付属品メジャースプーン特徴- 独自の撹拌技術で、安定したおいしさが愉しめる - 5杯用のコンパクトなコーヒーメーカー - 保温プレート付だから、いつでも温かいコーヒーが愉しめます - 抽出したコーヒーを撹拌するアロマツイスター技術を搭載 - 中身が見えるガラスポットタイプ - ポットをはずしても、しずくが漏れにくい独自構造関連商品はこちら【公式】メリタ フィルターペーパー 2～...【公式】メリタ フィルターペーパー 2～...【公式】メリタ フィルターペーパー 2～..."
+ },
+ "netbaby:10053894": {
+  "first_seen": "2026-11-22T12:01:39",
+  "themes": [
+   {
+    "date": "2026-11-22",
+    "slot": "noon",
+    "theme": "ブラックフライデー（開催中） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "netbaby:10053894",
+  "name": "パンパース パンツ さらさらケア オムツ(3個入×2セット)【パンパース】",
+  "price": 18759,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pzd4o.72d3yfe6.g00pzd4o.72d3zc1c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetbaby%2F407047%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnetbaby%2Fi%2F10053894%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00pzd4o.72d3yfe6.g00pzd4o.72d3zc1c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetbaby%2F407047%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/netbaby/cabinet/047/407047.jpg?_ex=600x600",
+  "shop_name": "楽天24 ベビー館",
+  "review_count": 74,
+  "review_average": 4.88,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "パンパース / パンパース パンツ さらさらケア オムツ",
+  "genre_id": "205198",
+  "score": 13.5,
+  "last_seen": "2026-11-22T12:01:39",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/netbaby/cabinet/047/407047.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/netbaby/cabinet/047/407047-2.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/netbaby/cabinet/047/407047-3.jpg?_ex=600x600"
+  ],
+  "caption": "お店TOP＞おむつ・トイレ用品＞おむつ（パンツタイプ）＞パンパース パンツ さらさらケア オムツ (3個入×2セット)【パンパース パンツ さらさらケア オムツの商品詳細】●パンパースさらさらケア●長時間でもタプタプ知らず※！●やさしい肌ざわりカバー やわらか素材を使用し、肌ざわりがやさしく快適●Sカーブフィット●さらさら風通しライン●12時間の吸収力※約12-14時間分の尿量を吸収後の吸収体のズレ下がりや、おむつ表面への水分の逆戻りを防止。 (メーカー調査)【成分】素材 表面材：ポリオレフィン不織布／吸収材：ポリエステル不織布、ポリオレフィン不織布、 綿状パルプ、高分子吸水材／防水材：ポリオレフィンフィルム／止着材：粘着テープ／伸縮材：合成ゴム／結合材：ホットメルト粘着材【規格概要】★MはいはいMはいはい88枚(5-10kg)★MたっちMたっち88枚(6-12kg)★LサイズL76枚(9-14kg)★BIGサイズビッグ64枚(12-22kg)★BIG大ビッグより大きい46枚(15-28kg)【注意事項】(1)汚れた紙おむつは早くとりかえてください。(2)テープは直接お肌につけないでください。(3)誤って口に入れたり、のどにつまらせることのないよう保管場所に注意し、使用後はすぐに処理してください。お肌に合わないときは使用を中止し、医師に相談してください。持ち手を誤って首にひっかけたり、のどに詰まらせたりすることのないように、乳幼児の手の届かないところに保管してください。(一社)日本衛生材料工業連合会のガイドラインに基づく表示。★保管上の注意・開封後は、ほこりや虫が入り込まないよう、衛生的に保管してください。【ブランド】パンパース【発売元、製造元、輸入元又は販売元】P＆G(プロクター＆ギャンブル)商品に関するお電話でのお問合せは、下記までお願いいたします。受付時間9：15-1"
+ },
+ "low-ya:10008046": {
+  "first_seen": "2026-11-22T12:01:39",
+  "themes": [
+   {
+    "date": "2026-11-22",
+    "slot": "noon",
+    "theme": "ブラックフライデー（開催中） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "low-ya:10008046",
+  "name": "[ブラックフライデー! 11/19 20:00-11/25 1:59] オフィスチェア デスクチェア 事務椅子 椅子 チェア パソコンチェア PC ロッキング ワークチェア 学習椅子 ハイバック おしゃれ メッシュ 在宅ワーク ゲーミング 疲れにくい 学生 キャスター付き 腰 クッション",
+  "price": 11990,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pxdho.72d3ya8a.g00pxdho.72d3zfb3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flow-ya%2Fvg-sirius%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flow-ya%2Fi%2F10008046%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00pxdho.72d3ya8a.g00pxdho.72d3zfb3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flow-ya%2Fvg-sirius%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flow-ya%2Fi%2F10008046%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/low-ya/cabinet/item_cart/chair/01/sirius-top01.jpg?_ex=600x600",
+  "shop_name": "LOWYA(ロウヤ)楽天市場店",
+  "review_count": 18304,
+  "review_average": 4.35,
+  "affiliate_rate": 3.0,
+  "point_rate": 1,
+  "catchcopy": "オフィスチェア デスクチェア 椅子 チェア パソコンチェア PCチェア ロッキング機能 学習椅子 オフィス 在宅 リモートワーク メッシュ 通気性 肘掛なし 肘付き 背もたれ付き 腰",
+  "genre_id": "300848",
+  "score": 11.19,
+  "last_seen": "2026-11-22T12:01:39",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/low-ya/cabinet/item_cart/chair/01/sirius-top01.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/low-ya/cabinet/item_cart/chair/01/vg-sirius_02.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/low-ya/cabinet/item_cart/chair/01/vg-sirius_03.jpg?_ex=600x600"
+  ],
+  "caption": "返品・キャンセルについて※ご購入前に必ずご確認ください 当店おすすめオフィス家具！ほかのオフィス家具を見る　≫ 1年中爽やかに使るメッシュ素材に加え、長時間安心して使えるいろんな機能が付いてこの価格です。 商品のご紹介 サイズ幅61x奥行63x高さ108から116cm(座面高44から52cm) 肘の高さ:62から70cm 座面幅:50cm、背面の高さ:70cm 素　材PVC(合成皮革) カラーブラック、グレー、ワイン 重　量12.6kg 梱包サイズ幅77x奥行26x高さ61cm(14.5kg) 耐荷重90kg 配送について・複数の商品を同時にご注文いただいた場合、異なる配送会社から配送が行われる場合がございます。　商品ごとのお届け日に関しましては、発送通知メールをご確認ください。・離島および一部地域からご注文いただいた場合、送料の追加料金が発生する場合がございます。・商品のサイズや重量をよくご確認のうえ、搬入経路のご確認と必要に応じて2人での受取をお願いいたします。・商品の配送は玄関先までとなります。　開梱、組立、設置などは致しませんので、予めご了承ください。 備　考※お客様組み立て式 ※破損の原因となりますので、肘置きのみに過度な加重をかけないでください。 ※使用環境によりキャスターの潤滑具合が悪くなることがあります。ご了承下さい。 【商品コード】シリウス →チャットで調べるチャット形式でお問い合わせいただけます。商品に関するお問い合わせは商品説明上部の商品番号をお控えください。"
+ },
+ "logicool:10000777": {
+  "first_seen": "2026-11-22T12:01:39",
+  "themes": [
+   {
+    "date": "2026-11-22",
+    "slot": "noon",
+    "theme": "ブラックフライデー（開催中） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "logicool:10000777",
+  "name": "【SALE】【新製品】ロジクール MX MASTER 4 アドバンスド ワイヤレス マウス MX2400GRda 触覚フィードバック 静音 無線 Logi Bolt Bluetooth 8000dpi 高速スクロールホイール USB-C 充電式 国内正規品 1年間無償保証",
+  "price": 16915,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdo.72d3ydaf.g00tpxdo.72d3zb54/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fmx2400grda%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flogicool%2Fi%2F10000777%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00tpxdo.72d3ydaf.g00tpxdo.72d3zb54/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flogicool%2Fmx2400grda%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/mice/mx2400grda/mx2400grda_.jpg?_ex=600x600",
+  "shop_name": "ロジクール 公式ストア",
+  "review_count": 87,
+  "review_average": 4.2,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "MXシリーズの定番マウスが6年ぶりのフルモデルチェンジ",
+  "genre_id": "565170",
+  "score": 10.87,
+  "last_seen": "2026-11-22T12:01:39",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/mice/mx2400grda/mx2400grda_.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/mice/mx2400grda/mx2400grda_1_re.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/mice/mx2400grda/mx2400grda_2.jpg?_ex=600x600"
+  ],
+  "caption": "商品詳細 ブランドLogicool (ロジクール)商品管理番号MX2400GRda本体サイズ88.2 x 128.2 x 50.8 mm 150g使用電池充電式リチウムポリマー電池電池寿命フル充電で最長70日間使用可能（使用環境によって異なります）対応OSWindows 11以降、macOS 13以降、Linux、Chrome OS iPad OS 15以降、Android 12以降接続I/FBluetooth Low Energy、Logi bolt USB-Cポート接続カラーグラファイトMXシリーズの定番マウスが6年ぶりのフルモデルチェンジ！MX MASTER 4は、ロジクールの最新技術を結集した高機能ワイヤレスマウスです。 親指エリアに新たに追加された「触覚フィードバック センスパネル」を押すと画面上に8つのショートカットがリング状に表示され、カーソルを合わせるだけで複雑なマウスやキー操作を必要としていたショートカットやファンクションを瞬時に実行できます。また、ChatGPT、Gemini、Perplexity*などのAIにも瞬時にアクセスできるAI直結のショートカットがデフォルトで設定されています。ロジクール製品専用アプリ「Logi Options+」にてアプリケーションごとに操作の割り当てができ、マクロ登録機能「Smart Actions」を合わせて使用することで、生産性が向上します。さらに、デバイス間の切り替えをボタン1つでおこなえる「Easy Switch」機能を割り当てることで、画面上のみでデバイス間の移動が可能です。「Actions Ring」により、マウス移動量を通常より最大63％、作業時間を最大33％削減でき**、集中を途切れさせることなく作業に没入できます。 *記載されているサービス名は、各社の商標および登録商標です。 **LOGI エルゴ・ラボにて"
+ },
+ "hobinavi:10464869": {
+  "first_seen": "2026-11-22T12:01:39",
+  "themes": [
+   {
+    "date": "2026-11-22",
+    "slot": "noon",
+    "theme": "ブラックフライデー（開催中） × 30代男性（健康・効率化・家電）",
+    "persona": "30s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "hobinavi:10464869",
+  "name": "【5%OFFクーポン BLACK FRIDAY限定】2枚セット 保護フィルム iPhone17 iPhone16 iPhone15 iPhone14 強化ガラスフィルム ブルーライトカット 指紋防止 気泡防止 飛散防止 割れない 硬度10H 厚さ0.33mm ラウンドエッジ スマホ 液晶保護フィルム 画面保護 ガラス武将 1年保証",
+  "price": 1200,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qff7o.72d3y0a1.g00qff7o.72d3ze2d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhobinavi%2Frh-9h-film-cl%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhobinavi%2Fi%2F10464869%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00qff7o.72d3y0a1.g00qff7o.72d3ze2d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhobinavi%2Frh-9h-film-cl%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhobinavi%2Fi%2F10464869%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/hobinavi/cabinet/goods/sp-bsbc-ip/sp-bsbc-ipssg-1.jpg?_ex=600x600",
+  "shop_name": "ホビナビ 楽天市場店",
+  "review_count": 35935,
+  "review_average": 4.27,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "累計170万枚突破！硬度10H強化ガラスで画面をがっちり守る。ブルーライトを60.5%カットし目の疲れを軽減。さらさら操作＆気泡ゼロで貼り付けも簡単。安心の1年365日保証付き2枚セット",
+  "genre_id": "560278",
+  "score": 10.09,
+  "last_seen": "2026-11-22T12:01:39",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/hobinavi/cabinet/goods/sp-bsbc-ip/sp-bsbc-ipssg-1.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/hobinavi/cabinet/goods/sp-bsbc-ip/sp-bsbc-ipls-1.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/hobinavi/cabinet/goods/sp-bsbc-ip/sp-bsbc-ipls-2.jpg?_ex=600x600"
+  ],
+  "caption": "■目の疲れから解放される、ブルーライト60.5%カット （※ブルーライトカット版のみ） 長時間のスマホ使用で目がしょぼしょぼする、就寝前に画面を見ると眠れないといった悩みを抱えていませんか。本製品のブルーライトカット版フィルムは、パソコンやスマートフォンのディスプレイから発せられる目への負担が大きい青色光を60.5%カット。長時間使い続けても目が疲れにくく、夜間の使用でも快適さが持続します。 ■刃物も弾く圧倒的な強度、表面硬度10H うっかり落としたときや鍵と一緒に入れたバッグの中で傷がついてしまうのは、スマホユーザーの共通の不安です。ナノコーティング・強化ガラス材・耐爆性フィルム・シリコンコーティングの4層構造により、表面硬度10Hを実現。カッターの刃を当てても傷がつかない強さで画面をしっかり守り、万一割れた際にもガラスが飛び散らない飛散防止機能で安全性も確保しています。 ■貼り付け失敗ゼロへ、気泡が自然に消える設計 せっかく買ったフィルムを貼ろうとしたら気泡だらけで見栄えが悪くなった、という経験はありませんか。本製品は気泡が入りにくい独自設計で、万一気泡が入っても時間とともに自然に消えます。通常の強化ガラスフィルムと比べて大幅に貼りやすく、付属のアルコールパッドとダストステッカーで画面をクリーニングしてから貼れば、スッキリとクリアな仕上がりになります。 ■指紋がつきにくく、操作がなめらかなさらさら感 表面のナノコーティングが水・油をはじき、指紋や皮脂汚れをさっと拭き取れるため画面をいつも清潔に保てます。さらさらとした滑らかな操作感で指の引っかかりがなく、上スワイプなどの操作もストレスなく快適に行えます。フィルムを貼っていないかのような透明感で、スマホ本来のカラーも活かせるデザインです。 ■万全の2枚セット＆1年365日保証で安心が続く 本製品は2枚セットで届くため、1枚"
  }
 }

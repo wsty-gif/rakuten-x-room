@@ -26256,7 +26256,8 @@
   "shop_name": "SWAROTONYA",
   "review_count": 113,
   "review_average": 4.48,
-  "genre_id": "111029"
+  "genre_id": "111029",
+  "instagram_story_id": "18336859150263547"
  },
  {
   "date": "2026-11-22T07:01:45",
@@ -26329,5 +26330,153 @@
   "review_count": 283,
   "review_average": 4.73,
   "genre_id": "406704"
+ },
+ {
+  "date": "2026-11-22T12:01:39",
+  "slot": "noon",
+  "theme": "ブラックフライデー（開催中） × 30代男性（健康・効率化・家電）",
+  "persona": "30s_man",
+  "item_code": "itsube-souken:10000266",
+  "item_name": "「60%OFFクーポン利用で3984円～★楽天1位」電気毛布 洗濯ネット 190*130cm 140*80cm 120*60cm 毛布 掛け敷き 洗える 1-1",
+  "price": 9860,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00u10vo.72d3ye53.g00u10vo.72d3zd0a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fitsube-souken%2Fppr-blanket%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fitsube-souken%2Fi%2F10000266%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 2.0,
+  "text": "#PR セール価格は期間中だけ。迷うなら今\n楽天1位」電気毛布 洗濯ネット\n★4.63・レビュー2,656件・楽天ランキング1位\n60%OFF｜9,860円\n#楽天購入品\n▶ROOMはプロフから",
+  "tweet_id": "",
+  "threads_id": "17884011966630467",
+  "room_done": false,
+  "image": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/itsube-souken/cabinet/10326922/12472599/14033888/imgrc0144548540.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/itsube-souken/cabinet/10326922/12472599/14033888/imgrc0144548540.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/itsube-souken/cabinet/biiino/award/ppr-bl8d51d45128.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/itsube-souken/cabinet/10326922/12472599/12574435/imgrc0135394769.jpg?_ex=600x600"
+  ],
+  "shop_name": "MOSMEE（モスミー）",
+  "review_count": 2656,
+  "review_average": 4.63,
+  "genre_id": "208397",
+  "instagram_id": "18014519285991391",
+  "instagram_story_id": "18485142211119792"
+ },
+ {
+  "date": "2026-11-22T12:01:39",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "ブラックフライデー（開催中） × 30代男性（健康・効率化・家電）",
+  "persona": "30s_man",
+  "item_code": "renfrojapan:10000244",
+  "item_name": "【最大15%OFFクーポン！11/22まで】【3足セット】履くホカロン 冷えとり 靴下 レディース ミニクルー ソックス パイル リブ 刺繍 21.5-24.5",
+  "price": 1146,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00u0fco.72d3y9f2.g00u0fco.72d3z6f0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frenfrojapan%2Fhkcld53r5%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frenfrojapan%2Fi%2F10000244%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "ブラックフライデー中に狙いたい1つ。時短になる系。ホカロン靴下3足組。寒い冬もあったか快適。レビュー3,505件で★4.59。15%OFF（11/22まで）、送料無料。配送日も一緒に確認を。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/renfrojapan/cabinet/08258504/hkcld53r5/2026/hkcld53r5_2026main.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/renfrojapan/cabinet/08258504/hkcld53r5/2026/hkcld53r5_2026main.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/renfrojapan/cabinet/ranking/imgrc0176453727.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/renfrojapan/cabinet/08258504/hkcld53r5/2026/hkcld53r52026_01.jpg?_ex=600x600"
+  ],
+  "shop_name": "RENFRO",
+  "review_count": 3505,
+  "review_average": 4.59,
+  "genre_id": "403725"
+ },
+ {
+  "date": "2026-11-22T12:01:39",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "ブラックフライデー（開催中） × 30代男性（健康・効率化・家電）",
+  "persona": "30s_man",
+  "item_code": "melittajapan:10000008",
+  "item_name": "【公式】メリタ ツイスト SCG58 フィルターペーパー式 コーヒーメーカー コーヒーマシン コーヒーマシーン 5杯用 Melitta アロマツイスター 珈琲",
+  "price": 4800,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00u5nco.72d3y010.g00u5nco.72d3zbb7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmelittajapan%2Ftwist02%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmelittajapan%2Fi%2F10000008%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 2.0,
+  "text": "ブラックフライデー中に狙いたい1つ。毎日使うものほど良い物を、の代表。コンパクトでシンプル。毎日手軽にコーヒーを楽しみたい方へ。。レビュー42件で★4.48。4,800円。気になる人はお気に入り登録を。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/melittajapan/cabinet/biiino/item/new-main-image/imgrc0119620276.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/melittajapan/cabinet/biiino/item/new-main-image/imgrc0119620276.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/melittajapan/cabinet/biiino/item/sub_image/img_scg58s1.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/melittajapan/cabinet/biiino/item/sub_image/img_scg58s2.jpg?_ex=600x600"
+  ],
+  "shop_name": "メリタ公式ストア 楽天市場店",
+  "review_count": 42,
+  "review_average": 4.48,
+  "genre_id": "208440"
+ },
+ {
+  "date": "2026-11-22T12:01:39",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "ブラックフライデー（開催中） × 30代男性（健康・効率化・家電）",
+  "persona": "30s_man",
+  "item_code": "tansu:10044250",
+  "item_name": "ホットカーペット 防ダニ 電気カーペット 暖房器具 暖房 長方形 2畳 3畳 4畳 168×168 176×235 195×290 床暖房カーペット ホットマッ",
+  "price": 4499,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00ppglo.72d3y3f0.g00ppglo.72d3z552/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftansu%2F1670000100%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftansu%2Fi%2F10044250%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 2.0,
+  "text": "ブラックフライデー中に狙いたい1つ。スペック比較して残ったやつ。そのため、表記サイズと実際に温まる範囲には差がございます。温熱範囲について構造上、以下のカーペット端部にはヒーター線が配置されていません。レビュー759件で★4.45。4,499円。気になる人はお気に入り登録を。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/tansu/cabinet/pet2/21700022_10t.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/tansu/cabinet/pet2/21700022_10t.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/tansu/cabinet/00042380/1670000100_ra.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/tansu/cabinet/light/21700022_sp1.jpg?_ex=600x600"
+  ],
+  "shop_name": "タンスのゲン Design the Future",
+  "review_count": 759,
+  "review_average": 4.45,
+  "genre_id": "208390"
+ },
+ {
+  "date": "2026-11-22T12:01:39",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "ブラックフライデー（開催中） × 30代男性（健康・効率化・家電）",
+  "persona": "30s_man",
+  "item_code": "mitsuboshi-store:10000006",
+  "item_name": "＼11/22限定★通常価格4,480円⇒2,280円／業界最安値挑戦☆デイリーランキング取得！今売れてます！ 楽天ランキング3冠！お刺身鮮度のあじフライ 国産 ",
+  "price": 2732,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00uqpuo.72d3yc28.g00uqpuo.72d3za7a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmitsuboshi-store%2Fazihurai%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmitsuboshi-store%2Fi%2F10000006%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "ブラックフライデー中に狙いたい1つ。時短になる系。中はふっくらジューシー。リピーター続出の人気アジフライ。レビュー297件で★4.6。2,732円。在庫が動きやすいので早めに。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/mitsuboshi-store/cabinet/12654457/imgrc0153380726.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/mitsuboshi-store/cabinet/12654457/imgrc0153380726.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/mitsuboshi-store/cabinet/12821001/imgrc0139241624.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/mitsuboshi-store/cabinet/12654457/imgrc0147429381.jpg?_ex=600x600"
+  ],
+  "shop_name": "三つ星食堂",
+  "review_count": 297,
+  "review_average": 4.6,
+  "genre_id": "304571"
+ },
+ {
+  "date": "2026-11-22T12:01:39",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "ブラックフライデー（開催中） × 30代男性（健康・効率化・家電）",
+  "persona": "30s_man",
+  "item_code": "anker:10002413",
+  "item_name": "【期間限定セール実施中 11/25まで】Anker Nano Charging Station (7-in-1, 100W, 巻取り式 USB-C ケーブル) ",
+  "price": 7490,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rr09o.72d3y980.g00rr09o.72d3z79c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fa91c8%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10002413%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 2.0,
+  "text": "ブラックフライデー中に狙いたい1つ。時短になる系。ケーブルが絡まず、簡単に収納できます。これ1つで最大7台の機器に同時に充電可能です。レビュー77件で★4.48。11/25まで。在庫が動きやすいので早めに。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/deal/2611m2/a91c8_11m2.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/deal/2611m2/a91c8_11m2.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/listing/product/a91c8/a91c8_sub_1.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/listing/product/a91c8/a91c8_sub_2.jpg?_ex=600x600"
+  ],
+  "shop_name": "アンカー・ダイレクト楽天市場店",
+  "review_count": 77,
+  "review_average": 4.48,
+  "genre_id": "552481"
  }
 ]
