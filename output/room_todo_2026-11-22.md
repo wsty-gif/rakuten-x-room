@@ -67,3 +67,30 @@
 - **ブラックフライデーで買うもの**: 楽天1位」電気毛布 洗濯ネット / 履くホカロン 冷えとり 靴下 レディース / メリタ ツイスト SCG58 / ホットカーペット 防ダニ 電気カーペット / 11 業界最安値挑戦 / Anker Nano Charging
 - **30代男性のリピート候補**: 楽天1位」電気毛布 洗濯ネット / 履くホカロン 冷えとり 靴下 レディース / メリタ ツイスト SCG58 / ホットカーペット 防ダニ 電気カーペット / 11 業界最安値挑戦 / Anker Nano Charging
 
+## 20:16 クリスマス（32日後） × 20代女性（自分磨き・プチプラ・映え）
+
+1. **11月19日20時 新発売【saki × CRAIFE｜ROOMコラボ】muse（ミューズ） ピアス イヤリング｜パール**
+   - 価格: 1,880円 / ★4.89（242件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00u3oao.72d3y099.g00u3oao.72d3za33/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcraife%2Fi-er-5000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcraife%2Fi%2F10001127%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: クリスマスのプレゼント候補。プチプラで探してる人に。レビュー242件で★4.89。1,880円。
+
+2. **【20%OFFクーポン｜ポイント2倍 11/25 1:59迄】★1位受賞 延長5年保証★ 30日返品OK 選べる珠サイズ**
+   - 価格: 1,880円 / ★4.83（889件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00trzko.72d3y353.g00trzko.72d3za49/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcranes-collection%2Fepkaiwss%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcranes-collection%2Fi%2F10000054%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: クリスマスのプレゼント候補。SNSで見かけて気になってたやつ。グレー、ブラックパールの珠サイズは2種類用意しました。レビュー889件で★4.83。20%OFF（11/251:59まで）、送料無料。
+
+3. **【65%OFF！！ 】選べる！ラリエット ロングネックレス Y字 /ラリエットネックレス/パール 大人可愛い 上品 デイ**
+   - 価格: 1,300円 / ★4.42（404件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00qzvao.72d3y0bd.g00qzvao.72d3z282/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fswarotonya%2Fhctn-611%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fswarotonya%2Fi%2F10001273%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: クリスマスのプレゼント候補。プチプラで探してる人に。首元から胸元にかけて流れるロングラインが自然なスタイルアップを演出。すっきりとした縦長シルエットを叶えます。レビュー404件で★4.42。65%OFF。
+
+4. **【11/25 09:59まで！超目玉】 ネックレス ショートネックレス 金属アレルギー対応 ステンレス製 レディース 天**
+   - 価格: 1,395円 / ★4.8（105件） / 料率 4.0% / P1倍
+   - 商品URL: https://hb.afl.rakuten.co.jp/hgc/g00q4ivo.72d3y55a.g00q4ivo.72d3z45f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvox%2Ff-mkn-13867%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fvox%2Fi%2F10022639%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2
+   - コメント: クリスマスのプレゼント候補。プチプラで探してる人に。レビュー105件で★4.8。11/2509:59まで、送料無料。
+
+### コレクション案（ROOMの「コレクション」でまとめると回遊が増える）
+
+- **クリスマスで買うもの**: 11月19日20時 新発売 muse ピアス / 1位受賞 延長5年保証 30日返品OK / 選べる！ラリエット ロングネックレス Y字 / ネックレス ショートネックレス
+- **20代女性のリピート候補**: 11月19日20時 新発売 muse ピアス / 1位受賞 延長5年保証 30日返品OK / 選べる！ラリエット ロングネックレス Y字 / ネックレス ショートネックレス
+
