@@ -31853,25 +31853,32 @@
     "theme": "今売れている物 × 20代男性（ガジェット・一人暮らし）",
     "persona": "20s_man",
     "event_type": "baseline"
+   },
+   {
+    "date": "2026-11-23",
+    "slot": "morning",
+    "theme": "ブラックフライデー（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "anker:10002482",
-  "name": "【期間限定セール実施中 10/21まで】Anker Soundcore P31i (Bluetooth 6.1) 【完全ワイヤレスイヤホン/アクティブノイズキャンセリング/マルチポイント接続 / 最大50時間再生 / PSE技術基準適合】",
+  "name": "【期間限定セール実施中 11/25まで】Anker Soundcore P31i (Bluetooth 6.1) 【完全ワイヤレスイヤホン/アクティブノイズキャンセリング/マルチポイント接続 / 最大50時間再生 / PSE技術基準適合】",
   "price": 4990,
   "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rr09o.72d3y980.g00rr09o.72d3z79c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fd1202%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanker%2Fi%2F10002482%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00rr09o.72d3y980.g00rr09o.72d3z79c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanker%2Fd1202%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
-  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/deal/202610bd/d1202_sale.jpg?_ex=600x600",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/deal/2611m2/d1202_11m2.jpg?_ex=600x600",
   "shop_name": "アンカー・ダイレクト楽天市場店",
-  "review_count": 650,
-  "review_average": 4.62,
+  "review_count": 722,
+  "review_average": 4.61,
   "affiliate_rate": 2.0,
   "point_rate": 1,
   "catchcopy": "最大24ヶ月保証",
   "genre_id": "502835",
-  "score": 13.83,
-  "last_seen": "2026-10-23T12:21:29",
+  "score": 12.47,
+  "last_seen": "2026-11-23T07:01:59",
   "image_urls": [
-   "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/deal/202610bd/d1202_sale.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/deal/2611m2/d1202_11m2.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/listing/product/d1202/d1202_sub_1.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/anker/cabinet/listing/product/d1202/d1202_sub_2.jpg?_ex=600x600"
   ],
@@ -43626,6 +43633,13 @@
     "theme": "ブラックフライデー（開催中） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-11-23",
+    "slot": "morning",
+    "theme": "ブラックフライデー（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "quads:10000016",
@@ -43635,14 +43649,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00ugo6o.72d3y0a5.g00ugo6o.72d3zaf2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fquads%2Fqs324%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/quads/cabinet/2025aw/top_jpg/qs424_top_tmb_2.jpg?_ex=600x600",
   "shop_name": "QUADS公式楽天市場店",
-  "review_count": 743,
+  "review_count": 744,
   "review_average": 4.57,
   "affiliate_rate": 2.0,
   "point_rate": 1,
   "catchcopy": "【1年保証】省エネ大風量スリムパネルセラミックヒーター WIDE ENA HEAT ワイドエナヒート 電気ヒーター ファンヒーター 超薄型12cm 省スペース 人感センサー タイマー 室温設定18～30℃",
   "genre_id": "212277",
-  "score": 13.27,
-  "last_seen": "2026-11-21T20:16:18",
+  "score": 12.07,
+  "last_seen": "2026-11-23T07:01:59",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/quads/cabinet/2025aw/top_jpg/qs424_top_tmb_2.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/quads/cabinet/2025aw/qs424/12047166/qs424_tmb_02.jpg?_ex=600x600",
@@ -44334,6 +44348,13 @@
     "theme": "ブラックフライデー（開催中） × 30代男性（健康・効率化・家電）",
     "persona": "30s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-11-23",
+    "slot": "morning",
+    "theme": "ブラックフライデー（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "ebaby-select:10001543",
@@ -44343,14 +44364,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00r0vdo.72d3ybd9.g00r0vdo.72d3ze8e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Febaby-select%2F5013000001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Febaby-select%2Fi%2F10001543%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/ebaby-select/cabinet/gete/gate01/5013111001_v6_rs01.jpg?_ex=600x600",
   "shop_name": "eBaby-Select by nihonikuji",
-  "review_count": 10641,
+  "review_count": 10644,
   "review_average": 4.55,
   "affiliate_rate": 4.0,
   "point_rate": 5,
   "catchcopy": "おくだけ簡単設置のベビーゲート 扉付きのおくだけとおせんぼ 自立 台所 階段下 玄関 賃貸におすすめ 間仕切り ベビーガードベージュ グレー クリア",
   "genre_id": "200841",
   "score": 14.04,
-  "last_seen": "2026-11-22T12:01:39",
+  "last_seen": "2026-11-23T07:01:59",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/ebaby-select/cabinet/gete/gate01/5013111001_v6_rs01.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/ebaby-select/cabinet/gete/gate01/5013000001_v2_s02.jpg?_ex=600x600",
@@ -48200,6 +48221,13 @@
     "theme": "ブラックフライデー（開催中） × 30代男性（健康・効率化・家電）",
     "persona": "30s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-11-23",
+    "slot": "morning",
+    "theme": "ブラックフライデー（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "duux-japan:10000100",
@@ -48209,14 +48237,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00u099o.72d3y11b.g00u099o.72d3za33/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fduux-japan%2Fdawn%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/duux-japan/cabinet/lp/dawn/imgrc0106402966.jpg?_ex=600x600",
   "shop_name": "duux（デュクス）公式ストア",
-  "review_count": 545,
-  "review_average": 4.41,
+  "review_count": 543,
+  "review_average": 4.42,
   "affiliate_rate": 2.0,
   "point_rate": 1,
   "catchcopy": "【公式ストア限定2年保証】duux デュクス 加湿器 スチーム式 お手入れ簡単加湿器 ヨーロッパ家電 コンパクト加湿器 持ち運び加湿器",
   "genre_id": "502824",
-  "score": 13.39,
-  "last_seen": "2026-11-22T12:01:39",
+  "score": 14.01,
+  "last_seen": "2026-11-23T07:01:59",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/duux-japan/cabinet/lp/dawn/imgrc0106402966.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/duux-japan/cabinet/11985793/12456013/imgrc0106682216.jpg?_ex=600x600",
@@ -50738,6 +50766,13 @@
     "theme": "ブラックフライデー（開催中） × 30代男性（健康・効率化・家電）",
     "persona": "30s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-11-23",
+    "slot": "morning",
+    "theme": "ブラックフライデー（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "low-ya:10008046",
@@ -50754,7 +50789,7 @@
   "catchcopy": "オフィスチェア デスクチェア 椅子 チェア パソコンチェア PCチェア ロッキング機能 学習椅子 オフィス 在宅 リモートワーク メッシュ 通気性 肘掛なし 肘付き 背もたれ付き 腰",
   "genre_id": "300848",
   "score": 11.19,
-  "last_seen": "2026-11-22T12:01:39",
+  "last_seen": "2026-11-23T07:01:59",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/low-ya/cabinet/item_cart/chair/01/sirius-top01.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/low-ya/cabinet/item_cart/chair/01/vg-sirius_02.jpg?_ex=600x600",
@@ -50770,6 +50805,13 @@
     "slot": "noon",
     "theme": "ブラックフライデー（開催中） × 30代男性（健康・効率化・家電）",
     "persona": "30s_man",
+    "event_type": "sale"
+   },
+   {
+    "date": "2026-11-23",
+    "slot": "morning",
+    "theme": "ブラックフライデー（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
     "event_type": "sale"
    }
   ],
@@ -50787,7 +50829,7 @@
   "catchcopy": "MXシリーズの定番マウスが6年ぶりのフルモデルチェンジ",
   "genre_id": "565170",
   "score": 10.87,
-  "last_seen": "2026-11-22T12:01:39",
+  "last_seen": "2026-11-23T07:01:59",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/mice/mx2400grda/mx2400grda_.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/logicool/cabinet/prd/mice/mx2400grda/mx2400grda_1_re.jpg?_ex=600x600",
@@ -51060,5 +51102,205 @@
    "https://thumbnail.image.rakuten.co.jp/@0_mall/worldstyle213/cabinet/10774934/0000.jpg?_ex=600x600"
   ],
   "caption": "●【はじめてでも使いやすい】 わかりやすい日本語の取り扱い説明書付きだから、はじめての方でも簡単に使える低温3Dペンセットです。 ●【大ボリュームのフィラメント】 たくさん使っても大丈夫！！5m × 40本の大ボリュームフィラメント！さらにレビューでさらに5m × 3本＝15mもらえる！ ●【充実の11点セット内容】 《3Dペン本体》・・・5色の中から選べます。 《ギフトに最適強化箱》・・・輸送にも強くてプレゼントにも最適な箱をご用意しました！ 《USBコード》・・・5Vー2A（以上）のUSBポートを使用してください。 《日本語取扱説明書》・・・オリジナル日本語取扱説明書 《フィラメント》・・・5m×40本 の大ボリューム。レビューでさらに3本！ 《立体イラストサンプル集》・・・簡単に立体作品がつくれちゃう！ 《シリコンパッド》・・・直線や曲線のパーツを作ろう！ 《シリコンケース》・・・かわいい動物の型が出来る！ 《プラスティックコピーカード》・・・お気に入りのイラストや絵、漫画等に重ねて作品を作っちゃおう！ 《掃除ピン》・・・かゆいところに手が届く掃除ピン。詰まった時に使おう。 《キーホルダーストラップ》・・・お気に入りの作品をキーホルダーにしよう 【商品仕様】 〇箱サイズ：200mm×200mm×70mm 〇本体重さ：65g 〇セット内容：3Dペン本体、強化箱、USBコード、ペンスタンド、日本語取扱説明書、フィラメント、立体イラストサンプル集、シリコンパッド、シリコンケース、プラスティックコピーカード、掃除ピン、キーホルダーストラップ ※注意事項:モニター発色の具合により、実物とは色合いが異なる場合がございます。※注意事項:モニター発色の具合により、実物とは色合いが異なる場合がございます。"
+ },
+ "leapgrow:10000349": {
+  "first_seen": "2026-11-23T07:01:59",
+  "themes": [
+   {
+    "date": "2026-11-23",
+    "slot": "morning",
+    "theme": "ブラックフライデー（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "leapgrow:10000349",
+  "name": "【公式｜ブラックフライデー限定 1,000円OFFクーポン＋ポイント10倍！】肩こり 首 ネックマッサージ器【MYTREX公式】EMS HEAT NECK 首まわり360°ケア※でコリ改善!医療認証済 38週連続楽天1位! リニューアル 低周波治療器 温熱 首こり ネックマッサージャー 温感ながらケア",
+  "price": 12650,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00ssj2o.72d3ybee.g00ssj2o.72d3z1e6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fleapgrow%2Fmt-p-ehn19w%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fleapgrow%2Fi%2F10000349%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00ssj2o.72d3ybee.g00ssj2o.72d3z1e6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fleapgrow%2Fmt-p-ehn19w%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/leapgrow/cabinet/mytrex/p0/p00_ehn_01a.jpg?_ex=600x600",
+  "shop_name": "MYTREX 公式ストア 楽天市場店",
+  "review_count": 8273,
+  "review_average": 4.47,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "【最大3年保証】 首コリ 首凝り 対策 コードレス ems 温熱器 NNRパルス低周波 EMS HEAT NECK 首 肩 マッサージ ネック マッサージャー おすすめ グッズ ペインケア リカバリーケア 実用的",
+  "genre_id": "568363",
+  "score": 15.94,
+  "last_seen": "2026-11-23T07:01:59",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/leapgrow/cabinet/mytrex/p0/p00_ehn_01a.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/leapgrow/cabinet/mytrex/mytrex_ems_heat_neck/thum/thm_ehn_02.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/leapgrow/cabinet/mytrex/mytrex_ems_heat_neck/thum/thm_ehn_03.jpg?_ex=600x600"
+  ],
+  "caption": "さまざまなTV・雑誌・SNSで話題沸騰中の ネック専用 低周波治療器 『 MYTREX EMS HEAT NECK 』 !! 沢山のお喜びのお声を頂いております!! パルスのチカラで首からほぐし、コリの悩みから解放。 MYTREX マイトレックス EMS ヒートネック 筋疲労や痛みにアプローチする低周波治療器 ※ 医療機器認証済みの本格的な\"マッサージ機器\"のため、\"マッサージ\"の代用(一般家庭で使用すること)として、効果の表示が認められています。 [ Point! ] MYTREX独自の低周波テクノロジー 深く、強く、集中的にマッサージ 独自の理論で周波数とパルス波を組み合わせた低周波テクノロジー「NNRパルス」搭載。 チクチク感を抑え、筋肉の奥深くまで届くパルスの力で、凝り固まった筋肉を集中的に刺激。 首・肩まわりの血行を促進し、コリや痛みを緩和します。 広範囲に届く低周波テクノロジー コリの原因「僧帽筋」にもアプローチ 「僧帽筋」とは首の後ろから肩、背中にかけて張っている幅広い筋肉です。 同じ姿勢で長時間作業を行う、猫背や前かがみになりがちで首に負担がかかっている、冷房を浴びすぎて体が冷えて血行が悪いなど、ひとつでも思い当たる人は、「僧帽筋」の柔軟性を高め、血液循環を促進することが効果的です。 首まわり全体を温めてくれる 効果的にリフレッシュさせる4つの『温感』パッド 4つの加熱パッドにより、首まわりを広範囲に温めることが可能。 首後方に加え、首側面を温めることによって、首まわりの筋肉に働きかけます。 使いやすさを考えたデザイン設計 コードレスだから叶う、ながらネックケア 3種類の音声モード搭載。 また、約166グラムの軽量設計で、着けていることを忘れる軽さとコードレスでながらネックケアにも最適です。 日本企業開発のハイクオリティ設計 人間工学に基づいた抜群のフィット",
+  "posted_text": "#PR 家族みんなが使ってる定番\n肩こり ネックマッサージ器 EMS HEAT\n★4.47・レビュー8,273件・楽天ランキング1位\n12,650円\n#楽天購入品\n▶ROOMはプロフから",
+  "posted_at": "2026-11-23T07:01:59"
+ },
+ "hitidear:10000215": {
+  "first_seen": "2026-11-23T07:01:59",
+  "themes": [
+   {
+    "date": "2026-11-23",
+    "slot": "morning",
+    "theme": "ブラックフライデー（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "hitidear:10000215",
+  "name": "【クーポンで最安5680円】「楽天1位」「1秒速暖」セラミックヒーター 速暖 人感センサー 大風量 省エネ 温度調節可能 首振り 8W/900W/1200W 電気ストーブ セラミックファンヒーター 即暖 足元 ファンヒーター 電気 安全 転倒OFF リモコン付き ECO オフィス おしゃれ パワフル",
+  "price": 11360,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00uab6o.72d3ye97.g00uab6o.72d3z823/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhitidear%2Fh-silent1200%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhitidear%2Fi%2F10000215%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00uab6o.72d3ye97.g00uab6o.72d3z823/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhitidear%2Fh-silent1200%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/hitidear/cabinet/10065696/10914652/h-silent1200-5680.jpg?_ex=600x600",
+  "shop_name": "Hitidear",
+  "review_count": 222,
+  "review_average": 4.68,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "冬に欲しい機能をこれ1台に 乾燥対策に気化式加湿ボックス搭載 あらゆる場所で大活躍 操作簡単 タイマー 省エネ 静音 リビング キッチン 寝室 洗面所 脱衣所 暖房 持ち運び便利 安全 静音",
+  "genre_id": "212277",
+  "score": 14.61,
+  "last_seen": "2026-11-23T07:01:59",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/hitidear/cabinet/10065696/10914652/h-silent1200-5680.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/hitidear/cabinet/14218222/1.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/hitidear/cabinet/14218222/2.jpg?_ex=600x600"
+  ],
+  "caption": "商品名 電気ファンヒーター 品番 H-Silent1200 カラー ●ホワイト ●ブラック ●ダークグレー 仕樣 ●定格電圧：AC 100V ●定格周波数：50/60Hz ●定格消費電力： 自然風　　 8W 温風（弱） 900W 温風（強） 1200W ●重さ：約2.2Kg ●届出事業者名：株式会社天井商事 ●PSマークの種類：PSE ※ご注意：電気製品、PC等の精密機器の近くで使用しないでください。動作不良や故障の原因になる場合がございます。 関連キーワード ヒーター 小型 セラミックヒーター 電気ファンヒーター 1秒速暖 タイマー設定 温度調節可能 自動首振り 4段階モード リモコン付き 遠距離操作 ヒートショック防止 メモリー機能 冷暖両用 過熱保護 転倒停止 四季適用 足元ヒーター 暖房器具 送料無料 即暖 子供部屋/リビング/寝室/書斎/キッチン/脱衣所/洗面所/トイレなど/オフィス適用 持ち運び便利 4段階切替 ヒーター ファンヒーター 扇風機 電気ストーブ 過熱保護 4段階切替 コンパクト PSE認証 首振り セラミックファンヒーター 足元暖房 リモコン 静音 節電 日常の暖房や 転倒自動OFF 温度調節機能 浴室 寝室 自動首振り 軽量 軽い 持ち運びやすい 暖房器具 受験生 省エネ 自宅 寝室 リビング ダイニング 書斎 勉強部屋 キッチン 洗面所 脱衣所 トイレ ペット用 室内 オフィス キャンプ アウトドア 寒さ対策 冷え対策 節電 超静音 静か 温か トイレ ペット用首振り機能付き 小型 おしゃれ 省エネ エコ 送風 即暖 秋冬 人気 広い部屋 部屋 暖まる セラミックヒーター ヒーター 小型 自動首振り 大風量 ファンヒーター 瞬間速暖 ミニ おすすめ 安い おすすめ 温風 冷風 小型 暖かさ 安全 ファンヒーター 衣類乾燥 足元 強力 速暖 電気"
+ },
+ "gmy-japan:10000065": {
+  "first_seen": "2026-11-23T07:01:59",
+  "themes": [
+   {
+    "date": "2026-11-23",
+    "slot": "morning",
+    "theme": "ブラックフライデー（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "gmy-japan:10000065",
+  "name": "楽天1位◆累計販売5万台突破◆3000円OFF◆タワーファンヒーター 羽根なし扇風機 暖風機 冷風扇 DCモーター 静音運転 サーキュレーター 8段階送風 強風 大風量 100°左右首振り 9H切タイマー 省エネ 節電対策 お手入れ簡単 省スペース 組み立て不要 リモコン付 部屋 リビング",
+  "price": 10980,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00ujoeo.72d3ycf2.g00ujoeo.72d3z310/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgmy-japan%2Fs-wyfs-018jr-wh%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgmy-japan%2Fi%2F10000065%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00ujoeo.72d3ycf2.g00ujoeo.72d3z310/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgmy-japan%2Fs-wyfs-018jr-wh%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/gmy-japan/cabinet/1104/2-2.jpg?_ex=600x600",
+  "shop_name": "吉美意楽天市場店",
+  "review_count": 971,
+  "review_average": 4.36,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "冷暖房兼用 空気浄化 首振り扇風機 スマート 冷風機 家庭用 羽根なし ミュート 広角送風 8段階風量 オフィス 大型 冷暖タイプ クリスマス プレゼント母の日 父の日 会議室 室内 PSE認証済",
+  "genre_id": "212277",
+  "score": 14.31,
+  "last_seen": "2026-11-23T07:01:59",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/gmy-japan/cabinet/1104/2-2.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/gmy-japan/cabinet/1104/2.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/gmy-japan/cabinet/1104/imgrc0115751441.jpg?_ex=600x600"
+  ],
+  "caption": "【羽なし扇風機＆魅力的！】 この羽なし扇風機は、スタイリッシュなデザインと、羽がないことによる安全性の高さです。通常の扇風機に比べると、スペースを取らず見た目もすっきり。おしゃれな羽なし扇風機は、部屋に生活感を出したくない人や、狭い部屋にもスマートにおける扇風機がほしい人におすすめです。羽を触ってしまうリスクを減らせるため、小さい子どもがいる家庭にもぴったりです。羽を1枚1枚拭くといった掃除が不要なので、お手入れも簡単。空気を循環させるサーキュレーターとして、1年中使うこともできます。 【DCモーター式リビング扇風機】 DCモーター式扇風機の特徴の一つは、ACモーター式に比べて電気代を約3～4分の1に抑えることができるのもDCモーター式扇風機の魅力。扇風機の使用頻度が高い方やエアコンとあわせて扇風機を使いたいと考えている方であれば、電気代の部分で大きなメリットを感じられるでしょう。 【8段階風量調節＆エアコンと併用効率UP！】 タワーファンはDCモーターを搭載していて、DCモーター式扇風機の最大の特徴は、風量を細かく調整できること。タワーファンは8段階風量調節でき、また、微風と強風モードをプラスしました。弱風よりもさらに弱い微風や、自然のそよ風のような超微風の設定も可能です。就寝時に使いたいという方や、赤ちゃんがいるご家庭には最適な扇風機だと言えるでしょう。 【自動100°首振り＆静音運転】 羽根なしタワーファンは自動首振り機能を搭載しており、左右に100°自動で首振りすることができ、本体を動かさずに部屋の広範囲を送風します。 左右の首振り機能は、部屋干し中の洗濯物に風を当てたり、仕切りを挟んで隣接する部屋にも空気を運んだりできます。また、羽なし扇風機は約45dBの動作音で読書や仕事に一切邪魔することもしなく、就寝時などに安心に利用できる部屋用サーキュレーターです。 【9H"
+ },
+ "yoshinoya-shop:10000945": {
+  "first_seen": "2026-11-23T07:01:59",
+  "themes": [
+   {
+    "date": "2026-11-23",
+    "slot": "morning",
+    "theme": "ブラックフライデー（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "yoshinoya-shop:10000945",
+  "name": "吉野家 公式 【冷凍】大盛牛丼の具(160g)×30袋セット【送料込】 簡単 便利 夜食 おつまみ 昼ごはん ストック 冷凍食品 お弁当 おかず クール宅急便 取り寄せ グルメ 牛丼",
+  "price": 9882,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00sc9po.72d3yaba.g00sc9po.72d3zbf9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyoshinoya-shop%2F666508%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyoshinoya-shop%2Fi%2F10000945%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00sc9po.72d3yaba.g00sc9po.72d3zbf9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyoshinoya-shop%2F666508%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/yoshinoya-shop/cabinet/gyuudon/666508.jpg?_ex=600x600",
+  "shop_name": "吉野家公式ショップ楽天市場店",
+  "review_count": 131,
+  "review_average": 4.78,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "並盛サイズの約1.3倍の量！並盛サイズでは物足りないという方におススメです。",
+  "genre_id": "566683",
+  "score": 14.17,
+  "last_seen": "2026-11-23T07:01:59",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/yoshinoya-shop/cabinet/gyuudon/666508.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/yoshinoya-shop/cabinet/items/gyudon_body002.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/yoshinoya-shop/cabinet/items/gyudon_body_01.jpg?_ex=600x600"
+  ],
+  "caption": "製品仕様 名称 冷凍大盛牛丼の具30袋セット 内容量 160g ×30袋 賞味期限 製造日含む365日（ 賞味期限残存3ヶ月以上の商品でのお届けとなります ） 保存方法 -18℃以下で保存してください。 原材料/商品内容 牛肉（米国産又はカナダ産又は豪州産（5％未満））、タレ(国内製造)（ぶどう発酵調味料、醤油、砂糖、醤油加工品、その他）、玉ねぎ（中国又は国産又は米国（5％未満））/調味料（アミノ酸等）、カラメル色素、酸味料、香辛料抽出物、乳化剤、（一部に小麦・牛肉・大豆・りんご・ゼラチンを含む） 成分 成分/331kcal/1袋あたり:たんぱく質：12.0g　脂質：27.1g　炭水化物：10.2g（糖質：9.1g、食物繊維：1.1g）　食塩相当量：2.9g 商品説明 吉野家の牛丼が、お店の味をそのままに冷凍牛丼として登場。徹底した品質管理とこだわりの食材で美味しさを追求した1品です。ボリュームたっぷりの大盛でがっつり吉野家を味わえます。 調理方法 電子レンジ：500W 約3分40秒、600W 約3分 　湯せん5分 パッケージの寸法&#8195;HXWXD 約19.0cm＊約14.5cm＊約1.0cm 原産地 牛肉（米国産又はカナダ産又は豪州産（5％未満））、玉ねぎ（中国又は国産又は米国（5％未満））※過去3年間の平均使用実績順 特定アレルギー物質 小麦・牛肉・大豆・りんご・ゼラチン吉野家 冷凍 紅生姜5袋セット 1,188円(税込) 吉野家 冷凍 お新香4袋セット 1,188円(税込) 吉野家 唐辛子2本セット 842円(税込)"
+ },
+ "pixiogaming:10000116": {
+  "first_seen": "2026-11-23T07:01:59",
+  "themes": [
+   {
+    "date": "2026-11-23",
+    "slot": "morning",
+    "theme": "ブラックフライデー（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "pixiogaming:10000116",
+  "name": "Pixio ゲーミングモニター 24インチ ホワイト PX249WAVE PX248WAVE 白 240hz pcモニター 120Hz 144Hz 165Hz 対応 モニター ピンク ブルー ベージュ フルHD IPS HDR ノングレア スピーカー内蔵 VESA 23.8インチ 液晶 ディスプレイ ピクシオ 公式 【最大5年保証】",
+  "price": 15800,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00u8lto.72d3y6e3.g00u8lto.72d3zc85/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpixiogaming%2Fpx248wave%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpixiogaming%2Fi%2F10000116%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00u8lto.72d3y6e3.g00u8lto.72d3zc85/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpixiogaming%2Fpx248wave%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/pixiogaming/cabinet/px248wave/px248wave.jpg?_ex=600x600",
+  "shop_name": "Pixio公式ストア",
+  "review_count": 422,
+  "review_average": 4.68,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "ゲーミングモニター 水色 高画質 pcモニター ps5 ps4 swich xbox 対応 在宅ワーク サブモニター フレームレス ベゼルレス マルチ eスポーツ ゲーム用 esports プレゼント【送料無料】",
+  "genre_id": "110105",
+  "score": 11.93,
+  "last_seen": "2026-11-23T07:01:59",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/pixiogaming/cabinet/px248wave/px248wave.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/pixiogaming/cabinet/13070247/imgrc0121930821.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/pixiogaming/cabinet/13070247/px249wave_color_01.jpg?_ex=600x600"
+  ],
+  "caption": "Pixio ( ピクシオ ) PX248Wave 23.8インチ ゲーミングモニター/ 200Hz フルHD(1920×1080) 112％sRGB Fast IPSパネル スピーカー搭載 ■ 1ms（GTG） OverDriveを最大にしMPRTをONにすることで1ms(GTG)の応答速度を実現。素早いアクションが残像を感じることなくゲームがよリ一層滑らかになります。 ■ 200Hz PX248Waveは1秒間に最大200フレームを描写することができ、一般的なゲーミングモニターと比較しても一段上の滑らかな映像が出力されます。 ■ 112％ sRGB sRGBカバー率112%は、ゲーマーだけでなくプロのグラフィックデザイナーにとっても充分に満足いただけるスペックです。 ■ IPSパネル IPSパネルは鮮明な黒と豊かな色彩によリ驚くべきコントラストを表現します。広い視野角は、どの方向から視聴しても同じ色感を共有できます。 ■ FreeSync ティアリングやスタッタリングを軽減し、ズレや遅れを抑え、アクション性の強いゲームでも快適にプレイできます。 ■ FIickerFree（フリッカーフリー） 目の疲れや頭痛の原因とされる光のチラつきを抑え、目にかかる負担を大幅に軽減します。 ■ ブラックイコライザー ゲーム中の見えにくい暗所を明瞭に映し出すことで、隠れている敵や障害物を素早く見分けることができます。 ■ オーバーレイ 十字オーバーレイ機能である LOS(LineOfSightCross-hair)ホットキーを搭載。 ■ プリセット設定 PX248Waveでは5つのプリセット設定を選択可能。ゲームのジャンルに合わせたFPSやRTSの設定の他に、映画や画像加工用などが選べます。 ■ 入力端子 ・HDMI 2.0 ×1 ・DP 1.4 ×1 ・イヤホンジャック ×1 PS4やN"
+ },
+ "auc-risecreation:10005478": {
+  "first_seen": "2026-11-23T07:01:59",
+  "themes": [
+   {
+    "date": "2026-11-23",
+    "slot": "morning",
+    "theme": "ブラックフライデー（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "auc-risecreation:10005478",
+  "name": "【3,000円OFF★11/25 23:59迄】 1年保証 [正規品].NiMore パネルヒーター コンベクターヒーター 1200W 800W 小型 足元 デスク下 暖房器具 勉強 省エネ 静音 リモコン タイマー付き 自動温度調節 チャ",
+  "price": 17980,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00s0p3o.72d3yc97.g00s0p3o.72d3z6fe/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-risecreation%2Fr0902%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-risecreation%2Fi%2F10005478%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00s0p3o.72d3yc97.g00s0p3o.72d3z6fe/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-risecreation%2Fr0902%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-risecreation/cabinet/product/top-2/r0902_top_ba.jpg?_ex=600x600",
+  "shop_name": "atRise（アットライズ）",
+  "review_count": 51,
+  "review_average": 4.39,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "風も音も気にならない対流式。リモコンとON/OFFタイマーで、寝室も脱衣所もやさしく暖まるパネル ヒーター",
+  "genre_id": "212264",
+  "score": 10.89,
+  "last_seen": "2026-11-23T07:01:59",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-risecreation/cabinet/product/top-2/r0902_top_ba.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-risecreation/cabinet/product/13170817/r0902_02_.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-risecreation/cabinet/product/13170817/r0902_22.jpg?_ex=600x600"
+  ],
+  "caption": "▽ アットライズの冬物特集 ▽ ▽ NEW ARRIVAL ▽ 商品紹介 ファンを使わない対流式のパネルヒーターです。 風が直接当たらないので、寝室や脱衣所など、ゆっくり過ごす場所でお使いいただけます。 リモコンで離れた場所から操作でき、ON/OFFタイマーは1時間単位で設定可能。 朝起きる時間に合わせて暖めておくことができます。 就寝時に邪魔にならない消灯モード（ライト20%）、強弱2段階の切り替え、15〜45℃の温度設定（1℃刻み）に対応。 ECOモードと快眠モードも搭載しています。 チャイルドロック（誤操作防止）と転倒時自動停止の安全機能付き。 マットな質感のボディに、ウォールナット調の木目脚を合わせました。 スペック サイズ(約): ・800W 幅59×奥行16×高さ43cm ・1200W 幅82.5×奥行16×高さ43cm 重さ(約): 800W 3.7kg / 1200W 5.2kg 素材: 本体 スチール / 木目脚 ABS 消費電力: 800W（400W/800Wの2段階） / 1200W（800W/1200Wの2段階） 電源: AC100V 温度設定: 15〜45℃（1℃刻み） タイマー: ON/OFF（1時間単位） 電源コード長さ(約): 1.5m 付属品: リモコン、取扱説明書 カラー・ワット数 ホワイト 1200W グレージュ 800W グレージュ 1200W 注意事項 ・ご使用前に、必ず取扱説明書をお読みください。 ・設置したい場所の高さ・幅・奥行きを、事前にご確認ください。 ・寸法はスタッフが手作業で採寸しており、実際の商品と若干の誤差が生じる場合がございます。 ・使用時の破損や事故等につきましては責任を負いかねます。 ・輸入品の為、輸送の際に生じるキズ・汚れ・箱潰れがある場合がございますが新品です。 ・あくまで画像はイメージですので、商品改良の"
  }
 }
