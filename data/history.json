@@ -26478,5 +26478,16 @@
   "review_count": 77,
   "review_average": 4.48,
   "genre_id": "552481"
+ },
+ {
+  "date": "2026-11-22T18:31:03",
+  "slot": "evening",
+  "kind": "engage",
+  "engage_key": "poll2",
+  "theme": "反応投稿（poll）",
+  "persona": "all",
+  "text": "【ブラックフライデー 開催中】\nポイント、何に使ってますか？",
+  "tweet_id": "",
+  "threads_id": "18081800309418936"
  }
 ]
