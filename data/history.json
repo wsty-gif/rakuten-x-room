@@ -26836,5 +26836,16 @@
   "review_count": 2072,
   "review_average": 4.72,
   "genre_id": "405258"
+ },
+ {
+  "date": "2026-11-23T18:31:07",
+  "slot": "evening",
+  "kind": "engage",
+  "engage_key": "q7",
+  "theme": "反応投稿（question）",
+  "persona": "all",
+  "text": "楽天のセールで「これは待つべきだった」と思った経験、ありますか？",
+  "tweet_id": "",
+  "threads_id": "17916251055472955"
  }
 ]
