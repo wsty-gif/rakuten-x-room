@@ -26614,7 +26614,8 @@
   "shop_name": "MYTREX 公式ストア 楽天市場店",
   "review_count": 8273,
   "review_average": 4.47,
-  "genre_id": "568363"
+  "genre_id": "568363",
+  "instagram_story_id": "18125196898820128"
  },
  {
   "date": "2026-11-23T07:01:59",
@@ -26735,5 +26736,105 @@
   "review_count": 298,
   "review_average": 4.65,
   "genre_id": "216307"
+ },
+ {
+  "date": "2026-11-23T12:01:41",
+  "slot": "noon",
+  "theme": "クリスマス（31日後） × 20代女性（自分磨き・プチプラ・映え）",
+  "persona": "20s_woman",
+  "item_code": "lancome:10000136",
+  "item_name": "ポイント20倍★11/19 20:00~ 11/25 01:59★【公式】LANCÔME(ランコム) ジェニフィック アルティメ セラム 30mL 50mL 導",
+  "price": 12430,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00trnuo.72d3y94c.g00trnuo.72d3zf9c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flancome%2Fjp-lan-000329%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flancome%2Fi%2F10000136%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "#PR クリスマス、まだ決めてない人へ\n11 19 20:00~ 11 25\n★4.81・レビュー8,004件\n12,430円（P20倍で実質9,944円）\n使ってる人いたら感想ください\n#楽天購入品\n▶ROOMはプロフから",
+  "tweet_id": "",
+  "threads_id": "18351573520256818",
+  "room_done": false,
+  "image": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/lancome/cabinet/12611101/12611109/14251139/imgrc0148392929.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/lancome/cabinet/12611101/12611109/14251139/imgrc0148392929.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/lancome/cabinet/12611101/12611133/14191962/serum.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/lancome/cabinet/12611101/12611133/14191962/imgrc0148422713.jpg?_ex=600x600"
+  ],
+  "shop_name": "ランコム 公式ショップ",
+  "review_count": 8004,
+  "review_average": 4.81,
+  "genre_id": "216348",
+  "instagram_id": "17875376706641607",
+  "instagram_story_id": "18047188886831451"
+ },
+ {
+  "date": "2026-11-23T12:01:42",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "クリスマス（31日後） × 20代女性（自分磨き・プチプラ・映え）",
+  "persona": "20s_woman",
+  "item_code": "craife:10000929",
+  "item_name": "【全品P10倍+最大35%OFFクーポン配布中】 ネックレス サージカルステンレス 316L 金属アレルギー対応 18K コーティング レディース 大人 かわい",
+  "price": 2180,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00u3oao.72d3y099.g00u3oao.72d3za33/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcraife%2Fnl-104%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcraife%2Fi%2F10000929%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "クリスマスのプレゼント候補。プチプラで探してる人に。レビュー179件で★4.3。35%OFF、送料無料。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/craife/cabinet/product-5/nl-104-1.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/craife/cabinet/product-5/nl-104-1.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/craife/cabinet/product-5/nl-104-2.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/craife/cabinet/product-5/nl-104-3.jpg?_ex=600x600"
+  ],
+  "shop_name": "CRAIFE （クライフ）楽天市場店",
+  "review_count": 179,
+  "review_average": 4.3,
+  "genre_id": "111029"
+ },
+ {
+  "date": "2026-11-23T12:01:42",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "クリスマス（31日後） × 20代女性（自分磨き・プチプラ・映え）",
+  "persona": "20s_woman",
+  "item_code": "blueleaf:10000402",
+  "item_name": "＼リニューアル発売！P5倍 最大30％クーポン配布中／リング 指輪 2mm ボール指輪 ボールリング カット マリッジリング ステンレスリング ペアリング 重ね",
+  "price": 1870,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tzgno.72d3y812.g00tzgno.72d3z88e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fblueleaf%2Fring64%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fblueleaf%2Fi%2F10000402%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "クリスマスのプレゼント候補。自分へのご褒美にちょうどいい価格。サイズ計測の際、多少誤差を生じることがございます。3mm指輪はこちら。楽天ランキング1位、レビュー760件で★4.58。ポイント10倍で実質1,683円。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/blueleaf/cabinet/08102913/08201002/ring/ring64-n-1.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/blueleaf/cabinet/08102913/08201002/ring/ring64-n-1.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/blueleaf/cabinet/08102913/08201002/ring/ring64-n-2.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/blueleaf/cabinet/08102913/08201002/ring/ring64-n-3.jpg?_ex=600x600"
+  ],
+  "shop_name": "BLUE LEAF",
+  "review_count": 760,
+  "review_average": 4.58,
+  "genre_id": "100487"
+ },
+ {
+  "date": "2026-11-23T12:01:42",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "クリスマス（31日後） × 20代女性（自分磨き・プチプラ・映え）",
+  "persona": "20s_woman",
+  "item_code": "shuuemura:10000381",
+  "item_name": "【公式】アンリミテッド ブロック:ブースター アドバンスト | 化粧下地 shu uemura シュウウエムラ 正規品 送料無料 公式ショップ プレゼント ギフ",
+  "price": 5830,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tl4no.72d3yc14.g00tl4no.72d3ze52/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshuuemura%2Fshu10241%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshuuemura%2Fi%2F10000381%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "クリスマスのプレゼント候補。自分へのご褒美にちょうどいい価格。心地よいうるツヤ膜を纏うように瞬時にピタッと高密着。商品特長みずみずしいテクスチャーがうるおいを纏って高密着。レビュー2,072件で★4.72。送料無料。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/shuuemura/cabinet/12824584/12825927/14173013/imgrc0144930510.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/shuuemura/cabinet/12824584/12825927/14173013/imgrc0144930510.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/shuuemura/cabinet/12824584/13281795/imgrc0145092965.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/shuuemura/cabinet/12824584/13281795/9.jpg?_ex=600x600"
+  ],
+  "shop_name": "シュウ ウエムラ 公式ショップ",
+  "review_count": 2072,
+  "review_average": 4.72,
+  "genre_id": "405258"
  }
 ]
