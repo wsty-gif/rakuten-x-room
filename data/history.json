@@ -27020,7 +27020,8 @@
   "shop_name": "AJIRO ACCESSORY",
   "review_count": 626,
   "review_average": 4.58,
-  "genre_id": "111029"
+  "genre_id": "111029",
+  "instagram_story_id": "17915721210475722"
  },
  {
   "date": "2026-11-24T07:07:19",
@@ -27093,5 +27094,151 @@
   "review_count": 4540,
   "review_average": 4.56,
   "genre_id": "403733"
+ },
+ {
+  "date": "2026-11-24T12:01:39",
+  "slot": "noon",
+  "theme": "ブラックフライデー（開催中） × 20代男性（ガジェット・一人暮らし）",
+  "persona": "20s_man",
+  "item_code": "irisplaza-r:10141596",
+  "item_name": "＼楽天1位獲得／ セラミックヒーター 速暖 人感センサー 大風量 省エネ 小型 軽量 コンパクト 足元 ファンヒーター リビング キッチン 洗面所 脱衣所 暖房",
+  "price": 5478,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00t3zto.72d3y505.g00t3zto.72d3z9db/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Firisplaza-r%2F288678%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Firisplaza-r%2Fi%2F10141596%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 2.0,
+  "text": "#PR ポイント15倍の今が狙い目\n楽天1位獲得 セラミックヒーター 速暖\n★4.22・レビュー299件・楽天ランキング1位\n5,478円（P15倍で実質4,656円）\n#楽天購入品\n▶ROOMはプロフから",
+  "tweet_id": "",
+  "threads_id": "18224564218354555",
+  "room_done": false,
+  "image": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/irisplaza-r/cabinet/12113165/imgrc0114681919.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/irisplaza-r/cabinet/12113165/imgrc0114681919.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/irisplaza-r/cabinet/10172579/12541977/imgrc0132458351.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/irisplaza-r/cabinet/jishahin35/imgrc0084392489.jpg?_ex=600x600"
+  ],
+  "shop_name": "アイリスオーヤマ公式 楽天市場店",
+  "review_count": 299,
+  "review_average": 4.22,
+  "genre_id": "212277",
+  "instagram_id": "18112733126203743",
+  "instagram_story_id": "18129321952918402"
+ },
+ {
+  "date": "2026-11-24T12:01:39",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "ブラックフライデー（開催中） × 20代男性（ガジェット・一人暮らし）",
+  "persona": "20s_man",
+  "item_code": "e-kurashi:10002588",
+  "item_name": "【BFセール中】ヒーター セラミックヒーター 人感センサー 省エネ 速暖 1200W/700W 出力2段階 HF-L122/DSF-TL12 セラミックファンヒ",
+  "price": 5832,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pui9o.72d3y639.g00pui9o.72d3zc91/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-kurashi%2F1484987%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-kurashi%2Fi%2F10002588%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 2.0,
+  "text": "ブラックフライデー中に狙いたい1つ。一人暮らしの部屋に1つあると便利。レビュー5,876件で★4.32。送料無料。配送日も一緒に確認を。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/e-kurashi/cabinet/main-img/018/main-s4f08.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/e-kurashi/cabinet/main-img/018/main-s4f08.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/e-kurashi/cabinet/pc_sub/103/denkidanbou_brand.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/e-kurashi/cabinet/pc_sub/089/s4f07-11.jpg?_ex=600x600"
+  ],
+  "shop_name": "くらしのeショップ",
+  "review_count": 5876,
+  "review_average": 4.32,
+  "genre_id": "212277"
+ },
+ {
+  "date": "2026-11-24T12:01:39",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "ブラックフライデー（開催中） × 20代男性（ガジェット・一人暮らし）",
+  "persona": "20s_man",
+  "item_code": "anuajapan:10000000",
+  "item_name": "【28時間限定！30％ポイント還元&10%OFFクーポン有】【美容液大容量50ml 3種｜PDRN・アゼライン酸・ダークスポット】【ブラックフライデー目玉商品】",
+  "price": 4500,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00u6mzo.72d3yb21.g00u6mzo.72d3z922/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanuajapan%2Fanua00001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanuajapan%2Fi%2F10000000%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "ブラックフライデー中に狙いたい1つ。一人暮らしの部屋に1つあると便利。レビュー702件で★4.68。10%OFF。在庫が動きやすいので早めに。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/anuajapan/cabinet/anua00001/26bf50_thmb.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/anuajapan/cabinet/anua00001/26bf50_thmb.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/anuajapan/cabinet/anua00001/26bfserum50_800800.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/anuajapan/cabinet/11288031/1by1/pdrn1by1_01.jpg?_ex=600x600"
+  ],
+  "shop_name": "ANUA Official 楽天市場店",
+  "review_count": 702,
+  "review_average": 4.68,
+  "genre_id": "216348"
+ },
+ {
+  "date": "2026-11-24T12:01:39",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "ブラックフライデー（開催中） × 20代男性（ガジェット・一人暮らし）",
+  "persona": "20s_man",
+  "item_code": "mywineclub:10019847",
+  "item_name": "【送料無料】【予約販売:第3弾】ボルドーの常識を覆す!格上メドック×5冠金賞×高評価!厳選赤ワイン10本セット 【W07362】 | 金賞受賞 飲み比べ ワイン",
+  "price": 8778,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qikdo.72d3yf0a.g00qikdo.72d3z747/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmywineclub%2Freserve_bordeaux10_12%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmywineclub%2Fi%2F10019847%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "ブラックフライデー中に狙いたい1つ。レビューを見て買う人が多いやつ。予約販売商品はお客様ご自身でキャンセル手続きすることはできません。レビュー54件で★4.57。送料無料。配送日も一緒に確認を。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/mywineclub/cabinet/shohin41/w07002.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/mywineclub/cabinet/shohin41/w07002.jpg?_ex=600x600"
+  ],
+  "shop_name": "MyWineClub（マイワインクラブ）",
+  "review_count": 54,
+  "review_average": 4.57,
+  "genre_id": "567661"
+ },
+ {
+  "date": "2026-11-24T12:01:39",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "ブラックフライデー（開催中） × 20代男性（ガジェット・一人暮らし）",
+  "persona": "20s_man",
+  "item_code": "shark:10000580",
+  "item_name": "ポイント10倍 【9月25日新発売】【Ninja 公式】 Ninja SOUPi オートスープメーカー QH201J / 公式レシピ付き シャークニンジャ 自動",
+  "price": 9900,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00toapo.72d3y30a.g00toapo.72d3z450/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshark%2Fqh201j%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshark%2Fi%2F10000580%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 2.0,
+  "text": "ブラックフライデー中に狙いたい1つ。一人暮らしの部屋に1つあると便利。レビュー63件で★4.33。9,900円。気になる人はお気に入り登録を。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/shark/cabinet/renamethum/p10/qh201j.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/shark/cabinet/renamethum/p10/qh201j.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/shark/cabinet/products/qh201j/soupi_recipe_1200.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/shark/cabinet/products/qh201j/qh201j_01.jpg?_ex=600x600"
+  ],
+  "shop_name": "SharkNinja公式楽天市場店",
+  "review_count": 63,
+  "review_average": 4.33,
+  "genre_id": "565076"
+ },
+ {
+  "date": "2026-11-24T12:01:39",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "ブラックフライデー（開催中） × 20代男性（ガジェット・一人暮らし）",
+  "persona": "20s_man",
+  "item_code": "pixiogaming:10000116",
+  "item_name": "Pixio ゲーミングモニター 24インチ ホワイト PX249WAVE PX248WAVE 白 240hz pcモニター 120Hz 144Hz 165Hz ",
+  "price": 15800,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00u8lto.72d3y6e3.g00u8lto.72d3zc85/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpixiogaming%2Fpx248wave%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpixiogaming%2Fi%2F10000116%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 2.0,
+  "text": "ブラックフライデー中に狙いたい1つ。レビューを見て買う人が多いやつ。素早いアクションが残像を感じることなくゲームがよリ一層滑らかになります。広い視野角は、どの方向から視聴しても同じ色感を共有できます。レビュー422件で★4.68。送料無料。配送日も一緒に確認を。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/pixiogaming/cabinet/px248wave/px248wave.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/pixiogaming/cabinet/px248wave/px248wave.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/pixiogaming/cabinet/13070247/imgrc0121930821.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/pixiogaming/cabinet/13070247/px249wave_color_01.jpg?_ex=600x600"
+  ],
+  "shop_name": "Pixio公式ストア",
+  "review_count": 422,
+  "review_average": 4.68,
+  "genre_id": "110105"
  }
 ]
