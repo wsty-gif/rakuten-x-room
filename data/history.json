@@ -27376,7 +27376,8 @@
   "shop_name": "公式 UCC ドリップポッドストア",
   "review_count": 3130,
   "review_average": 4.77,
-  "genre_id": "565115"
+  "genre_id": "565115",
+  "instagram_story_id": "18095025887232712"
  },
  {
   "date": "2026-11-25T07:01:39",
@@ -27521,5 +27522,129 @@
   "review_count": 8958,
   "review_average": 4.44,
   "genre_id": "110435"
+ },
+ {
+  "date": "2026-11-25T12:01:36",
+  "slot": "noon",
+  "theme": "クリスマス（29日後） × 30代男性（健康・効率化・家電）",
+  "persona": "30s_man",
+  "item_code": "toku-corporation:10002267",
+  "item_name": "【クーポンで最大半額！50％OFF】 指輪 リング モアサナイト フルエタニティリング レディース ジュエリー アクセサリー サージカルステンレス 金属アレルギ",
+  "price": 5980,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tyywo.72d3y831.g00tyywo.72d3z004/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftoku-corporation%2Frss068%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftoku-corporation%2Fi%2F10002267%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "#PR 外さないプレゼントはこれ\n指輪 リング モアサナイト\n★4.77・レビュー318件\n50%OFF｜5,980円\n#楽天購入品\n▶ROOMはプロフから",
+  "tweet_id": "",
+  "threads_id": "18351301327250270",
+  "room_done": false,
+  "image": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/toku-corporation/cabinet/07917445/07917452/rss068/rss068_1200ab.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/toku-corporation/cabinet/07917445/07917452/rss068/rss068_1200ab.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/toku-corporation/cabinet/07917445/07917452/rss068/kaishi_1200.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/toku-corporation/cabinet/07917845/common/review1200_20260915.jpg?_ex=600x600"
+  ],
+  "shop_name": "Tokuアクセサリー",
+  "review_count": 318,
+  "review_average": 4.77,
+  "genre_id": "100487",
+  "instagram_id": "18136452628753327",
+  "instagram_story_id": "18341790748275239"
+ },
+ {
+  "date": "2026-11-25T12:01:36",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "クリスマス（29日後） × 30代男性（健康・効率化・家電）",
+  "persona": "30s_man",
+  "item_code": "iamnatural:10000430",
+  "item_name": "【 30日まで 12％OFFCP】 ボールプール 折りたたみ 折りたたみボールプール 空気入れ不要 120 x 30cm 折りたたみプール 室内遊び ボール遊び",
+  "price": 3680,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tsrqo.72d3y32f.g00tsrqo.72d3za95/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fiamnatural%2F10000430%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fiamnatural%2Fi%2F10000430%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 3.0,
+  "text": "今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。スペック比較して残ったやつ。家庭で使いやすい120cmサイズ直径約120cm・高さ約30cm。クリスマスや誕生日のプレゼント、ギフトにもおすすめです。レビュー1,570件で★4.66。12%OFF（30日まで）。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_gold/iamnatural/1_image_file/10000430e_ballpoole_xxxx.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_gold/iamnatural/1_image_file/10000430e_ballpoole_xxxx.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/iamnatural/cabinet/08065279/10242879/13881598/10000430_2026b_1.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/iamnatural/cabinet/08065279/10242879/13881598/10000430_2026b_2.jpg?_ex=600x600"
+  ],
+  "shop_name": "子供と暮らしの専門店 IAM NATURAL",
+  "review_count": 1570,
+  "review_average": 4.66,
+  "genre_id": "207528"
+ },
+ {
+  "date": "2026-11-25T12:01:36",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "クリスマス（29日後） × 30代男性（健康・効率化・家電）",
+  "persona": "30s_man",
+  "item_code": "marketjapan:10000078",
+  "item_name": "■11/26迄 最大1,000円OFF■ 鉄棒 てつぼう さか上がり デキ太君 クリスマス プレゼント 子供用 キッズ 室内 ぶらさがり ぶら下がり 屋外 ブラ",
+  "price": 5780,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00sc6qo.72d3y458.g00sc6qo.72d3z57f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmarketjapan%2Fyt-tb01b%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmarketjapan%2Fi%2F10000078%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 3.0,
+  "text": "今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。時短になる系。組み立てが必要な商品です。レビュー1,643件で★4.54。11/26まで、送料無料。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/marketjapan/cabinet/imgrc0096968607.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/marketjapan/cabinet/imgrc0096968607.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/marketjapan/cabinet/item/06313414/06313420/yt-tb01_slide__01.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/marketjapan/cabinet/item/06313414/06313420/yt-tb01_slide__02.jpg?_ex=600x600"
+  ],
+  "shop_name": "YouTen -楽天市場店-",
+  "review_count": 1643,
+  "review_average": 4.54,
+  "genre_id": "205252"
+ },
+ {
+  "date": "2026-11-25T12:01:36",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "クリスマス（29日後） × 30代男性（健康・効率化・家電）",
+  "persona": "30s_man",
+  "item_code": "cream-dot:10027736",
+  "item_name": "最大50%OFF×全品送料無料！【サージカルステンレス】マグネットクラスプ ネックレス マグネット 留め具 金属アレルギー対応 つけっぱなし ステンレス 1秒着",
+  "price": 1000,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00s5pko.72d3ya7e.g00s5pko.72d3z85a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcream-dot%2Fm00860%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcream-dot%2Fi%2F10027736%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。時短になる系。スティック・ハート・ボールの3typeから選べるデザインです1秒で着脱。ピタッとくっつきストレスなくスムーズに装着でき、煩わしさも解消。楽天ランキング1位、レビュー582件で★4.43。50%OFF、送料無料。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/cream-dot/cabinet/m851-m900/m00860-rakuten-obi.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/cream-dot/cabinet/m851-m900/m00860-rakuten-obi.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/cream-dot/cabinet/m851-m900/m00860-1.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/cream-dot/cabinet/m851-m900/m00860-2.jpg?_ex=600x600"
+  ],
+  "shop_name": "cream dot",
+  "review_count": 582,
+  "review_average": 4.43,
+  "genre_id": "111029"
+ },
+ {
+  "date": "2026-11-25T12:01:36",
+  "kind": "room",
+  "slot": "noon",
+  "theme": "クリスマス（29日後） × 30代男性（健康・効率化・家電）",
+  "persona": "30s_man",
+  "item_code": "lobelia:10000342",
+  "item_name": "【翌日配達】 プリザーブドフラワー バラ 花 ギフト ねこ 猫グッズ ペット プレゼント 女性 猫好き 置物 リビング 花 還暦祝い ブリザードフラワ- 誕生日",
+  "price": 4480,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00q6nwo.72d3yb7d.g00q6nwo.72d3z236/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flobelia%2Fs480001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flobelia%2Fi%2F10000342%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_rate": 4.0,
+  "text": "今日は5と0のつく日。楽天カード払いでポイント4倍（エントリー必須）。時短になる系。猫が好きなかたへ、お花のプレゼントにピッタリの猫雑貨です。ガラスを覗き込む猫のシルエットが可愛い。レビュー659件で★4.79。4,480円。",
+  "room_done": false,
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/lobelia/cabinet/shopitem/no1/s480001.jpg?_ex=600x600",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/lobelia/cabinet/shopitem/no1/s480001.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/lobelia/cabinet/s/s480001/cart/20261031-01.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/lobelia/cabinet/s/s480001/cart/20261031-02.jpg?_ex=600x600"
+  ],
+  "shop_name": "プリザーブドフラワー LOBELIA",
+  "review_count": 659,
+  "review_average": 4.79,
+  "genre_id": "215110"
  }
 ]
