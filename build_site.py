@@ -35,7 +35,7 @@ BRAND = SITE_NAME.split("｜")[0]
 TAGLINE = SITE_NAME.split("｜")[1] if "｜" in SITE_NAME else ""
 ROOM_URL = _env("ROOM_URL")
 X_URL = _env("X_PROFILE_URL")  # X は投稿を止めたので、設定したときだけサイトに載せる
-THREADS_URL = _env("THREADS_PROFILE_URL", "https://www.threads.net/@rakumitsu__room")
+THREADS_URL = _env("THREADS_PROFILE_URL", "https://www.threads.net/@rakumitsu__room") if _env("THREADS_ENABLED", "1") != "0" else ""
 INSTAGRAM_URL = _env("INSTAGRAM_PROFILE_URL", "https://www.instagram.com/toach.jp/")
 PINTEREST_URL = _env("PINTEREST_PROFILE_URL", "https://jp.pinterest.com/rakumitsu__room/")
 

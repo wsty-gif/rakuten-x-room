@@ -144,6 +144,8 @@ class Settings:
     x_attach_image: bool = field(default_factory=lambda: _env("X_ATTACH_IMAGE", "1") == "1")
     # X への投稿は停止中（API が従量課金のため）。再開するときだけ X_ENABLED=1 にする
     x_enabled: bool = field(default_factory=lambda: _env("X_ENABLED", "0") == "1")
+    # Threads は THREADS_ENABLED=0 で止める（2026-11 にプロフィールが乗っ取られたため停止中）
+    threads_enabled: bool = field(default_factory=lambda: _env("THREADS_ENABLED", "1") != "0")
     # TikTok 用の通知（スライド保存の通知・ギフト企画の ROOM 追加通知）は停止中。再開するときだけ TIKTOK_NOTIFY=1
     tiktok_notify: bool = field(default_factory=lambda: _env("TIKTOK_NOTIFY", "0") == "1")
 
@@ -180,7 +182,7 @@ class Settings:
         return bool(self.instagram_access_token) or (DATA_DIR / "instagram_token.enc").exists()
 
     def threads_ready(self) -> bool:
-        return bool(self.threads_access_token) or (DATA_DIR / "threads_token.enc").exists()
+        return self.threads_enabled and (bool(self.threads_access_token) or (DATA_DIR / "threads_token.enc").exists())
 
     def rakuten_ready(self) -> bool:
         return bool(self.rakuten_app_id)

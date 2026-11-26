@@ -10,6 +10,9 @@ from src.config import Settings
 
 s = Settings()
 tok = s.threads_access_token
+if not s.threads_enabled:
+    print("THREADS_ENABLED=0 なので Threads は停止中です（診断しません）")
+    sys.exit(0)
 if not tok:
     print("THREADS_ACCESS_TOKEN が未設定です（Threads連携は無効。Xのみ投稿されます）")
     sys.exit(0)
