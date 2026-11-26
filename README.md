@@ -222,7 +222,7 @@ PCの代わりに GitHub の無料クラウド（GitHub Actions）で毎日3回�
 投稿した商品をスマホに通知する構成。PCの電源は不要になる。
 
 1. スマホに **ntfy** アプリ（無料、アカウント不要）を入れ、「Subscribe to topic」で推測されにくい名前を1つ決めて購読する。
-   例: `rakumitsu-room-7f3k9q2x`。同じ名前を `.env` の `NTFY_TOPIC` に書く。
+   例: `my-room-xxxxxxxx（自分で決めた長いランダムな文字列）`。同じ名前を `.env` の `NTFY_TOPIC` に書く。
 2. GitHub アカウントを作り、**Private** リポジトリを1つ作る（名前は何でもよい）。
 3. このフォルダを push する（下記コマンド）。`.env` は `.gitignore` で除外されるので上がらない。
 4. リポジトリの Settings → Secrets and variables → Actions で、`python show_env_for_github.py` に表示される Name / Secret を登録する。
