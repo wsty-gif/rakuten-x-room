@@ -78,7 +78,9 @@ jobs:
       - name: Notify Threads problem
         if: steps.threads_diag.outcome == 'failure' && env.NTFY_TOPIC != ''
         run: |
-          curl -s -H "Title: Threads に接続できません" -H "Priority: high" -H "Tags: warning"             -d "Threads の投稿だけ止まっています（Instagram・ROOM・ブログは通常どおり）。ログ: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"             "https://ntfy.sh/${NTFY_TOPIC}" >/dev/null || true
+          curl -s -H "Title: Threads に接続できません" -H "Priority: high" -H "Tags: warning" \
+            -d "Threads の投稿だけ止まっています（Instagram・ROOM・ブログは通常どおり）。ログ: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}" \
+            "https://ntfy.sh/${NTFY_TOPIC}" >/dev/null || true
 
       - name: Run
         if: steps.slot.outputs.slot != 'none'
