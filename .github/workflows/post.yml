@@ -134,8 +134,9 @@ jobs:
           user_email: bot@users.noreply.github.com
           commit_message: "blog update"
 
-      # Instagram はブログ公開後（カード画像が公開URLになった後）に投稿する
+      # Instagram はブログ公開後（カード画像が公開URLになった後）に投稿する。失敗しても履歴の保存は続ける
       - name: Post to Instagram
+        continue-on-error: true
         if: steps.slot.outputs.slot != 'none' && steps.slot.outputs.dry != 'true' && (steps.slot.outputs.slot == 'noon' || steps.slot.outputs.slot == 'night' || steps.slot.outputs.slot == 'morning')
         run: python main.py instagram
 
