@@ -30857,6 +30857,13 @@
     "theme": "寒さ対策・冬支度（開催中） × 20代女性（自分磨き・プチプラ・映え）",
     "persona": "20s_woman",
     "event_type": "season"
+   },
+   {
+    "date": "2026-11-26",
+    "slot": "morning",
+    "theme": "ブラックフライデー（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "superdeal:10004833",
@@ -30866,14 +30873,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00t81xo.72d3y7aa.g00t81xo.72d3z9b1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuperdeal%2F14167ibrp72408%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/superdeal/cabinet/09061004/11661997/12341666/imgrc0332810205.jpg?_ex=600x600",
   "shop_name": "楽天スーパーDEALSHOP",
-  "review_count": 509,
-  "review_average": 4.49,
+  "review_count": 534,
+  "review_average": 4.46,
   "affiliate_rate": 2.0,
   "point_rate": 1,
   "catchcopy": "プラズマクラスターで髪を守る。髪を根元から乾かし、髪が受ける熱ダメージも抑える。",
   "genre_id": "502792",
-  "score": 14.58,
-  "last_seen": "2026-10-23T07:01:50",
+  "score": 14.22,
+  "last_seen": "2026-11-26T09:30:04",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/superdeal/cabinet/09061004/11661997/12341666/imgrc0332810205.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/superdeal/cabinet/yamada/2024/11138225/4974019241562-00.jpg?_ex=600x600",
@@ -43706,23 +43713,30 @@
     "theme": "ブラックフライデー（開催中） × 20代男性（ガジェット・一人暮らし）",
     "persona": "20s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-11-26",
+    "slot": "morning",
+    "theme": "ブラックフライデー（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "quads:10000016",
-  "name": "【QUADS公式】[マラソンSALE] ワイド セラミックヒーター 人感/室温センサー付 省エネ設計 超薄型 大風量 1200W 室温センサー 光る人感センサー リモコン付 スポット暖房 エコ 速暖 ストーブ 電気ストーブ クワッズ公式 【メーカー保証付き】",
-  "price": 11300,
+  "name": "【QUADS公式】[15,180円→11,800円~] ワイド セラミックヒーター 人感/室温センサー付 省エネ設計 超薄型 大風量 1200W 室温センサー 光る人感センサー リモコン付 スポット暖房 エコ 速暖 ストーブ 電気ストーブ クワッズ公式 【メーカー保証付き】",
+  "price": 11800,
   "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00ugo6o.72d3y0a5.g00ugo6o.72d3zaf2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fquads%2Fqs324%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fquads%2Fi%2F10000016%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00ugo6o.72d3y0a5.g00ugo6o.72d3zaf2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fquads%2Fqs324%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/quads/cabinet/2025aw/top_jpg/qs424_top_tmb_2.jpg?_ex=600x600",
   "shop_name": "QUADS公式楽天市場店",
-  "review_count": 769,
+  "review_count": 778,
   "review_average": 4.57,
   "affiliate_rate": 2.0,
   "point_rate": 1,
   "catchcopy": "【1年保証】省エネ大風量スリムパネルセラミックヒーター WIDE ENA HEAT ワイドエナヒート 電気ヒーター ファンヒーター 超薄型12cm 省スペース 人感センサー タイマー 室温設定18～30℃",
   "genre_id": "212277",
-  "score": 12.99,
-  "last_seen": "2026-11-24T12:01:39",
+  "score": 14.6,
+  "last_seen": "2026-11-26T09:30:04",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/quads/cabinet/2025aw/top_jpg/qs424_top_tmb_2.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/quads/cabinet/2025aw/qs424/12047166/qs424_tmb_02.jpg?_ex=600x600",
@@ -50562,6 +50576,13 @@
     "theme": "ブラックフライデー（開催中） × 30代男性（健康・効率化・家電）",
     "persona": "30s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-11-26",
+    "slot": "morning",
+    "theme": "ブラックフライデー（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "pocketalk:10000868",
@@ -50571,17 +50592,17 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00t6k3o.72d3yb4b.g00t6k3o.72d3z738/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpocketalk%2F0000338840%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/pocketalk/cabinet/shuppin7/4550483695607_main.jpg?_ex=600x600",
   "shop_name": "ソースネクスト 公式ショップ",
-  "review_count": 167,
-  "review_average": 4.38,
+  "review_count": 183,
+  "review_average": 4.31,
   "affiliate_rate": 2.0,
   "point_rate": 1,
   "catchcopy": "世界で1500万人以上が愛用する、定番のパスワード管理サービスです。 すべてのパスワードと重要なデータは、1つのマスターパスワードで保護されます。",
   "genre_id": "100113",
-  "score": 13.63,
-  "last_seen": "2026-11-22T12:01:39",
+  "score": 12.98,
+  "last_seen": "2026-11-26T09:30:04",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/pocketalk/cabinet/shuppin7/4550483695607_main.jpg?_ex=600x600",
-   "https://thumbnail.image.rakuten.co.jp/@0_mall/pocketalk/cabinet/img-up_1_839/1354_k1_270904_140.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/pocketalk/cabinet/img-up_1_839/1354_k1_270904_141.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/pocketalk/cabinet/shuppin2/officialshop.jpg?_ex=600x600"
   ],
   "caption": "こちらの商品は、シリアル番号とダウンロード手順を、メールでご案内いたします。（商品発送なし） 【ご注意】 本製品は「AgileBits, Inc.」社のサポート製品となり、ソースネクストのサポート対象外です。 本製品は、AgileBits, Inc.のサブスクリプション製品の機能をそのままに、3年版として改題したものです。 ・1Password→1Password3年版ダウンロード版。 ・1Password Family→1Passwordファミリー 3年版ダウンロード版。 本製品はInternet Explorerでは使用できません。以下のいずれかのブラウザが必要です。 ・Google Chrome ・Edge ・Firefox ・Opera 本製品をライセンス登録した1Passwordのアカウントを削除した場合、ライセンスが失効するため再購入が必要となります。"
@@ -52671,5 +52692,304 @@
    "https://thumbnail.image.rakuten.co.jp/@0_mall/l-co-since1937/cabinet/item/07406768/10169320/imgrc0100672717.jpg?_ex=600x600"
   ],
   "caption": "- - - - - - - - - - - - - 2024年10月16日より、地金価格高騰による値上げを予定しております。 ご了承くださいますようお願い申し上げます。 - - - - - - - - - - - - - お手持ちのネックレスの長さを自由に調整！ ネックレスの長さを延長できるアジャスターチェーン、新登場！ イエロー、ピンク、ホワイトゴールドの3色をご用意いたしました。 洋服やスタイルに合わせて、お気に入りのネックレスの長さを変えることが出来ます。 「もうちょっと長ければ使いやすいのに…」の声にお答えする便利アイテムです。 ※引き輪の中にあるバネ部分にステンレス＋合金が含まれておりますため、その部分のみ磁石に反応します。 それ以外の部分は記載の通りの素材を使用しております。"
+ },
+ "e-kurashi:10047681": {
+  "first_seen": "2026-11-26T09:30:04",
+  "themes": [
+   {
+    "date": "2026-11-26",
+    "slot": "morning",
+    "theme": "ブラックフライデー（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "e-kurashi:10047681",
+  "name": "ヒーター パネルセラミックヒーター 温度センサー 人感センサー 大風量 省エネモード DPSF-EU12/YKDSF-SU12/DPSF-EP12 セラミックヒーター セラミックファンヒーター スリム コンパクト シンプル おしゃれ 山善 YAMAZEN 【送料無料】",
+  "price": 7980,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pui9o.72d3y639.g00pui9o.72d3zc91/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-kurashi%2Fr6j16%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-kurashi%2Fi%2F10047681%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00pui9o.72d3y639.g00pui9o.72d3zc91/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-kurashi%2Fr6j16%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/e-kurashi/cabinet/main-img/021/main-t2c46.jpg?_ex=600x600",
+  "shop_name": "くらしのeショップ",
+  "review_count": 230,
+  "review_average": 4.39,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "人感・温度のWセンサー搭載の省エネ仕様 スリム形状のパネルセラミックヒーター 送料無料",
+  "genre_id": "212277",
+  "score": 14.77,
+  "last_seen": "2026-11-26T09:30:04",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/e-kurashi/cabinet/main-img/021/main-t2c46.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/e-kurashi/cabinet/pc_sub/095/t1z77-01.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/e-kurashi/cabinet/pc_sub/095/t1z77-03.jpg?_ex=600x600"
+  ],
+  "caption": "山善 YAMAZEN ヒーター パネルセラミックヒーター 温度センサー 人感センサー 大風量 省エネモード DPSF-EU12/YKDSF-SU12/DPSF-EP12 本体サイズ スタンダード：幅31.4×奥行13.5×高さ36cm 重量2.2kgワイド：幅46×奥行13.3×高さ36.3cm 重量2.9kg 商品説明 ●電源：AC100V(50/60Hz)●消費電力：1200W●電源コード長：約1.6m●安全装置：転倒オフスイッチ、サーモスタット、温度ヒューズ●温風モード3段階：弱/強/パワフル●人感センサー搭載●温度センサー搭載：16/19/22/25/28度の5段階設定可能●ECOモード搭載：一定のタイミングで「パワフル」→「強」→「弱」を繰り返して運転します※パワフル運転を継続するよりも約40％程度の節電になります●切タイマー：1-4時間●5時間オートオフ※人感、温度センサー運転中はオートオフ機能は働きません●チャイルドロック搭載●メモリー機能：電源プラグを抜かずに運転する場合は停止前の設定で運転が始まります●メーカー保証：1年間※2026年6月からスタンダードタイプにライトグレー色「YKDSF-SU12」を追加しております※2026年6月からワイドタイプの型番をDSF-SP12→DPSF-EP12に変更しております。また、カラーにグレー色を追加しております。仕様変更はございません 商品補足説明 YAMAZEN ヤマゼン 山善 通販 暖房 暖房器具 暖房用品 冬物家電 足元暖房 電気暖房 速暖 即暖 電気ストーブ ストーブ ヒーター 脱衣所 洗面所 トイレ おしゃれ パネルヒーター パネル型ヒーター スリム コンパクト 大風量 足もと暖房 足下暖房 省エネ 小型ヒーター 電気ファンヒーター シンプル ECO エコ 節電 スタンダード ホワイト/T1Z77 グレー/",
+  "posted_text": "#PR 一人暮らしのQOLが1段上がる\nヒーター パネルセラミックヒーター\n★4.39・レビュー230件\n7,980円・送料無料\n#楽天購入品\n▶ROOMはプロフから",
+  "posted_at": "2026-11-26T09:30:04"
+ },
+ "azusa:10000174": {
+  "first_seen": "2026-11-26T09:30:04",
+  "themes": [
+   {
+    "date": "2026-11-26",
+    "slot": "morning",
+    "theme": "ブラックフライデー（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "azusa:10000174",
+  "name": "クーポンで5,980円〜【楽天1位！暖房に加湿】 セラミックヒーター 2秒速暖 加湿機能付き ファンヒーター1200W 温度調節 15畳部屋対応 ECOモード 転倒自動オフ 自動首振り リモコン付き 安全保護機能 暖房器具 足元ヒーター タイマー 省エネ タワー型 寒さ対策 乾燥対策",
+  "price": 13380,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tyy9o.72d3y86f.g00tyy9o.72d3z89d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fazusa%2Fhita%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fazusa%2Fi%2F10000174%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00tyy9o.72d3y86f.g00tyy9o.72d3z89d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fazusa%2Fhita%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/azusa/cabinet/yx015/yx015_main.jpg?_ex=600x600",
+  "shop_name": "春夏秋冬",
+  "review_count": 305,
+  "review_average": 4.48,
+  "affiliate_rate": 2.0,
+  "point_rate": 3,
+  "catchcopy": "【暖炉調+2色ムードライト】 ヒーター 即暖 電気ストーブ 電気ファンヒーター 冷暖切替 節電 エコ オフィス キッチン 脱衣所 軽量 持ち運び便利 操作簡単 静音 おしゃれ プレゼント",
+  "genre_id": "212277",
+  "score": 13.72,
+  "last_seen": "2026-11-26T09:30:04",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/azusa/cabinet/yx015/yx015_main.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/azusa/cabinet/yx015/yx015_m01.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/azusa/cabinet/yx015/yx015_m02.jpg?_ex=600x600"
+  ],
+  "caption": "届出事業者名：CEN株式会社 PSマークの種類：PSE 新発想モデル 届出事業者名：CEN株式会社 PSマークの種類：PSE メーカー希望小売価格はメーカー商品タグに基づいて掲載しています メーカー希望小売価格はメーカー商品タグに基づいて掲載しています メーカー希望小売価格はメーカー商品タグに基づいて掲載しています メーカー希望小売価格はメーカー商品タグに基づいて掲載しています 商品名 セラミックヒーター タイプ ●【標準モデル】暖炉調ファンヒーター ●【新発想モデル】加湿機能付きファンヒーター+暖炉調+2色ムードライト 共通仕様 ECOモード搭載・知能恒温・省エネ自然風モード、低温モード、高温モード。三つのモードが切り替え可能。お好みの環境温度を設定しお部屋に恒温を保持！知能で省エネ！ 転倒OFF・過熱保護・環境温度センサー何よりの第一のは充実した安心、安全機能です。地震などの不意なにヒーターが転倒すると、電源が自動的に切る。内部に温度センサーを搭載し、温度が上昇過ぎた時に、ヒーターが自動的に自然風モードに切り替え、本体を冷却して安全を保ちます。 自動左右首振り・1200Wパワフル 広範囲を一気に暖める70°の首振り機能で、部屋全体に暖かさを届けます。1200Wハイパワーは従来品の電気ファンヒーターと比べで送風力、速熱などがさらにアップする。 遠距離リモコン操作・1-12h切タイマー付属のリモコンで操作すると、遠距離でセラミックファンヒーターを操作することができてとっても便利です。また、1〜12時間の切りタイマーが設定可能（単位：1時間）です。 正規品・PSE認証済本品は日本国内の電気用品安全法（PSE）認証済みの正規品です。 基本的な使い方 1.電源ブラグを コンセントに差し込む。 2.LEDパネルの電源ボタンを押して、電源を入れる。 3.モ一ドを切り替える。 ・モ一ド"
+ },
+ "iherb-official:10000012": {
+  "first_seen": "2026-11-26T09:30:04",
+  "themes": [
+   {
+    "date": "2026-11-26",
+    "slot": "morning",
+    "theme": "ブラックフライデー（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "iherb-official:10000012",
+  "name": "ゴールドスタンダード 100% ホエイ プロテイン 【 iHerb アイハーブ 公式 】 オプティマムニュートリション Optimum Nutrition Gold Standard ホエイプロテイン パウダー ダブルリッチチョコレート 2.27kg",
+  "price": 14580,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00u5mko.72d3y154.g00u5mko.72d3z1f8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fiherb-official%2F27509%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fiherb-official%2Fi%2F10000012%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00u5mko.72d3y154.g00u5mko.72d3z1f8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fiherb-official%2F27509%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/iherb-official/cabinet/5943339_01.jpg?_ex=600x600",
+  "shop_name": "iHerb",
+  "review_count": 310,
+  "review_average": 4.56,
+  "affiliate_rate": 4.0,
+  "point_rate": 5,
+  "catchcopy": "トレーニングをがんばる方に！【 タンパク質 WPI WPC WPH BCAA EAA 粉末 健康食品 栄養補助食品 】",
+  "genre_id": "567617",
+  "score": 13.67,
+  "last_seen": "2026-11-26T09:30:04",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/iherb-official/cabinet/5943339_01.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/iherb-official/cabinet/5943339_02.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/iherb-official/cabinet/08739187/new_sp/5943339_03.jpg?_ex=600x600"
+  ],
+  "caption": "製品仕様 商品名 ゴールドスタンダード 100% ホエイ プロテイン 【 iHerb アイハーブ 公式 】 オプティマムニュートリション Optimum Nutrition Gold Standard ホエイプロテイン パウダー ダブルリッチチョコレート 2.27kg 商品説明 100%ホエイ由来のタンパク質が補給できるプロテインパウダーです。炭水化物と脂肪分をできるだけ除去したホエイプロテインアイソレートを主成分とし、ホエイプロテインコンセントレートと加水分解ホエイプロテインも配合。付属のスプーン1杯分（約30.4g）にタンパク質が24g、BCAAが5.5g、そして天然由来の必須アミノ酸（EAA）が11g含まれています。リッチなチョコレート味で、おいしくトレーニングをがんばる方やアクティブな毎日をサポートします。 名称 プロテインパウダー（タンパク質加工食品） 原材料 タンパク質ブレンド（ホエイプロテインアイソレート、ホエイプロテインコンセントレート、加水分解ホエイプロテイン）、ココアパウダー（アルカリ処理）、ヒマワリ/大豆レシチン、天然香料、合成香料、アセスルファムカリウム本商品には乳製品と大豆の成分が含まれています。 内容量 2.27kg 賞味期限 パッケージに記載 保存方法 高温多湿を避けて保存してください。 商品区分 健康食品（海外製） 生産国 アメリカ 製造者 Glanbia Performance Nutrition (Na), IncDept 3331, Carol Stream, 60132-3331 USA 輸入者 本商品は個人輸入商品のため、購入者の方が輸入者となります。 広告文責 iHerb19516163600 ■当店利用時のご注意 ・当店の商品は原則として「個人輸入」としての取り扱いになり、 韓国から直接お客様のもとへお届けいたします。商品の配送"
+ },
+ "myhomeshop:10000089": {
+  "first_seen": "2026-11-26T09:30:04",
+  "themes": [
+   {
+    "date": "2026-11-26",
+    "slot": "morning",
+    "theme": "ブラックフライデー（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "myhomeshop:10000089",
+  "name": "ハイブリッド加湿器 ＜今だけCOUPONで半額＞【楽天1位・レビュー1700件越えの人気商品】加湿器 大容量 8L 超音波式 加熱式 タワー型加湿器 6重除菌 UV除菌 AI恒湿 上から給水 お手入れ簡単 40畳対応 静音 リモコン アロマ 省エネ 節電【7日間返品保証＋2年保証】UVC証明&PSE",
+  "price": 13800,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tz25o.72d3yc82.g00tz25o.72d3z6b9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmyhomeshop%2Fgy-jsq-7l%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmyhomeshop%2Fi%2F10000089%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00tz25o.72d3yc82.g00tz25o.72d3z6b9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmyhomeshop%2Fgy-jsq-7l%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/myhomeshop/cabinet/10352264/11312293/imgrc0344899368.jpg?_ex=600x600",
+  "shop_name": "My Home Shop 日用品楽天市場店",
+  "review_count": 1835,
+  "review_average": 4.37,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "楽天連続1位！【UV-C安全証明&PSE取得済】加湿器 ハイブリッド加湿器 加熱 超音波 省エネ 大容量 AI恒湿 タワー型加湿器 次亜塩素酸水 超音波加湿器 加湿器 タワー 除菌 大容量 送料無料",
+  "genre_id": "204549",
+  "score": 12.86,
+  "last_seen": "2026-11-26T09:30:04",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/myhomeshop/cabinet/10352264/11312293/imgrc0344899368.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/myhomeshop/cabinet/08508602/imgrc0331000598.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/myhomeshop/cabinet/08508602/imgrc0235893649.jpg?_ex=600x600"
+  ],
+  "caption": "NaFULiFE TJ-T6 2027 加熱機能を新搭載。さらに快適なうるおいへ。 従来モデルの使いやすさはそのままに、新たに加熱機能を搭載しました。 加熱機能をプラスする3つのメリット MERIT 01 最大380mL/hのパワフル加湿 たっぷりのミストでお部屋の乾燥対策をサポート。リビングや寝室に心地よいうるおいを届けます。 MERIT 02 5重の衛生対策に、加熱機能をプラス 従来モデルの5重の衛生対策に加熱機能を追加。ミストの清潔さにもこだわりました。 MERIT 03 暖房と併用して、冬も快適に 加熱機能によりミストによる室温低下に配慮。暖房を使う季節も快適な加湿をサポートします。 SAVE ENERGY 気になる電気代にも配慮 「加熱機能付きだと、電気代が高そう……」そんな不安にも配慮した省エネ設計。 加熱機能 ON128W最大消費電力加熱機能 OFF約21W超音波式のみ 加熱機能は必要に応じて切り替え可能。季節や使用シーンに合わせてお使いいただけます。 加熱機能はワンタッチでOFF！ 加熱機能を使わないときは、ボタンひとつで切り替え可能。超音波式のみで省エネ運転ができます。 加熱する日も、しない日も。暮らしに合わせて選べる加湿器。 NaFULiFE TJ-T6 2027毎日の暮らしに、心地よいうるおいを。 NaFULiFE TJ-T6 2027選ばれる9つの理由 うるおい・使いやすさ・お手入れのしやすさにこだわった一台 POINT 01｜加熱式×超音波式のハイブリッド加湿器 新たに加熱機能を搭載。ON・OFFを切り替え、季節や使用シーンに合わせて加湿できます。 POINT 02｜加熱機能をプラス！6重除菌で清潔なミスト 銀イオン抗菌、UV-C、麦飯石、フィルターろ過、マイナスイオンなど複数の除菌機能を搭載。加熱機能も加え、清潔なミスト環境を目指しました。 PO"
+ },
+ "shoe-square:10000597": {
+  "first_seen": "2026-11-26T09:30:04",
+  "themes": [
+   {
+    "date": "2026-11-26",
+    "slot": "morning",
+    "theme": "ブラックフライデー（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "shoe-square:10000597",
+  "name": "【ブラックフライデー限定■PT10倍】【送料無料】メンズ ブーツ メンズブーツ マウンテンブーツ ショートブーツ ワークブーツ ヴィンテージ サイドジップ ブーツ メンズ 靴 メンズシューズ シークレット 男 Zeeno ジーノ/",
+  "price": 7480,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qc1go.72d3y7f5.g00qc1go.72d3zef4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshoe-square%2Fca3-463%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshoe-square%2Fi%2F10000597%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00qc1go.72d3y7f5.g00qc1go.72d3zef4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshoe-square%2Fca3-463%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshoe-square%2Fi%2F10000597%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/shoe-square/cabinet/item9/ze2400_01.jpg?_ex=600x600",
+  "shop_name": "ShoeSquare(シュースクエア)",
+  "review_count": 4153,
+  "review_average": 4.35,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "メンズ靴,ブーツ≪楽天ランキング1位獲得≫ワークブーツ マウンテンブーツ ショートブーツ ジッパー ビンテージ コンフォート ライト ブラウン ブラック レッド Men's boots",
+  "genre_id": "110986",
+  "score": 12.13,
+  "last_seen": "2026-11-26T09:30:04",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/shoe-square/cabinet/item9/ze2400_01.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/shoe-square/cabinet/07509660/ze2400_point_01n.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/shoe-square/cabinet/item/ze2400_point_01.jpg?_ex=600x600"
+  ],
+  "caption": "説　明 ◆今季イチオシ！【Zeeno】マウンテンブーツ。 焦がし加工によるヴィンテージ仕上げの質感は、本革に劣らない風合いを醸し出しており、 高級感のある、落ち着いた印象の定番ブーツに仕上がっています。 カラーは、人気の4色をご用意。どんなボトムにも合わせやすいので、コーディネートの幅が広がります。 また、サイドに施したジッパーで“着脱簡単”！凹凸のあるタンクソールはグリップ力が良い! シーズン問わず使えるブーツなので、1足は持っておきたい必須アイテムです。 ブランド：【Zeeno】 カラー レッド　ブラウン　ライトブラウン　ブラック サイズ 25cm(25.5cm相当)　25.5cm(26cm相当)　26cm(26.5cm相当) 26.5cm(27cm相当)　27cm(27.5cm相当)　28cm(28.5cm相当) ※（　cm）内は相当サイズです。 スペック 重量：約570g前後　底高：約3.5cm(中敷き込)　全高：約16.5cm 素　材 アッパー：合成皮革　ソール：合成底 注　意 ■素材や接着剤等の匂いがある場合がございます。気になる場合は、消臭スプレー等の使用や陰干しをおすすめします。■弊社のサイズは足の実寸(国産のビジネスシューズ等)を基準としております。スニーカーのサイズ感と異なる場合がございますのでご注意ください。 ■海外からの輸入品や商品の配送中の外箱の破損がまれに見受けられる場合がございますので予めご了承ください。 ワード メンズブーツ,マウンテンブーツ,ショートブーツ,ワークブーツ,ヴィンテージ,合皮,ファッション,ワーク,プレーン,プレーントゥ,トレッキングブーツ,モカシン,マウンテン,通勤通学,人気,レザー,ホワイトソール,アウトドア,Zeeno,ジーノ,オリジナルブランド メーカー希望小売価格はメーカーサイトに基づいて掲載しています＼楽天ランキン"
+ },
+ "nissoplus:10000015": {
+  "first_seen": "2026-11-26T09:30:04",
+  "themes": [
+   {
+    "date": "2026-11-26",
+    "slot": "morning",
+    "theme": "ブラックフライデー（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "nissoplus:10000015",
+  "name": "【楽天総合1位★ブラックフライデー限定20%OFFクーポン】EMS×温熱で首ケア NIPLUX NECK RELAX ニップラックス ネックリラックス 健康 グッズ 首 EMS 首コリ 低周波 コードレス USB充電 プレゼント 実用的 温める リラックス",
+  "price": 9680,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tmc7o.72d3y7ad.g00tmc7o.72d3zea3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnissoplus%2Fnp-nr20w%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnissoplus%2Fi%2F10000015%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00tmc7o.72d3y7ad.g00tmc7o.72d3zea3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnissoplus%2Fnp-nr20w%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnissoplus%2Fi%2F10000015%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/nissoplus/cabinet/item/neck_relax/main/250417_nr01.jpg?_ex=600x600",
+  "shop_name": "NIPLUX楽天市場店",
+  "review_count": 4302,
+  "review_average": 4.46,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "EMSで首や肩の筋肉にアプローチ！ EMS コードレス 温熱 機 癒し グッズ 温活 温める 健康 グッズ ネック リラックス 首マッサージ機 首マッサージャー プレゼント 女性",
+  "genre_id": "506423",
+  "score": 11.98,
+  "last_seen": "2026-11-26T09:30:04",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/nissoplus/cabinet/item/neck_relax/main/250417_nr01.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/nissoplus/cabinet/item/neck_relax_3/nr_s01.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/nissoplus/cabinet/item/neck_relax_3/nr_s02.jpg?_ex=600x600"
+  ],
+  "caption": "＼ Point! ／ 独自のEMSテクノロジー EMS電気刺激が普段あまり動かさない筋肉の奥深くまで刺激し首や肩の緊張を和らげます。 ※EMSとは？ Electric（電気的）、Muscle（筋肉）、Stimulation（刺激）の頭文字を取ったものであり、電気刺激によって筋肉を動かす技術です。 温熱効果でじんわり　リフレッシュ NIPLUX NECK RELAX は、浮動電極シートからの放熱で首をじんわり温めます。首・肩まわりのケアにおすすめです。 モード：加熱弱め：38±3℃ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;加熱強め：42±3℃ ※加熱なしのモードもございます。 冷房のきいたオフィスでも、寒さ対策としておすすめです。 モードは5つ ボタンを操作してモードを切り替えると、EMSのリズムや感触が変わります。全部で5つのモードから選択できます。 16段階のEMSレベル 初めての方は、レベル1(少し刺激を感じる程度です)から、徐々にレベルを上げて、ご自分好みの強さでご使用ください。 首にフィットする着け心地 浮動電極シートと弾性アームの設計で、首にピッタリフィットします。 PC材質も滑らかな質感を本体に与えます。 軽量で持ち運びやすい 約145gで着けていることを忘れるほどの軽量設計。 持ち運びやすく、スッキリ収まるサイズ感です。 付属のUSBコードで充電しておけば、コードレスでストレスフリーにご使用いただけます。ご自宅はもちろん、外出時やお仕事時間の休憩などにも最適です。 音声ガイダンス 機能や使い方を音声にてお知らせしますので、ボタンが直接見えなくても操作が簡単です。 音声ガイダンスはOFFにでき、EMS振動音がごくわずかなので、 会社や移動中など、公共の場でも気にすることなくご使用いただけます。 ------"
+ },
+ "torreya-shop:10000057": {
+  "first_seen": "2026-11-26T09:30:04",
+  "themes": [
+   {
+    "date": "2026-11-26",
+    "slot": "morning",
+    "theme": "ブラックフライデー（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "torreya-shop:10000057",
+  "name": "【ブラックフライデークーポン発行！楽天237週1位！防災士監修】多機能防災ラジオ 5800mAh ポータブルラジオ 防災グッズ AM/FMラジオ ワイドFM対応 LEDライト スマホ充電 イヤホンジャック SOS 防水 リチウムイオン電池 USB充電 ソーラー充電 手回し充電 乾電池災害 1年保証",
+  "price": 7980,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00scnqo.72d3ydfd.g00scnqo.72d3za2d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftorreya-shop%2F100000025%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftorreya-shop%2Fi%2F10000057%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00scnqo.72d3ydfd.g00scnqo.72d3za2d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftorreya-shop%2F100000025%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftorreya-shop%2Fi%2F10000057%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/torreya-shop/cabinet/radio2/radiothumbnail.jpg?_ex=600x600",
+  "shop_name": "Torreya 楽天市場店",
+  "review_count": 4329,
+  "review_average": 4.64,
+  "affiliate_rate": 3.0,
+  "point_rate": 1,
+  "catchcopy": "軽量で多機能な防災ラジオ。ソーラー充電や手回し充電ができ、乾電池でも使用可能。スマホ充電も対応。イヤホンジャック機能。1年保証と説明書、防災士監修の防災ガイドブック付き。",
+  "genre_id": "501141",
+  "score": 11.92,
+  "last_seen": "2026-11-26T09:30:04",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/torreya-shop/cabinet/radio2/radiothumbnail.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/torreya-shop/cabinet/radio2/ranking1_2602.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/torreya-shop/cabinet/radio2/rank_radio_w237.jpg?_ex=600x600"
+  ],
+  "caption": "多機能防災ラジオは、地震、津波、台風などの緊急の災害時に役に立ちます。多機能ですので、普段使いにも使いやすい商品となっております。 多機能防災ラジオの特徴としては、15個の優れた特徴があります。 1．ソーラー充電＆手回し充電 2．USB充電 3．5,800mAhの大容量バッテリー 4．LEDライト 5．AM/FMラジオ 6．ワイドFM（FM補完放送） 7．デジタル表示 8．SOSアラーム 9．防水機能 10．防災士監修 11．防災士監修の防災ガイドブック付き 12．イヤホンジャック機能 13．コンパクトサイズ 14．カラ—バリエーション 15．日本語説明書＆保証書 1．ソーラー充電＆手回し充電 太陽光で充電が可能ですので、災害などの緊急時に役立ちます。手回し充電や単4乾電池（別売）でも使用可能ですから、災害などの緊急時にも対応が可能です。 2．USB充電 モバイルバッテリーとしてスマホを充電する事が可能です。災害などの緊急時にもスマホのバッテリーを充電できます。iPhone、Android、各種スマートフォンへの充電に対応していますが、対応できない機種等もあります。 3．5,800mAhの大容量バッテリー 5,800mAh大容量バッテリーを採用しているので、ラジオやLEDライトを使用することが可能です。他社のバッテリーは2000mAhが多い中、当社のバッテリーは約3倍の5,800mAhを搭載しています。 4．LEDライト 夜間や停電時に便利なLEDライトを搭載しています。LEDライトを読書灯等として利用する事で、普段使いも使用ができます。 5．AM/FMラジオ AM/FMラジオ（AM：522〜1620、FM：76〜108）に合わせることが出来ます。災害時に一番大切なのは、現状把握と情報確保ですので、ラジオ機能はかかせません。普段のラジオ鑑賞にも使用できるのでとても便利です。"
+ },
+ "shark:10000267": {
+  "first_seen": "2026-11-26T09:30:04",
+  "themes": [
+   {
+    "date": "2026-11-26",
+    "slot": "morning",
+    "theme": "ブラックフライデー（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "shark:10000267",
+  "name": "60％OFF セール【Shark 公式】 Shark シャーク EVOPOWER EX 充電式ハンディクリーナー エヴォパワーイーエックス WV416J-XKITMTWUT400J / 掃除機 コードレス ハンディー掃除機 ハンドクリーナー アクセサリー付き スタンド付き 軽量 静音",
+  "price": 15840,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00toapo.72d3y30a.g00toapo.72d3z450/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshark%2Fwv416j-xkitmtwut400j%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshark%2Fi%2F10000267%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00toapo.72d3y30a.g00toapo.72d3z450/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshark%2Fwv416j-xkitmtwut400j%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/shark/cabinet/renamethum/p00/wv416j_bs_60off.jpg?_ex=600x600",
+  "shop_name": "SharkNinja公式楽天市場店",
+  "review_count": 321,
+  "review_average": 4.45,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "掃除機 クリーナー コードレス掃除機 ハンディ フローリング カーペット 軽量 軽い 収納 おしゃれ 一人暮らし 充電式 小型 ペット 車用 吸引力高い",
+  "genre_id": "565105",
+  "score": 11.66,
+  "last_seen": "2026-11-26T09:30:04",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/shark/cabinet/renamethum/p00/wv416j_bs_60off.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/shark/cabinet/products/09835656/imgrc0094465002.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/shark/cabinet/products/09835656/wv416j_02.jpg?_ex=600x600"
+  ],
+  "caption": "メーカー希望小売価格はメーカーサイトに基づいて掲載しています※本製品の製品型番について：WV416J(アクセサリーセット)とWV417Jは同じ製品になります。 ※キャンペーン期間：11/19(木) 20:00〜11/26(木) 08:59 まで。売り切れ次第、キャンペーンが終了になることがございます。※注文が込み合っている場合、配送が遅れる場合がございます。"
+ },
+ "luire:10005782": {
+  "first_seen": "2026-11-26T09:30:04",
+  "themes": [
+   {
+    "date": "2026-11-26",
+    "slot": "morning",
+    "theme": "ブラックフライデー（開催中） × 20代男性（ガジェット・一人暮らし）",
+    "persona": "20s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "luire:10005782",
+  "name": "【半額！ブラックフライデーSALE】朝マスク 朝パック 顔パック パック シートマスク フェイスパック シートパック フェイスマスク ビタミンC VC 大容量 毛穴 引き締め 毎日 時短 日本製 [プリュ インテンシブ モーニングマスク（30枚入×2点セット）]ZZ 送料無料",
+  "price": 2280,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00po0zo.72d3ya2e.g00po0zo.72d3z4e4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fluire%2Fplonb1000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fluire%2Fi%2F10005782%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00po0zo.72d3ya2e.g00po0zo.72d3z4e4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fluire%2Fplonb1000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fluire%2Fi%2F10005782%2F&rafcid=wsc_i_is_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/luire/cabinet/plus04/mmask03-2_off50.jpg?_ex=600x600",
+  "shop_name": "プリュ公式ショップ 楽天市場店",
+  "review_count": 4270,
+  "review_average": 4.55,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "【30枚入×2点セット(約2カ月分)】コットン100%生地で肌に優しくフィット「シートマスク・フェイスパック」リアルタイムランキング 1位 ※2026/11/4(水)13:26更新",
+  "genre_id": "503020",
+  "score": 11.45,
+  "last_seen": "2026-11-26T09:30:04",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/luire/cabinet/plus04/mmask03-2_off50.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/luire/cabinet/plus04/mmask-2_02_2611mt.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/luire/cabinet/plus04/mmask-2_03.jpg?_ex=600x600"
+  ],
+  "caption": "メーカー希望小売価格はメーカーカタログに基づいて掲載しています 朝パック／朝シートマスク たった1分でエステ気分朝の急速スキンケア プリュ インテンシブモーニングマスクはスキンケアにゆっくり時間をかけられない忙しい朝でも、たった1分、顔に乗せるだけの時短スキンケア。 国産コットン100％厚生地シートにたっぷり染み込んだ超微粒子ローションが、日中に必要な潤いも栄養もスピーディーに補給。寝起きの肌を目覚めさせる朝用シートマスクです。 ▽［朝パック］プリュ インテンシブ モーニングマスクこだわり 《6つのポイント》 ・超微粒子ローション ・プリュ史上最大液量たっぷり420ml ・ビタミンCなど12種の美容成分 ・柔らか国産コットン100％の厚生地シート ・肌に優しい8つのフリー 〇プリュ史上最大液量1袋あたりたっぷり420mlのローション 短時間で効率よくお肌の角質層までたっぷり潤いを届ける秘密は、ランダムサイズの超微粒子ローション。 瞬時に角質層まで浸透しながら、同時に肌表面を潤いで覆います。 ○効率よく栄養を補給する12種の美容成分 睡眠中に溜まった不要なモノをスムーズに流しスッキリ肌に導く美容成分を、独自の比率で高配合。 ▽保湿成分 乾いたお肌に、効率よく潤いチャージ ・プロテオグリカン(※1) ・ヒアルロン酸(※2) ・スクワラン ・クズ根エキス ▽保護成分 ハリツヤ感のある、滑らかなお肌へ ・ビタミンC誘導体(※3) ・EGF(※4) ・プラセンタエキス ・クロレラエキス ▽整肌成分 お肌を引き締めて、キメを整える ・シルク(※5) ・白金（プラチナ） ・コラーゲン(※6) ・アロエベラ葉エキス ※1 水溶性プロテオグリカン ※2 ヒアルロン酸Na ※3 リン酸アスコルビルMg ※4 ヒトオリゴペプチド-1 ※5 加水分解シルク ※6 水溶性コラーゲン ○肌も心も目覚め"
  }
 }
