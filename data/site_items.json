@@ -49092,6 +49092,13 @@
     "theme": "クリスマス（27日後） × 20代女性（自分磨き・プチプラ・映え）",
     "persona": "20s_woman",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-11-28",
+    "slot": "morning",
+    "theme": "クリスマス（26日後） × 子育て世帯のママ・パパ",
+    "persona": "mama",
+    "event_type": "gift"
    }
   ],
   "item_code": "rinrinrin:10010036",
@@ -49099,7 +49106,7 @@
   "price": 1250,
   "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rc32o.72d3yb26.g00rc32o.72d3z445/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frinrinrin%2Fch-35-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frinrinrin%2Fi%2F10010036%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00rc32o.72d3yb26.g00rc32o.72d3z445/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frinrinrin%2Fch-35-2%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
-  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/rinrinrin/cabinet/sale/261117/sum/ch-35-2.jpg?_ex=600x600",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/rinrinrin/cabinet/frametopimg27/ch-35-2_gsa.jpg?_ex=600x600",
   "shop_name": "ピアス・ボディピアス 凛",
   "review_count": 6805,
   "review_average": 4.59,
@@ -49107,10 +49114,10 @@
   "point_rate": 1,
   "catchcopy": "つけっぱなしピアス お風呂ok フープ型 ステンレス アレルギー対応 トレンド キャッチなし 錆びない 小さい ワンタッチ 引っかからない 黒 小ぶり ミニ ループ フォーマル カジュアル",
   "genre_id": "111061",
-  "score": 15.87,
-  "last_seen": "2026-11-27T07:01:11",
+  "score": 16.17,
+  "last_seen": "2026-11-28T07:01:14",
   "image_urls": [
-   "https://thumbnail.image.rakuten.co.jp/@0_mall/rinrinrin/cabinet/sale/261117/sum/ch-35-2.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/rinrinrin/cabinet/frametopimg27/ch-35-2_gsa.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/rinrinrin/cabinet/kosu/ch-35-2_gtxr.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/rinrinrin/cabinet/frametopimg27/ch-35-2_g1.jpg?_ex=600x600"
   ],
@@ -50155,25 +50162,32 @@
     "theme": "クリスマス（27日後） × 20代女性（自分磨き・プチプラ・映え）",
     "persona": "20s_woman",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-11-28",
+    "slot": "morning",
+    "theme": "クリスマス（26日後） × 子育て世帯のママ・パパ",
+    "persona": "mama",
+    "event_type": "gift"
    }
   ],
   "item_code": "kitwell-official:10000012",
-  "name": "【26日9:59まで最大20％PB】【楽天1位★あんしん保証】【 グッド・トイ 受賞 】 Kitwell 公式ストア キットウェル 正規品 マグビルド カラーズ 130ピース インテリア 知育玩具 マグネットブロック 誕生日 男の子 女の子 3歳 4歳 5歳 6歳 プレゼント 小学生 クリスマス",
+  "name": "【楽天1位★あんしん保証】【 グッド・トイ 受賞 】 Kitwell 公式ストア キットウェル 正規品 マグビルド カラーズ 130ピース インテリア 知育玩具 マグネットブロック 誕生日 男の子 女の子 3歳 4歳 5歳 6歳 プレゼント 小学生 クリスマス",
   "price": 13299,
   "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tqlgo.72d3ya7f.g00tqlgo.72d3zfa7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkitwell-official%2Fmbyq-p-c-130-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkitwell-official%2Fi%2F10000012%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00tqlgo.72d3ya7f.g00tqlgo.72d3zfa7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkitwell-official%2Fmbyq-p-c-130-1%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
-  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/kitwell-official/cabinet/design/rakuten_deal/deal-colors_20off-1.jpg?_ex=600x600",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/kitwell-official/cabinet/magbuild/09355160/compass1763630991.jpg?_ex=600x600",
   "shop_name": "知育の専門店 Kitwellキットウェル",
-  "review_count": 231,
+  "review_count": 232,
   "review_average": 4.66,
   "affiliate_rate": 3.0,
   "point_rate": 1,
   "catchcopy": "【ランキング1位！】を獲得した知育ブロック玩具に新しいラインナップが登場！遊びながら13色の豊富なカラーで色彩感覚が養える！ 大容量 自由自在 教育 思考力 磁石 おもちゃ",
   "genre_id": "201606",
-  "score": 14.98,
-  "last_seen": "2026-11-27T07:01:11",
+  "score": 13.78,
+  "last_seen": "2026-11-28T07:01:14",
   "image_urls": [
-   "https://thumbnail.image.rakuten.co.jp/@0_mall/kitwell-official/cabinet/design/rakuten_deal/deal-colors_20off-1.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/kitwell-official/cabinet/magbuild/09355160/compass1763630991.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/kitwell-official/cabinet/magbuild/09355160/compass1764082611.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/kitwell-official/cabinet/magbuild/09355160/compass1763632030.jpg?_ex=600x600"
   ],
@@ -50639,6 +50653,13 @@
     "theme": "クリスマス（30日後） × 20代女性（自分磨き・プチプラ・映え）",
     "persona": "20s_woman",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-11-28",
+    "slot": "morning",
+    "theme": "クリスマス（26日後） × 子育て世帯のママ・パパ",
+    "persona": "mama",
+    "event_type": "gift"
    }
   ],
   "item_code": "threenine:10000498",
@@ -50646,18 +50667,18 @@
   "price": 1200,
   "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00s83do.72d3y082.g00s83do.72d3zedc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fthreenine%2Fspu077%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fthreenine%2Fi%2F10000498%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00s83do.72d3y082.g00s83do.72d3zedc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fthreenine%2Fspu077%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
-  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/threenine/cabinet/rakulogo/rakulogo1/r2151_00001.jpg?_ex=600x600",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/threenine/cabinet/02-item/spu077/001-s20.jpg?_ex=600x600",
   "shop_name": "【公式】スリーナインストア",
-  "review_count": 374,
+  "review_count": 389,
   "review_average": 4.79,
   "affiliate_rate": 4.0,
   "point_rate": 1,
   "catchcopy": "【シリーズ累計35万個突破 最新作】 新 定番 【 タオルに引っ掛からない】 【お風呂・温泉で、サビない】 【メンズ レディース 対応】【送料無料】 【片耳 1個売り】",
   "genre_id": "111061",
-  "score": 14.78,
-  "last_seen": "2026-11-24T07:01:38",
+  "score": 14.11,
+  "last_seen": "2026-11-28T07:01:14",
   "image_urls": [
-   "https://thumbnail.image.rakuten.co.jp/@0_mall/threenine/cabinet/rakulogo/rakulogo1/r2151_00001.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/threenine/cabinet/02-item/spu077/001-s20.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/threenine/cabinet/04777976/main-top/sainyuka-01.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/threenine/cabinet/spu03/30.jpg?_ex=600x600"
   ],
@@ -51060,6 +51081,13 @@
     "theme": "クリスマス（27日後） × 20代女性（自分磨き・プチプラ・映え）",
     "persona": "20s_woman",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-11-28",
+    "slot": "morning",
+    "theme": "クリスマス（26日後） × 子育て世帯のママ・パパ",
+    "persona": "mama",
+    "event_type": "gift"
    }
   ],
   "item_code": "craife:10001041",
@@ -51069,14 +51097,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00u3oao.72d3y099.g00u3oao.72d3za33/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcraife%2Fi-er-2000%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/craife/cabinet/product-7/i-er-2000-1.jpg?_ex=600x600",
   "shop_name": "CRAIFE （クライフ）楽天市場店",
-  "review_count": 1131,
+  "review_count": 1138,
   "review_average": 4.7,
   "affiliate_rate": 4.0,
   "point_rate": 1,
   "catchcopy": "感動のアクセサリー体験を！耳元に、私らしい上品さを。ラウンドとスクエアから選べるピアス＆イヤリング。",
   "genre_id": "111061",
-  "score": 14.83,
-  "last_seen": "2026-11-27T07:01:11",
+  "score": 13.83,
+  "last_seen": "2026-11-28T07:01:14",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/craife/cabinet/product-7/i-er-2000-1.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/craife/cabinet/product-7/i-er-2000-2.jpg?_ex=600x600",
@@ -52360,6 +52388,13 @@
     "theme": "クリスマス（29日後） × 30代男性（健康・効率化・家電）",
     "persona": "30s_man",
     "event_type": "gift"
+   },
+   {
+    "date": "2026-11-28",
+    "slot": "morning",
+    "theme": "クリスマス（26日後） × 子育て世帯のママ・パパ",
+    "persona": "mama",
+    "event_type": "gift"
    }
   ],
   "item_code": "yukaiya:10001180",
@@ -52369,14 +52404,14 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00t19go.72d3yee1.g00t19go.72d3ze8b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyukaiya%2F10001180%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/yukaiya/cabinet/si/si-22-06-set-b-01.jpg?_ex=600x600",
   "shop_name": "ゆかい屋",
-  "review_count": 714,
+  "review_count": 720,
   "review_average": 4.32,
   "affiliate_rate": 4.0,
   "point_rate": 1,
   "catchcopy": "静電気除去ブレスレット 静電気防止ブレスレット 強力 おしゃれ キーホルダー",
   "genre_id": "113066",
-  "score": 14.09,
-  "last_seen": "2026-11-25T12:01:36",
+  "score": 14.0,
+  "last_seen": "2026-11-28T07:01:14",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/yukaiya/cabinet/si/si-22-06-set-b-01.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/yukaiya/cabinet/si/si-22-06-set-a-01c.jpg?_ex=600x600",
@@ -54071,5 +54106,238 @@
    "https://thumbnail.image.rakuten.co.jp/@0_mall/sanwadirect/cabinet/rank2026/400-ma097_r1.jpg?_ex=600x600"
   ],
   "caption": "スタッフが実際に使ってみました試用レポート【使ってみました】コスパ最強マウス今回はコスパ抜群とご好評いただいている、当店人気No1マウスをご紹介します！最初に、このマウスがなぜ人気なのかということを説明しますと.... [続きを見る]商品詳細読み取り精度の高いブルーLEDセンサー採用。左右対称形状でくせのない形状。マウスのサイドには戻る・進むボタンを搭載。用途に合わせて3段階のカウント切替可能。仕様■カラー：通常タイプブラック（400-MA097BK）・レッド（400-MA097R）・ガンメタリック（400-MA097GM）・ブルー（400-MA097BL）静音タイプブラック（400-MAWS097BK）・ブルー（400-MAWS097BL）・ガンメタリック（400-MAWS097GM）・レッド（400-MAWS097R）※静音タイプは5ボタン全て静音です。■製品サイズ：マウス/約W62×D109.5×H40mm、レシーバー/約W14.1×D18.5×H6mm■製品重量：マウス/約67g（電池含まず）、レシーバー/約2g■ワイヤレス方式：2.4GHz　RF電波方式※マウスとレシーバー間のIDは固定です。■通信範囲：木製机（非磁性体）/半径約10m　スチール机（磁性体）/半径約2m■インターフェース：USB HID仕様バージョン1.1準拠　※USB3.0/2.0インターフェースでも使用できます。■コネクタ形状：USBコネクタ（Aタイプ）■分解能：800・1200・1600カウント/インチ■読み取り方式：ブルーLEDセンサー方式■ボタン：2ボタン、2サイドボタン、ホイール（スクロール）ボタン、カウント切替えボタン■付属品：小型レシーバー×1、テスト用単3電池×1本、保証書兼取扱説明書■電池性能：連続作動時間/約130時間、連続待機時間/約5416時間、使用可能日数/約2ヶ月間※"
+ },
+ "emu-jewelry:10000308": {
+  "first_seen": "2026-11-28T07:01:14",
+  "themes": [
+   {
+    "date": "2026-11-28",
+    "slot": "morning",
+    "theme": "クリスマス（26日後） × 子育て世帯のママ・パパ",
+    "persona": "mama",
+    "event_type": "gift"
+   }
+  ],
+  "item_code": "emu-jewelry:10000308",
+  "name": "地金リング 10金 K10 イエローゴールド ホワイトゴールド ピンクゴールド 極細リング ファッションリング 華奢 細め 地金 レディース ギフト シンプル おしゃれ ピンキーリング 普段使い 重ねづけ ストレート",
+  "price": 7980,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00ufybo.72d3y1b8.g00ufybo.72d3zf73/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Femu-jewelry%2F200111-k10%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Femu-jewelry%2Fi%2F10000308%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00ufybo.72d3y1b8.g00ufybo.72d3zf73/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Femu-jewelry%2F200111-k10%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/emu-jewelry/cabinet/09873846/09873849/09882911/imgrc0129777082.jpg?_ex=600x600",
+  "shop_name": "エミュジュエリー",
+  "review_count": 81,
+  "review_average": 4.78,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "極細のシンプル地金デザインリングです。",
+  "genre_id": "100487",
+  "score": 16.76,
+  "last_seen": "2026-11-28T07:01:14",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/emu-jewelry/cabinet/09873846/09873849/09882911/imgrc0129777082.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/emu-jewelry/cabinet/biiino/award/20011190d34d6920.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/emu-jewelry/cabinet/09873846/09873849/09882911/imgrc0129777152.jpg?_ex=600x600"
+  ],
+  "caption": "商品情報素材/品番10金イエローゴールド（200111）10金ホワイトゴールド（200122）10金ピンクゴールド（200112）最小幅～最大幅（約）1.0mm〜1.0mmその他現物に近い色味や質感を再現出来るように撮影しておりますが、モニター環境等により実際の商品と若干の違いが出る場合がございます。 当店のジュエリーは全て送料無料でお届けします。 【金種変更可能な商品もあります！ご相談ください】 プラチナ ゴールド ピンクゴールド ホワイトゴールド イエローゴールド Pt950 Pt900 金 k18 k10 18金 10金 K10 K18 普段使い ご褒美 重ね付け 重ねづけ 贈り物 誕生日 母の日 結婚式 記念日 結婚記念日 お祝い プレゼント クリスマス Xmas クリスマスプレゼント ギフト 入学式 卒業式 成人式 合格祝い 出産祝い 就職祝い 敬老の日 プロポーズ パーティー 自分 彼女 妻 嫁 奥さん 嫁さん お母さん 母 母親 両親 子供 娘 姉 妹 祖母 恋人 友達 親友極細のシンプル地金リングです。3色よりお選びいただけます。SNSでも人気の重ね付け。スタイリッシュに重ね付けされた指輪は手元の印象を華やかに魅せ、おしゃれを格上げしてくれます。シンプルだからこそ、デイリーユースにもフォーマルシーンにも使えるリングとして好評いただいております。 ファランジリング（ミディリング）とは、指の付け根ではなく、間接に着ける指輪のことです。 ファランジ（Phalange）とは「関節」という意味で、ファランジリングは主に第一関節と第二関節の間にはめます。 通常の指輪と違って細い指の先に目線を集めることができるので、指や爪を細く・長く・綺麗に魅せる効果があります。 ちょっと大きめで緩めのリングと一緒に着けていただくと外れ防止のストッパーリングとしてもお使いいただけます。 ",
+  "posted_text": "#PR クリスマス、まだ決めてない人へ\n地金リング 10金 K10 イエローゴールド｜極細のシンプル地金デザインリングです。\n★4.78・レビュー81件\n7,980円\n使ってる人いたら感想ください\n#楽天購入品\n▶ROOMはプロフから",
+  "posted_at": "2026-11-28T07:01:14"
+ },
+ "jewelry-gratias:10000224": {
+  "first_seen": "2026-11-28T07:01:14",
+  "themes": [
+   {
+    "date": "2026-11-28",
+    "slot": "morning",
+    "theme": "クリスマス（26日後） × 子育て世帯のママ・パパ",
+    "persona": "mama",
+    "event_type": "gift"
+   }
+  ],
+  "item_code": "jewelry-gratias:10000224",
+  "name": "即日発送可 K10 10金 極細 華奢 シンプル 地金リング #7～15 日常使い 重ね付け 【送料無料】【品質保証書】10金 イエローゴールド ファッションリング 華奢 細め 地金 リング レディース ギフト おしゃれ 普段使い ストレート 細身 デザイン 指輪 地金のみ 丈夫",
+  "price": 7700,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00u89uo.72d3yb72.g00u89uo.72d3z505/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjewelry-gratias%2Fgr-10075%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjewelry-gratias%2Fi%2F10000224%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00u89uo.72d3yb72.g00u89uo.72d3z505/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjewelry-gratias%2Fgr-10075%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/jewelry-gratias/cabinet/09036944/12308394/imgrc0126338090.jpg?_ex=600x600",
+  "shop_name": "jewelry Gratias",
+  "review_count": 32,
+  "review_average": 4.94,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "日常使いにおすすめしたい。「極細、極上」そっと指先に溶け込む高品質ゴールドリング！",
+  "genre_id": "100487",
+  "score": 16.25,
+  "last_seen": "2026-11-28T07:01:14",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/jewelry-gratias/cabinet/09036944/12308394/imgrc0126338090.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/jewelry-gratias/cabinet/09036944/imgrc0119029583.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/jewelry-gratias/cabinet/09036944/imgrc0119029578.jpg?_ex=600x600"
+  ],
+  "caption": "【送料無料】【品質保証書】【代引手数料無料】 限りなくシンプル、限りなく自由！ そっと指先に溶け込む、ゴールド！華奢だから可愛い♪指をキレイに見せてくれる大人かわいい極細リングです。控えめだけど贅沢。シンプルでありながら気品漂うエレガントなジュエリー。裏抜きや引っ掛かりがなく、着け心地が良いので、デイリー使いにおすすめです。コーディネートは無限♪一本でつけるのはもちろん、ファランジリングやインデックスリング、お手持ちのリングとの重ね着けにも。数本重ねてボリュームを楽しむ贅沢コーデも、『Gratias』価格なら可能です。繊細なデザインのため、優しくお取り扱いいただき、ゴールドならではの美しい光沢と輝きを長くお楽しみください。 記念日・誕生日・ホワイトデー・クリスマス・母の日などのプレゼントにもおすすめ。 ■商品詳細（写真1） 材質 　K10イエローゴールド 最大幅 　 約 1.0mm MEMO 　ご希望のサイズが、選択肢にない場合もご相談ください 【金種変更ご相談ください】 プラチナ ピンクゴールド ホワイトゴールド イエローゴールド Pt950 Pt900 金 k18 k10 18金 10金 K10 K18バリエーションはこちら K18PG Pt950 K18YG"
+ },
+ "petitloup1969:10002354": {
+  "first_seen": "2026-11-28T07:01:14",
+  "themes": [
+   {
+    "date": "2026-11-28",
+    "slot": "morning",
+    "theme": "クリスマス（26日後） × 子育て世帯のママ・パパ",
+    "persona": "mama",
+    "event_type": "gift"
+   }
+  ],
+  "item_code": "petitloup1969:10002354",
+  "name": "3%OFFクーポン★12ヶ月のteteベア＆ハートネックレス [名入れ可] 誕生石 11月 12月 誕生日プレゼント バースデープレゼント 誕生月 バースデイ ミニテディベア ぬいぐるみ ジュエリー アクセサリー かわいい 小学生 中学生 女の子 女子 入学祝い クリスマスプレゼント",
+  "price": 4930,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00recmo.72d3yd05.g00recmo.72d3z9cc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpetitloup1969%2Fheartnecklace%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpetitloup1969%2Fi%2F10002354%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00recmo.72d3yd05.g00recmo.72d3z9cc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpetitloup1969%2Fheartnecklace%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/petitloup1969/cabinet/image25/tete_heart_s_01.jpg?_ex=600x600",
+  "shop_name": "プティルウ　テディベアショップ",
+  "review_count": 91,
+  "review_average": 4.67,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "楽天ランキング入賞★娘さんや彼女さん、女性に贈りたい特別なプレゼント誕生月ベアとネックレスのギフトセット",
+  "genre_id": "111029",
+  "score": 15.71,
+  "last_seen": "2026-11-28T07:01:14",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/petitloup1969/cabinet/image25/tete_heart_s_01.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/petitloup1969/cabinet/image25/tete_heart_s_02.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/petitloup1969/cabinet/image25/tete_heart_s_04.jpg?_ex=600x600"
+  ],
+  "caption": "プレゼントにぴったりなネックレスとベアのギフトセット 「彼女や奥さまに」 人気のハートモチーフのネックレス！いつも身に着けられるアクセサリーは女性がもらって嬉しいプレゼントです。 「お子様やお孫さんに」 ぬいぐるみとネックレスのセットは年頃の女の子が喜ぶアイテム！ 「お子さんの1歳の誕生日はママも1歳の誕生日」 無1歳を迎えたお子様への誕生日とともに、大変な時期を乗り越えたママにも1歳おめでとうのお祝いを。目に入るたびに「この子が産まれたときに贈られたもの」という思い出がよみがえり、特別なギフトになること間違いなしです。 ●teteベアってどんなベア？ ふわふわの体と、耳に誕生石カラークリスタルガラスをつけたteteベアは、いつも傍にいてあなたを守護し、和ませてくれるおまもりのようなマスコットです。 ●誕生石カラーで選べる12ヶ月のベア ベアの耳にきらめく誕生石カラーのクリスタルガラスは12ヶ月それぞれに守護石カラーとしての特別なパワーを持っています。さらに足裏には誕生月と誕生石名をプリントした、スペシャルな誕生日ギフトです。 リボンと足裏プリントのカラーは誕生石カラーとリンクした全4色。小さな10cmサイズの中に、たくさんのこだわりを詰め込みました。 また、お名前を入れることも可能、大切な人に誕生日に贈る特別なプレゼントとしてオススメです。 ●女性の定番 ハートネックレス ハートを繋ぐ、一粒のクリスタルガラスがアクセントに。 ハートは、幸福を導いてくれる愛情のモチーフです。 シンプルできれいめなデザインなので様々なシーンで大活躍。 ●ナチュラルで落ち着いた色味のギフトボックス入り ネックレスとベアの姿を引き立たせる、中身が見えるギフトボックスにお入れします。 商品詳細 サイズ 【ベア】高さ10cm×幅8cm×奥行6cm※商品の特性上個体差がございます。 【ネックレス】チェ"
+ },
+ "lokumi:10001101": {
+  "first_seen": "2026-11-28T07:01:14",
+  "themes": [
+   {
+    "date": "2026-11-28",
+    "slot": "morning",
+    "theme": "クリスマス（26日後） × 子育て世帯のママ・パパ",
+    "persona": "mama",
+    "event_type": "gift"
+   }
+  ],
+  "item_code": "lokumi:10001101",
+  "name": "3サイズ×3カラー テクスチャーフープピアス 日本製 金属アレルギー対応 ニッケルフリー フープ ピアス キャッチレス ワンタッチ シルバー K24 ゴールド ピンクゴールド 小ぶり 大ぶり 小さめ 大きめ 上品 わっか シンプル ユニセックス プレゼント ギフト 送料無料 lokumi",
+  "price": 2426,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tw4oo.72d3y445.g00tw4oo.72d3z2c5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flokumi%2Fhp-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flokumi%2Fi%2F10001101%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00tw4oo.72d3y445.g00tw4oo.72d3z2c5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flokumi%2Fhp-1%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/lokumi/cabinet/13554991/hp-1-rr-1.jpg?_ex=600x600",
+  "shop_name": "LOKUMI",
+  "review_count": 226,
+  "review_average": 4.82,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "ピアス 金属アレルギー オフィス 大人 冠婚葬祭 リングピアス シンプルピアス キャッチレスピアス エレガント スタイリッシュ 小さい 大きい 仕事 オフィス 金属アレルギー対応ピアス",
+  "genre_id": "111061",
+  "score": 15.14,
+  "last_seen": "2026-11-28T07:01:14",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/lokumi/cabinet/13554991/hp-1-rr-1.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/lokumi/cabinet/13554991/hp-1-rr-2.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/lokumi/cabinet/13554991/hp-1-rr-3.jpg?_ex=600x600"
+  ],
+  "caption": "商品説明 【ニッケルフリー】細かなカットを全面に施したテクスチャーフープピアス。繊細なカット面の一つひとつが光を反射し耳元に上品な存在感を。3サイズ×3カラー(コーティング)展開。LOKUMIのアクセサリーは全てEN1811規格を満たしたニッケルフリーの金属アレルギー対応となります。ペア(2個セット)での販売となりますのでご安心ください。 カラー(コーティング) シルバー/K24ゴールド/ピンクゴールド サイズ スモール - 外径20mm / 内径16mm / 線径2mm ミディアム - 外径30mm / 内径26mm / 線径2mm ラージ - 外径41mm / 内径37mm / 線径2mm 素材 真鍮(コーティング) 重さ スモール - 1.2g ミディアム - 2.0g ラージ - 2.7g 特長 ピアス,アクセサリー,真鍮,ブラス,キュービック,キュービックジルコニア,3Aキュービック,パール,Pパール,フェイクパール,貝パール,真珠,真鍮,ブラス,シルバー,ゴールド,金,ピンクゴールド,ニッケルフリー,ノンニッケル,アレルギー対応,プチ,ミニ,大ぶり,ミドル,ロング,パール,スタッド,直結,フープ,G型,アメリカン,チェーン,フック,フィッシャー,冠婚葬祭,オフィス,オフィスカジュアル,通勤,卒業式,入学式,卒入学,入園式,卒園式,結婚式,オケージョン,パーティー,ビジネス,華奢,繊細,小さめ,大きめ,揺れる,ビジュー,日本製,メイドインジャパン,メードインジャパン,手作り,ハンドメイド,シンプル,クリスタルガラス,キュービックジルコニア,デイリーユース,日常使い,エレガント,大人かわいい,大人上品,ハート,月,四角,丸,三角,モチーフ,上品,大人,レディース,プレゼント,プチプラ,高品質 ※モニタの発色具合により実際のイメージと異なる場合がございます。関連商品 "
+ },
+ "jewelrysunflower:10014635": {
+  "first_seen": "2026-11-28T07:01:14",
+  "themes": [
+   {
+    "date": "2026-11-28",
+    "slot": "morning",
+    "theme": "クリスマス（26日後） × 子育て世帯のママ・パパ",
+    "persona": "mama",
+    "event_type": "gift"
+   }
+  ],
+  "item_code": "jewelrysunflower:10014635",
+  "name": "【先着100名様 全品60%OFFクーポン サンフラワーセール】【30日返品保証】 リング レディース モアサナイト ホワイト シルバー925 シルバー 8号 9号 11号 14号 16号 18号 0.02ct km051",
+  "price": 12900,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tvx7o.72d3yc4a.g00tvx7o.72d3z498/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjewelrysunflower%2Fkm051%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjewelrysunflower%2Fi%2F10014635%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00tvx7o.72d3yc4a.g00tvx7o.72d3z498/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjewelrysunflower%2Fkm051%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/jewelrysunflower/cabinet/picture/nf3/km/km051_01.jpg?_ex=600x600",
+  "shop_name": "ジュエリーサンフラワー",
+  "review_count": 60,
+  "review_average": 4.4,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "細身リングにパヴェを全周あしらったエタニティデザイン。華やかに光り、単体でも重ね付けでも映える万能ジュエリー。婚約・結婚指輪とのセットにも最適な高見えリング km051",
+  "genre_id": "100487",
+  "score": 14.43,
+  "last_seen": "2026-11-28T07:01:14",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/jewelrysunflower/cabinet/picture/nf3/km/km051_01.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/jewelrysunflower/cabinet/20230604_gift.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/jewelrysunflower/cabinet/picture/all/km/km051_04.jpg?_ex=600x600"
+  ],
+  "caption": "よく一緒に購入されている商品 モアサナイト ピアス 0.1ct 0.3ct3,500円～ ネックレス 1Carat モアサナイト シル15,900円 ブレスレット キュービックジルコニア ホワイ3,990円商品説明文シリーズ名Elegant-Line型番km051商品名シルバー925 リングサイズ0.02ct 8号 9号 11号 14号 16号 18号素材金属部分：シルバー925宝石部分：モアサナイトカラー金属部分：シルバー宝石部分：ホワイトギフトシーン様々なギフトとして喜ばれます。贈り物だけでなく自分にご褒美も！彼女 妻 自分用 プレゼント 誕生日 入学祝い 卒業祝い 卒業記念 退職祝い 就職祝い 栄転 昇進祝い 周年記念 創立記念 母の日 ホワイトデー バレンタインデー クリスマス Xmas 敬老の日 出産祝い 内祝い 結婚祝い 結婚記念 還暦祝い お見舞い 新築祝い 成人式 パーティー 注意点色について：モニターの発色の具合によって、実際のものと色が異なる場合がございます。店内サーチ用 関連キーワードリングリング 指輪 レディース プチプラ おしゃれ かわいい おすすめ プレゼント アクセサリー アメリカサイズ usサイズ 薬指 人差し指 重ね付け 韓国 セール 人気 ファッション 普段使い ランキング ラッピング ギフト 楽天 安い 激安 女性 ジュエリー ビジュー 大学生 20代 30代 40代 50代 60代 ジュエリーサンフラワー サンフラワー ノンブランド ringシルバー925シルバー925 スターリングシルバー 銀 レディース 刻印 プチプラ 店舗 ショップ ニッケルフリー ノンニッケル 鉛フリー 金属アレルギー対応 アクセサリー ジュエリー 韓国 軽い 柔らかい 人気 楽天 安い 激安 silver925モアサナイトモアサナイト モアッサナイト アクセ"
+ },
+ "threenine:10000375": {
+  "first_seen": "2026-11-28T07:01:14",
+  "themes": [
+   {
+    "date": "2026-11-28",
+    "slot": "morning",
+    "theme": "クリスマス（26日後） × 子育て世帯のママ・パパ",
+    "persona": "mama",
+    "event_type": "gift"
+   }
+  ],
+  "item_code": "threenine:10000375",
+  "name": "≪ 汗・水に強い》 ◣ つけっぱなし ok ◥【7冠1位 評価4.76点】 フープピアス 金属アレルギー ピアス 小さめ 大きめ ボディピアス 18G 20G フープ かわいい セカンドピアス サージカルステンレス 小さいピアス 医療用 引っかからない 付けっぱなしピアス 定番",
+  "price": 1000,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00s83do.72d3y082.g00s83do.72d3zedc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fthreenine%2Fspu018%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fthreenine%2Fi%2F10000375%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00s83do.72d3y082.g00s83do.72d3zedc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fthreenine%2Fspu018%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/threenine/cabinet/spu03/001-16.jpg?_ex=600x600",
+  "shop_name": "【公式】スリーナインストア",
+  "review_count": 3240,
+  "review_average": 4.75,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "【かぶれない 満足度98% 金属アレルギーピアス】 【タオルに引っ掛からない】 【錆びないピアス お風呂 スポーツ 】 【メンズ レディース】【送料無料】【片耳1個売り】",
+  "genre_id": "111061",
+  "score": 14.37,
+  "last_seen": "2026-11-28T07:01:14",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/threenine/cabinet/spu03/001-16.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/threenine/cabinet/spu03/30.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/threenine/cabinet/spu03/002-01.jpg?_ex=600x600"
+  ],
+  "caption": "◆Item Info【片耳 ワンタッチリング の キャッチレスピアス】 片耳用で気軽に使える、ワンタッチ式のキャッチレスフープピアスです。 シンプルなリングデザインなので、普段使いはもちろん、きれいめコーデやオフィススタイルにも自然になじみます。 通常のファッションピアスのように使いやすい20Gも新登場。 細めのピアスに慣れている方にも取り入れやすく、初めてのボディピアスにもおすすめです。 素材はサージカルステンレスを使用しており、錆びにくく、お手入れしやすいのも魅力。 つけっぱなしピアスをお探しの方にも人気の素材です。 金属アレルギーが気になる方は、比較的お試しいただきやすいシルバーカラーがおすすめです。 18K、14K、プラチナ、ホワイトゴールド（WG）などをお使いの方や、ニッケルフリー・チタン素材をお探しの方からもご好評をいただいております。 キャッチいらずで着脱しやすく、片耳用なのでお試しにもぴったり。 シンプルで長く使いやすいフープピアスです。 SPEC (スペック) SIZE ゲージ : 18G(1.0mm)【新サイズ】 20G(0.8mm) リングサイズ 装着部分の内径(ポスト) : 約 6mm リングの内径 約 7mm 10mm 12mm 16mm 20mm カラー シルバー イエロー ゴールド ローズゴールドブラック 素材 サージカルステンレス 316L ※商品補足 ※オススメ部位⇒サイズにご注意下さい 軟骨 耳たぶ イヤーロブ / へリックス /アンテナヘリックス / フォワードヘリックス etc 【関連スタイル】 ボディピ ボディピアス18g ボディピアス20g アレルギー対応 18GA 18ゲージ 16G ヘリックス 20g チタンピアス ファッションピアス ノンアレルギー フォーマル セグメントリング ボディーピアス セカンドピアス 中折れピアス "
+ },
+ "abaskdesign:10001748": {
+  "first_seen": "2026-11-28T07:01:14",
+  "themes": [
+   {
+    "date": "2026-11-28",
+    "slot": "morning",
+    "theme": "クリスマス（26日後） × 子育て世帯のママ・パパ",
+    "persona": "mama",
+    "event_type": "gift"
+   }
+  ],
+  "item_code": "abaskdesign:10001748",
+  "name": "【楽天ランキング1位獲得】リング スパイク リング 指輪 レディース ニッケルフリー 高見え 上品 大人可愛い 高級感 12号相当 16号相当 太め 個性派 おしゃれ 重ね付け 大ぶり ブラント リング トレンド 普段使い",
+  "price": 2200,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00ta8ro.72d3y673.g00ta8ro.72d3zd14/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fabaskdesign%2F20042528%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fabaskdesign%2Fi%2F10001748%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00ta8ro.72d3y673.g00ta8ro.72d3zd14/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fabaskdesign%2F20042528%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/abaskdesign/cabinet/12258870/12814045/2528_image2.jpg?_ex=600x600",
+  "shop_name": "abaskdesign アバスクデザイン",
+  "review_count": 573,
+  "review_average": 4.5,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "★新サイズ19-20号登場★リング 指輪 レディース アクセサリー アクセ ファッション 指輪 プレゼント ギフト アクセサリー リング 12号相当 ブランド リング 大人気リング カジュアル",
+  "genre_id": "100487",
+  "score": 13.99,
+  "last_seen": "2026-11-28T07:01:14",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/abaskdesign/cabinet/12258870/12814045/2528_image2.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/abaskdesign/cabinet/biiino/award/20042565aba829a6.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/abaskdesign/cabinet/biiino/item/main-image-5/20260225154536_3.jpg?_ex=600x600"
+  ],
+  "caption": "アイテム説明個性的でスタッズデザインが魅力の、スパイクモチーフリング。 存在感のある立体的なフォルムが指元を印象的に見せ、コーディネートのアクセントにぴったりのアイテムですサイズNEWサイズ登場！ ご要望の多かった小さいと大きいサイズを追加しました！ サイズ展開 ・9～10号相当【NEW】 ・12～13号相当 ・16～17号相当 ・19〜20号相当【NEW】 リング幅 約6mm ※多少前後する場合がございます。 重量 約4.5g素材銅ベース（18Kメッキ／ニッケルフリー） ※メッキ製品のため、水分・汗・摩擦により変色する場合がございます。 ※ニッケルフリーですが、すべての方にアレルギー反応が起きないことを保証するものではありません。注意事項■使用中についた皮脂や汗、水分によってそのままにしておくと変色する場合がございます。 こまめに拭くと改善されますのでお試しください。 ■製造・輸送時についた微細なキズや、ゆがみ、メッキの塗装ムラが見られる場合がございます。予めご了承ください。 ■アレルギーの原因はさまざまです。すべての方にアレルギーが起きないことをお約束するものではありません。予めご了承くださいませ。 またアレルギーが出た場合は使用をお控え頂くようにお願いいたします。 ■撮影環境によりスマートフォン、パソコンなどの画面上と実物では多少色味が異なる場合がございます。 ■商品の特性上、色や形に多少の個体差がございますので予めご了承ください。＼シンプルアクセサリーひとつで日常がちょっとだけ楽しくなる／存在感のあるスパイクリングで、ゴールドリング・シルバーリングともにコーディネートアクセントにおすすめです。シンプルな装いにこそ映える主役級リング。コーディネートのアクセントにぴったりがんばる自分へのご褒美や、ちょっとしたギフトにも最適です。クールなシルバーで大人の遊び心を。視線を集"
  }
 }
