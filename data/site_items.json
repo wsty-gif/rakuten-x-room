@@ -15311,6 +15311,13 @@
     "theme": "ブラックフライデー（開催中） × 30代女性（暮らし・時短・コスパ）",
     "persona": "30s_woman",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-11-27",
+    "slot": "night",
+    "theme": "ブラックフライデー（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "wwpc:10064892",
@@ -15320,20 +15327,22 @@
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00pt32o.72d3ya19.g00pt32o.72d3z295/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwwpc%2F3182550901215%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/wwpc/cabinet/215/3182550901215.jpg?_ex=600x600",
   "shop_name": "楽天24 どうぶつ医療館",
-  "review_count": 2926,
+  "review_count": 2927,
   "review_average": 4.66,
   "affiliate_rate": 4.0,
   "point_rate": 1,
   "catchcopy": "ロイヤルカナン療法食 / ロイヤルカナン 猫用 ユリナリー S／O オルファクトリー ライト(フィッシュテイスト)",
   "genre_id": "404149",
-  "score": 11.53,
-  "last_seen": "2026-11-26T20:15:57",
+  "score": 17.13,
+  "last_seen": "2026-11-27T20:16:05",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/wwpc/cabinet/215/3182550901215.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/wwpc/cabinet/215/3182550901215-2.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/wwpc/cabinet/215/3182550901215-3.jpg?_ex=600x600"
   ],
-  "caption": "お店TOP＞ロイヤルカナン 猫用 ユリナリー S／O オルファクトリー ライト(フィッシュテイスト) (4kg)お一人様12個まで。【ロイヤルカナン 猫用 ユリナリー S／O オルファクトリー ライト(フィッシュテイスト)の商品詳細】●この商品は、特別療法食です。特別療法食とは、犬猫の病気（各種特定した疾患）に対して考慮された獣医の処方により開発されたペットフードです。この商品は獣医師の指導が必要な商品となります。かかりつけ動物病院登録サイト（外部サイト）にログインの上、ロイヤルカナン食事療法食を与えるペットとかかりつけ動物病院をご選択ください。また、商品販売に必要な範囲で、「かかりつけ動物病院登録サイト」の運営元である共立製薬株式会社と楽天グループ株式会社間で認証情報や購買情報などのお客様の情報を共有いたします。●猫用 ユリナリーS/O オルファクトリー ライト は、下部尿路疾患（ストルバイト結石症およびシュウ酸カルシウム結石症）の猫に給与することを目的として、特別に調製された食事療法食です。この食事は、マグネシウムなどのミネラル成分を調整しています。また食欲をそそる独自の香り組成に調整し、さらに体重過多に配慮してカロリー密度を低く調整しています。【ロイヤルカナン 猫用 ユリナリー S／O オルファクトリー ライト(フィッシュテイスト)の原材料】魚肉、米、コーンフラワー、植物性繊維、超高消化性小麦タンパク（消化率90％以上）、動物性油脂、コーングルテン、加水分解タンパク（鶏、七面鳥）、大豆油、フラクトオリゴ糖、マリーゴールドエキス（ルテイン源）、アミノ酸類（DL-メチオニン、タウリン、L-カルニチン）、ミネラル類（Cl、K、Na、Ca、P、Zn、Mn、Fe、Cu、I）、ビタミン類（コリン、E、ナイアシン、B12、パントテン酸カルシウム、ビオチン、B6、A、B2、B1、D3"
+  "caption": "お店TOP＞ロイヤルカナン 猫用 ユリナリー S／O オルファクトリー ライト(フィッシュテイスト) (4kg)お一人様12個まで。【ロイヤルカナン 猫用 ユリナリー S／O オルファクトリー ライト(フィッシュテイスト)の商品詳細】●この商品は、特別療法食です。特別療法食とは、犬猫の病気（各種特定した疾患）に対して考慮された獣医の処方により開発されたペットフードです。この商品は獣医師の指導が必要な商品となります。かかりつけ動物病院登録サイト（外部サイト）にログインの上、ロイヤルカナン食事療法食を与えるペットとかかりつけ動物病院をご選択ください。また、商品販売に必要な範囲で、「かかりつけ動物病院登録サイト」の運営元である共立製薬株式会社と楽天グループ株式会社間で認証情報や購買情報などのお客様の情報を共有いたします。●猫用 ユリナリーS/O オルファクトリー ライト は、下部尿路疾患（ストルバイト結石症およびシュウ酸カルシウム結石症）の猫に給与することを目的として、特別に調製された食事療法食です。この食事は、マグネシウムなどのミネラル成分を調整しています。また食欲をそそる独自の香り組成に調整し、さらに体重過多に配慮してカロリー密度を低く調整しています。【ロイヤルカナン 猫用 ユリナリー S／O オルファクトリー ライト(フィッシュテイスト)の原材料】魚肉、米、コーンフラワー、植物性繊維、超高消化性小麦タンパク（消化率90％以上）、動物性油脂、コーングルテン、加水分解タンパク（鶏、七面鳥）、大豆油、フラクトオリゴ糖、マリーゴールドエキス（ルテイン源）、アミノ酸類（DL-メチオニン、タウリン、L-カルニチン）、ミネラル類（Cl、K、Na、Ca、P、Zn、Mn、Fe、Cu、I）、ビタミン類（コリン、E、ナイアシン、B12、パントテン酸カルシウム、ビオチン、B6、A、B2、B1、D3",
+  "posted_text": "#PR セール価格は期間中だけ。迷うなら今\nロイヤルカナン 猫用 ユリナリー\n★4.66・レビュー2,927件\n9,198円\n#楽天購入品\n▶ROOMはプロフから",
+  "posted_at": "2026-11-27T20:16:05"
  },
  "autoway:10313711": {
   "first_seen": "2026-09-27T12:57:14",
@@ -43778,23 +43787,30 @@
     "theme": "ブラックフライデー（開催中） × 子育て世帯のママ・パパ",
     "persona": "mama",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-11-27",
+    "slot": "night",
+    "theme": "ブラックフライデー（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "quads:10000016",
-  "name": "【QUADS公式】[15,180円→11,800円~] ワイド セラミックヒーター 人感/室温センサー付 省エネ設計 超薄型 大風量 1200W 室温センサー 光る人感センサー リモコン付 スポット暖房 エコ 速暖 ストーブ 電気ストーブ クワッズ公式 【メーカー保証付き】",
-  "price": 11800,
+  "name": "【QUADS公式】[15,180円→12,800円~] ワイド セラミックヒーター 人感/室温センサー付 省エネ設計 超薄型 大風量 1200W 室温センサー 光る人感センサー リモコン付 スポット暖房 エコ 速暖 ストーブ 電気ストーブ クワッズ公式 【メーカー保証付き】",
+  "price": 12800,
   "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00ugo6o.72d3y0a5.g00ugo6o.72d3zaf2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fquads%2Fqs324%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fquads%2Fi%2F10000016%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00ugo6o.72d3y0a5.g00ugo6o.72d3zaf2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fquads%2Fqs324%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/quads/cabinet/2025aw/top_jpg/qs424_top_tmb_2.jpg?_ex=600x600",
   "shop_name": "QUADS公式楽天市場店",
-  "review_count": 778,
+  "review_count": 781,
   "review_average": 4.57,
   "affiliate_rate": 2.0,
   "point_rate": 1,
   "catchcopy": "【1年保証】省エネ大風量スリムパネルセラミックヒーター WIDE ENA HEAT ワイドエナヒート 電気ヒーター ファンヒーター 超薄型12cm 省スペース 人感センサー タイマー 室温設定18～30℃",
   "genre_id": "212277",
-  "score": 12.2,
-  "last_seen": "2026-11-27T12:01:10",
+  "score": 12.8,
+  "last_seen": "2026-11-27T20:16:05",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/quads/cabinet/2025aw/top_jpg/qs424_top_tmb_2.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/quads/cabinet/2025aw/qs424/12047166/qs424_tmb_02.jpg?_ex=600x600",
@@ -46440,6 +46456,13 @@
     "theme": "ブラックフライデー（開催中） × 子育て世帯のママ・パパ",
     "persona": "mama",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-11-27",
+    "slot": "night",
+    "theme": "ブラックフライデー（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "cloud-nine:10000108",
@@ -46455,8 +46478,8 @@
   "point_rate": 1,
   "catchcopy": "無線LAN(Wi-Fi)接続に対応したコンパクトプリンター この1台でプリント、コピー、スキャンが可能です。 さらにスマホからプリントもできます。",
   "genre_id": "110093",
-  "score": 13.43,
-  "last_seen": "2026-11-27T12:01:10",
+  "score": 14.83,
+  "last_seen": "2026-11-27T20:16:05",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/cloud-nine/cabinet/13851896/imgrc0119448238.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/cloud-nine/cabinet/09935082/ew056-ranking1-yoko1.jpg?_ex=600x600",
@@ -47031,6 +47054,13 @@
     "theme": "ブラックフライデー（4日後） × 20代女性（自分磨き・プチプラ・映え）",
     "persona": "20s_woman",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-11-27",
+    "slot": "night",
+    "theme": "ブラックフライデー（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "officetrust:10000269",
@@ -47046,8 +47076,8 @@
   "point_rate": 1,
   "catchcopy": "『お届け先の氏名に必ず法人名を記載ください』高速及び大量コピー用に設計された高品質コピー用紙。",
   "genre_id": "303145",
-  "score": 12.53,
-  "last_seen": "2026-11-16T07:01:41",
+  "score": 12.13,
+  "last_seen": "2026-11-27T20:16:05",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/officetrust/cabinet/paper/paper01/014006_1n3.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/officetrust/cabinet/paper/paper01/014006_2.jpg?_ex=600x600",
@@ -48473,23 +48503,30 @@
     "theme": "ブラックフライデー（2日後） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-11-27",
+    "slot": "night",
+    "theme": "ブラックフライデー（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "mycosmeticbox:10000769",
-  "name": "【本気で最安値挑戦中・なくなり次第終了】【1年保証付】Kinujo カールアイロン KINUJO 絹女 〜KINUJO〜 カールアイロン キヌージョ キヌジョ シルクプレート 絹女ヘアアイロン",
-  "price": 17650,
+  "name": "【本気で最安値挑戦中・なくなり次第終了】Kinujo カールアイロン KINUJO 絹女 〜KINUJO〜 カールアイロン キヌージョ キヌジョ シルクプレート 絹女ヘアアイロン",
+  "price": 15700,
   "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00u9wao.72d3ye32.g00u9wao.72d3zae4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmycosmeticbox%2Fknj-kc%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmycosmeticbox%2Fi%2F10000769%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00u9wao.72d3ye32.g00u9wao.72d3zae4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmycosmeticbox%2Fknj-kc%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/mycosmeticbox/cabinet/11105451/kcn03.jpg?_ex=600x600",
   "shop_name": "MyCosmeticBox",
-  "review_count": 175,
+  "review_count": 176,
   "review_average": 4.74,
   "affiliate_rate": 2.0,
   "point_rate": 1,
   "catchcopy": "Kinujo カールアイロン KINUJO 絹女 〜KINUJO〜 カールアイロン キヌージョ キヌジョ シルクプレート",
   "genre_id": "509417",
-  "score": 12.64,
-  "last_seen": "2026-11-18T12:02:00",
+  "score": 13.44,
+  "last_seen": "2026-11-27T20:16:05",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/mycosmeticbox/cabinet/11105451/kcn03.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/mycosmeticbox/cabinet/11105451/kp01.jpg?_ex=600x600",
@@ -50821,23 +50858,30 @@
     "theme": "ブラックフライデー（開催中） × 40代男性（家族・晩酌・車）",
     "persona": "40s_man",
     "event_type": "sale"
+   },
+   {
+    "date": "2026-11-27",
+    "slot": "night",
+    "theme": "ブラックフライデー（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
    }
   ],
   "item_code": "a-price:10828534",
   "name": "＼ランキング1位／ 炊飯器 5合 5合炊き ZOJIRUSHI 象印 NW-VJ10-BA 5.5合 5.5合炊き 極め炊き IH炊飯器 日本製 NW-VK10 の旧モデル 人気 シンプル 純正品 メーカー保証対応 初期不良対応 新生活 メーカー様お取引あり エクプラ特選",
-  "price": 17160,
+  "price": 17420,
   "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qn68o.72d3yc20.g00qn68o.72d3zaac/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fa-price%2F4974305218773%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fa-price%2Fi%2F10828534%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00qn68o.72d3yc20.g00qn68o.72d3zaac/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fa-price%2F4974305218773%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
   "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/a-price/cabinet/mailmaga/08814302/12654252/4974305218773.jpg?_ex=600x600",
   "shop_name": "XPRICE楽天市場店",
-  "review_count": 1354,
+  "review_count": 1360,
   "review_average": 4.54,
   "affiliate_rate": 2.0,
   "point_rate": 1,
   "catchcopy": "強火で炊き続け、うまみを引き出す「豪熱沸とうIH」2LN0022",
   "genre_id": "204586",
-  "score": 12.67,
-  "last_seen": "2026-11-21T20:16:18",
+  "score": 13.87,
+  "last_seen": "2026-11-27T20:16:05",
   "image_urls": [
    "https://thumbnail.image.rakuten.co.jp/@0_mall/a-price/cabinet/mailmaga/08814302/12654252/4974305218773.jpg?_ex=600x600",
    "https://thumbnail.image.rakuten.co.jp/@0_mall/a-price/cabinet/mailmaga/08814302/12654252/4974305218773.jpg?_ex=600x600",
@@ -53829,5 +53873,203 @@
    "https://thumbnail.image.rakuten.co.jp/@0_mall/cookware-carote/cabinet/14074059/14074061/imgrc0121840051.jpg?_ex=600x600"
   ],
   "caption": "&#127808;【健康素材・安全安心】体に悪影響を与える PFOA・PFOS・鉛・カドミウムなどを一切使用しません。人間と地球環境に優しい材料が使われています &#128207;【10点セット内容】鍋18cm/0.41kg、卵焼き フライパン/0.39kg、フライパン 26cm/0.59kg、炒め鍋 26cm/0.58kg ガラス蓋18cm・26cm、シール蓋18cm、専用取っ手×1本、収納シート2枚、梱包重量(約):3.80kg &#128207;【6点セット内容】鍋18cm/0.41kg(蓋付き)、卵焼きフライパン/0.39kg、フライパン 26cm/0.59kg、専用取っ手×1本、収納シート1枚 &#127859;【快適な調理体験】マーブルコートをしているため、焦げ付きにくくスムーズに調理できます。調理後もスポンジで軽く拭くだけで、汚れもスルッと落ちます。ベージュの素材に赤い点々が散りばめられています。 &#127859;【軽量化に工夫】本体はアルミダイキャストで作られ、変形に強くて耐久性に優れています。軽量設計されたため、お調理の時もお手入れの時も非常に使いやすく手が疲れにくいです &#128077;【着脱式専用取っ手】簡単に取り外せる専用取っ手、いろんなシーンに合わせて便利に使えます。取っ手が邪魔にならないため、スペースが限られた場所にも収納できます。調理後は、鍋敷きを置いた食卓に出すことも可能です &#127774;IH(100V・200V)、 ガスコンロ、 ラジエンヒーター 、エンクローヒーター 、シーズヒーター等オール熱源対応；※電子レンジ＆食洗機非対応 &#128295;【1年保証】保証期間は、お買い上げ後1年間です。注意事項に従った使用状態で保証期間内に故障した場合には、返品・返金・交換でご対応させていただきます。キッチンツールは対象外です。 【取っ手"
+ },
+ "liquorsbest:10033363": {
+  "first_seen": "2026-11-27T20:16:05",
+  "themes": [
+   {
+    "date": "2026-11-27",
+    "slot": "night",
+    "theme": "ブラックフライデー（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "liquorsbest:10033363",
+  "name": "ウイスキーくじ第71弾！373口11/26(木)17時開始！11/27(金)出荷！【特賞】山崎・白州18年x各1口、響21年x1口、響100周年x1口【1等】桜尾SC、山崎12年・白州12年x各3口、響JH・山崎NV各x48口・白州NVx24口【2等】桜尾・戸河内・竹鶴各NVx80口",
+  "price": 6600,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rrb5o.72d3y96a.g00rrb5o.72d3z273/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fliquorsbest%2F999999999999501wkuji%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fliquorsbest%2Fi%2F10033363%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00rrb5o.72d3y96a.g00rrb5o.72d3z273/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fliquorsbest%2F999999999999501wkuji%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/liquorsbest/cabinet/13075893/kuji1126-02.jpg?_ex=600x600",
+  "shop_name": "リカーズベスト",
+  "review_count": 2089,
+  "review_average": 4.72,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "▼高確率ウイスキーくじ！ウイスキーくじ！第71弾！373口！",
+  "genre_id": "567655",
+  "score": 16.59,
+  "last_seen": "2026-11-27T20:16:05",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/liquorsbest/cabinet/13075893/kuji1126-02.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/liquorsbest/cabinet/13075893/hibki100-1.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/liquorsbest/cabinet/13075893/hibiki21y.jpg?_ex=600x600"
+  ],
+  "caption": "リカーズベストのウイスキーくじ！全て正規品 お願いします！特賞の方は商品レビューを写真付きでご報告くださいませ！！ 【当店のウイスキーくじの公平性について】 当店では、すべてのお客様に公平な条件でウイスキーくじをお楽しみいただけるよう、事前に商品をランダムに梱包し、その後に送り状を貼付する方式を採用しております。 そのため、お客様の購入回数や過去の当選履歴などによって、当選商品を意図的に選別したり、当選確率を変更したりすることは一切ございません。 各企画では、販売口数および各等級の当選本数をあらかじめ設定しておりますが、抽選の性質上、上位賞が連続して当選する場合もあれば、末等が連続する場合もございます。 また、配送連絡メールの配信時刻と当選商品の決定には関係がなく、メール配信時に当選商品を変更することもございません。 当店では、お客様との信頼関係を何よりも大切にしており、意図的な当選操作や商品のすり替えなどの不正行為は一切行っておりません。 これからご購入を検討されているお客様にも安心してお楽しみいただけるよう、今後も公平かつ誠実な企画運営を継続してまいります。 ★☆特賞　山崎18年　カートン入り　1口☆★ ★☆特賞　白州18年　カートン入り　1口☆★ ★☆特賞　響100周年　カートン入り　1口☆★ ★☆特賞　響21年　カートン入り　1口☆★ 【1等】 桜尾シェリーカスク　カートン入り　3口 山崎12年　カートン入り　3口 白州12年　カートン入り　3口 響ジャパニーズハーモニー カートン入り　48口 山崎シングルモルト 　カートン入り　48口 白州シングルモルト　カートン入り　24口 【2等】 桜尾　ノンエイジ　カートン入り　80口 戸河内ノンエイジ　カートン入り　80口 竹鶴　ノンエイジ　カートン入り　80口 【注意事項必読下さい】 おひとり様1口限り 1口税込6,60"
+ },
+ "shopjapan:10005789": {
+  "first_seen": "2026-11-27T20:16:05",
+  "themes": [
+   {
+    "date": "2026-11-27",
+    "slot": "night",
+    "theme": "ブラックフライデー（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "shopjapan:10005789",
+  "name": "【楽天1位獲得】ソイリッチ ショップジャパン公式限定特典テレビ放映中！返品保証30日間 正規品 完全豆乳メーカー 豆乳機 豆乳マシーン 豆乳ブレンダー ミキサー ブレンダー ジューサー",
+  "price": 14990,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00ppmmo.72d3y1b0.g00ppmmo.72d3z393/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshopjapan%2Fsoy%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshopjapan%2Fi%2F10005789%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00ppmmo.72d3y1b0.g00ppmmo.72d3z393/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshopjapan%2Fsoy%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/shopjapan/cabinet/soy/main_t_ofc.jpg?_ex=600x600",
+  "shop_name": "ショップジャパン 楽天市場店",
+  "review_count": 1858,
+  "review_average": 4.43,
+  "affiliate_rate": 2.0,
+  "point_rate": 5,
+  "catchcopy": "基本セット自宅で手軽に”大豆まるごと”完全豆乳が作れる！完全豆乳メーカー。",
+  "genre_id": "565076",
+  "score": 16.34,
+  "last_seen": "2026-11-27T20:16:05",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/shopjapan/cabinet/soy/main_t_ofc.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/shopjapan/cabinet/soy/tokuten_1.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/shopjapan/cabinet/soy/tokuten_2.jpg?_ex=600x600"
+  ],
+  "caption": "基本セットソイリッチx1、吸水クロスx1、【プレゼント】乾燥大豆（フクユタカ）200gx1 ＜ソイリッチ＞ セット内容本体x1、ふたx1、電源コードx1、クリーニングブラシx1、計量カップx1、取扱説明書x1 サイズ約 幅160mmx高さ285mmx奥行210mm 重量約 1.8kg 材質ポリプロピレン、ステンレス 等 仕様電源電圧：AC100V 50/60Hz定格消費電力：加熱機能・800W、攪拌機能・210W定格容量：豆乳/スープ/発酵/ミルク/温めモード（加熱）・800ml、ジュースモード（攪拌）・1000ml回転数（無負荷時）：約 15,000回転/分 生産国中国製 保証期間1年 ソイリッチの詳細はこちら＞ ＜お掃除ラクラク吸水クロス＞ セット内容クロス大（青トリミング）x1、クロス中（オレンジトリミング）x2、ミトン（青トリミング）x1 サイズ大：約 25cmx25cm、中：約 20cmx20cm、ミトン（最大）：約 幅20cmx縦23cm 重量約 130g 材質レーヨン、ポリエステル 製造国中国製 お掃除ラクラク吸水クロスの詳細はこちら＞ ＜【プレゼント】乾燥大豆（フクユタカ）200g＞ 内容乾燥大豆1袋 200g 材質乾燥大豆 生産国日本製 ≫ ショップジャパン (ShopJapan) 楽天市場店TOPへ ≫ 低反発マットレス売上金額No.1！抗菌仕様の低反発マットレス トゥルースリーパー プレミアリッチ ≫ 自宅で手軽に作れる完全豆乳メーカー 大豆の栄養も、おいしさも\"まる飲み\" ソイリッチ ≫ 家族も本人も快適な生活を！大きく聞こえて、快適・安心！楽ちんヒアリング ≫ 座って内ももに挟むだけで簡単に内転筋を鍛えられるフィットネスマシン マイキュット ショップジャパン（Shop Japan）は、トゥルースリーパー、ソイリッチ、楽ちんヒアリング、マイキュット等"
+ },
+ "kazamidori:10014034": {
+  "first_seen": "2026-11-27T20:16:05",
+  "themes": [
+   {
+    "date": "2026-11-27",
+    "slot": "night",
+    "theme": "ブラックフライデー（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "kazamidori:10014034",
+  "name": "USBメモリ USB 128GB USB2.0 KIOXIA キオクシア TransMemory U202 キャップ式 ホワイト 海外リテール LU202W128GG4 ◆メ",
+  "price": 2299,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00q2hto.72d3ybbc.g00q2hto.72d3zaa0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkazamidori%2F4582563850224%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkazamidori%2Fi%2F10014034%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00q2hto.72d3ybbc.g00q2hto.72d3zaa0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkazamidori%2F4582563850224%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/kazamidori/cabinet/thum_usb/4582563850224.jpg?_ex=600x600",
+  "shop_name": "風見鶏",
+  "review_count": 440,
+  "review_average": 4.61,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "送料無料 複数購入でまとめ買いクーポンあり 4年連続ショップ・オブ・ザ・イヤー受賞店舗 マイクロSDカード SDカード USBメモリ なら風見鶏へ",
+  "genre_id": "303078",
+  "score": 13.75,
+  "last_seen": "2026-11-27T20:16:05",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/kazamidori/cabinet/thum_usb/4582563850224.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/kazamidori/cabinet/products13/4582563850224_1.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/kazamidori/cabinet/products13/4582563850224_2.jpg?_ex=600x600"
+  ],
+  "caption": "　 バリエーション16GB32GB64GB128GB"
+ },
+ "liquor-boss:10029980": {
+  "first_seen": "2026-11-27T20:16:05",
+  "themes": [
+   {
+    "date": "2026-11-27",
+    "slot": "night",
+    "theme": "ブラックフライデー（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "liquor-boss:10029980",
+  "name": "【送料無料】コカ・コーラ ゼロ ラベルレス PET 500ml×2ケース/48本炭酸飲料 コーラ",
+  "price": 4492,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rryxo.72d3y4c5.g00rryxo.72d3zf38/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fliquor-boss%2F32339c2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fliquor-boss%2Fi%2F10029980%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00rryxo.72d3y4c5.g00rryxo.72d3zf38/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fliquor-boss%2F32339c2%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/liquor-boss/cabinet/261126_4/32339c2.jpg?_ex=600x600",
+  "shop_name": "リカーBOSS 楽天市場店",
+  "review_count": 112,
+  "review_average": 4.65,
+  "affiliate_rate": 4.0,
+  "point_rate": 1,
+  "catchcopy": "リサイクルしやすいコカ・コーラゼロのラベルレスボトル",
+  "genre_id": "506536",
+  "score": 12.68,
+  "last_seen": "2026-11-27T20:16:05",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/liquor-boss/cabinet/261126_4/32339c2.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/liquor-boss/cabinet/syouhingazou2/32339_2.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/liquor-boss/cabinet/syouhingazou2/32339_1.jpg?_ex=600x600"
+  ],
+  "caption": "【内容量】500ml【原材料】炭酸、カラメル色素、酸味料、甘味料（スクラロース、アセスルファムK）、香料、カフェイン【商品特徴】コカ・コーラは、1886年、薬剤師のジョン・S・ペンバートン博士により、米国ジョージア州アトランタで誕生しました。以降120年以上にわたり、国境や文化を越えて世界中の人々に愛されており、その規模は200以上の国や地域に及びます。喉の渇きを癒すだけでなく、ココロとカラダの両方をリフレッシュし、前向きな楽しい気分へとスイッチしてくれます。「コカ・コーラ」ならではの特別な美味しさを、カロリーゼロ・保存料ゼロ・合成香料ゼロで提供しています。またリサイクルしやすいラベルレスボトルです！"
+ },
+ "kobe-beauty-labo:10002650": {
+  "first_seen": "2026-11-27T20:16:05",
+  "themes": [
+   {
+    "date": "2026-11-27",
+    "slot": "night",
+    "theme": "ブラックフライデー（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "kobe-beauty-labo:10002650",
+  "name": "【SALONIA サロニア スムースシャイン ドライヤー】送料無料低温風 ダメージshb 大風量 sms ◆30日間全額返金保証◆ カラープレゼント ギフト 軽量 軽い トラベル dry25 ヘアアイロン 母の日 プレゼント ギフト 女性 slall",
+  "price": 13200,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00r23no.72d3y9ef.g00r23no.72d3z700/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkobe-beauty-labo%2Fsal016%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkobe-beauty-labo%2Fi%2F10002650%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00r23no.72d3y9ef.g00r23no.72d3z700/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkobe-beauty-labo%2Fsal016%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/kobe-beauty-labo/cabinet/1st_thum/sal016.jpg?_ex=600x600",
+  "shop_name": "アンド ハビット",
+  "review_count": 618,
+  "review_average": 4.34,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "新・独自設計で速乾&ダメージケア低温風で速乾だからダメージ軽減 ツヤめくシルク髪へスムースシャインドライヤー 速乾ドライヤー ★速乾ブーストノズル付",
+  "genre_id": "502792",
+  "score": 12.26,
+  "last_seen": "2026-11-27T20:16:05",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/kobe-beauty-labo/cabinet/1st_thum/sal016.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/kobe-beauty-labo/cabinet/salonia_img/thum/13072987/02.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/kobe-beauty-labo/cabinet/salonia_img/thum/13072987/imgrc0110754069.jpg?_ex=600x600"
+  ],
+  "caption": "≫当店からのメールが届かないお客様はこちら ≫特定商取引法に基づく表記はこちら 商品名 SALONIA スムースシャインドライヤー 商品区分 家電 商品内容 SALONIA スムースシャインドライヤー： 詳しくはこちら＞＞ PSマーク種類 PSE 届出事業者名 Artemis メーカー名 株式会社I－ne 広告文責 株式会社I－ne 0800-222-2578 ○様々なシーンで利用できます○ プレゼント ギフト 年末年始 母の日 父の日 御中元 お中元 お見舞い 暑中御見舞 残暑御見舞 敬老の日 記念日 節分 卒業 卒園 バレンタインデー ホワイトデー ひな祭り お花見 ハロウィン クリスマス 冬ギフト お歳暮 御歳暮御祝 御礼 謝礼 御挨拶 粗品 贈答品 お土産 手土産 贈りもの お返し 引き出物 お祝い 結婚祝い 結婚内祝い 出産祝い 出産内祝い 快気祝い 快気内い プチギフト 七五三 入学式 開店祝い 開業祝い 新築祝い 誕生祝い 入学祝い 就職祝い ○ワード/用途○ SALONIA サロニア さろにあ ドライヤー ヘアドライヤー 速乾 強風 大風量 風量 大風速 時短 マイナスイオン 軽量 軽い コンパクト ターボ 美容師 美髪 メンズ レディース 男性 女性 ジェンダーレス 人気 ランキング おすすめ 温度 おしゃれ 口コミ くせ毛 ツヤ ノズル 冷風 話題 旅行 用 軽量 旅行用 カールドライヤー ドライヤーランキング ドライヤーおすすめ ドライヤー人気 ベストセラー ドライヤー1位 ヘアケア ドライヤーセット ダメージケア 低温 返金保証 メーカー保証 高級ドライヤー コスパ シルク 頭皮ケア ダメージ毛 美容家電 ヘアサロン 静音 ギフト 家庭 サラサラ 髪に優しい 誕生日 スピーディー ヘアアイロン ストレートアイロン アイロン 24mm ストレート ツヤ"
+ },
+ "sanwadirect:10090892": {
+  "first_seen": "2026-11-27T20:16:05",
+  "themes": [
+   {
+    "date": "2026-11-27",
+    "slot": "night",
+    "theme": "ブラックフライデー（開催中） × 40代男性（家族・晩酌・車）",
+    "persona": "40s_man",
+    "event_type": "sale"
+   }
+  ],
+  "item_code": "sanwadirect:10090892",
+  "name": "【楽天1位受賞】 マウス ワイヤレスマウス ワイヤレス パソコンマウス 無線 5ボタン DPI切替 カウント数切り替え 右利き 左利き 多ボタンマウス ブルーLEDセンサー 戻る進む カウント切り替え 左右対称 コスパ最強",
+  "price": 1480,
+  "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00pmmbo.72d3ybc6.g00pmmbo.72d3ze70/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsanwadirect%2F400-ma097%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsanwadirect%2Fi%2F10090892%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00pmmbo.72d3ybc6.g00pmmbo.72d3ze70/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsanwadirect%2F400-ma097%2F&rafcid=wsc_i_ra_f52cf5c4-0f13-45a0-abfd-622fb73cc6d2",
+  "image_url": "https://thumbnail.image.rakuten.co.jp/@0_mall/sanwadirect/cabinet/event/1119_bfd/main/400-ma097.jpg?_ex=600x600",
+  "shop_name": "サンワダイレクト楽天市場店",
+  "review_count": 3465,
+  "review_average": 4.4,
+  "affiliate_rate": 2.0,
+  "point_rate": 1,
+  "catchcopy": "[400-MA097]【サンワダイレクト限定品】【送料無料対象品】",
+  "genre_id": "565170",
+  "score": 12.16,
+  "last_seen": "2026-11-27T20:16:05",
+  "image_urls": [
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/sanwadirect/cabinet/event/1119_bfd/main/400-ma097.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/sanwadirect/cabinet/event/1119_bfd/aaaa/400-ma097.jpg?_ex=600x600",
+   "https://thumbnail.image.rakuten.co.jp/@0_mall/sanwadirect/cabinet/rank2026/400-ma097_r1.jpg?_ex=600x600"
+  ],
+  "caption": "スタッフが実際に使ってみました試用レポート【使ってみました】コスパ最強マウス今回はコスパ抜群とご好評いただいている、当店人気No1マウスをご紹介します！最初に、このマウスがなぜ人気なのかということを説明しますと.... [続きを見る]商品詳細読み取り精度の高いブルーLEDセンサー採用。左右対称形状でくせのない形状。マウスのサイドには戻る・進むボタンを搭載。用途に合わせて3段階のカウント切替可能。仕様■カラー：通常タイプブラック（400-MA097BK）・レッド（400-MA097R）・ガンメタリック（400-MA097GM）・ブルー（400-MA097BL）静音タイプブラック（400-MAWS097BK）・ブルー（400-MAWS097BL）・ガンメタリック（400-MAWS097GM）・レッド（400-MAWS097R）※静音タイプは5ボタン全て静音です。■製品サイズ：マウス/約W62×D109.5×H40mm、レシーバー/約W14.1×D18.5×H6mm■製品重量：マウス/約67g（電池含まず）、レシーバー/約2g■ワイヤレス方式：2.4GHz　RF電波方式※マウスとレシーバー間のIDは固定です。■通信範囲：木製机（非磁性体）/半径約10m　スチール机（磁性体）/半径約2m■インターフェース：USB HID仕様バージョン1.1準拠　※USB3.0/2.0インターフェースでも使用できます。■コネクタ形状：USBコネクタ（Aタイプ）■分解能：800・1200・1600カウント/インチ■読み取り方式：ブルーLEDセンサー方式■ボタン：2ボタン、2サイドボタン、ホイール（スクロール）ボタン、カウント切替えボタン■付属品：小型レシーバー×1、テスト用単3電池×1本、保証書兼取扱説明書■電池性能：連続作動時間/約130時間、連続待機時間/約5416時間、使用可能日数/約2ヶ月間※"
  }
 }
